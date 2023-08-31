@@ -1,0 +1,15 @@
+(b0 / "box"
+	:PRECONDITION (b1 / "box"
+		:member (s6 / drive.v.02
+			:Theme (s5 / person.n.01
+				:Sub (c3 / "speaker"))
+			:Time (s7 / time.n.08
+				:EQU (c4 / "now"))))
+	:member (s2 / arrive.v.01
+		:Theme (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Duration (s4 / hour.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "3")))))

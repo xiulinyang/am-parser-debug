@@ -1,0 +1,16 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / male.n.02
+				:Name (c2 / "Mitt Romney")
+				:EQU (s3 / entity.n.01)))
+		:NEGATION (b3 / "box"
+			:member (s5 / male.n.02
+				:Name (c3 / "Barack Obama")
+				:EQU s3)))
+	:member (s2 / support.v.03
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Experiencer (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Stimulus s3))

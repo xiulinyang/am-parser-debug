@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s1 / move.v.02
+				:Agent (s0 / female.n.02
+					:Name (c0 / "Nancy")
+					:EQU-of (s3 / female.n.02))
+				:Theme (s2 / desk.n.01)))))

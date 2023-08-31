@@ -1,0 +1,4 @@
+(b0 / "box"
+	:member (s0 / event.v.01
+		:Participant (s1 / male.n.02
+			:Name (c0 / "Andrew Conway"))))

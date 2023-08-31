@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':POSSIBILITY', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':member', 's1')
+('s1', ':instance', 'do.v.02')
+('s1', ':Agent', 's0')
+('s0', ':instance', 'person.n.01')
+('s0', ':Sub', 'c0')
+('c0', ':instance', '"speaker"')
+('s1', ':Theme', 's2')
+('s2', ':instance', 'entity.n.01')
+('s2', ':Attribute', 's3')
+('s3', ':instance', 'big.a.02')
+tokenized sentence:START We could do something big .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 2, "node_id": "b1"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 4, "node_id": "s2"}, {"token_id": 5, "node_id": "s3"}]

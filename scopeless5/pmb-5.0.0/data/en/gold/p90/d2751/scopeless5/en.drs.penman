@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / hooked.a.02
+		:Experiencer (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Stimulus (s3 / software.n.01
+			:Name (c1 / "Farmville"))))

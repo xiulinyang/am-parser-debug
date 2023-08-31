@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / pass_away.v.01
+		:Patient (s0 / man.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s4 / time.n.08
+			:TAB (s3 / hour.n.01
+				:Quantity (c1 / "-")
+				:TAB (c2 / "now")))))

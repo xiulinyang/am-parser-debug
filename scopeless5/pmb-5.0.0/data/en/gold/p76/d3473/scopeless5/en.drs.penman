@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / whisper.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Topic (s3 / answer.n.01
+			:Destination (s5 / ear.n.01
+				:Part-of (s4 / person.n.01
+					:EQU (c1 / "speaker"))))))

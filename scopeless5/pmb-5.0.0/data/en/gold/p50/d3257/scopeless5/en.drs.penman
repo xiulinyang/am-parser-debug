@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / married.a.01
+		:Attribute-of (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Duration (s4 / year.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "3")))))

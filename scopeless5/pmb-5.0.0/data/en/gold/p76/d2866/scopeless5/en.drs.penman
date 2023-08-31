@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / glance.v.02
+		:Theme (s0 / bullet.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s4 / helmet.n.01
+			:User (s3 / male.n.02))))

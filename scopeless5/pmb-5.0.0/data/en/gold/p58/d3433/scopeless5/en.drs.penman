@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / replace.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Theme (s3 / tire.n.01
+			:Attribute (s2 / old.a.02))
+		:Co-Theme (s5 / tire.n.01
+			:Attribute (s4 / new.a.01))))

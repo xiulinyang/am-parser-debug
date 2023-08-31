@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / exhausted.a.01
+		:Attribute-of (s0 / person.n.01
+			:Sub (c0 / "speaker")
+			:Experiencer-of (s4 / happy.a.01
+				:Time (s2 / time.n.08
+					:TPR (c2 / "now"))))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))))

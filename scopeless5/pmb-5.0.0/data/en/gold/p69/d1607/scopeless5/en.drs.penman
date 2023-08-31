@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / bear.v.02
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / dog.n.01
+			:Owner (s2 / person.n.01
+				:EQU (c2 / "hearer")))))

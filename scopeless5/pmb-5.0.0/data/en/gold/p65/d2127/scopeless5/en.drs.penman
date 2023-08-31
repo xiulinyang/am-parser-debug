@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / naked.a.01
+				:Attribute-of (s1 / entity.n.01
+					:Sub-of (s0 / person.n.01
+						:EQU-of (s4 / terra_incognita.n.01
+							:Quantity (c1 / "2"))))
+				:Time (s2 / time.n.08
+					:TPR (c0 / "now"))))))

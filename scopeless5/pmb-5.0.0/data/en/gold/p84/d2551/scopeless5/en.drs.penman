@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s1 / do_away_with.v.01
+			:Agent (s0 / person.n.01
+				:Sub (c0 / "speaker"))
+			:Theme (s2 / death_penalty.n.01))))

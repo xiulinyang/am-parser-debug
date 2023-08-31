@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s4 / hold.v.03
+		:Theme (s1 / election.n.01
+			:Order (c0 / "1")
+			:Location (s2 / country.n.02
+				:Name (c1 / "Iraq"))
+			:Attribute (s0 / free.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))
+		:Time (s5 / time.n.08
+			:MonthOfYear (c3 / "1")
+			:EQU (s6 / time.n.08
+				:YearOfCentury (c4 / "2005")))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / devour.v.04
+		:Agent (s1 / man.n.01
+			:Attribute (s0 / starving.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / food.n.01)))

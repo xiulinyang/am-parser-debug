@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / take_place.v.01
+		:Theme (s0 / war.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:EQU (s3 / entity.n.01)
+		:Time (s6 / time.n.08
+			:TAB (s5 / year.n.01
+				:Quantity (s4 / quantity.n.01
+					:EQU (c1 / "45"))
+				:TAB (c2 / "now")))))

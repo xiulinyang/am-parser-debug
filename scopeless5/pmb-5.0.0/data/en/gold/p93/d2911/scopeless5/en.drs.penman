@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / torpedo.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / enemy.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s5 / ship.n.01
+			:User (s4 / person.n.01
+				:Sub (c1 / "speaker")))))

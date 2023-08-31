@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / abound.v.02
+		:Location (s0 / lake.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / entity.n.01
+			:Instance-of (s5 / fish.n.01)
+			:Attribute (s3 / various.a.01))))

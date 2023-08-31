@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / leave.v.01
+		:Manner (s0 / all_at_once.r.02)
+		:Theme (s1 / ship.n.01)
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s4 / pier.n.01)))

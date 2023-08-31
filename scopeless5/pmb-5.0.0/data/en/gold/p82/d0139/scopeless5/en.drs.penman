@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / attach.v.01
+		:Theme (s0 / card.n.03)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s3 / gift.n.01)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / drop.v.02
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1945"))
+		:Theme (s1 / atomic_bomb.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s4 / city.n.01
+			:Name (c2 / "Hiroshima"))))

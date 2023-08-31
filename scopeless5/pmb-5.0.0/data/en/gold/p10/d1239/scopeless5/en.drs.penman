@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / criticize.v.01
+		:Agent (s0 / alliance.n.03
+			:Name (c0 / "HBV Union"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / company.n.01
+			:Name (c2 / "Deutsche Bank"))))

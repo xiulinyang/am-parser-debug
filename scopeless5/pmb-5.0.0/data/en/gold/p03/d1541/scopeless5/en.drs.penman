@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / run.v.13
+		:Theme (s0 / lawn_mower.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Instrument (s3 / petrol.n.01)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / wrap.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / sandwich.n.01
+			:User (s3 / female.n.02)
+			:Destination (s6 / wrap.n.03
+				:MadeOf (s5 / plastic.n.01)))))

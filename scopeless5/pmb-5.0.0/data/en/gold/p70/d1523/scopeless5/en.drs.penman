@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / kill.v.01
+		:Patient (s1 / person.n.01
+			:Role (s2 / wife.n.01
+				:Of (s0 / male.n.02)))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Causer (s5 / accident.n.01)))

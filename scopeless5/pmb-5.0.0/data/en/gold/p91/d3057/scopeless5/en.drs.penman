@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / have.v.02
+		:Pivot (s0 / hamster.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / cheek.n.01
+			:Theme-of (s3 / stuffed.a.01))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s5 / walk.v.01
+			:Theme (s3 / person.n.01
+				:Sub (c1 / "speaker"))
+			:Time (s4 / time.n.08
+				:TSU (c2 / "now"))))
+	:member (s1 / break_down.v.04
+		:Patient (s0 / car.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

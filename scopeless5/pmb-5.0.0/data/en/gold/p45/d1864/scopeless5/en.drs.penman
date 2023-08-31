@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / cold.a.01
+		:Attribute-of (s1 / hand.n.01
+			:Part-of (s0 / person.n.01
+				:EQU (c0 / "hearer")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s3 / as.r.01
+			:Theme s1
+			:Co-Theme (s5 / ice.n.01))))

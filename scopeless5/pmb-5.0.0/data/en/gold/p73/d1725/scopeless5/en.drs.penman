@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / encourage.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Recipient (s4 / person.n.01
+			:Role (s5 / brother.n.01
+				:Of (s3 / person.n.01
+					:EQU (c2 / "speaker"))))))

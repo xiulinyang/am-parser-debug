@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / red.a.01
+		:Colour-of (s1 / face.n.01
+			:Part-of (s0 / female.n.02))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

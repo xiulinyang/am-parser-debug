@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / quit.v.02
+		:Agent (s1 / male.n.02
+			:Name (c0 / "Andi Brehme")
+			:Title (s0 / mr.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / team.n.01
+			:Name (c2 / "1.FC Kaiserslautern"))))

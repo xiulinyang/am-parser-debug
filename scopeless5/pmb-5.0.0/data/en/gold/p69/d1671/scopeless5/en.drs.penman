@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Theme (s0 / city.n.01
+			:Name (c0 / "Nagoya"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / east.n.05
+			:Of (s4 / city.n.01
+				:Name (c2 / "Kyoto")))))

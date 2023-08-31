@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s6 / succumb.v.01
+		:Time (s0 / time.n.08
+			:DayOfWeek (c0 / "friday")
+			:EQU-of (s2 / time.n.08
+				:DayOfMonth (c2 / "12"))
+			:EQU-of (s1 / time.n.08
+				:MonthOfYear (c1 / "1")))
+		:Agent (s4 / person.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c3 / "3"))
+			:Location (s5 / state.n.01
+				:Name (c4 / "Saskatchewan")))
+		:Time (s7 / time.n.08
+			:TPR (c5 / "now"))
+		:Theme (s8 / storm.n.01)))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / compare.v.03
+		:Agent (s0 / person.n.01
+			:Role (s1 / poet.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / death.n.01)
+		:Co-Patient (s5 / sleep.n.01)))

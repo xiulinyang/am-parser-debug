@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / break.v.02
+		:Patient (s1 / shopping_bag.n.01
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

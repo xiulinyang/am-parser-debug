@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / number.n.02
+			:EQU (c0 / "11"))
+		:Co-Theme (s2 / prime_number.n.01)))

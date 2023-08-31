@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / entity.n.01
+			:EQU (s2 / carry_out.v.01
+				:Theme (s0 / transaction.n.01)
+				:Time (s1 / time.n.08
+					:TPR (c0 / "now"))
+				:Asset (s3 / yen.n.02))
+			:Instrument (s5 / united_states_dollar.n.01))))

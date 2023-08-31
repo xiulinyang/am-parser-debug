@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / stow.v.01
+		:Destination (s0 / ship.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / arm.n.03)))

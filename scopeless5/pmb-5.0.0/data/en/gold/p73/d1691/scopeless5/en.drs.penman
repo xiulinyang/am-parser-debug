@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s7 / comfortable.a.01
+		:Attribute-of (s0 / hotel.n.01
+			:LocationOf (s1 / entity.n.01
+				:EQU (s3 / stay.v.02
+					:Theme (s2 / person.n.01
+						:Sub (c0 / "speaker"))
+					:Time (s4 / time.n.08
+						:TPR (c1 / "now")))))
+		:Time (s5 / time.n.08
+			:TPR (c2 / "now"))
+		:Degree (s6 / very.r.01)))

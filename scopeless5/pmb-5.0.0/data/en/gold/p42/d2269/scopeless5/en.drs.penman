@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / solve.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / male.n.02)
+		:Duration (s3 / minute.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c1 / "10")))
+		:Theme (s5 / problem.n.02)))

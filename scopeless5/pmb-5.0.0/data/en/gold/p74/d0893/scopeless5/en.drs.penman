@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s1 / be.v.01
+				:Theme (s0 / hedgehog.n.02)
+				:Co-Theme (s3 / animal.n.01
+					:Attribute (s2 / small.a.01
+						:Value (c0 / "+")))))))

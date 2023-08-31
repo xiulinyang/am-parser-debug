@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / understand.v.02
+		:Experiencer (s0 / person.n.01
+			:Quantity (c0 / "-")
+			:Role (s1 / scientist.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / theory_of_relativity.n.01)))

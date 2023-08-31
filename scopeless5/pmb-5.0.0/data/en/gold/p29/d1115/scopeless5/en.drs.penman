@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / supply.v.01
+		:Agent (s1 / avant-garde.n.01
+			:Attribute (s0 / old-fashioned.a.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Recipient (s4 / person.n.01
+			:Sub (c1 / "speaker"))
+		:Theme (s6 / argument.n.01
+			:Attribute (s5 / powerful.a.01))))

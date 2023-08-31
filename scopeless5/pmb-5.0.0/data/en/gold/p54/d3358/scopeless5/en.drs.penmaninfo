@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's3')
+('s3', ':instance', 'destroy.v.02')
+('s3', ':Patient', 's0')
+('s0', ':instance', 'hard_disk.n.01')
+('s3', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s3', ':Degree', 's2')
+('s2', ':instance', 'completely.r.01')
+tokenized sentence:START The hard disk was completely destroyed .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 4, "node_id": ["c0", "s1"], "lexical_node": "c0"}, {"token_id": 5, "node_id": "s2"}, {"token_id": 6, "node_id": "s3"}]

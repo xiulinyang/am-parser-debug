@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / cook.v.02
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "hearer")
+			:EQU-of (s4 / person.n.01))
+		:Patient (s3 / entity.n.01)))

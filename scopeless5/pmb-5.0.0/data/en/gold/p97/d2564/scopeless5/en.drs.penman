@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / excite.v.01
+		:Stimulus (s1 / success.n.03
+			:Creator (s0 / person.n.01
+				:EQU (c0 / "hearer")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Experiencer (s5 / envy.n.01
+			:Creator (s4 / person.n.01
+				:EQU (c2 / "speaker")))))

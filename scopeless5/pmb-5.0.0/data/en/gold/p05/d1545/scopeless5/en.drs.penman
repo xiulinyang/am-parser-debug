@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / devote.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / life.n.03
+			:Theme (s3 / female.n.02))
+		:Goal (s5 / music.n.01)))

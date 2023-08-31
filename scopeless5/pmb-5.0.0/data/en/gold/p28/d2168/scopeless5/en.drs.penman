@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s1 / go.v.01
+			:Theme (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Destination (s2 / police_station.n.01))))

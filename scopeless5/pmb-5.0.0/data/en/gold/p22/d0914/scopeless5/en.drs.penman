@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / administer.v.01
+		:Theme (s0 / city.n.01
+			:EQU (s1 / city.n.01
+				:Name (c0 / "Aachen")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Attribute (s5 / district.n.01
+			:Attribute (s4 / independent.a.02))))

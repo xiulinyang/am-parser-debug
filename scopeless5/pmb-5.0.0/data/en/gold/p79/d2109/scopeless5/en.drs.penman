@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / regret.v.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Stimulus (s3 / entity.n.01)
+		:Time (s4 / time.n.08
+			:TSU (c2 / "now"))))

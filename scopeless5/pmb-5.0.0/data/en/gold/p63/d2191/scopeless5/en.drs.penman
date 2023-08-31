@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / peck.v.01
+		:Agent (s0 / chicken.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Patient (s3 / male.n.02
+			:Name (c1 / "Tom"))))

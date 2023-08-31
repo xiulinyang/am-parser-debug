@@ -1,0 +1,18 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / old.a.01
+			:Attribute-of (s5 / male.n.02
+				:Name (c3 / "Lech"))
+			:Time (s6 / time.n.08
+				:EQU (c4 / "now"))
+			:Value (s8 / measure.n.02
+				:Quantity (c5 / "13")
+				:Unit (s9 / year.n.01))))
+	:member (s2 / old.a.01
+		:Attribute-of (s0 / female.n.02
+			:Name (c0 / "Magdalena"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s3 / measure.n.02
+			:Quantity (c2 / "13")
+			:Unit (s4 / year.n.01))))

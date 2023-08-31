@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s1 / read.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Source (s2 / entity.n.01)))

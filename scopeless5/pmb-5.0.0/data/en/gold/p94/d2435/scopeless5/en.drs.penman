@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / go_out.v.04
+				:Patient (s0 / entity.n.01
+					:Part-of (s1 / light.n.01))
+				:Manner (s2 / all_of_a_sudden.r.01)
+				:Time (s4 / time.n.08
+					:TPR (c0 / "now"))))))

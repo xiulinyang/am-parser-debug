@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / take.v.07
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Lopez"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / document.n.01)
+		:Source (s4 / company.n.01
+			:Name (c2 / "GM"))
+		:Destination (s5 / company.n.01
+			:Name (c3 / "VW"))))

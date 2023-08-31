@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / late.a.02
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (s3 / minute.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "10")))
+		:Destination (s5 / school.n.02)))

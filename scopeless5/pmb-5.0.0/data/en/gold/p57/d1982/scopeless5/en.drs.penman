@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / go.v.01
+			:Theme (s3 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s4 / time.n.08
+				:TSU (c3 / "now"))
+			:Instrument (s6 / taxi.n.01)))
+	:member (s2 / right.a.05
+		:Attribute-of (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / hat.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "2"))
+			:Colour (s4 / red.a.01))
+		:EQU (s0 / entity.n.01)
+		:Location (s6 / table.n.02)
+		:Time (s9 / time.n.08
+			:TAB (s8 / hour.n.01
+				:Quantity (s7 / quantity.n.01
+					:EQU (c2 / "2"))
+				:TAB (c3 / "now")))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / be.v.02
+		:Theme (s3 / band.n.02
+			:Source (s2 / country.n.02
+				:Name (c1 / "germany"))
+			:Stimulus-of (s1 / favorite.a.02
+				:Experiencer (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s5 / time.n.08
+			:EQU (c2 / "now"))
+		:Co-Theme (s6 / musical_organization.n.01
+			:Name (c3 / "Juli"))))

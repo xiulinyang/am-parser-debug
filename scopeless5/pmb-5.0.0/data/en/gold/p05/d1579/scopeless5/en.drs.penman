@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / develop.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Product (s4 / application.n.04
+			:Goal (s3 / software.n.01
+				:Name (c2 / "Android")))))

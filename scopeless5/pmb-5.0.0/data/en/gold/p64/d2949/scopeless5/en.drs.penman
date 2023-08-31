@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / call.v.03
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Theme (s3 / person.n.01
+			:NEQ (s4 / person.n.01))))

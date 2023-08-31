@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / laugh.v.01
+		:Agent (s1 / person.n.01
+			:Role (s2 / student.n.01)
+			:NEQ-of (s0 / person.n.01
+				:Role (s3 / student.n.01)))
+		:Time (s5 / time.n.08
+			:TPR (c0 / "now"))))

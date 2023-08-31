@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / take.v.01
+		:Theme (s0 / poll.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s3 / time.n.08
+			:TIN (s5 / day.n.03
+				:TAB (s4 / day.n.03
+					:TCT (c1 / "now"))))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / crown.v.01
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Napoleon"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s3 / time.n.08
+			:YearOfCentury (c2 / "1804"))))

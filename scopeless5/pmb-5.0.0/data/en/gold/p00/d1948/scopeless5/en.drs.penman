@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / be.v.06
+		:Theme (s0 / cube_root.n.01
+			:Of (s1 / number.n.02
+				:EQU (c0 / "27")))
+		:Co-Theme (s3 / number.n.02
+			:EQU (c1 / "3"))))

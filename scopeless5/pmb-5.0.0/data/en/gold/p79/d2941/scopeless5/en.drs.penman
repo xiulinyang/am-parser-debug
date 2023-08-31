@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / understand.v.03
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s1 / female.n.02
+			:Name (c1 / "Marika"))
+		:Stimulus (s3 / estonian.n.01)))

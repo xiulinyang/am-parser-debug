@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / have.v.02
+		:Theme (s0 / moon.n.06
+			:Quantity (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Pivot (s2 / planet.n.03
+			:Name (c2 / "Venus"))))

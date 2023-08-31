@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / give.v.08
+		:Agent (s1 / person.n.01
+			:Role (s2 / fiance.n.01
+				:Of (s0 / female.n.02)))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))
+		:Recipient (s5 / female.n.02)
+		:Theme (s8 / ring.n.08
+			:Attribute (s7 / big.a.01
+				:Degree (s6 / very.r.01)))))

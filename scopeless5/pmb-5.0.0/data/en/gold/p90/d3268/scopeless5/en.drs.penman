@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / sew.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / mother.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))))

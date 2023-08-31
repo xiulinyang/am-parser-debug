@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / watch.v.01
+		:Theme (s0 / film.n.01
+			:Quantity (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s2 / person.n.01
+			:EQU (c2 / "hearer"))
+		:Time (s4 / time.n.08
+			:TIN (s6 / day.n.03
+				:TAB (s5 / day.n.03
+					:TCT (c3 / "now"))))))

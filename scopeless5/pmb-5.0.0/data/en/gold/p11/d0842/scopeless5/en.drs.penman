@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / bow.v.03
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Recipient (s4 / person.n.01
+			:Role (s5 / teacher.n.01
+				:Of (s3 / male.n.02)))))

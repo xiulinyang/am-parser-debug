@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / feel.v.03
+		:Manner (s0 / all_of_a_sudden.r.02)
+		:Experiencer (s1 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s5 / pain.n.01
+			:Location (s7 / stomach.n.01
+				:Part-of (s6 / person.n.01
+					:EQU (c2 / "speaker")))
+			:Attribute (s4 / sharp.a.08))))

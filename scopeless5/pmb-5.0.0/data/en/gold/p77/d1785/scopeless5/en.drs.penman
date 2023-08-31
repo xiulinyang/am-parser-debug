@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / wring.v.04
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Patient (s5 / clothes.n.01
+			:User (s3 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Attribute (s4 / wet.a.01))))

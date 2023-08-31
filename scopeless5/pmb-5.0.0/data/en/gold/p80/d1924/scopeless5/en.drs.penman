@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / quit.v.01
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Part-of (s3 / smoke.v.01
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Time (s6 / time.n.08
+				:TAB (s5 / year.n.01
+					:Quantity (s4 / quantity.n.01
+						:EQU (c2 / "2"))
+					:TAB (c3 / "now"))))))

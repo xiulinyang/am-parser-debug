@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / elect.v.01
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Saad Hariri"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s3 / prime_minister.n.01
+			:Of (s4 / country.n.02
+				:Name (c2 / "Lebanon")))))

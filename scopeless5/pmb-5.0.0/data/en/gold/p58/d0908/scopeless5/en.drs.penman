@@ -1,0 +1,13 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s6 / hungry.a.01
+			:Experiencer (s4 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s5 / time.n.08
+				:EQU (c3 / "now"))))
+	:member (s2 / eat.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Patient (s3 / fruit.n.01)))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / discontinue.v.01
+		:Theme (s1 / production.n.01
+			:Result (s0 / aniline.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s4 / time.n.08
+			:YearOfCentury (c1 / "1990"))))

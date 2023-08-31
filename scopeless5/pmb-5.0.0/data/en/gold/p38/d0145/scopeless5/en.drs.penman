@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / quarrel.v.01
+		:Agent (s1 / boy.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "2")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

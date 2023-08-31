@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / pregnant.a.01
+		:Attribute-of (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Duration (s3 / month.n.02
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "2")))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / catch.v.08
+		:Agent (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / fox.n.01)
+		:Instrument (s4 / trap.n.01)))

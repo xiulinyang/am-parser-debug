@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / cost.v.01
+		:Theme (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Value (s5 / dollar.n.01
+			:Quantity (s3 / quantity.n.01
+				:LES (s4 / quantity.n.01
+					:EQU (c1 / "15"))))))

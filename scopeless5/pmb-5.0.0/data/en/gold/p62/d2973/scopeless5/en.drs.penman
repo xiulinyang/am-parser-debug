@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / come.v.01
+		:Theme (s1 / cyclone.n.02
+			:EQU (s0 / hurricane.n.01
+				:Name (c0 / "Sandy")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

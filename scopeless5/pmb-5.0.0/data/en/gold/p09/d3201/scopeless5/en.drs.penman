@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / wipe.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s4 / face.n.01
+			:Part-of (s3 / female.n.02))
+		:Instrument (s5 / handkerchief.n.01)))

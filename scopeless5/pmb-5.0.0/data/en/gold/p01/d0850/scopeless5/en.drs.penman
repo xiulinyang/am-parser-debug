@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / shower.v.03
+				:Time (s0 / morning.n.01)
+				:Agent (s1 / female.n.02)))))

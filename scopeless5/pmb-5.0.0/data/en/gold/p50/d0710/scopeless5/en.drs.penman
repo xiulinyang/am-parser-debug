@@ -1,0 +1,19 @@
+(b0 / "box"
+	:member (s8 / sentence.v.01
+		:Patient (s0 / female.n.02
+			:Name (c0 / "Leona Helmsley")
+			:EQU (s2 / person.n.01
+				:Role (s3 / queen.n.05
+					:Of (s6 / chain.n.04
+						:Theme (s5 / hotel.n.01
+							:Attribute (s4 / luxury.n.01)))
+					:Attribute (s1 / self-proclaimed.a.01))))
+		:Time (s7 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s9 / time.n.08
+			:DayOfWeek (c2 / "tuesday"))
+		:Value (s11 / year.n.01
+			:Quantity (s10 / quantity.n.01
+				:EQU (c3 / "4")))
+		:Destination (s13 / prison.n.01
+			:Attribute (s12 / federal.a.01))))

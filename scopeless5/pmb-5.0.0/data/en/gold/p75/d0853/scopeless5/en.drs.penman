@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / wake.v.05
+		:Causer (s0 / alarm_clock.n.01)
+		:Time (s2 / time.n.08
+			:TSU (c0 / "now"))
+		:Patient (s3 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Time (s4 / time.n.08
+			:ClockTime (c2 / "07:00"))))

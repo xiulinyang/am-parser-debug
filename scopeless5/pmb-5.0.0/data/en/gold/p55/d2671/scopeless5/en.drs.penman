@@ -1,0 +1,8 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s1 / bend.v.03
+			:Agent (s0 / male.n.02)
+			:Theme (s3 / rod.n.01
+				:Attribute (s2 / iron.a.01))
+			:Instrument (s5 / hand.n.01
+				:Part-of (s4 / male.n.02)))))

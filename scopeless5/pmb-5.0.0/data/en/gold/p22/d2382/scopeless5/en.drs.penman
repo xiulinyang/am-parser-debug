@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / be.v.06
+		:Theme (s1 / euro.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "1")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / dollar.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "1.5")))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / win.v.01
+		:Theme (s1 / game.n.01
+			:Quantity (c0 / "?")
+			:Attribute (s0 / consecutive.a.02))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s3 / team.n.01
+			:Name (c2 / "Penn State"))))

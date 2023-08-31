@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:member (s7 / live.v.01
+			:Theme (s5 / person.n.01
+				:Role (s6 / parent.n.01
+					:Of (s4 / person.n.01
+						:EQU (c2 / "speaker"))))
+			:Time (s8 / time.n.08
+				:EQU (c3 / "now"))
+			:Location (s9 / country.n.04)))
+	:member (s1 / live.v.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / town.n.01)))

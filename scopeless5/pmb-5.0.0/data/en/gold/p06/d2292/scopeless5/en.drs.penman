@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Theme (s1 / remote_control.n.01
+			:Theme (s0 / tv.n.02))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s4 / location.n.01
+			:SZN (s5 / couch.n.01))))

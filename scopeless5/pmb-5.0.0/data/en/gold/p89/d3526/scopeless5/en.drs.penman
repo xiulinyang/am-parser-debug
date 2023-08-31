@@ -1,0 +1,16 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s8 / freeze.v.03
+			:Patient (s6 / foot.n.01
+				:Part-of (s5 / person.n.01
+					:EQU (c3 / "speaker")))
+			:Time (s7 / time.n.08
+				:TPR (c4 / "now"))))
+	:member (s1 / take_off.v.06
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / boot.n.01
+			:User (s3 / person.n.01
+				:EQU (c2 / "speaker")))))

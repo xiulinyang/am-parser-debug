@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / broken.a.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute-of (s2 / skull.n.01
+			:Part-of (s1 / person.n.01
+				:EQU (c1 / "hearer")))))

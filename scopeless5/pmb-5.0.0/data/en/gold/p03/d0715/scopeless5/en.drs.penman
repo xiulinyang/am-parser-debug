@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / disappear.v.01
+		:Theme (s1 / photo.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "netherlands"))
+			:Theme (s2 / city.n.01
+				:Name (c1 / "Srebrenica")))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))))

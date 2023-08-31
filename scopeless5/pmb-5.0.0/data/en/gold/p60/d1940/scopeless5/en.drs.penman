@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / expensive.a.01
+		:Attribute-of (s0 / expedition.n.02)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))))

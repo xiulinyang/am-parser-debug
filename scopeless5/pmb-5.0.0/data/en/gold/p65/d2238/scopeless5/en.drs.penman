@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / over.a.01
+		:Attribute-of (s0 / party.n.04)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s3 / time.n.08
+			:ClockTime (c1 / "21:00"))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / based.a.02
+		:Theme (s0 / company.n.01
+			:Name (c0 / "Wehkamp"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / country.n.02
+			:Name (c2 / "UK"))))

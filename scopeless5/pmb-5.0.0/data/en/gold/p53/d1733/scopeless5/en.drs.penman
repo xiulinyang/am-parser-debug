@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / angry.a.01
+		:Theme (s0 / person.n.01
+			:Source (s1 / state.n.01
+				:Name (c0 / "Massachusetts")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Degree (s3 / extremely.r.02)))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / tall.a.01
+		:Attribute-of (s0 / male.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s4 / more.r.01
+			:Theme s0
+			:Value (s2 / head.n.11
+				:Quantity (c1 / "1"))
+			:Co-Theme (s5 / person.n.01
+				:EQU (c2 / "speaker")))))

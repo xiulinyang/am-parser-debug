@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / pass_by.v.01
+		:Theme (s0 / car.n.01
+			:Quantity (c0 / "+"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

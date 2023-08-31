@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / run.v.06
+		:Theme (s0 / river.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Destination (s3 / lake.n.01
+			:Name (c1 / "Lake Ontario"))))

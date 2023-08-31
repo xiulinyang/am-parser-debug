@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / hide.v.02
+		:Agent (s0 / fox.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / tree.n.01
+			:Attribute (s3 / hollow.a.01))))

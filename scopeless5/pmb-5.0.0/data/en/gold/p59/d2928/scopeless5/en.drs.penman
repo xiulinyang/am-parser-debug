@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / steal.v.01
+		:Theme (s0 / entity.n.01
+			:Sub-of (s1 / money.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

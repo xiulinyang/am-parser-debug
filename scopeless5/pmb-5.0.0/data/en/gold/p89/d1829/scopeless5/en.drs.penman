@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / kill.v.01
+		:Patient (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Instrument (s3 / tire_iron.n.01)))

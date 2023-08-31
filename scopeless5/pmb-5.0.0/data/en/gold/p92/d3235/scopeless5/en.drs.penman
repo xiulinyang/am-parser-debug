@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / fell.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / woodcutter.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Patient (s4 / tree.n.01)
+		:Instrument (s5 / ax.n.01)))

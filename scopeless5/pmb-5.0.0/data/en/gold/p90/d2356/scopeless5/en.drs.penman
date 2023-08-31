@@ -1,0 +1,26 @@
+(b0 / "box"
+	:member (s1 / think.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s5 / be.v.01
+				:Theme (s4 / problem.n.01
+					:Creator (s3 / person.n.01
+						:EQU (c2 / "hearer")))
+				:Time (s6 / time.n.08
+					:EQU (c3 / "now"))
+				:Proposition (b2 / "box"
+					:NEGATION (b3 / "box"
+						:member (s13 / explain.v.01
+							:Agent (s11 / person.n.01)
+							:TIN (s9 / listen.v.02
+								:Agent (s7 / person.n.01
+									:EQU (c4 / "hearer"))
+								:Time (s8 / time.n.08
+									:EQU (c5 / "now"))
+								:Manner (s10 / carefully.r.01))
+							:Time (s12 / time.n.08
+								:EQU (c6 / "now"))
+							:Theme (s14 / thing.n.06))))))))

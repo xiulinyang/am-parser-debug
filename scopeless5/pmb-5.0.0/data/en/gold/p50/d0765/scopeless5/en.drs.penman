@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / high.a.01
+		:Theme (s0 / mountain.n.01
+			:Name (c0 / "Kanchenjunga"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s3 / meter.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "8586")))))

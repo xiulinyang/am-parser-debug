@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / die.v.01
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Oscar Chisini"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s3 / time.n.08
+			:YearOfCentury (c2 / "1967"))))

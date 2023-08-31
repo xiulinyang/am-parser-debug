@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / sign.v.02
+		:Theme (s0 / peace_treaty.n.01)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:Time (s3 / time.n.08
+			:TIN (s5 / day.n.03
+				:TAB-of (s4 / day.n.03
+					:TCT (c1 / "now"))))))

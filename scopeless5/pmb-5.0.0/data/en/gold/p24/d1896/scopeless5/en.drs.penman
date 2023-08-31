@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / study.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / theory_of_evolution.n.01
+			:Creator (s3 / male.n.02
+				:Name (c2 / "Darwin")))))

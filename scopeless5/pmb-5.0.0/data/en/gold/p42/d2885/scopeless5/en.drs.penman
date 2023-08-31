@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / dream.v.02
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Experiencer (s1 / cat.n.01)))

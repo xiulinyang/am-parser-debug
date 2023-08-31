@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / speak.v.03
+		:Agent (s0 / boy.n.01)
+		:Theme (s2 / english.n.01))
+	:member (s4 / tall.a.01
+		:Attribute-of s0
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s5 / more.r.01
+			:Theme s0
+			:Co-Theme (s6 / person.n.01
+				:EQU (c1 / "speaker")))))

@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's4')
+('s4', ':instance', 'conscious.a.03')
+('s4', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':EQU', 'c1')
+('c1', ':instance', '"now"')
+('s4', ':Experiencer', 's0')
+('s0', ':instance', 'person.n.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"speaker"')
+('s4', ':Degree', 's2')
+('s2', ':instance', 'very.r.01')
+('s4', ':Stimulus', 's3')
+('s3', ':instance', 'fashion.n.03')
+tokenized sentence:START I 'm very fashion-conscious .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 2, "node_id": ["c1", "s1"], "lexical_node": "s1"}, {"token_id": 3, "node_id": "s2"}, {"token_id": 4, "node_id": "s3"}, {"token_id": 5, "node_id": "s4"}]

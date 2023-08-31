@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / stir.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / tea.n.01
+			:User (s3 / female.n.02
+				:EQU s0))
+		:Instrument (s7 / spoon.n.01
+			:MadeOf (s6 / gold.n.03)
+			:Attribute (s5 / little.a.01))))

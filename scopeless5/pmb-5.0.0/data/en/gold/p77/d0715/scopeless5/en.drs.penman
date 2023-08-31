@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / direct.v.03
+		:Theme (s1 / movie.n.01
+			:EQU (s0 / movie.n.01
+				:Name (c0 / "Speed")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s4 / male.n.02
+			:Name (c2 / "Jan De Bont"))))

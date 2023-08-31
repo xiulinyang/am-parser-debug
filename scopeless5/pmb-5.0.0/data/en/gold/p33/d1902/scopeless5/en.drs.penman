@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s5 / say.v.01
+				:Agent (s3 / person.n.01
+					:EQU (c2 / "hearer"))
+				:Time (s4 / time.n.08
+					:EQU (c3 / "now"))
+				:Topic (s6 / entity.n.01))))
+	:member (s2 / capture.v.03
+		:Patient (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

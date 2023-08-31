@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s2 / take.v.02
+			:Theme (s0 / flight.n.02
+				:Destination (s1 / city.n.01
+					:Name (c0 / "Boston")))
+			:Value (s4 / minute.n.01
+				:Quantity (s3 / quantity.n.01
+					:APX (c1 / "90"))))))

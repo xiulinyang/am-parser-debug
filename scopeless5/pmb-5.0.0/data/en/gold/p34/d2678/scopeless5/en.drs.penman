@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / located.a.01
+		:Theme (s0 / hill.n.02
+			:Creator (s1 / termite.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s4 / country.n.02
+			:Name (c1 / "Tanzania"))))

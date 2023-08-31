@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / land.v.01
+		:Theme (s0 / airplane.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s3 / airport.n.01
+			:Name (c1 / "Narita"))))

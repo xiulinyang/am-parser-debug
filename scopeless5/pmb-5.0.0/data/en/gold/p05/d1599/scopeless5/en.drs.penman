@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s2 / be.v.02
+		:Theme (s1 / museum.n.01
+			:Name (c0 / "Brukenthal Museum")
+			:Attribute (s0 / national.a.01))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / museum.n.01
+			:Order (c2 / "1")
+			:Patient-of (s5 / open.v.02
+				:Time (s6 / time.n.08
+					:TPR (c3 / "now"))
+				:Manner (s7 / officially.r.02)
+				:Location (s8 / country.n.02
+					:Name (c4 / "Romania"))))))

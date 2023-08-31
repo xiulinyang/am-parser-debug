@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / absorbed.a.01
+		:Experiencer (s1 / person.n.01
+			:Role (s2 / nephew.n.01
+				:Of (s0 / male.n.02)))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Stimulus (s6 / firework.n.01
+			:Attribute (s5 / splendid.a.01))))

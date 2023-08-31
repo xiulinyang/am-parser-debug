@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / make.v.16
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Product (s3 / note.n.01)
+		:Location (s5 / notebook.n.01
+			:User (s4 / person.n.01
+				:EQU (c2 / "speaker")))))

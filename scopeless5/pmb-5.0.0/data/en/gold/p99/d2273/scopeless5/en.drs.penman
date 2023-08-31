@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.08
+		:Theme (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s3 / person.n.01
+			:Role (s4 / doctor.n.01))
+		:Time (s5 / time.n.08
+			:EQU (c1 / "now"))))

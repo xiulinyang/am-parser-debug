@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s3 / play.v.07
+			:Time (s1 / time.n.08
+				:EQU (c0 / "now"))
+			:EQU (s0 / entity.n.01)
+			:Agent (s2 / man.n.01)
+			:Theme (s5 / keyboard.n.01
+				:Quantity (s4 / quantity.n.01
+					:EQU (c1 / "2"))))))

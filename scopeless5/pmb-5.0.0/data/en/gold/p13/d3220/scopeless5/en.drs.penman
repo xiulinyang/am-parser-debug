@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / dial.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / number.n.04
+			:Attribute (s3 / wrong.a.01))))

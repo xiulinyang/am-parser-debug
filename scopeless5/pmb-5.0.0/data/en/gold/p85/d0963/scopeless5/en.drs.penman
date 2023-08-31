@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / sentence.v.01
+		:Recipient (s1 / person.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "us"))
+			:Role (s2 / soldier.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s6 / year.n.01
+			:Quantity (s5 / quantity.n.01
+				:EQU (c2 / "90")))
+		:Destination (s7 / jail.n.01)))

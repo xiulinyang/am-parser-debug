@@ -1,0 +1,5 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s1 / buzz.v.01
+				:Agent (s0 / bee.n.01)))))

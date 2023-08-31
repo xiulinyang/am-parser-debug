@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / drink.v.01
+				:Agent (s0 / person.n.01
+					:Location (s1 / party.n.04))
+				:Time (s2 / time.n.08
+					:TPR (c0 / "now"))
+				:Patient (s4 / wine.n.01)))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / be.v.08
+		:Theme (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s3 / person.n.01
+			:Role (s4 / hairdresser.n.01))))

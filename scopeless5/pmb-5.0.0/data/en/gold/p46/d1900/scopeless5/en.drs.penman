@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / across.r.01
+		:Theme (s0 / river.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s3 / meter.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c1 / "35")))))

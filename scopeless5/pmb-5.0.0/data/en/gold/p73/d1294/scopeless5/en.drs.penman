@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / flee.v.01
+		:Time (s0 / time.n.08
+			:MonthOfYear (c0 / "12")
+			:EQU (s1 / time.n.08
+				:YearOfCentury (c1 / "1941")))
+		:Theme (s2 / male.n.02)
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Destination (s5 / country.n.02
+			:Name (c3 / "Switzerland"))))

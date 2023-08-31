@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / steal.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / looter.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / artifact.n.01
+			:Attribute (s4 / ancient.a.01))
+		:Source (s6 / tomb.n.01)))

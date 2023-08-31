@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / come.v.08
+		:Theme (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s5 / town.n.01
+			:Location (s4 / mountain.n.01)
+			:Attribute (s3 / tiny.a.01))))

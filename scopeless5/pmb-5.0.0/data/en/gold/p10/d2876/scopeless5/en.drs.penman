@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / offer.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / lend.v.02
+			:Agent s0
+			:Recipient (s4 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Theme (s5 / money.n.01))))

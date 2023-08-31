@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / help.v.01
+		:Time (s0 / time.n.08
+			:TSU (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:Sub (c1 / "speaker"))
+		:Beneficiary (s3 / female.n.02)))

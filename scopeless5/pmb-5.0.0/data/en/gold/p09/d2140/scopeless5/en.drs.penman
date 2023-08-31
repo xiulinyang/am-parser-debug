@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / discuss.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Topic (s3 / entity.n.01)
+		:Co-Agent (s5 / horse.n.01
+			:Owner (s4 / person.n.01
+				:EQU (c2 / "speaker")))))

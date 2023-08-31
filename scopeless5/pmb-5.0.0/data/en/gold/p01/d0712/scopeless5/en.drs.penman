@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / sell.v.01
+		:Agent (s0 / company.n.01
+			:Name (c0 / "Kraft"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / company.n.01
+			:Name (c2 / "Celestial Seasonings"))
+		:Recipient (s4 / company.n.01
+			:Name (c3 / "Lipton"))
+		:Time (s5 / time.n.08
+			:YearOfCentury (c4 / "1986"))))

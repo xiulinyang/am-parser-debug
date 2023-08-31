@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / bow.v.03
+		:Agent (s0 / boy.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Recipient (s3 / person.n.01
+			:EQU (c1 / "speaker"))))

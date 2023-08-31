@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / acquire.v.01
+		:Agent (s0 / company.n.01
+			:Name (c0 / "Spartan Air Lines"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / company.n.01
+			:Name (c2 / "United Airways"))))

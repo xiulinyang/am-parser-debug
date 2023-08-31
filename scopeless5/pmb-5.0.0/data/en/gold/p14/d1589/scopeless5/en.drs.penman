@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / carve.v.02
+		:Agent (s0 / boy.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / name.n.01
+			:Bearer (s3 / male.n.02))
+		:Destination (s5 / tree.n.01)))

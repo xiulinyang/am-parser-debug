@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s4 / ask.v.01
+		:Time (s5 / time.n.08
+			:TPR (c3 / "now"))
+		:Agent (s6 / person.n.01
+			:Source (s7 / country.n.02
+				:Name (c4 / "philippines")))
+		:Proposition (b1 / "box"
+			:member (s0 / be.v.03
+				:Time (s1 / time.n.08
+					:EQU (c0 / "now"))
+				:Theme (s2 / person.n.01
+					:EQU (c1 / "hearer"))
+				:Source (s3 / country.n.02
+					:Name (c2 / "Australia"))))))

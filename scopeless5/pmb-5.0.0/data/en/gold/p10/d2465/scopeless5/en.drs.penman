@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s5 / live.v.01
+		:Location (s0 / location.n.01
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / person.n.01
+			:Role (s4 / grandfather.n.01
+				:Of (s2 / person.n.01
+					:EQU (c2 / "hearer"))))))

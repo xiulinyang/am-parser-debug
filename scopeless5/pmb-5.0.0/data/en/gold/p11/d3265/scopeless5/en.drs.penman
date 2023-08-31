@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / find.v.01
+			:Location (s3 / location.n.01
+				:Name (c1 / "?"))
+			:Time (s4 / time.n.08
+				:TPR (c2 / "now"))
+			:Agent (s5 / person.n.01
+				:EQU (c3 / "hearer"))
+			:Theme (s7 / entity.n.01)))
+	:member (s2 / beautiful.a.01
+		:Attribute-of (s0 / stone.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / devastate.v.01
+		:Causer (s1 / cyclone.n.02
+			:EQU (s0 / hurricane.n.01
+				:Name (c0 / "Katrina")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / city.n.01
+			:Name (c2 / "New Orleans"))))

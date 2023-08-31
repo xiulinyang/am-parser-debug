@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s0 / event.v.01
+		:Participant (s2 / piece.n.01
+			:Quantity (s1 / quantity.n.01
+				:EQU (c0 / "3"))
+			:Sub (s4 / piece.n.01
+				:Attribute (s3 / small.a.01
+					:Value (c1 / "+"))))))

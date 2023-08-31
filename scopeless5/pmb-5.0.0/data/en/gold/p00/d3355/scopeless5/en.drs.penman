@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / play.v.05
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / bank.n.01
+			:Part-of (s4 / river.n.01
+				:Name (c2 / "Thames")))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / rotten.a.02
+		:Attribute-of (s0 / entity.n.01
+			:Sub-of (s1 / apple.n.01
+				:Location (s2 / box.n.01)))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))))

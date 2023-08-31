@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / eat.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / breakfast.n.01
+			:Time (s4 / time.n.08
+				:ClockTime (c2 / "08:00")))))

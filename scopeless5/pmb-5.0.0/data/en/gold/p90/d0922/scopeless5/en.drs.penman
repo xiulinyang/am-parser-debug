@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s0 / be.v.01
+		:Theme (s1 / entity.n.01)
+		:Co-Theme (s3 / city.n.01
+			:Attribute (s2 / beautiful.a.01))))

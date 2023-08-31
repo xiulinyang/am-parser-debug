@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:member (s6 / have.v.02
+			:Pivot (s5 / female.n.02
+				:Name (c2 / "Magdalena"))
+			:Time (s7 / time.n.08
+				:EQU (c3 / "now"))
+			:Theme (s9 / hair.n.01
+				:Colour (s8 / blonde.a.01))))
+	:member (s1 / have.v.02
+		:Pivot (s0 / female.n.02
+			:Name (c0 / "Anna"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / hair.n.01
+			:Colour (s3 / chestnut.a.01))))

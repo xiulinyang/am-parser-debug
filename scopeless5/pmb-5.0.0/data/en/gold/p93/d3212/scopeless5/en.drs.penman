@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Theme (s4 / house.n.01
+			:Attribute (s3 / old.a.02
+				:Value (c1 / "+")))
+		:Location (s5 / street.n.01)))

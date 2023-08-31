@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / spawn.v.01
+		:Causer (s1 / club.n.07
+			:Name (c1 / "?")
+			:Location (s0 / city.n.01
+				:Name (c0 / "Liverpool")))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s4 / musical_organization.n.01
+			:Name (c3 / "Beatles"))))

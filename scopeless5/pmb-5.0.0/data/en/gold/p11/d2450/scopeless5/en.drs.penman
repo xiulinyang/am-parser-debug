@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / manage.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Topic (s3 / sell.v.01
+			:Agent s0
+			:Theme (s5 / car.n.01
+				:Owner (s4 / male.n.02))
+			:Asset (s6 / entity.n.01
+				:Quantity (c2 / "+")
+				:EQU (s7 / money.n.01)))))

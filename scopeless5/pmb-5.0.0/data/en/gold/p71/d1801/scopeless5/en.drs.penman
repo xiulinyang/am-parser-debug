@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / convinced.a.01
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Proposition (b1 / "box"
+			:member (s5 / right.a.02
+				:Attribute-of (s3 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Time (s4 / time.n.08
+					:EQU (c3 / "now"))))))

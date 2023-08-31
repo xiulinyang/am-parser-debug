@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / call.v.03
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s3 / person.n.01
+			:Sub (c2 / "speaker"))))

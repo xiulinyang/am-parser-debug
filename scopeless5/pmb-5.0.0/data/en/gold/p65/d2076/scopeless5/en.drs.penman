@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / consist.v.04
+		:Theme (s0 / milky_way.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute (s4 / star.n.01
+			:Quantity (s3 / quantity.n.01
+				:APX (c1 / "100000000000")))))

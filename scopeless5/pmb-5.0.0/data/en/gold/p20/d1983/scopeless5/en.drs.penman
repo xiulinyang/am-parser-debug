@@ -1,0 +1,19 @@
+(b0 / "box"
+	:member (s2 / be.v.02
+		:Theme (s1 / female.n.02
+			:Name (c0 / "Bruce")
+			:Title (s0 / mrs.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s4 / female.n.02
+			:Order (c2 / "1")
+			:Role (s6 / pilot.n.01)))
+	:member (s7 / fly.v.03
+		:Theme (s5 / person.n.01
+			:EQU s4)
+		:Location (s8 / location.n.01
+			:SY2 (s10 / entity.n.01
+				:Sub (s9 / country.n.02
+					:Name (c3 / "England"))
+				:Sub (s11 / country.n.02
+					:Name (c4 / "Japan"))))))

@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's3')
+('s3', ':instance', 'call.v.03')
+('s3', ':Agent', 's0')
+('s0', ':instance', 'person.n.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"hearer"')
+('s3', ':Theme', 's2')
+('s2', ':instance', 'detail.n.03')
+('s1', ':NEQ', 's2')
+('s1', ':instance', 'detail.n.03')
+('s3', ':Recipient', 's4')
+('s4', ':instance', 'female.n.02')
+('s4', ':Name', 'c1')
+('c1', ':instance', '"Gisèle"')
+tokenized sentence:START For further details , call Gisèle .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s1"}, {"token_id": 3, "node_id": "s2"}, {"token_id": 5, "node_id": ["s3", "s0", "c0"], "lexical_node": "s3"}, {"token_id": 6, "node_id": ["c1", "s4"], "lexical_node": "c1"}]

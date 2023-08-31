@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s6 / study.v.05
+			:Agent (s4 / person.n.01
+				:EQU (c2 / "hearer"))
+			:Manner (s5 / at_any_rate.r.01)
+			:Theme (s7 / entity.n.01)
+			:Manner (s8 / thoroughly.r.01)))
+	:member (s1 / learn.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Topic (s3 / english.n.01)))

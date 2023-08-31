@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / lose.v.01
+			:Agent (s4 / male.n.02)
+			:Time (s6 / time.n.08
+				:TPR (c2 / "now"))
+			:Theme (s7 / entity.n.01
+				:Quantity (c3 / "+")
+				:EQU (s9 / document.n.04
+					:Attribute (s8 / important.a.01)))))
+	:member (s2 / crash.v.12
+		:Patient (s1 / computer.n.01
+			:User (s0 / male.n.02
+				:Name (c0 / "Tom")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

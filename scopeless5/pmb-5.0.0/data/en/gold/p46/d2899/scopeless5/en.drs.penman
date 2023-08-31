@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / find.v.01
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / baby.n.06
+			:Attribute (s3 / orphaned.a.01)
+			:EQU-of (s5 / squirrel.n.01))))

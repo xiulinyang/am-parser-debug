@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / poke.v.03
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / fire.n.04)
+		:Instrument (s4 / stick.n.01)))

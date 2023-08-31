@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / bear.v.02
+		:Patient (s1 / female.n.02
+			:Name (c0 / "Minton")
+			:Title (s0 / ms.n.05))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s4 / country.n.02
+			:Name (c2 / "Australia"))))

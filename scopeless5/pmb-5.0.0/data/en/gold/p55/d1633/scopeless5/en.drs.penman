@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / devour.v.01
+		:Agent (s0 / fire.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / town.n.01)))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / occupy.v.05
+		:Agent (s1 / force.n.05
+			:User (s0 / person.n.01
+				:Sub (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / city.n.01)))

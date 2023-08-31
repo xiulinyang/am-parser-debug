@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / hand.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s3 / male.n.02)
+		:Theme (s4 / money.n.01
+			:Theme-of (s6 / owe.v.01
+				:Agent (s5 / female.n.02)
+				:Time (s7 / time.n.08
+					:TPR (c1 / "now"))
+				:Beneficiary (s8 / male.n.02)))))

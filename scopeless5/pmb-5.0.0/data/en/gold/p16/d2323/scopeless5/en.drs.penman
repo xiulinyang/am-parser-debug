@@ -1,0 +1,9 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:member (s3 / event.v.01
+			:Participant (s4 / entity.n.01)))
+	:member (s1 / succeed.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / ache.v.03
+		:Patient (s1 / stomach.n.01
+			:Part-of (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / meal.n.01)))

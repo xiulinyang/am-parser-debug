@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / do.v.02
+		:Agent (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / best.n.01
+			:Creator (s3 / female.n.02))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / break.v.02
+			:Patient (s0 / bamboo.n.01)
+			:Time (s3 / time.n.08
+				:TPR (c1 / "now"))))
+	:member (s1 / bend.v.01
+		:Patient s0
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

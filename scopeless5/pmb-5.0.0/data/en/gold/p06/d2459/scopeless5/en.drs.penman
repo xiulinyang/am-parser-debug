@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / take_off.v.03
+		:Theme (s0 / flight.n.09
+			:Name (c0 / "226"))
+		:Time (s2 / time.n.08
+			:TSU (c1 / "now"))
+		:Time (s3 / time.n.08
+			:ClockTime (c2 / "10:30"))))

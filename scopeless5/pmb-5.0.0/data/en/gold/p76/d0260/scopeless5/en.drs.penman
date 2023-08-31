@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / attached.a.04
+		:Experiencer (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s2 / very.r.01)
+		:Stimulus (s5 / girl.n.01
+			:Attribute (s4 / little.a.03))))

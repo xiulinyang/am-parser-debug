@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / call.v.13
+		:Theme (s0 / ship.n.01)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:Location (s3 / city.n.01
+			:Name (c1 / "Yokohama"))))

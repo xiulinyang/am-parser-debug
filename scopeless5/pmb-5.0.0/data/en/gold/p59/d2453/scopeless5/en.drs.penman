@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / be.v.01
+		:Manner (s0 / at_any_rate.r.01)
+		:Theme (s1 / program.n.02)
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s4 / success.n.01)))

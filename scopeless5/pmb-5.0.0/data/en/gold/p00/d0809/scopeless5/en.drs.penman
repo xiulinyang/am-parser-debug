@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / attack.v.04
+		:Agent (s0 / dog.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / boy.n.01
+			:Attribute (s3 / little.a.03))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / rape.v.01
+		:Patient (s0 / entity.n.01
+			:Quantity (s1 / quantity.n.01
+				:MOR (c0 / "200000"))
+			:EQU (s2 / woman.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / get_on.v.03
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Tom")
+			:Theme-of (s5 / leave.v.01
+				:Time (s6 / time.n.08
+					:TPR (c2 / "now"))))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s4 / bike.n.02
+			:User (s3 / male.n.02))))

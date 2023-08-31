@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s3 / live.v.01
+		:Theme (s1 / person.n.01
+			:Role (s2 / brother.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s5 / country.n.02
+			:Name (c2 / "England"))
+		:Duration (s8 / year.n.01
+			:Quantity (s6 / quantity.n.01
+				:MOR (s7 / quantity.n.01
+					:EQU (c3 / "30"))))))

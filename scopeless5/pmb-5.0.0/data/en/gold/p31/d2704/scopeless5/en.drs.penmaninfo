@@ -1,0 +1,9 @@
+('b0', ':instance', '"box"')
+('b0', ':NECESSITY', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':member', 's1')
+('s1', ':instance', 'coil.v.03')
+('s1', ':Theme', 's0')
+('s0', ':instance', 'rope.n.01')
+tokenized sentence:START That rope has to be coiled .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": "b1"}, {"token_id": 6, "node_id": "s1"}]

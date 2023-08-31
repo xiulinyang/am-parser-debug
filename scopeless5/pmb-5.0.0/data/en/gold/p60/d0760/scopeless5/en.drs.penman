@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / work.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Joseph Wilson"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s3 / agency.n.01
+			:Name (c2 / "CIA"))))

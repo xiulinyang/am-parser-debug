@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / wild.a.01
+		:Attribute-of (s0 / entity.n.01)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))))

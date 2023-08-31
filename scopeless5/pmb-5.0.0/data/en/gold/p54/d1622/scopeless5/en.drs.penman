@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / difficult.a.01
+		:Attribute-of (s0 / form.v.01
+			:Result (s1 / cabinet.n.02))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

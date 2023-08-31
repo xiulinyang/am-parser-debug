@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / potent.a.03
+		:Attribute-of (s1 / venom.n.01
+			:Creator (s0 / snake.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s3 / very.r.01)))

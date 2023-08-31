@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / grab.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom")
+			:Theme-of (s5 / leave.v.01
+				:Time (s6 / time.n.08
+					:TPR (c2 / "now"))))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / backpack.n.01
+			:User (s3 / male.n.02))))

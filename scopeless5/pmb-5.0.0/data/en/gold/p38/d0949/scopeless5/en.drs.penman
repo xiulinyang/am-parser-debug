@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s4 / movie.n.01
+			:Part (s6 / person.n.01
+				:Role (s7 / actor.n.01)
+				:Attribute (s5 / mediocre.a.01))
+			:Attribute (s3 / mediocre.a.02))))

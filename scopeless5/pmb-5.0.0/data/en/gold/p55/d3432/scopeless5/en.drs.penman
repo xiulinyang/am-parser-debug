@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / arrest.v.01
+		:Patient (s1 / person.n.01
+			:Role (s2 / smuggler.n.01
+				:Theme (s0 / drug.n.01)))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s5 / airport.n.01)))

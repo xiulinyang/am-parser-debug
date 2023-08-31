@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / go.v.01
+		:Time (s0 / time.n.08
+			:TSU (c0 / "now"))
+		:Theme (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Destination (s3 / beach.n.01)))

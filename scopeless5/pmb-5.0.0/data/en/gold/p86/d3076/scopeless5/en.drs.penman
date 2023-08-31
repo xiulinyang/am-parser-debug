@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / refresh.v.03
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / person.n.01
+			:EQU (c2 / "speaker"))
+		:Instrument (s5 / bath.n.02
+			:Attribute (s4 / hot.a.01
+				:Value (c3 / "+")))))

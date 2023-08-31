@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / march.v.03
+		:Theme (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Manner (s4 / abreast.r.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "2")))))

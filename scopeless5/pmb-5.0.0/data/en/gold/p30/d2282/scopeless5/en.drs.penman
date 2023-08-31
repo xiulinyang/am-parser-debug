@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / sit.v.01
+		:Theme (s1 / man.n.01
+			:Attribute (s0 / older.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / bench.n.01)))

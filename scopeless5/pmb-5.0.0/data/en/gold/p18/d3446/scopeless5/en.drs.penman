@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / offensive.a.01
+		:Theme (s2 / speech.n.01
+			:Creator (s0 / person.n.01
+				:Role (s1 / politician.n.02)))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))))

@@ -1,0 +1,17 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:NEGATION (b3 / "box"
+				:member (s7 / go.v.01
+					:Theme (s5 / person.n.01
+						:EQU (c3 / "speaker"))
+					:Time (s6 / time.n.08
+						:TSU (c4 / "now")))))
+		:member (s0 / event.v.01
+			:Participant (c0 / "i"))
+		:member (s4 / terra_incognita.n.03
+			:EQU (c2 / "i")
+			:EQU (s2 / rain.v.01
+				:EQU (s1 / entity.n.01)
+				:Time (s3 / time.n.08
+					:TSU (c1 / "now"))))))

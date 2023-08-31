@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / tell.v.04
+		:Agent (s1 / person.n.01
+			:Role (s2 / mother.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Recipient (s5 / person.n.01
+			:EQU (c2 / "speaker"))
+		:Topic (s6 / mow.v.01
+			:Agent s5
+			:Patient (s7 / lawn.n.01))))

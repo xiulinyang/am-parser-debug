@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s5 / sing.v.02
+			:Agent (s3 / person.n.01
+				:Sub (c2 / "speaker"))
+			:Time (s4 / time.n.08
+				:TSU (c3 / "now"))
+			:Co-Agent (s6 / person.n.01
+				:EQU (c4 / "hearer"))))
+	:member (s1 / sing.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

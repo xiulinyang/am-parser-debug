@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / fan.v.03
+		:Agent (s0 / boy.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s3 / male.n.02)
+		:Instrument (s5 / hat.n.01
+			:User (s4 / male.n.02))))

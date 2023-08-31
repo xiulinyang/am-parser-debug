@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / break_down.v.03
+		:Patient (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Manner (s3 / all_at_once.r.02)))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / entity.n.01
+			:Name (c0 / "?"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s3 / entity.n.01
+			:Quantity (c2 / "1")
+			:Sub-of (s5 / god.n.02
+				:Source (s4 / country.n.02
+					:Name (c3 / "egypt"))))))

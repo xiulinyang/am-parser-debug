@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / gather.v.02
+		:Theme (s0 / person.n.01
+			:Role (s1 / demonstrator.n.03))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / square.n.03)))

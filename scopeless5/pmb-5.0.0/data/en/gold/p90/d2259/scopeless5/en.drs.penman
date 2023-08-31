@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / rob.v.01
+		:Source (s2 / woman.n.01
+			:Attribute (s0 / poor.a.01)
+			:Attribute (s1 / old.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s6 / money.n.01
+			:User (s5 / female.n.02))))

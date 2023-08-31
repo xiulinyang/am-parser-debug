@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s4 / old.a.01
+		:Attribute-of (s1 / person.n.01
+			:Role (s2 / father.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:TSU (c1 / "now"))
+		:Value (s5 / measure.n.02
+			:Quantity (c2 / "45")
+			:Unit (s6 / year.n.01))
+		:Time (s7 / time.n.08
+			:MonthOfYear (c3 / "5"))))

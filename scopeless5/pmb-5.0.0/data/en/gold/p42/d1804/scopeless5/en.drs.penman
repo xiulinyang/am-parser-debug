@@ -1,0 +1,13 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s6 / angry.a.01
+			:Experiencer (s4 / person.n.01
+				:EQU (c1 / "speaker"))
+			:Time (s5 / time.n.08
+				:TPR (c2 / "now"))))
+	:member (s1 / look.v.03
+		:Theme (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Attribute (s3 / sad.a.01
+			:Experiencer s0)))

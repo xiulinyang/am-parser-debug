@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / bear.v.02
+		:Patient (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s5 / time.n.08
+			:TAB (s4 / year.n.01
+				:Quantity (s3 / quantity.n.01
+					:EQU (c2 / "20"))
+				:TAB (c3 / "now")))))

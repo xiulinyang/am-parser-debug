@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / suffer.v.02
+		:Experiencer (s1 / person.n.01
+			:Role (s2 / neighbor.n.01
+				:Of (s0 / person.n.01
+					:Sub (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s5 / osteoporosis.n.01)))

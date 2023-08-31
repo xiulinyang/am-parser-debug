@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / fine.v.01
+		:Recipient (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Asset (s4 / dollar.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "30")))
+		:Theme (s5 / speeding.n.01)))

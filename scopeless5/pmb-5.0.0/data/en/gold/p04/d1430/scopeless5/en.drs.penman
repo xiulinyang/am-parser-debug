@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / hurt.v.01
+		:Patient (s3 / wisdom_tooth.n.01
+			:Part-of (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Attribute (s2 / right.a.01)
+			:Attribute (s1 / upper.a.01))
+		:Time (s5 / time.n.08
+			:EQU (c1 / "now"))))

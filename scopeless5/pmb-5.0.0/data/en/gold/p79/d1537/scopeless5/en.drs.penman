@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / speak.v.04
+		:Agent (s0 / male.n.02
+			:Name (c0 / "John Quincy Adams"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Recipient (s3 / crowd.n.01)))

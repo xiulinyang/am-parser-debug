@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / leave.v.10
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Beneficiary (s4 / person.n.01
+			:Role (s5 / son.n.01
+				:Of (s3 / female.n.02)))
+		:Theme (s6 / entity.n.01
+			:Quantity (c1 / "+")
+			:EQU (s7 / money.n.01))))

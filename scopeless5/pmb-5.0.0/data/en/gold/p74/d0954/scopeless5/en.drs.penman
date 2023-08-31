@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s2 / be.v.06
+		:Theme (s0 / population.n.01
+			:Part-of (s1 / country.n.02
+				:Name (c0 / "China")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / times.n.02
+			:Theme (s4 / number.n.02
+				:EQU (c2 / "8"))
+			:Co-Theme (s6 / population.n.01
+				:Part-of (s7 / country.n.02
+					:Name (c3 / "Japan"))))))

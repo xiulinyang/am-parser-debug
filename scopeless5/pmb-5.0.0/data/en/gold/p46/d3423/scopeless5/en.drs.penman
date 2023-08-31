@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / abduct.v.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s3 / alien.n.03)))

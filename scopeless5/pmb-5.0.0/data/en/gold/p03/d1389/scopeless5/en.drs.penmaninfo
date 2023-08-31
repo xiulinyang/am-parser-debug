@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's0')
+('s0', ':instance', 'tall.a.01')
+('s0', ':Value', 'c0')
+('c0', ':instance', '"?"')
+('s0', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':EQU', 'c1')
+('c1', ':instance', '"now"')
+('s2', ':Attribute', 's0')
+('s2', ':instance', 'mountain.n.01')
+('s2', ':Name', 'c2')
+('c2', ':instance', '"Alto Cruz de la Demanda"')
+tokenized sentence:START How tall is the Alto Cruz de la Demanda ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 3, "node_id": ["c1", "s1"], "lexical_node": "s1"}, {"token_id": 9, "node_id": ["c2", "s2"], "lexical_node": "c2"}]

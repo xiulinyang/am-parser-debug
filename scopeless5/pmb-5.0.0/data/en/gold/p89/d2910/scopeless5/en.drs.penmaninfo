@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':NEGATION', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':NEGATION', 'b2')
+('b2', ':instance', '"box"')
+('b2', ':member', 's2')
+('s2', ':instance', 'excited.a.01')
+('s2', ':Experiencer', 's0')
+('s0', ':instance', 'person.n.01')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Stimulus', 's3')
+('s3', ':instance', 'news.n.01')
+tokenized sentence:START Everybody was excited by the news .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["b1", "b2"], "lexical_node": "b1"}, {"token_id": 2, "node_id": ["c0", "s1"], "lexical_node": "c0"}, {"token_id": 3, "node_id": ["s0", "s2"], "lexical_node": "s2"}, {"token_id": 6, "node_id": "s3"}]

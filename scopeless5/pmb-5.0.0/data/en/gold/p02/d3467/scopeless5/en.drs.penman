@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / destroy.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s5 / castle.n.01
+			:Creator (s3 / child.n.01)
+			:MadeOf (s4 / sand.n.01))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / entity.n.01
+			:EQU (s2 / drink.v.01
+				:Time (s0 / time.n.08
+					:TSU (c0 / "now"))
+				:Agent (s1 / person.n.01
+					:EQU (c1 / "hearer"))
+				:Patient (s3 / wine.n.01))
+			:Patient (s5 / milk.n.01))))

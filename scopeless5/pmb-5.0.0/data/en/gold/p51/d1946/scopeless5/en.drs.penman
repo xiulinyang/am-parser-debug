@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / blue.a.01
+		:Colour-of (s1 / hair.n.01
+			:Part-of (s0 / female.n.02
+				:Name (c0 / "Jeannie")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Degree (s4 / more.r.01
+			:Theme s1
+			:Co-Theme (s6 / eye.n.01
+				:Part-of (s5 / female.n.02)))))

@@ -1,0 +1,15 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s6 / impress.v.01
+			:Experiencer (s4 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s5 / time.n.08
+				:TPR (c3 / "now"))
+			:Stimulus (s7 / beauty.n.01
+				:Creator (s8 / nature.n.03))))
+	:member (s1 / visit.v.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s3 / island.n.01)))

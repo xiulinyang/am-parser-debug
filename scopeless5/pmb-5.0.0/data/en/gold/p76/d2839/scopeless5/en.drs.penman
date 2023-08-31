@@ -1,0 +1,17 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / be.v.13
+			:Theme (s5 / entity.n.01)
+			:Time (s7 / time.n.08
+				:EQU (c3 / "now"))
+			:Value (s9 / euro.n.01
+				:Quantity (s8 / quantity.n.01
+					:EQU (c4 / "69")))))
+	:member (s1 / buy.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / mouse.n.04
+			:Creator (s3 / company.n.01
+				:Name (c2 / "Apple")))))

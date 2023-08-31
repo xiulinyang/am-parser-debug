@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:NEGATION (b3 / "box"
+				:member (s2 / catch.v.19
+					:Recipient (s0 / person.n.01
+						:Sub-of (s1 / person.n.01
+							:Sub (c0 / "speaker")))
+					:Time (s3 / time.n.08
+						:EQU (c1 / "now"))
+					:Theme (s4 / cold.n.01))))))

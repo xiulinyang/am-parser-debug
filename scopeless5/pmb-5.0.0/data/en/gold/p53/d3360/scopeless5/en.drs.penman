@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / be.v.01
+		:Theme (s1 / woman.n.01
+			:Attribute (s0 / wounded.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s5 / person.n.01
+			:Source (s4 / country.n.02
+				:Name (c1 / "brazil"))
+			:Role (s6 / tourist.n.01))))

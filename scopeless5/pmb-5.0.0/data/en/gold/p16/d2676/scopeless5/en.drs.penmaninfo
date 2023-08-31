@@ -1,0 +1,9 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'launch.v.02')
+('s1', ':Theme', 's0')
+('s0', ':instance', 'hang_glider.n.02')
+('s1', ':Source', 's2')
+('s2', ':instance', 'cliff.n.01')
+tokenized sentence:START A hang glider launched off the cliff .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 3, "node_id": "s0"}, {"token_id": 4, "node_id": "s1"}, {"token_id": 7, "node_id": "s2"}]

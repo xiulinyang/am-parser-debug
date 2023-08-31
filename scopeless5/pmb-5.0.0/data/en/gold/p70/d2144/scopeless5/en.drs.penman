@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s8 / high.a.01
+		:Theme (s0 / mountain.n.01
+			:Name (c0 / "Mt. Fuji")
+			:EQU (s3 / mountain.n.01
+				:Attribute (s1 / high.a.01
+					:Degree (s2 / most.r.01))
+				:Location (s4 / country.n.02
+					:Name (c1 / "Japan"))))
+		:Time (s5 / time.n.08
+			:EQU (c2 / "now"))
+		:Value (s7 / meter.n.01
+			:Quantity (s6 / quantity.n.01
+				:EQU (c3 / "3776")))))

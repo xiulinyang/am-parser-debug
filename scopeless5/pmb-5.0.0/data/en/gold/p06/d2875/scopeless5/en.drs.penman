@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / make.v.16
+		:Agent (s0 / locust.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / jump.n.06
+			:Attribute (s3 / big.a.01
+				:Value (c1 / "+")))))

@@ -1,0 +1,17 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s8 / like.v.02
+				:Experiencer (s6 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Time (s7 / time.n.08
+					:TPR (c3 / "now"))
+				:Stimulus (s9 / entity.n.01))))
+	:member (s1 / watch.v.03
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / film.n.01
+			:Topic (s5 / giraffe.n.01)
+			:Attribute (s3 / new.a.01))))

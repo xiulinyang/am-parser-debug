@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s1 / die.v.01
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:TAB (s4 / day.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "3"))
+			:EQU (s5 / entity.n.01
+				:TAB (s7 / arrive.v.01
+					:Theme (s6 / male.n.02)
+					:Time (s8 / time.n.08
+						:TPR (c3 / "now"))
+					:Destination (s9 / city.n.01
+						:Name (c4 / "Boston")))))))

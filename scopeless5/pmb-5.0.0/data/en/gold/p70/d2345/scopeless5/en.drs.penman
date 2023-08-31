@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / difficult.a.01
+		:Attribute-of (s1 / test.n.02
+			:Time (s0 / time.n.08
+				:DayOfWeek (c0 / "wednesday")))
+		:Time (s2 / time.n.08
+			:TSU (c1 / "now"))))

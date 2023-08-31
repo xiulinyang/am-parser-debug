@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s5 / call_off.v.01
+			:Theme (s3 / sport.n.01)
+			:Time (s4 / time.n.08
+				:EQU (c1 / "now"))
+			:Causer (s6 / rain.n.01)))
+	:member (s1 / be.v.01
+		:Theme (s0 / rugby.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme s3))

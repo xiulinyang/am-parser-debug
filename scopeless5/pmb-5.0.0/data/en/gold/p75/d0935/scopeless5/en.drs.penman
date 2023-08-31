@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / happy.a.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / person.n.01
+			:Role (s5 / girlfriend.n.02
+				:Of (s3 / person.n.01
+					:EQU (c2 / "speaker"))))))

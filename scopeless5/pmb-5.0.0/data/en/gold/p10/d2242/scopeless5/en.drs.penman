@@ -1,0 +1,8 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s1 / prove.v.02
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Topic (s2 / entity.n.01)
+			:Recipient (s3 / person.n.01
+				:EQU (c1 / "hearer")))))

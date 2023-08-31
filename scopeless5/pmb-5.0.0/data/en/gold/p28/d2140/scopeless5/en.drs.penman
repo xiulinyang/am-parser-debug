@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / drive.v.04
+		:Causer (s0 / grief.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / female.n.02)
+		:Result (s4 / mad.a.02
+			:Attribute-of s3)))

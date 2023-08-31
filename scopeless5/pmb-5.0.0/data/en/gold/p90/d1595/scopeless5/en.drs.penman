@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / attached.a.04
+		:Experiencer (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s2 / deeply.r.01)
+		:Stimulus (s5 / person.n.01
+			:Role (s6 / parent.n.01
+				:Of (s4 / female.n.02)))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / elect.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / cardinal.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / person.n.01
+			:Role (s6 / pope.n.01
+				:Attribute (s4 / new.a.01)))))

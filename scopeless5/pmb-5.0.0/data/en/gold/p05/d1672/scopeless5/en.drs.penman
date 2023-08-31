@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / thirsty.a.02
+		:Experiencer (s0 / female.n.02
+			:Name (c0 / "Emily"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

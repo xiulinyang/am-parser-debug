@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / rise.v.02
+		:Attribute (s1 / revenue.n.01
+			:Creator (s0 / company.n.01
+				:Name (c0 / "Tom Online")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (s5 / percent.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "38.5")))))

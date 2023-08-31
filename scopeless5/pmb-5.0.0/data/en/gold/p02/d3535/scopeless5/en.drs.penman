@@ -1,0 +1,12 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / do.v.02
+			:Agent (s3 / person.n.01
+				:EQU (c1 / "speaker"))
+			:Time (s4 / time.n.08
+				:TSU (c2 / "now"))
+			:Theme (s6 / entity.n.01)))
+	:member (s2 / important.a.01
+		:Attribute-of (s0 / entity.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / get.v.06
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Destination (s2 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Theme (s3 / number.n.04
+			:User (s5 / girl.n.01
+				:Attribute (s4 / young.a.01)))))

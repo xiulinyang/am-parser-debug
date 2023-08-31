@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / stick.v.02
+		:Patient (s0 / zipper.n.01
+			:Part-of (s2 / jacket.n.01
+				:User (s1 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / take.v.20
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / risk.n.02)))

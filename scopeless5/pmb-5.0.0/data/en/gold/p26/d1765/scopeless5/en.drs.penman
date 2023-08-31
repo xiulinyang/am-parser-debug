@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / carry.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / backpack.n.01)
+		:Location (s5 / back.n.01
+			:Part-of (s4 / female.n.02))))

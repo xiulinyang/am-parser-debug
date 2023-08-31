@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / reelect.v.01
+		:Theme (s1 / male.n.02
+			:Name (c0 / "Fujimori")
+			:Title (s0 / president.n.03))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s4 / time.n.08
+			:YearOfCentury (c2 / "1995"))))

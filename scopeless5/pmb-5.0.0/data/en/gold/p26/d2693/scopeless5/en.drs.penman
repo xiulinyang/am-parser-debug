@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / break.v.57
+		:Experiencer (s1 / person.n.01
+			:Role (s2 / neighbor.n.01
+				:Of (s0 / person.n.01
+					:Sub (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s5 / rib.n.02)))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / wipe.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Source (s4 / hand.n.01
+			:Part-of (s3 / male.n.02))
+		:Destination (s6 / towel.n.01
+			:Attribute (s5 / dirty.a.01))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / absorbed.a.01
+		:Experiencer (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s2 / completely.r.01)
+		:Stimulus (s4 / book.n.01)))

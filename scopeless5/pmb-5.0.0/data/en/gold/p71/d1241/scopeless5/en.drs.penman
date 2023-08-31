@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / sentence.v.01
+		:Patient (s3 / person.n.01))
+	:member (s5 / appeal.v.01
+		:Agent (s2 / entity.n.01
+			:Sub (s0 / person.n.01
+				:Role (s1 / public_prosecutor.n.01))
+			:Sub s3)
+		:Time (s6 / time.n.08
+			:TPR (c0 / "now"))))

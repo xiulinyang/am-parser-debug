@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / talk.v.01
+		:Agent (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Start (s3 / time.n.08
+			:ClockTime (c1 / "20:00"))
+		:Finish (s4 / time.n.08
+			:ClockTime (c2 / "22:00"))))

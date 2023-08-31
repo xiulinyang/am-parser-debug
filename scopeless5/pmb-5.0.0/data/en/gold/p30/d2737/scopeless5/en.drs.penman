@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s3 / fly.v.01
+		:Theme (s1 / entity.n.01
+			:Sub (s0 / female.n.02
+				:Name (c0 / "Susan"))
+			:Sub (s2 / male.n.02
+				:Name (c1 / "Bob")))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Source (s5 / city.n.01
+			:Name (c3 / "London"))
+		:Destination (s6 / city.n.01
+			:Name (c4 / "Sydney")
+			:Part-of (s7 / country.n.02
+				:Name (c5 / "Australia")))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / open.a.01
+		:Attribute-of (s1 / fly.n.03
+			:User (s0 / person.n.01
+				:EQU (c0 / "hearer")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

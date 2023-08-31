@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / equal.v.01
+		:Theme (s1 / degree_celsius.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "35")))
+		:Co-Theme (s4 / degree_fahrenheit.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "95")))))

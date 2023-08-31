@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s2 / force.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Ivan IV")
+			:EQU-of (s1 / male.n.02
+				:Name (c1 / "Ivan the Terrible")))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))
+		:Patient (s4 / person.n.01
+			:Quantity (c3 / "+")
+			:Role (s5 / tatar.n.01))
+		:Result (s6 / convert.v.03
+			:Patient s4
+			:Start (s7 / islam.n.02)
+			:Result (s8 / christianity.n.01))))

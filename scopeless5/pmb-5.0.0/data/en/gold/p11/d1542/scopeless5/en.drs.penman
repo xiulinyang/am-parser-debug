@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s0 / according.a.02
+		:Source (s1 / survey.n.01)
+		:Proposition (b1 / "box"
+			:member (s5 / suffer.v.01
+				:Experiencer (s3 / person.n.01
+					:Quantity (s2 / quantity.n.01
+						:EQU (c0 / "1000000000")))
+				:Time (s4 / time.n.08
+					:EQU (c1 / "now"))
+				:Stimulus (s6 / poverty.n.01
+					:Location (s7 / world.n.01))))))

@@ -1,0 +1,10 @@
+title: RTE-3
+subcorpus: RTE
+source: http://pascallin.ecs.soton.ac.uk/Challenges/RTE3/Datasets/
+terms of use: 
+split: test
+entailment: YES
+ent_part: h
+task: SUM
+id: 784
+length: short

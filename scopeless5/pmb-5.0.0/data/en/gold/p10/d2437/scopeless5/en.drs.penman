@@ -1,0 +1,16 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:EXPLANATION (b2 / "box"
+			:member (s4 / twist.v.10
+				:Experiencer (s3 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Time (s5 / time.n.08
+					:TPR (c3 / "now"))
+				:Patient (s7 / ankle.n.01
+					:Part-of (s6 / person.n.01
+						:EQU (c4 / "speaker")))))
+		:member (s2 / play.v.01
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Time (s1 / time.n.08
+				:TSU (c1 / "now")))))

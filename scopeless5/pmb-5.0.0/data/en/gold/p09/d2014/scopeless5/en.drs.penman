@@ -1,0 +1,11 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s3 / state.a.01
+			:Experiencer (s4 / person.n.01
+				:EQU (c3 / "hearer"))
+			:EQU (c2 / "?")))
+	:member (s2 / hungry.a.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

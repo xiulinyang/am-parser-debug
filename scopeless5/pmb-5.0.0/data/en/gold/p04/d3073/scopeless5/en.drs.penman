@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / elect.v.01
+		:Agent (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / male.n.02
+			:Name (c1 / "John"))
+		:Result (s4 / captain.n.05
+			:Of (s5 / team.n.01))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / flow.v.01
+		:Theme (s0 / river.n.01
+			:Theme-of (s4 / be.v.02
+				:Time (s5 / time.n.08
+					:EQU (c2 / "now"))
+				:Co-Theme (s6 / river.n.01
+					:Name (c3 / "Thames"))))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Path (s3 / city.n.01
+			:Name (c1 / "London"))))

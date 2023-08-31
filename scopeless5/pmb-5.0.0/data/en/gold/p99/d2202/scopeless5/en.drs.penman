@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / mar.v.01
+		:Causer (s1 / weather.n.01
+			:Attribute (s0 / bad.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / ceremony.n.01)))

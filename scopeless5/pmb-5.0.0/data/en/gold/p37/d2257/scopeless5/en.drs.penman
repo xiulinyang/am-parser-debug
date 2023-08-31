@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / tear_off.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:Patient (s4 / head.n.01
+			:Part-of (s3 / person.n.01
+				:EQU (c1 / "speaker")))))

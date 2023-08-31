@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'speak.v.02')
+('s2', ':Agent', 's0')
+('s0', ':instance', 'boy.n.01')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Co-Agent', 's4')
+('s4', ':instance', 'person.n.01')
+('s4', ':Role', 's5')
+('s5', ':instance', 'grandfather.n.01')
+('s5', ':Of', 's3')
+('s3', ':instance', 'male.n.02')
+tokenized sentence:START The boy is speaking to his grandfather .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": ["c0", "s1"], "lexical_node": "s1"}, {"token_id": 4, "node_id": "s2"}, {"token_id": 6, "node_id": "s3"}, {"token_id": 7, "node_id": ["s4", "s5"], "lexical_node": "s5"}]

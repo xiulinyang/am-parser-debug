@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / charge.v.06
+		:Agent (s0 / police.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Recipient (s3 / male.n.02
+			:Name (c1 / "Sachiyo"))
+		:Theme (s4 / murder.n.01)))

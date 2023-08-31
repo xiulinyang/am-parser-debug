@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / compose.v.01
+		:Theme (s0 / bronze.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute (s4 / entity.n.01
+			:Sub (s3 / copper.n.01)
+			:Sub (s5 / tin.n.01))))

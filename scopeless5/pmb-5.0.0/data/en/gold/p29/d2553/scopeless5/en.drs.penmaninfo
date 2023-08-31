@@ -1,0 +1,11 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'close_at_hand.a.01')
+('s2', ':Time', 's0')
+('s0', ':instance', 'time.n.08')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s1', ':Attribute', 's2')
+('s1', ':instance', 'store.n.01')
+tokenized sentence:START Is the store near at hand ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 4, "node_id": "s2"}]

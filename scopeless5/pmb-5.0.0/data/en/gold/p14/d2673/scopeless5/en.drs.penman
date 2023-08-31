@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / fake.a.01
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Attribute (s3 / entity.n.01
+			:APX (s0 / message.n.01))))

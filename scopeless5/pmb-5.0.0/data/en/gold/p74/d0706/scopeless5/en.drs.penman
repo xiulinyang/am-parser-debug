@@ -1,0 +1,19 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s11 / injure.v.01
+			:Patient (s8 / person.n.01
+				:Role (s9 / secretary.n.02
+					:Of (s7 / female.n.02)))
+			:Time (s10 / time.n.08
+				:TPR (c4 / "now"))))
+	:member (s1 / be.v.01
+		:Theme (s0 / female.n.02
+			:Name (c0 / "Kiesbauer"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s3 / target.n.02
+			:Theme (s4 / letter_bomb.n.01))
+		:Time (s5 / time.n.08
+			:MonthOfYear (c2 / "6")
+			:EQU (s6 / time.n.08
+				:YearOfCentury (c3 / "1995")))))

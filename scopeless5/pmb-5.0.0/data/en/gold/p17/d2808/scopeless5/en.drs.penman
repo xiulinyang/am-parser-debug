@@ -1,0 +1,13 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s5 / entity.n.01
+			:EQU (s3 / go.v.01
+				:Theme (s0 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Instrument (s4 / subway.n.01))
+			:Instrument (s6 / train.n.01)))
+	:member (s1 / prefer.v.01
+		:Experiencer s0
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus s3))

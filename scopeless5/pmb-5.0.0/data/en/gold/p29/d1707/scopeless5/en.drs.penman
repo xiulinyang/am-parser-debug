@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / overtake.v.01
+		:Theme (s1 / car.n.01
+			:User (s0 / person.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s4 / entity.n.01
+			:User (s5 / person.n.01
+				:Sub (c1 / "speaker")))))

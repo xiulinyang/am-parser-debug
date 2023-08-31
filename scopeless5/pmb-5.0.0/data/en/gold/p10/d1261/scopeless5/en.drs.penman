@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / improve.v.02
+		:Patient (s2 / market.n.01
+			:Location (s0 / country.n.02
+				:Name (c0 / "austria"))
+			:Part-of (s1 / job.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))))

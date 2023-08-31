@@ -1,0 +1,9 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s5 / light_up.v.04
+				:Patient (s4 / lamp.n.01
+					:Colour (s3 / red.a.01))))
+		:member (s0 / event.v.01
+			:Participant (s1 / entity.n.01
+				:EQU (s2 / danger.n.01)))))

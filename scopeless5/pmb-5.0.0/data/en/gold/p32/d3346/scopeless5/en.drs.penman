@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / tick.v.01
+		:Theme (s0 / clock.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

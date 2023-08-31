@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / start.v.01
+			:Time (s6 / time.n.08
+				:TPR (c2 / "now"))
+			:Part-of (s7 / cry.v.02
+				:Agent (s4 / person.n.01
+					:EQU (c1 / "speaker")))))
+	:member (s1 / start.v.01
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Part-of (s3 / cry.v.02
+			:Agent (s0 / female.n.02))))

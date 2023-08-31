@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / whistle.v.01
+		:Agent (s0 / crowd.n.01
+			:Agent-of (s3 / applaud.v.01
+				:Time (s4 / time.n.08
+					:TPR (c1 / "now"))
+				:Theme (s7 / speech.n.01
+					:Creator (s6 / male.n.02
+						:Name (c2 / "Obama")
+						:Title (s5 / president.n.03)))))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

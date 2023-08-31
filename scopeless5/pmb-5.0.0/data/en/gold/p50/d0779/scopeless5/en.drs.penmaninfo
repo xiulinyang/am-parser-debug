@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'start.v.01')
+('s1', ':Theme', 's0')
+('s0', ':instance', 'movie.n.01')
+('s1', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':TSU', 'c0')
+('c0', ':instance', '"now"')
+('s1', ':Time', 's3')
+('s3', ':instance', 'time.n.08')
+('s3', ':ClockTime', 'c1')
+('c1', ':instance', '"22:00"')
+tokenized sentence:START The movie starts at ten o'clock .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": ["c0", "s2", "s1"], "lexical_node": "s1"}, {"token_id": 6, "node_id": ["s3", "c1"], "lexical_node": "s3"}]

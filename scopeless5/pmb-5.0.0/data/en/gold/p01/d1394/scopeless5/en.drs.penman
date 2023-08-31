@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / hit.v.08
+		:Theme (s0 / home_run.n.01
+			:Quantity (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s2 / male.n.02
+			:Name (c2 / "Babe Ruth"))))

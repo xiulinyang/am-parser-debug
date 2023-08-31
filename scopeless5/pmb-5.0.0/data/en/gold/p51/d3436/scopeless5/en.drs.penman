@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / arrive.v.01
+		:Theme (s1 / flight.n.02
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s4 / time.n.08
+			:ClockTime (c2 / "14:30"))))

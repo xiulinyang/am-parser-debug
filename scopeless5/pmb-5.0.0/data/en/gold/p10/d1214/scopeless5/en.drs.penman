@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s5 / disown.v.02
+		:Patient (s2 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:APX (c0 / "60000"))
+			:Source (s1 / state.n.01
+				:Name (c1 / "saxony"))
+			:Role (s3 / farmer.n.01))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Context (s7 / reform.n.01
+			:Attribute (s6 / agricultural.a.02))))

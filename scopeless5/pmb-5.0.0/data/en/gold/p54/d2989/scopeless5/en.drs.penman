@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / sensitive.a.02
+		:Experiencer (s0 / person.n.01
+			:Role (s1 / director.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Stimulus (s4 / criticism.n.01)))

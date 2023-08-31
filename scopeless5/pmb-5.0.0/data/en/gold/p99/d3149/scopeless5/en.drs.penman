@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s2 / be.v.06
+		:Theme (s0 / unemployment_rate.n.01
+			:Location (s1 / country.n.02
+				:Name (c0 / "Japan")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (s5 / percent.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "3.4")))
+		:Time (s6 / time.n.08
+			:MonthOfYear (c3 / "9")
+			:EQU-of (s7 / time.n.08
+				:YearOfCentury (c4 / "2015")))))

@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / amazing.a.01
+		:Attribute-of (s0 / tour.n.01)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))))

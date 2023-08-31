@@ -1,0 +1,175 @@
+[ {
+  "instances" : [ "1\tnull\t_\t_\t_\t_\t(b0<root> / box  :NEGATION (b1<Sb1>))\t_\t_\t0\tROOT\tfalse\n2\tnull\t_\t_\t_\t_\t(b1<root> / box  :NEGATION (b2<Sb2>)  :member (s1<Ss1>))\t_\t_\t1\tAPP_Sb1\tfalse\n3\tnull\t_\t_\t_\t_\t(s0<root> / \"person.n.01\")\t_\t_\t2\tAPP_Ss0\tfalse\n4\tnull\t_\t_\t_\t_\t(s1<root> / \"steal.v.01\"  :Agent (s0<Ss0>)  :Theme (s3<Ss3>))\t_\t_\t2\tAPP_Ss1\tfalse\n5\tnull\t_\t_\t_\t_\t(s3<root> / \"money.n.01\")\t_\t_\t4\tAPP_Ss3\tfalse\n6\tnull\t_\t_\t_\t_\t(s2<root> / \"time.n.08\"  :TPR (c0<Sc0>)  :Time-of (s1<Ss1>))\t_\t_\t4\tMOD_Ss1\tfalse\n7\tnull\t_\t_\t_\t_\t(c0<root> / now)\t_\t_\t6\tAPP_Sc0\tfalse\n8\tnull\t_\t_\t_\t_\t(b2<root> / box  :NECESSITY (b3<Sb3>))\t_\t_\t2\tAPP_Sb2\tfalse\n9\tnull\t_\t_\t_\t_\t(b3<root> / box  :member (s4<Ss4>))\t_\t_\t8\tAPP_Sb3\tfalse\n10\tnull\t_\t_\t_\t_\t(s4<root> / \"punish.v.01\"  :Patient (s0<Ss0>))\t_\t_\t9\tAPP_Ss4\tfalse\n", "1\tnull\t_\t_\t_\t_\t(b0<root> / box  :CONDITION (b1<Sb1>))\t_\t_\t0\tROOT\tfalse\n2\tnull\t_\t_\t_\t_\t(b1<root> / box  :CONSEQUENCE (b2<Sb2>)  :member (s3<Ss3>))\t_\t_\t1\tAPP_Sb1\tfalse\n3\tnull\t_\t_\t_\t_\t(s1<root> / \"entity.n.01\")\t_\t_\t2\tAPP_Ss1\tfalse\n4\tnull\t_\t_\t_\t_\t(s0<root> / \"person.n.01\"  :EQU (s1<Ss1>))\t_\t_\t3\tMOD_Ss1\tfalse\n5\tnull\t_\t_\t_\t_\t(b2<root> / box  :member (s5<Ss5>))\t_\t_\t2\tAPP_Sb2\tfalse\n6\tnull\t_\t_\t_\t_\t(s5<root> / \"release.v.02\"  :Theme (s1<Ss1>))\t_\t_\t5\tAPP_Ss5\tfalse\n7\tnull\t_\t_\t_\t_\t(s4<root> / \"time.n.08\"  :TPR (c1<Sc1>)  :Time-of (s5<Ss5>))\t_\t_\t6\tMOD_Ss5\tfalse\n8\tnull\t_\t_\t_\t_\t(c1<root> / now)\t_\t_\t7\tAPP_Sc1\tfalse\n9\tnull\t_\t_\t_\t_\t(s3<root> / \"arrest.v.01\"  :Patient (s1<Ss1>))\t_\t_\t2\tAPP_Ss3\tfalse\n10\tnull\t_\t_\t_\t_\t(s2<root> / \"time.n.08\"  :TPR (c0 / now)  :Time-of (s3<Ss3>))\t_\t_\t9\tMOD_Ss3\tfalse\n" ],
+  "name" : "AM tree",
+  "format" : "amtree_string",
+  "type" : "data"
+}, {
+  "instances" : [ "b0!||0-1||1.0 b2|b1!||1-2||1.0 c0|s0|s1!|s2||2-3||1.0 s3!||4-5||1.0 b3!||5-6||1.0 s4!||7-8||1.0", "b0!||0-1||1.0 b2|b1!||2-3||1.0 s0!||1-2||1.0 c0|s2!||3-4||1.0 s3!|s1||4-5||1.0 s4!|c1||5-6||1.0 s5!||7-8||1.0" ],
+  "name" : "Alignments",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "instances" : [ "(b0 / box  :NEGATION (b1 / box  :NEGATION (b2 / box  :NECESSITY (b3 / box  :member (s4 / \"punish.v.01\"  :Patient (s0 / \"person.n.01\"  :Agent-of (s1 / \"steal.v.01\"  :Time (s2 / \"time.n.08\"  :TPR (c0 / now))  :Theme (s3 / \"money.n.01\")  :member-of b1)))))))", "(b0 / box  :CONDITION (b1 / box  :CONSEQUENCE (b2 / box  :member (s5 / \"release.v.02\"  :Theme (s1 / \"entity.n.01\"  :EQU-of (s0 / \"person.n.01\")  :Patient-of (s3 / \"arrest.v.01\"  :Time (s2 / \"time.n.08\"  :TPR (c0 / now))  :member-of b1))  :Time (s4 / \"time.n.08\"  :TPR (c1 / now))))))" ],
+  "name" : "Gold graph",
+  "format" : "graph_string",
+  "type" : "data"
+}, {
+  "instances" : [ "START Whoever stole the money should be punished .", "START All who were arrested have been released ." ],
+  "name" : "Sentence",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "b2" : 1.0,
+      "b1" : 1.0
+    },
+    "2" : {
+      "c0" : 1.0,
+      "s0" : 1.0,
+      "s1" : 1.0,
+      "s2" : 1.0
+    },
+    "3" : {
+      "s3" : 1.0
+    },
+    "4" : {
+      "b3" : 1.0
+    },
+    "5" : {
+      "s4" : 1.0
+    }
+  }, {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "b2" : 1.0,
+      "b1" : 1.0
+    },
+    "2" : {
+      "s0" : 1.0
+    },
+    "3" : {
+      "c0" : 1.0,
+      "s2" : 1.0
+    },
+    "4" : {
+      "s3" : 1.0,
+      "s1" : 1.0
+    },
+    "5" : {
+      "s4" : 1.0,
+      "c1" : 1.0
+    },
+    "6" : {
+      "s5" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "0" : 1.0
+    },
+    "1" : {
+      "1" : 1.0
+    },
+    "2" : {
+      "2" : 1.0
+    },
+    "3" : {
+      "4" : 1.0
+    },
+    "4" : {
+      "5" : 1.0
+    },
+    "5" : {
+      "7" : 1.0
+    }
+  }, {
+    "0" : {
+      "0" : 1.0
+    },
+    "1" : {
+      "2" : 1.0
+    },
+    "2" : {
+      "1" : 1.0
+    },
+    "3" : {
+      "3" : 1.0
+    },
+    "4" : {
+      "4" : 1.0
+    },
+    "5" : {
+      "5" : 1.0
+    },
+    "6" : {
+      "7" : 1.0
+    }
+  } ],
+  "name2" : "Sentence",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "b2" : 1.0,
+      "b1" : 1.0
+    },
+    "2" : {
+      "c0" : 1.0,
+      "s0" : 1.0,
+      "s1" : 1.0,
+      "s2" : 1.0
+    },
+    "4" : {
+      "s3" : 1.0
+    },
+    "5" : {
+      "b3" : 1.0
+    },
+    "7" : {
+      "s4" : 1.0
+    }
+  }, {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "s0" : 1.0
+    },
+    "2" : {
+      "b2" : 1.0,
+      "b1" : 1.0
+    },
+    "3" : {
+      "c0" : 1.0,
+      "s2" : 1.0
+    },
+    "4" : {
+      "s3" : 1.0,
+      "s1" : 1.0
+    },
+    "5" : {
+      "s4" : 1.0,
+      "c1" : 1.0
+    },
+    "7" : {
+      "s5" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Sentence"
+} ]

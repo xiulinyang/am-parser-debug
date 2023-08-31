@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / pull.v.15
+		:Agent (s0 / person.n.01
+			:Role (s1 / dentist.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s6 / tooth.n.01
+			:Part-of (s4 / person.n.01
+				:EQU (c1 / "speaker"))
+			:Attribute (s5 / bad.a.03))))

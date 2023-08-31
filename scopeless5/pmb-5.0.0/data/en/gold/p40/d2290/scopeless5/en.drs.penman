@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / buy.v.01
+		:Agent (s1 / person.n.01
+			:Role (s2 / mother.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s7 / entity.n.01
+			:Sub (s6 / bottle.n.02
+				:Quantity (s5 / quantity.n.01
+					:EQU (c2 / "2")))
+			:Sub (s8 / orange_juice.n.01))))

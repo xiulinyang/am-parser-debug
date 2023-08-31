@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01
+			:EQU (c0 / "?"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s6 / name.n.01
+			:Bearer (s4 / male.n.02
+				:Name (c2 / "Seuss")
+				:Title (s3 / doctor.n.04))
+			:Attribute (s5 / real.a.01))))

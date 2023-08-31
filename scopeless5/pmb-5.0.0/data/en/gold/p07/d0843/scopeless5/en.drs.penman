@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / die.v.01
+		:Patient (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Causer (s3 / lung_cancer.n.01)))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / total.v.02
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1995"))
+		:Theme (s2 / volume.n.01
+			:Theme (s1 / production.n.05))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (s7 / metric_ton.n.01
+			:Quantity (s5 / quantity.n.01
+				:MOR (s6 / quantity.n.01
+					:EQU (c2 / "100000"))))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / meet.v.02
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Location (s3 / station.n.01)
+		:Time (s4 / time.n.08
+			:ClockTime (c2 / "09:00"))))

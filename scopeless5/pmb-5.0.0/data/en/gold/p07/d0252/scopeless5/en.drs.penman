@@ -1,0 +1,14 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / be.v.01
+				:Theme (s0 / entity.n.01)
+				:Time (s5 / time.n.08
+					:TPR (c2 / "now"))
+				:Co-Theme (s6 / illusion.n.01)))
+		:member (s2 / see.v.01
+			:Stimulus s0
+			:Experiencer (s1 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Time (s3 / time.n.08
+				:TPR (c1 / "now")))))

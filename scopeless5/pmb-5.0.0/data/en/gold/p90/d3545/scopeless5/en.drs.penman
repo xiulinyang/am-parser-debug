@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Theme (s1 / boy.n.01
+			:Attribute (s0 / little.a.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s4 / zoo.n.01)))

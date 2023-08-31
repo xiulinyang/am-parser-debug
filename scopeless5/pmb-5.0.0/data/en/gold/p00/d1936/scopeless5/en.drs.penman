@@ -1,0 +1,18 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:NEGATION (b2 / "box"
+			:NEGATION (b3 / "box"
+				:member (s5 / minute.n.01
+					:EQU (s2 / entity.n.01)
+					:Quantity (s4 / quantity.n.01
+						:EQU (c1 / "1"))))
+			:NEGATION (b4 / "box"
+				:member (s7 / minute.n.01
+					:EQU s2
+					:Quantity (s6 / quantity.n.01
+						:EQU (c2 / "2")))))
+		:member (s3 / fast.a.02
+			:Theme (s1 / watch.n.01
+				:User (s0 / person.n.01
+					:EQU (c0 / "speaker")))
+			:Value s2)))

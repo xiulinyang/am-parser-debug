@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / wrap.v.02
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / arm.n.01
+			:Part-of (s3 / male.n.02))
+		:Destination (s5 / location.n.01
+			:SXY (s6 / person.n.01
+				:EQU (c1 / "speaker")))))

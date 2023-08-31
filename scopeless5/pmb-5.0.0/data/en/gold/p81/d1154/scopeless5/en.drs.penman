@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s6 / support.v.03
+				:Agent (s4 / person.n.01
+					:Sub (c2 / "speaker"))
+				:Time (s5 / time.n.08
+					:TSU (c3 / "now"))
+				:Theme (s7 / party.n.01
+					:Name (c4 / "Bolsheviki")))))
+	:member (s2 / defend.v.03
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Theme (s3 / city.n.01)))

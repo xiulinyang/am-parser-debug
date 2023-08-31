@@ -1,0 +1,6 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s1 / turn_on.v.01
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Patient (s2 / air_conditioning.n.01))))

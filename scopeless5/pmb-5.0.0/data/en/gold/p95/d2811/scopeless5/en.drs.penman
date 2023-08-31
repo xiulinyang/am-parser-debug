@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / fall.v.03
+		:Patient (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Result (s3 / in_love.a.01
+			:Experiencer s0
+			:Stimulus (s5 / person.n.01
+				:Source (s4 / country.n.02
+					:Name (c1 / "russia"))
+				:Role (s6 / immigrant.n.01)))))

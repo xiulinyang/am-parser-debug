@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / own.v.01
+		:Pivot (s0 / entity.n.01
+			:Quantity (s1 / quantity.n.01
+				:MOR (c0 / "2000"))
+			:EQU (s2 / person.n.01
+				:Source (s3 / country.n.02
+					:Name (c1 / "america"))))
+		:Time (s5 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s6 / automobile.n.01)))

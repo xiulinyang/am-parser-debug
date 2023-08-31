@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / allergic.a.02
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Experiencer (s1 / male.n.02
+			:Name (c1 / "Tom"))
+		:Stimulus (s3 / entity.n.01)))

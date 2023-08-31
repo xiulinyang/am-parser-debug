@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / take.v.18
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / extract.n.01
+			:MadeOf (s3 / beetroot.n.01))
+		:Time (s5 / time.n.08
+			:TIN (s6 / day.n.03
+				:TCT (c2 / "now")))))

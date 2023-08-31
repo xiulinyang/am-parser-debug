@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / lie.v.01
+		:Theme (s0 / island.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s3 / west.n.08
+			:Of (s4 / country.n.02
+				:Name (c1 / "Japan")))))

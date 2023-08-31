@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Theme (s3 / entity.n.01
+			:Quantity (c1 / "+")
+			:EQU (s4 / frog.n.01))
+		:Location (s5 / pond.n.01)))

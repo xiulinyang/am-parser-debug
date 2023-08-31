@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s0 / be.v.03
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:EQU (s2 / entity.n.01)
+		:Theme (s3 / washing_machine.n.01)
+		:Location (s4 / house.n.01)))

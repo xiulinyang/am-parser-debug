@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / put.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Theme (s3 / entity.n.01)
+		:Location (s4 / location.n.01
+			:Attribute (s5 / safe.a.01))))

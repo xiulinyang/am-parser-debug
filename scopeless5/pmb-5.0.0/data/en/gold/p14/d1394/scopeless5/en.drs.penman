@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / visit.v.04
+		:Destination (s0 / country.n.02
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / female.n.02
+			:Name (c2 / "Hillary Clinton")
+			:Role (s3 / first_lady.n.02))))

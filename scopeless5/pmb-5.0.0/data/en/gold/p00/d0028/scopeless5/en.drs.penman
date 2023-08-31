@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s8 / stand.v.03
+		:Theme (s3 / entity.n.01
+			:Sub (s0 / woman.n.01
+				:User (s2 / dress.n.01
+					:Colour (s1 / white.a.01)))
+			:Sub (s4 / woman.n.01
+				:User (s6 / dress.n.01
+					:Colour (s5 / blue.a.01))))
+		:Time (s7 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s9 / stage.n.03)))

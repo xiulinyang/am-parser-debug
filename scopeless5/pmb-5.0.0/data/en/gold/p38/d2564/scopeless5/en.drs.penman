@@ -1,0 +1,15 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s5 / give.v.03
+				:Agent (s3 / person.n.01
+					:EQU (c1 / "hearer"))
+				:Time (s4 / time.n.08
+					:EQU (c2 / "now"))
+				:Theme (s6 / entity.n.01)
+				:Recipient (s7 / person.n.01
+					:EQU (c3 / "speaker")))))
+	:member (s2 / steal.v.01
+		:Theme (s0 / book.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

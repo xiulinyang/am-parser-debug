@@ -1,0 +1,6 @@
+subcorpus: SICK
+source: http://clic.cimec.unitn.it/composes/sick.html
+problems: h9112, h9118
+inferences: entailment (2)
+splits: test (2)
+initial_corpora: FLICKR (2)

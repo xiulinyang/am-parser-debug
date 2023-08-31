@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s3 / fight.v.01
+		:Agent (s1 / entity.n.01
+			:Sub (s0 / state.n.03
+				:Name (c0 / "India"))
+			:Sub (s2 / state.n.03
+				:Name (c1 / "Pakistan")))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s6 / war.n.01
+			:Quantity (s5 / quantity.n.01
+				:EQU (c3 / "3"))
+			:Goal (s7 / possession.n.01
+				:Theme (s8 / geographical_area.n.01
+					:Name (c4 / "Kashmir"))))))

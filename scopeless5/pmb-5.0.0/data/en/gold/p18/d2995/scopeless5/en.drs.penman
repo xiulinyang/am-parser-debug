@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / catch.v.04
+		:Theme (s0 / kite.n.03)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / tree.n.01)))

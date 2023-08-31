@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / include.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s1 / price.n.01
+			:Attribute-of (s2 / room.n.01))
+		:Co-Theme (s4 / service_charge.n.01)))

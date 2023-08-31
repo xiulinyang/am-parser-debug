@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / cost.v.01
+		:Theme (s1 / paper_plate.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "10")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s5 / dollar.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "1")))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / engage.v.05
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Bob"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s3 / female.n.02
+			:Name (c2 / "Mary"))
+		:Duration (s6 / year.n.01
+			:Quantity (s4 / quantity.n.01
+				:MOR (s5 / quantity.n.01
+					:EQU (c3 / "1"))))))

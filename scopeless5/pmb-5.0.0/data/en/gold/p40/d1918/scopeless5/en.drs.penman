@@ -1,0 +1,21 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s10 / start.v.01
+			:Time (s11 / time.n.08
+				:TPR (c5 / "now"))
+			:Part-of (s12 / run.v.01
+				:Theme (s7 / entity.n.01
+					:Quantity (s8 / quantity.n.01
+						:EQU (c3 / "2"))
+					:Sub-of (s9 / person.n.01
+						:Sub (c4 / "speaker"))))))
+	:member (s2 / grab.n.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s6 / hand.n.01
+			:Part-of (s4 / person.n.01
+				:User (s3 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Role (s5 / little_sister.n.01)))))

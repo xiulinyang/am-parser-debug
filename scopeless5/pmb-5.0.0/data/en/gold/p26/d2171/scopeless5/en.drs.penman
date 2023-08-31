@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / come.v.02
+			:Theme (s0 / female.n.02
+				:Name (c0 / "Anne"))
+			:Time (s1 / time.n.08
+				:TSU (c1 / "now"))
+			:Destination (s4 / party.n.04
+				:Creator (s3 / person.n.01
+					:Sub (c2 / "speaker"))))))

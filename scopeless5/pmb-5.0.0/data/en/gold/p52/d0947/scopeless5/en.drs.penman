@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:member (s5 / choose.v.01
+			:Theme (s3 / measure.n.02
+				:Quantity (c2 / "-"))
+			:Time (s4 / time.n.08
+				:EQU (c3 / "now"))))
+	:member (s2 / call.v.05
+		:Theme (s0 / measure.n.02
+			:Quantity (c0 / "+"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

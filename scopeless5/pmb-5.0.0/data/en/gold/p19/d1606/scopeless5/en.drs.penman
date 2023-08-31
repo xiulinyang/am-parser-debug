@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / reek.v.02
+		:Location (s0 / fog.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / oil.n.01)))

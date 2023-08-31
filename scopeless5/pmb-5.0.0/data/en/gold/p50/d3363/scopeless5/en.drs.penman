@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s5 / do.v.02
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:Role (s2 / doctor.n.01))
+		:Duration (s4 / hour.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "8")))
+		:Theme (s6 / operation.n.06)))

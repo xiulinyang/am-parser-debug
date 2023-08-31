@@ -1,0 +1,7 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s2 / succeed.v.01
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Time (s1 / time.n.08
+				:TSU (c1 / "now")))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / bat.v.02
+			:Agent (s0 / female.n.02)
+			:Time (s1 / time.n.08
+				:TPR (c0 / "now"))
+			:Patient (s3 / eyelid.n.01))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s0 / right.a.01
+		:Attribute-of (s1 / arm.n.01
+			:Part-of (s2 / sculpture.n.01
+				:Name (c0 / "Statue of Liberty"))
+			:Theme-of (s6 / long.a.02
+				:Time (s3 / time.n.08
+					:EQU (c1 / "now"))
+				:Value (s5 / foot.n.02
+					:Quantity (s4 / quantity.n.01
+						:EQU (c2 / "42")))))))

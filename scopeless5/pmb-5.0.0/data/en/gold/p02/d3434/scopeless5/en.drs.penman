@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / shoot.v.02
+			:Agent (s0 / person.n.01
+				:Role (s1 / hunter.n.01))
+			:Time (s6 / time.n.08
+				:EQU (c1 / "now"))
+			:Patient (s7 / hare.n.01)))
+	:member (s2 / shoot.v.02
+		:Agent s0
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Patient (s4 / stag.n.01)))

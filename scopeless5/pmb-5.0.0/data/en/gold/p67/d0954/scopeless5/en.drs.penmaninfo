@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':NEGATION', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':POSSIBILITY', 'b2')
+('b2', ':instance', '"box"')
+('b2', ':member', 's1')
+('s1', ':instance', 'stand.v.05')
+('s1', ':Experiencer', 's0')
+('s0', ':instance', 'person.n.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"speaker"')
+('s1', ':Stimulus', 's3')
+('s3', ':instance', 'child.n.01')
+('s3', ':Attribute', 's2')
+('s2', ':instance', 'noisy.a.01')
+tokenized sentence:START I ca n't stand noisy children .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 3, "node_id": "b1"}, {"token_id": 2, "node_id": "b2"}, {"token_id": 4, "node_id": "s1"}, {"token_id": 5, "node_id": "s2"}, {"token_id": 6, "node_id": "s3"}]

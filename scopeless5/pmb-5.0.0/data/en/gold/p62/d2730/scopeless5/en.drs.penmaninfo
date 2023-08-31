@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'sprinkle.v.01')
+('s1', ':Agent', 's0')
+('s0', ':instance', 'male.n.02')
+('s0', ':Name', 'c0')
+('c0', ':instance', '"Tom"')
+('s1', ':Theme', 's2')
+('s2', ':instance', 'sugar.n.01')
+('s1', ':Destination', 's3')
+('s3', ':instance', 'toast.n.01')
+tokenized sentence:START Tom sprinkled some sugar on the toast .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "c0"}, {"token_id": 2, "node_id": "s1"}, {"token_id": 4, "node_id": "s2"}, {"token_id": 7, "node_id": "s3"}]

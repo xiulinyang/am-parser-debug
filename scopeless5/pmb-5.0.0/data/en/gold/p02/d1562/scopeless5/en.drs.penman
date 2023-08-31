@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / roar.v.01
+		:Theme (s0 / train.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Path (s3 / tunnel.n.01)))

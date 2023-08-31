@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / be.v.08
+		:Theme (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / person.n.01
+			:Role (s5 / tennis_player.n.01
+				:Attribute (s3 / good.a.08)))))

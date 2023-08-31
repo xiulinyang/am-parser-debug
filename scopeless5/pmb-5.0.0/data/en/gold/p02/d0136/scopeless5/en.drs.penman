@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s1 / ask.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Recipient (s4 / person.n.01
+			:Role (s5 / mother.n.01
+				:Of (s3 / male.n.02)))
+		:Proposition (b1 / "box"
+			:POSSIBILITY (b2 / "box"
+				:member (s7 / buy.v.01
+					:Agent (s6 / female.n.02)
+					:Beneficiary (s8 / male.n.02)
+					:Theme (s10 / toy.n.01
+						:Attribute (s9 / new.a.01)))))))

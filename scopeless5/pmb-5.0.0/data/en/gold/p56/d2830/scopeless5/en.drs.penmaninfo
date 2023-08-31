@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's3')
+('s3', ':instance', 'vote.v.01')
+('s3', ':Agent', 's2')
+('s2', ':instance', 'person.n.01')
+('s2', ':Quantity', 's0')
+('s0', ':instance', 'quantity.n.01')
+('s0', ':LES', 's1')
+('s1', ':instance', 'quantity.n.01')
+('s1', ':EQU', 'c0')
+('c0', ':instance', '"69000000"')
+('s3', ':Time', 's4')
+('s4', ':instance', 'time.n.08')
+('s4', ':TPR', 'c1')
+('c1', ':instance', '"now"')
+tokenized sentence:START Almost sixty-nine million people voted .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0", "s1"], "lexical_node": "s0"}, {"token_id": 2, "node_id": "s2"}, {"token_id": 5, "node_id": ["s3", "c1", "s4"], "lexical_node": "s3"}]

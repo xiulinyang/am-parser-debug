@@ -1,0 +1,15 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s6 / deprive.v.02
+			:Source (s4 / person.n.01
+				:EQU (s0 / person.n.01
+					:Role (s1 / hostage.n.01)))
+			:Time (s5 / time.n.08
+				:TPR (c1 / "now"))
+			:Time (s7 / time.n.08
+				:TPR (c2 / "now"))
+			:Theme (s8 / food.n.02)))
+	:member (s2 / starve.v.02
+		:Patient s0
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))))

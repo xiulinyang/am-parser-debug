@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / smash.v.02
+		:Patient (s2 / table.n.02
+			:MadeOf (s0 / glass.n.01)
+			:Attribute (s1 / round.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / shine.v.02
+		:Theme (s0 / sun.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Manner (s3 / bright.r.01)))

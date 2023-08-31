@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s6 / win.v.01
+		:Theme (s0 / award.n.02
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Pivot (s4 / film.n.01
+			:Creator (s3 / male.n.02
+				:Name (c2 / "Quentin Tarantino")
+				:Role (s2 / director.n.04))
+			:EQU-of (s5 / movie.n.01
+				:Name (c3 / "Pulp Fiction")))
+		:Context (s7 / festival.n.02
+			:Name (c4 / "Cannes Film Festival"))))

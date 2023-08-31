@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / hit.v.03
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Frequency (s4 / time.n.01
+			:Quantity (c2 / "2"))))

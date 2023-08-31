@@ -1,0 +1,22 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s8 / marry.v.01
+			:Agent (s7 / male.n.02
+				:Theme-of (s11 / enrol.v.01
+					:Time (s12 / time.n.08
+						:TPR (c4 / "now"))
+					:Goal (s13 / university.n.03
+						:Name (c5 / "Yale"))))
+			:Time (s9 / time.n.08
+				:TPR (c2 / "now"))
+			:Co-Agent (s10 / female.n.02
+				:Name (c3 / "Barbara"))))
+	:member (s1 / return.v.01
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Bush"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s3 / home.n.01)
+		:Attribute (s5 / person.n.01
+			:Role (s6 / hero.n.01
+				:Theme (s4 / war.n.01)))))

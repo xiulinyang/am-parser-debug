@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / bright-red.a.01
+		:Colour-of (s0 / blood.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

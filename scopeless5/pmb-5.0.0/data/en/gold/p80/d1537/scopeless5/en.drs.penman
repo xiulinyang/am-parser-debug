@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / take_off.v.06
+		:Agent (s0 / female.n.02
+			:Agent-of (s6 / put_on.v.01
+				:Time (s7 / time.n.08
+					:TPR (c1 / "now"))
+				:Theme (s9 / shoe.n.01
+					:Attribute (s8 / new.a.01))))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / shoe.n.01
+			:User (s3 / female.n.02)
+			:Attribute (s4 / old.a.02))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / look.v.02
+		:Theme (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Attribute (s3 / ravishing.a.01
+			:Theme s0)))

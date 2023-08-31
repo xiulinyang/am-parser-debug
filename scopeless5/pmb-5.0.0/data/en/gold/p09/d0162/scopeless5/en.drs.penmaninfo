@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'marry.v.01')
+('s1', ':Agent', 's0')
+('s0', ':instance', 'female.n.02')
+('s1', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s1', ':Co-Agent', 's4')
+('s4', ':instance', 'person.n.01')
+('s4', ':Role', 's5')
+('s5', ':instance', 'classmate.n.01')
+('s5', ':Of', 's3')
+('s3', ':instance', 'female.n.02')
+tokenized sentence:START She married her classmate .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": "s0"}, {"token_id": 2, "node_id": ["c0", "s2", "s1"], "lexical_node": "s1"}, {"token_id": 3, "node_id": "s3"}, {"token_id": 4, "node_id": ["s4", "s5"], "lexical_node": "s5"}]

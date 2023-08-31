@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s2 / true.a.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:EQU (s1 / entity.n.01)
+		:Proposition (b1 / "box"
+			:member (s4 / buy.v.01
+				:Agent (s3 / person.n.01
+					:EQU (c1 / "hearer"))
+				:Time (s5 / time.n.08
+					:TPR (c2 / "now"))
+				:Theme (s6 / house.n.01
+					:Location (s7 / city.n.01
+						:Name (c3 / "London")))))))

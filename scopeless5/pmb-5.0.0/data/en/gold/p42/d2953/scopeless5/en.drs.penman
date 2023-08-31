@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / file.v.02
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Patient (s4 / nail.n.01
+			:Part-of (s3 / female.n.02))))

@@ -1,0 +1,20 @@
+(b0 / "box"
+	:member (s2 / think.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Time (s3 / time.n.08
+			:EQU (c2 / "now"))
+		:Proposition (b1 / "box"
+			:member (s6 / fat.a.01
+				:Attribute-of (s4 / female.n.02
+					:Name (c3 / "Mary"))
+				:Time (s5 / time.n.08
+					:EQU (c4 / "now")))
+			:NEGATION (b2 / "box"
+				:POSSIBILITY (b3 / "box"
+					:member (s7 / be.v.08
+						:Theme s4
+						:Co-Theme (s8 / person.n.01
+							:Role (s9 / cheerleader.n.02))))))))

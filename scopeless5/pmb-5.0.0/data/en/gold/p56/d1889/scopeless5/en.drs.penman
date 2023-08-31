@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / knock.v.02
+		:Agent (s1 / man.n.01
+			:Attribute (s0 / ugly.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s5 / door.n.01
+			:User (s4 / person.n.01
+				:EQU (c1 / "speaker")))))

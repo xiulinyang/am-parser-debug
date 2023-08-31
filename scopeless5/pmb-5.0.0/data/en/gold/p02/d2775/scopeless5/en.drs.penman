@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / beat.v.01
+		:Agent (s1 / team.n.01
+			:Part (s0 / person.n.01
+				:Sub (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s4 / team.n.01
+			:Name (c2 / "Lions"))
+		:Extent (s5 / score.n.03
+			:Value (c3 / "3-0"))))

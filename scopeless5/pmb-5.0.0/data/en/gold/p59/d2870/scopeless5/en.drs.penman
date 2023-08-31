@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / learn.v.01
+		:Topic (s1 / language.n.01
+			:EQU (c0 / "?")
+			:Attribute (s0 / foreign.a.02))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Agent (s3 / person.n.01
+			:EQU (c2 / "hearer"))))

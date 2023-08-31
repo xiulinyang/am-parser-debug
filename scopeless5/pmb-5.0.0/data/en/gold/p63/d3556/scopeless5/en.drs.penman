@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / launch.v.03
+		:Theme (s1 / oil_tanker.n.01
+			:Attribute (s0 / new.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

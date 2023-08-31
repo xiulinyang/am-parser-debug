@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / get.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Theme (s2 / egg.n.02)
+		:Source (s3 / refrigerator.n.01)))

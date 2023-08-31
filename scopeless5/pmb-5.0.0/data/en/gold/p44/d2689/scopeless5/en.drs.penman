@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / massage.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Experiencer (s4 / foot.n.01
+			:Part-of (s3 / person.n.01
+				:EQU (c2 / "speaker")))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / predict.v.01
+		:Agent (s0 / max.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now")))
+	:member (s5 / lose.v.01
+		:Theme (s4 / team.n.01
+			:User (s3 / person.n.01
+				:Sub (c1 / "speaker")))
+		:Time (s6 / time.n.08
+			:TPR (c2 / "now"))))

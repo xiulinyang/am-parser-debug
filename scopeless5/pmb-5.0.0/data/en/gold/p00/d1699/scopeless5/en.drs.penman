@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s1 / drive.v.03
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Theme (s2 / person.n.01
+				:EQU (c1 / "hearer"))
+			:Destination (s3 / home.n.01))))

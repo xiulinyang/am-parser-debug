@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / be.v.02
+		:Theme (s0 / title.n.02
+			:Bearer (s1 / play.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / artifact.n.01
+			:Name (c1 / "Othello"))))

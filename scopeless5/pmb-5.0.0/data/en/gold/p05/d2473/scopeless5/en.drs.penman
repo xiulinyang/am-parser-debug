@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s1 / know.v.01
+		:Experiencer (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s6 / be.v.02
+				:Co-Theme (s3 / person.n.01
+					:Name (c2 / "?"))
+				:Theme (s4 / person.n.01
+					:Role (s5 / kidnapper.n.01))
+				:Time (s7 / time.n.08
+					:TPR (c3 / "now"))))))

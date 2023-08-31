@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s2 / proud.a.01
+			:Experiencer (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Degree (s1 / very.r.01))))

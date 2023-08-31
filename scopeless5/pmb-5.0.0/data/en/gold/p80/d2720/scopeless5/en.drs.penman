@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s1 / destroy.v.01
+			:Agent (s0 / person.n.01
+				:Sub (c0 / "speaker"))
+			:Patient (s2 / evidence.n.02))))

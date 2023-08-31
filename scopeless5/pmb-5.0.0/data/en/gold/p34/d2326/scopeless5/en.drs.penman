@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s5 / old.a.02
+		:Theme (s1 / car.n.01
+			:User (s0 / female.n.02))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s4 / year.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "2")))))

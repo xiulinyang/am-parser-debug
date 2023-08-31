@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / old.a.01
+		:Attribute-of (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s3 / measure.n.02
+			:Quantity (c2 / "12")
+			:Unit (s4 / year.n.01))))

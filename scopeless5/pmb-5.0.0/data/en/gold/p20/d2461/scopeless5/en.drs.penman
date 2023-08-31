@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / write_down.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / entity.n.01)
+		:Destination (s5 / notebook.n.01
+			:User (s4 / female.n.02))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / important.a.01
+		:Attribute-of (s1 / opinion.n.01
+			:Creator (s0 / person.n.01
+				:EQU (c0 / "hearer")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s3 / very.r.01)
+		:Beneficiary (s5 / person.n.01
+			:Sub (c2 / "speaker"))))

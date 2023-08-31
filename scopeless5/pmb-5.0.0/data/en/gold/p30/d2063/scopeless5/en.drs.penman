@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / attend.v.01
+		:Theme (s2 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:MOR (s1 / quantity.n.01
+					:EQU (c0 / "3000"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Goal (s5 / concert.n.01)))

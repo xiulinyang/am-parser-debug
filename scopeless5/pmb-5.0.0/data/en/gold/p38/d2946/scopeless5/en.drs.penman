@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / slay.v.01
+		:Patient (s0 / measure.n.02
+			:Quantity (c0 / "+"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))))

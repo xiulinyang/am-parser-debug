@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / send.v.03
+		:Theme (s0 / letter_bomb.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s3 / female.n.02
+			:Name (c1 / "Kiesbauer"))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / watch.v.03
+		:Agent (s2 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:TOP (s1 / quantity.n.01
+					:EQU (c0 / "529")))
+			:Role (s3 / spectator.n.01))
+		:Time (s5 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s6 / game.n.02)))

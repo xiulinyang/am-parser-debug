@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / consist.v.04
+		:Theme (s0 / country.n.02
+			:Name (c0 / "Indonesia"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Attribute (s4 / entity.n.01
+			:Sub (s3 / island.n.01
+				:Quantity (c2 / "+"))
+			:Sub (s6 / peninsula.n.01
+				:Quantity (s5 / quantity.n.01
+					:EQU (c3 / "2"))))))

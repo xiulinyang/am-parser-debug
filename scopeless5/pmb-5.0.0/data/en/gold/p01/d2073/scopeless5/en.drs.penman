@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / stop.v.02
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Part-of (s3 / grow.v.03
+			:Product (s0 / tree.n.01))))

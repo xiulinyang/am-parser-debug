@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / be.v.02
+		:Theme (s1 / focal_point.n.03
+			:NEQ-of (s0 / focal_point.n.03))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / avoidance.n.01
+			:Theme (s6 / accident.n.01
+				:Attribute (s5 / industrial.a.01)))))

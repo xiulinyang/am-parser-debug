@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / interested.a.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / history.n.02
+			:Source (s3 / continent.n.01
+				:Name (c2 / "asia")))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / dedicate.v.03
+		:Recipient (s0 / person.n.01
+			:Name (c0 / "?"))
+		:Theme (s2 / music.n.01
+			:Name (c2 / "String Quartet No. 8")
+			:Creator (s1 / male.n.02
+				:Name (c1 / "Shostakovich")))))

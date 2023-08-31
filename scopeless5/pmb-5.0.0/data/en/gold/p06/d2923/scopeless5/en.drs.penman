@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / float.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Agent (s1 / entity.n.01)
+		:Theme (s4 / boat.n.01
+			:User (s3 / person.n.01
+				:EQU (c1 / "hearer")))))

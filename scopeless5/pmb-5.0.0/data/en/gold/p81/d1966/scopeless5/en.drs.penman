@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / have.v.02
+		:Theme (s1 / eye.n.01
+			:Attribute (s0 / pretty.a.01))
+		:Pivot (s2 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / extinguish.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / fire.n.01)))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / send.v.01
+		:Agent (s0 / state.n.04
+			:Name (c0 / "Japan"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / person.n.01
+			:Role (s4 / athlete.n.01))
+		:Destination (s5 / olympics.n.01)
+		:Start (s6 / time.n.08
+			:YearOfCentury (c2 / "1912"))))

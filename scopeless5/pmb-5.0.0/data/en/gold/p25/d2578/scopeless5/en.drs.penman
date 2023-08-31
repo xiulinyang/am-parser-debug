@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / crowded.a.01
+		:Attribute-of (s0 / public_square.n.01
+			:Name (c0 / "Saint Peter's Square"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

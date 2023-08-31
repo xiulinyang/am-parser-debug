@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s2 / hope.v.01
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Proposition (b1 / "box"
+			:POSSIBILITY (b2 / "box"
+				:member (s4 / hitch.v.04
+					:Agent (s3 / male.n.02)
+					:Theme (s5 / ride.n.01
+						:Destination (s6 / city.n.01
+							:Name (c2 / "Boston"))))))))

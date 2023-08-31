@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / change.v.05
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / clothes.n.01)))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / female.n.02
+			:Name (c0 / "Lida"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / person.n.01
+			:Role (s5 / friend.n.01
+				:Of (s6 / female.n.02
+					:Name (c2 / "Mary"))
+				:Attribute-of (s3 / close.a.02)))))

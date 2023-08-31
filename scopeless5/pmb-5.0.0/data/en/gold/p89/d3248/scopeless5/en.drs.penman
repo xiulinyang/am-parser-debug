@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / predecease.v.01
+		:Patient (s1 / person.n.01
+			:Role (s2 / grandfather.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Patient (s6 / person.n.01
+			:Role (s7 / great_grandfather.n.01
+				:Of (s5 / person.n.01
+					:EQU (c2 / "speaker"))))))

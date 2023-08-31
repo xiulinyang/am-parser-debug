@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / fall.v.03
+		:Patient (s1 / person.n.01
+			:Attribute (s0 / young.a.01
+				:Value (c0 / "+"))
+			:Role (s2 / nurse.n.01))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s5 / in_love.a.01
+			:Experiencer s1
+			:Stimulus (s6 / person.n.01
+				:Role (s7 / patient.n.01)))))

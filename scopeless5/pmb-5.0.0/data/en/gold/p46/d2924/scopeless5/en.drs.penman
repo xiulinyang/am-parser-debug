@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / speak.v.02
+		:Agent (s0 / boy.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Agent (s4 / person.n.01
+			:Role (s5 / grandfather.n.01
+				:Of (s3 / male.n.02)))))

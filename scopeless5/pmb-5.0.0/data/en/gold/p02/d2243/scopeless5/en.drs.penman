@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / break.v.57
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s5 / leg.n.01
+			:Part-of (s3 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Attribute (s4 / right.a.01))))

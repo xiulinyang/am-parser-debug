@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / take.v.07
+		:Agent (s0 / person.n.01
+			:Role (s1 / maid.n.01))
+		:Time (s2 / time.n.08
+			:TSU (c0 / "now"))
+		:Theme (s4 / entity.n.01)
+		:Destination (s6 / house.n.01
+			:User (s5 / person.n.01
+				:EQU (c1 / "hearer")))))

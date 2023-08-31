@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s7 / teethe.v.01
+		:Patient (s4 / person.n.01
+			:Role (s5 / son.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker")))
+			:Attribute (s3 / old.a.01
+				:Value (s2 / month.n.02
+					:Quantity (s1 / quantity.n.01
+						:EQU (c1 / "6")))))
+		:Time (s6 / time.n.08
+			:EQU (c2 / "now"))))

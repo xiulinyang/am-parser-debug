@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / full.a.01
+		:Attribute-of (s0 / boat.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / person.n.01
+			:Role (s4 / refugee.n.01)
+			:Source (s5 / country.n.02
+				:Name (c1 / "Cuba")))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s5 / rain.v.01
+		:Time (s0 / time.n.08
+			:TIN (s2 / day.n.03
+				:TAB-of (s1 / day.n.03
+					:TCT (c0 / "now"))))
+		:EQU (s3 / entity.n.01)
+		:Time (s4 / time.n.08
+			:TSU (c1 / "now"))
+		:Location (s6 / south.n.04
+			:Of (s7 / country.n.02
+				:Name (c2 / "England")))))

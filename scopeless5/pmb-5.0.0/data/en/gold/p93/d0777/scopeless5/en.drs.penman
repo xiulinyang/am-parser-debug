@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / want.v.01
+		:Theme (s0 / entity.n.01
+			:Instance-of (s1 / sandwich.n.01)
+			:EQU (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Pivot (s3 / person.n.01
+			:EQU (c2 / "hearer"))))

@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s6 / say.v.02
+		:Agent (s5 / female.n.02)
+		:Time (s7 / time.n.08
+			:TPR (c2 / "now"))
+		:Proposition (b1 / "box"
+			:member (s1 / hurt.v.02
+				:Stimulus (s0 / colour.n.06)
+				:Time (s2 / time.n.08
+					:EQU (c0 / "now"))
+				:Experiencer (s4 / eye.n.01
+					:Part-of (s3 / person.n.01
+						:EQU (c1 / "speaker")))))))

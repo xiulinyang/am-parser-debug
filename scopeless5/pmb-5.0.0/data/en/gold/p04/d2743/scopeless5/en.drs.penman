@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s5 / fall.v.03
+		:Patient (s2 / entity.n.01
+			:Sub (s0 / person.n.01
+				:Role (s1 / prince.n.01))
+			:Sub (s3 / person.n.01
+				:Role (s4 / princess.n.01)))
+		:Time (s6 / time.n.08
+			:TPR (c0 / "now"))
+		:Manner (s7 / instantly.r.01)
+		:Result (s8 / in_love.a.01
+			:Experiencer s2)))

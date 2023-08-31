@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s5 / solve.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Duration (s3 / entity.n.01
+			:Sub (s2 / couple.n.03)
+			:Sub (s4 / hour.n.01))
+		:Theme (s6 / problem.n.02)))

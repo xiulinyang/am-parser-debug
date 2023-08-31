@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / cancel.v.01
+		:Theme (s0 / trip.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Causer (s3 / entity.n.01
+			:EQU (s5 / storm.n.01
+				:Attribute (s4 / terrible.a.03)))))

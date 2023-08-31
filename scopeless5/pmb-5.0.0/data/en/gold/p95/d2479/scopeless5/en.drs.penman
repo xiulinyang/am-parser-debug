@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / tall.a.01
+		:Attribute-of (s1 / horse.n.01
+			:Colour (s0 / white.a.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s4 / more.r.01
+			:Theme s1
+			:Co-Theme (s6 / horse.n.01
+				:Colour (s5 / black.a.01)))))

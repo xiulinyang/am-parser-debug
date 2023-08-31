@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / remind.v.01
+		:Stimulus (s0 / cottage.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Experiencer (s3 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Theme (s4 / cottage.n.01
+			:LocationOf (s7 / bear.v.02
+				:Patient (s5 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Time (s6 / time.n.08
+					:TPR (c3 / "now"))))))

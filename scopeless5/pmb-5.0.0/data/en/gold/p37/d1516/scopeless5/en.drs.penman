@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / hunt.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / hunter.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / rabbit.n.01)
+		:Co-Agent (s6 / dog.n.01
+			:Owner (s5 / male.n.02))))

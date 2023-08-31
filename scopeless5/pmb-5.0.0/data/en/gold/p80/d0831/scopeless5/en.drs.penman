@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / go_out.v.04
+		:Manner (s0 / all_of_a_sudden.r.02)
+		:Patient (s1 / light.n.02)
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))))

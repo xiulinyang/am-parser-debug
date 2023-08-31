@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'launch.v.02')
+('s2', ':Theme', 's0')
+('s0', ':instance', 'rocket.n.01')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Destination', 's3')
+('s3', ':instance', 'space.n.04')
+tokenized sentence:START The rocket was launched into space .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": ["c0", "s1"], "lexical_node": "c0"}, {"token_id": 4, "node_id": "s2"}, {"token_id": 6, "node_id": "s3"}]

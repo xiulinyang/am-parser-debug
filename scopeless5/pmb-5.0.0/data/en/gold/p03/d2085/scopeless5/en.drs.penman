@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / speak.v.03
+		:Agent (s1 / boy.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "america")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / japanese.n.02
+			:Attribute (s4 / broken.a.07))))

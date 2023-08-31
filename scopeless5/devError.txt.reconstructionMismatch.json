@@ -1,0 +1,36 @@
+[ {
+  "instances" : [ ],
+  "name" : "AM tree",
+  "format" : "amtree_string",
+  "type" : "data"
+}, {
+  "instances" : [ ],
+  "name" : "Alignments",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "instances" : [ ],
+  "name" : "Gold graph",
+  "format" : "graph_string",
+  "type" : "data"
+}, {
+  "instances" : [ ],
+  "name" : "Sentence",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "scores" : [ ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ ],
+  "name2" : "Sentence",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Sentence"
+} ]

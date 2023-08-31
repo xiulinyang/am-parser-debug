@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / wear.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / sweater.n.01
+			:User (s3 / person.n.01
+				:EQU (c2 / "hearer")))
+		:Manner (s5 / inside_out.r.01)))

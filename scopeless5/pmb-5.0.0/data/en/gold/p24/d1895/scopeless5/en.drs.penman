@@ -1,0 +1,5 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s1 / ice_skate.v.01
+			:Theme (s0 / person.n.01
+				:EQU (c0 / "hearer")))))

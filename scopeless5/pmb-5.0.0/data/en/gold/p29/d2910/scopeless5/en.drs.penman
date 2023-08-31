@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / go.v.01
+		:Causer (s0 / reason.n.01
+			:EQU (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s2 / female.n.02
+			:Name (c2 / "Jane"))
+		:Destination (s4 / station.n.01)))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / flow.v.02
+		:Theme (s0 / river.n.01
+			:Name (c0 / "Mississippi River"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Destination (s3 / gulf.n.01
+			:Name (c2 / "Gulf of Mexico"))))

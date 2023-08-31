@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / shoot.v.01
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Steven Jenkins"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s3 / person.n.01
+			:Role (s4 / friend.n.01))))

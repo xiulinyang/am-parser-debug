@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / guillotine.v.01
+		:Patient (s1 / female.n.02
+			:Name (c0 / "Marie Antoinette")
+			:Title (s0 / queen.n.02))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Theme (s1 / person.n.02
+			:Attribute (s0 / decapitated.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s6 / table.n.02
+			:User (s4 / person.n.01
+				:Role (s5 / coroner.n.01)))))

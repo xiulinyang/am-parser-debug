@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / go_off.v.02
+		:Theme (s0 / alarm.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s3 / time.n.08
+			:ClockTime (c1 / "05:30"))))

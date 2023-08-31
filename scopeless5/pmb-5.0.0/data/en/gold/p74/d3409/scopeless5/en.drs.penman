@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / terra_incognita.n.03
+			:EQU (s1 / manner.n.02
+				:Creator (s0 / female.n.02))
+			:EQU (s2 / manner.n.02
+				:Creator (s3 / lady.n.01)))))

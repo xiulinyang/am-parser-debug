@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s1 / do_away_with.v.01
+			:Agent (s0 / government.n.01)
+			:Theme (s3 / regulation.n.01
+				:Attribute (s2 / old.a.02)))))

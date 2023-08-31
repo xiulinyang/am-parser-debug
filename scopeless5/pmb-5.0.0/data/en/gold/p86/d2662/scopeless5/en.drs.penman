@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / wander.v.05
+		:Theme (s1 / attention.n.01
+			:Creator (s0 / male.n.02
+				:Name (c0 / "Tom")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

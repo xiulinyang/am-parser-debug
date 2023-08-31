@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / steal.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Theme (s4 / mobile_phone.n.01
+			:User (s3 / person.n.01
+				:EQU (c2 / "hearer")))))

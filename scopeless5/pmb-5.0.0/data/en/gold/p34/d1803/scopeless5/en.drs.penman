@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s0 / state.a.01
+		:Attribute-of (s2 / round.n.09
+			:NEQ-of (s1 / round.n.09))
+		:EQU (c0 / "?")))

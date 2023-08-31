@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s6 / study.v.04
+		:Agent (s0 / entity.n.01
+			:Quantity (c0 / "+")
+			:EQU (s1 / person.n.01
+				:Role (s2 / student.n.01))
+			:Location (s3 / location.n.01
+				:SXY (s4 / world.n.04)))
+		:Time (s5 / time.n.08
+			:EQU (c1 / "now"))
+		:Topic (s7 / english.n.01)))

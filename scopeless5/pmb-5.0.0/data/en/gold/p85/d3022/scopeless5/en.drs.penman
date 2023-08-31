@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / renew.v.01
+		:Beneficiary (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / licence.n.03
+			:User (s2 / person.n.01
+				:EQU (c2 / "speaker")))
+		:Time (s6 / time.n.08
+			:TAB (s5 / week.n.01
+				:TAB (c3 / "now")))))

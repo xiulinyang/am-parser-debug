@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / plan.v.01
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Topic (s3 / drink.v.01
+			:Agent s0
+			:Patient (s4 / champagne.n.01)
+			:Time (s5 / time.n.08
+				:ClockTime (c2 / "00:00")))))

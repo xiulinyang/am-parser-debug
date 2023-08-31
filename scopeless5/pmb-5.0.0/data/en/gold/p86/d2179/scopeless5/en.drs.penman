@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / punch.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / female.n.02)
+		:Location (s4 / face.n.01)))

@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s7 / flap.v.03
+		:Agent (s3 / entity.n.01
+			:Sub (s0 / duck.n.01
+				:Part (s2 / feather.n.01
+					:Colour (s1 / brown.a.01)))
+			:Sub (s5 / head.n.01
+				:Colour (s4 / green.a.01)))
+		:Time (s6 / time.n.08
+			:EQU (c0 / "now"))
+		:Patient (s9 / wing.n.01
+			:Part-of (s8 / entity.n.01))
+		:Location (s10 / water.n.02)))

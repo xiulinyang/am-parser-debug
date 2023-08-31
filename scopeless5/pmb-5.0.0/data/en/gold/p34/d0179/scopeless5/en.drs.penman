@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / put.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / key.n.01
+			:User (s3 / male.n.02))
+		:Destination (s6 / pocket.n.01
+			:User (s5 / male.n.02))))

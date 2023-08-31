@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / doze_off.v.01
+		:Experiencer (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / class.n.04)))

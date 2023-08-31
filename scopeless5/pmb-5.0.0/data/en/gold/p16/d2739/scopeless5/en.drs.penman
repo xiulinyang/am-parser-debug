@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / attend.v.01
+		:Theme (s1 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "40")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s3 / surprise.v.01
+			:Stimulus (s1 / reaction.n.02
+				:Creator (s0 / female.n.02))
+			:Time (s2 / time.n.08
+				:TPR (c0 / "now"))
+			:Experiencer (s4 / person.n.01
+				:EQU (c1 / "speaker")))))

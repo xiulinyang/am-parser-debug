@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / suck.v.01
+		:Agent (s1 / girl.n.01
+			:Attribute (s0 / little.a.03))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Patient (s5 / finger.n.01
+			:Part-of (s4 / female.n.02))))

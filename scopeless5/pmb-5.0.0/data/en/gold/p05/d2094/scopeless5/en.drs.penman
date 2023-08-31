@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / sing.v.01
+				:Agent (s0 / person.n.01
+					:Sub-of (s1 / person.n.01))
+				:Time (s3 / time.n.08
+					:TPR (c0 / "now"))
+				:Theme (s4 / song.n.01)))))

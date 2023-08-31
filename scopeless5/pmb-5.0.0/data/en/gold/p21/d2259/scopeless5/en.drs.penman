@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / seat.v.01
+		:Theme (s0 / person.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / table.n.03)
+		:Location (s4 / restaurant.n.01)))

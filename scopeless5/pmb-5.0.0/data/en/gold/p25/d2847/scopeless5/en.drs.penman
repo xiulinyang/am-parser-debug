@@ -1,0 +1,14 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / have.v.12
+			:Experiencer (s4 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s6 / time.n.08
+				:EQU (c3 / "now"))
+			:Stimulus (s7 / cold.n.01)))
+	:member (s2 / run.v.06
+		:Source (s1 / nose.n.01
+			:Part-of (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))))

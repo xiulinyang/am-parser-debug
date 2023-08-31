@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s2 / bear.v.02
+		:Patient (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s3 / time.n.08
+			:DayOfMonth (c2 / "31")))
+	:member (s5 / time.n.08
+		:YearOfCentury (c4 / "1940")
+		:EQU (s4 / time.n.08
+			:MonthOfYear (c3 / "5")
+			:EQU s3)))

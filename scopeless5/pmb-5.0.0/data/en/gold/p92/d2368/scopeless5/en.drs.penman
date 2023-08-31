@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / stubborn.a.01
+		:Attribute-of (s0 / male.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s2 / as.r.01
+			:Theme s0
+			:Co-Theme (s5 / mule.n.01
+				:Source (s4 / state.n.01
+					:Name (c1 / "Missouri"))))))

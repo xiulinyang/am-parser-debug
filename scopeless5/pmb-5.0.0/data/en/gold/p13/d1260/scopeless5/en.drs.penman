@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s1 / defeat.v.01
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Steffi Graf"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s3 / female.n.02
+			:Name (c2 / "Conchita Martinez")
+			:Source (s4 / country.n.02
+				:Name (c3 / "Spain")))
+		:Extent (s6 / entity.n.01
+			:Sub (s5 / score.n.03
+				:Value (c4 / "6-3"))
+			:Sub (s7 / score.n.03
+				:Value (c5 / "6-1")))))

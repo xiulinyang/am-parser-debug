@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / race.v.02
+		:Agent (s0 / person.n.01
+			:Role (s1 / pilot.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Beneficiary (s4 / company.n.01
+			:Name (c1 / "Ferrari"))
+		:Start (s5 / time.n.08
+			:YearOfCentury (c2 / "1995"))
+		:Finish (s6 / time.n.08
+			:YearOfCentury (c3 / "1999"))))

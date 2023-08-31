@@ -1,0 +1,17 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / lose.v.02
+			:Agent (s4 / female.n.02)
+			:Time (s6 / time.n.08
+				:TPR (c2 / "now"))
+			:Extent (s8 / entity.n.01
+				:Sub (s7 / score.n.03
+					:Value (c3 / "4-6"))
+				:Sub (s9 / score.n.03
+					:Value (c4 / "1-6")))))
+	:member (s3 / out.a.01
+		:Attribute-of (s1 / female.n.02
+			:Name (c0 / "Anke Huber")
+			:Title (s0 / ms.n.05))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

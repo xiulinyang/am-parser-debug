@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / take.v.18
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / sleeping_pill.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "3")))))

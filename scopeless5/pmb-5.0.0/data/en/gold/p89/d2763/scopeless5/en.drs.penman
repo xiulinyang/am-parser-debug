@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / annoy.v.01
+		:Manner (s0 / wrong.r.01)
+		:Experiencer (s1 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / noise.n.01
+			:Creator (s5 / car.n.01))))

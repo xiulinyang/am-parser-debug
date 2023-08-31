@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s5 / swallow.v.01
+		:TIN (s2 / hurt.v.01
+			:Patient (s1 / throat.n.01
+				:Part-of (s0 / person.n.01
+					:EQU (c0 / "speaker")))
+			:Time (s3 / time.n.08
+				:EQU (c1 / "now")))
+		:Agent (s4 / person.n.01
+			:EQU (c2 / "speaker"))
+		:Time (s6 / time.n.08
+			:EQU (c3 / "now"))))

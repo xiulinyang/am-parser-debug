@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / plant.v.01
+		:Theme (s0 / tree.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s4 / person.n.01
+			:Role (s5 / grandfather.n.01
+				:Of (s3 / person.n.01
+					:EQU (c1 / "speaker"))))))

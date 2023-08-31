@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Location (s0 / city.n.01
+			:Name (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / stadium.n.01
+			:Name (c2 / "Delle Alpi"))))

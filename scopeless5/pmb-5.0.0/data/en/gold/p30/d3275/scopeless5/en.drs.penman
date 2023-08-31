@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / thick.a.01
+		:Theme (s0 / ice.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s3 / inch.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c1 / "2")))))

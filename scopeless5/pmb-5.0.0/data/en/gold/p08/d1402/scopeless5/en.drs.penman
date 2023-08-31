@@ -1,0 +1,6 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s1 / go.v.01
+			:Theme (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Destination (s2 / restroom.n.01))))

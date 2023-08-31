@@ -1,0 +1,13 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:POSSIBILITY (b3 / "box"
+				:member (s5 / quit.v.01
+					:Agent (s4 / person.n.01
+						:EQU (c2 / "hearer")))))
+		:member (s2 / like.v.02
+			:Experiencer (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Time (s1 / time.n.08
+				:EQU (c1 / "now"))
+			:Stimulus (s3 / entity.n.01))))

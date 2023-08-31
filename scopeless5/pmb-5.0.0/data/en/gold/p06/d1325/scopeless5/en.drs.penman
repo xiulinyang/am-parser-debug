@@ -1,0 +1,3 @@
+(b0 / "box"
+	:member (s0 / event.v.01
+		:Participant (s1 / transformation.n.01)))

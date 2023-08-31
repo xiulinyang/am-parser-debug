@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / buy.v.01
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / entity.n.01
+			:Attribute (s3 / fake.a.02)
+			:APX (s6 / handbag.n.01
+				:Creator (s5 / company.n.01
+					:Name (c2 / "Gucci"))))))

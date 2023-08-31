@@ -1,0 +1,13 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s4 / go.v.01
+				:Theme (s3 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Destination (s5 / country.n.02
+					:Name (c3 / "Australia")))))
+	:member (s2 / save_up.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

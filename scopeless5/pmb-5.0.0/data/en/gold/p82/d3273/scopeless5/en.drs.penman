@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / fall.v.03
+		:Patient (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Result (s3 / asleep.a.01
+			:Attribute-of s0)
+		:Manner (s4 / immediately.r.01)))

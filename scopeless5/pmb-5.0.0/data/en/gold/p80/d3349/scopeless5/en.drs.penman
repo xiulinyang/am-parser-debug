@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / good.a.01
+		:Attribute-of (s0 / male.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s2 / very.r.01)
+		:Theme (s4 / play.v.07
+			:Theme (s5 / violin.n.01))))

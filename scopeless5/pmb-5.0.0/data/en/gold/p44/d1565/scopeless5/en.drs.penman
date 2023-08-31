@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s5 / see.v.01
+		:Experiencer (s4 / male.n.02)
+		:TIN (s3 / scared.a.01
+			:Experiencer (s0 / male.n.02)
+			:Time (s1 / time.n.08
+				:TPR (c0 / "now"))
+			:Degree (s2 / very.r.01))
+		:Time (s6 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s8 / snake.n.01
+			:Attribute (s7 / big.a.01
+				:Value (c2 / "+")))))

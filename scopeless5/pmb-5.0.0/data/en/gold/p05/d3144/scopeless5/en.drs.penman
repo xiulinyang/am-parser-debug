@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / use.v.01
+		:Theme (s1 / umbrella.n.01
+			:User (s0 / person.n.01
+				:Name (c0 / "?")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s3 / person.n.01
+			:EQU (c2 / "hearer"))))

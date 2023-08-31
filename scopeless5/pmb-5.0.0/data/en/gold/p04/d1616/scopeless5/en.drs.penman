@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s0 / be.v.01
+		:Theme (s1 / entity.n.01)
+		:Co-Theme (s3 / bag.n.01
+			:Attribute (s2 / heavy.a.01
+				:Value (c0 / "+")))))

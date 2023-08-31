@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / slip.v.03
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Tom")
+			:Agent-of (s3 / tear.v.01
+				:Time (s4 / time.n.08
+					:TPR (c2 / "now"))
+				:Patient (s6 / hamstring.n.01
+					:Part-of (s5 / male.n.02))))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

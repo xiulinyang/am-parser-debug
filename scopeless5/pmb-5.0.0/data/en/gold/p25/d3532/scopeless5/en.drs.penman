@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / paint.v.02
+		:Patient (s0 / fence.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Result (s3 / green.a.01
+			:Colour-of s0)))

@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / kill.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s1 / person.n.01)))

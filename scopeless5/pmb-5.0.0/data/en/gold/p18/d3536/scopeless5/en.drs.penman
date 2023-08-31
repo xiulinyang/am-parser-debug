@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / pull.v.15
+		:Source (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / tooth.n.01
+			:Part-of (s2 / female.n.02))
+		:Time (s5 / time.n.08
+			:TPR (c1 / "now"))))

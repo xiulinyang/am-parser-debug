@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.08
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / male.n.02
+			:Name (c2 / "john patrick rooney"))
+		:Co-Theme (s4 / chairman.n.01
+			:Of (s0 / company.n.01
+				:Name (c0 / "?")))))

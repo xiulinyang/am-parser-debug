@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s1 / put.v.01
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Theme (s2 / stamp.n.04)
+			:Destination (s3 / envelope.n.01))))

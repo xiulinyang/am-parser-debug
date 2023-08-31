@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / announce.v.03
+				:Agent (s0 / person.n.01
+					:Role (s1 / maid.n.01))
+				:Theme (s2 / person.n.01
+					:Role (s3 / guest.n.01))
+				:Time (s5 / time.n.08
+					:TPR (c0 / "now"))))))

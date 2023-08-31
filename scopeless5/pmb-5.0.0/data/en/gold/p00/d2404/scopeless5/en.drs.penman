@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / stop.v.02
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Part-of (s5 / hug.v.01
+			:Agent (s1 / entity.n.01
+				:Sub (s0 / male.n.02
+					:Name (c0 / "Tom"))
+				:Sub (s2 / female.n.02
+					:Name (c1 / "Mary"))))))

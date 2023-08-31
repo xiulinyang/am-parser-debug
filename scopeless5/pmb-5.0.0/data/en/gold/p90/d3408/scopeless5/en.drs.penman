@@ -1,0 +1,15 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s6 / shoot.v.01
+				:Agent (s4 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Time (s5 / time.n.08
+					:EQU (c3 / "now"))
+				:Patient (s7 / entity.n.01))))
+	:member (s1 / aim.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / duck.n.01)))

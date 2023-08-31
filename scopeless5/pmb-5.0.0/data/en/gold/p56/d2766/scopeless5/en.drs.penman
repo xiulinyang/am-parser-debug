@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / accompany.v.04
+				:Agent (s2 / person.n.01
+					:Role (s3 / mother.n.01
+						:Of (s1 / female.n.02)))
+				:Time (s5 / time.n.08
+					:EQU (c0 / "now"))
+				:Theme (s6 / female.n.02)))
+		:member (s0 / time.n.08)))

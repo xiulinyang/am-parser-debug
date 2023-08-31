@@ -1,0 +1,4 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s1 / iron.v.01
+			:Patient (s0 / shirt.n.01))))

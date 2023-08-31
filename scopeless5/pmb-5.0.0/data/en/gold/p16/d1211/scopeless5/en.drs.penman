@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / invite.v.06
+		:Agent (s2 / male.n.02
+			:EQU (s0 / person.n.01
+				:Role (s1 / king.n.01)))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / person.n.01
+			:Role (s6 / colonist.n.01))
+		:Destination (s8 / land.n.03
+			:User (s7 / male.n.02))))

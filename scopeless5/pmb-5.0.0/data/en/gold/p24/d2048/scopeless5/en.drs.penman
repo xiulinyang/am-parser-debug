@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / ask.v.02
+		:Agent (s1 / male.n.02
+			:Name (c0 / "Smith")
+			:Title (s0 / mr.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Recipient (s4 / female.n.02
+			:Name (c2 / "Jane"))
+		:Topic (s5 / marry.v.01
+			:Agent s4
+			:Co-Agent (s6 / male.n.02))))

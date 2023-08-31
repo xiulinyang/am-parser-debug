@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'be.v.01')
+('s1', ':Theme', 's0')
+('s0', ':instance', 'female.n.02')
+('s1', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s1', ':Co-Theme', 's3')
+('s3', ':instance', 'person.n.01')
+('s3', ':Role', 's4')
+('s4', ':instance', 'control_freak.n.01')
+tokenized sentence:START She 's a control freak .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": "s0"}, {"token_id": 2, "node_id": ["c0", "s2", "s1"], "lexical_node": "s1"}, {"token_id": 4, "node_id": ["s3", "s4"], "lexical_node": "s4"}]

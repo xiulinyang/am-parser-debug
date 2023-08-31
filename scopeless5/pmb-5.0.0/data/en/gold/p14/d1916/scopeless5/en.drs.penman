@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s5 / kind.a.01
+				:Attribute-of (s0 / entity.n.01
+					:Part-of (s1 / girl.n.01
+						:Part-of (s3 / class.n.02
+							:User (s2 / person.n.01
+								:EQU (c0 / "speaker")))))
+				:Time (s4 / time.n.08
+					:EQU (c1 / "now"))))))

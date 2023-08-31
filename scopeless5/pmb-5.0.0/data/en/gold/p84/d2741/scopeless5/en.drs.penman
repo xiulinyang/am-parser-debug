@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s5 / surprised.a.01
+				:Attribute-of (s0 / person.n.01)
+				:Time (s4 / time.n.08
+					:TPR (c1 / "now"))))
+		:member (s1 / come.v.02
+			:Theme s0
+			:Time (s2 / time.n.08
+				:TPR (c0 / "now"))
+			:Destination (s3 / street.n.01))))

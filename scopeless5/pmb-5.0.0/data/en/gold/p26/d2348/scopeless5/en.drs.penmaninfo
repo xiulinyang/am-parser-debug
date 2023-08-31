@@ -1,0 +1,11 @@
+('b0', ':instance', '"box"')
+('b0', ':POSSIBILITY', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':member', 's1')
+('s1', ':instance', 'spill.v.05')
+('s1', ':Agent', 's0')
+('s0', ':instance', 'female.n.02')
+('s1', ':Topic', 's2')
+('s2', ':instance', 'secret.n.01')
+tokenized sentence:START She may spill the beans .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": "s0"}, {"token_id": 2, "node_id": "b1"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 5, "node_id": "s2"}]

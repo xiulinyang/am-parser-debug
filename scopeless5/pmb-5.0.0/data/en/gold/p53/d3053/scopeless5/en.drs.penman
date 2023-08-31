@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / upset.v.03
+		:Stimulus (s0 / news.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s3 / female.n.02)
+		:Manner (s4 / deeply.r.01)))

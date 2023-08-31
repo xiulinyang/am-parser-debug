@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / suffer.v.02
+		:Experiencer (s0 / person.n.01
+			:Role (s1 / widow.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Stimulus (s5 / cancer.n.01
+			:Location (s4 / stomach.n.01))))

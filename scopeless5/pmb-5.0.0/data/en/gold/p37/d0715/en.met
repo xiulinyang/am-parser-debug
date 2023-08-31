@@ -1,0 +1,10 @@
+title: RTE-3
+subcorpus: RTE
+source: http://pascallin.ecs.soton.ac.uk/Challenges/RTE3/Datasets/
+terms of use: 
+split: test/test/test/test
+entailment: YES/YES/NO/YES
+ent_part: h/h/h/h
+task: IE/QA/QA/QA
+id: 187/421/422/423
+length: long/short/short/short

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / land.v.01
+		:Theme (s1 / robin.n.01
+			:Attribute (s0 / pretty.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s6 / windowsill.n.01
+			:Part-of (s5 / room.n.01
+				:User (s4 / person.n.01
+					:EQU (c1 / "speaker"))))))

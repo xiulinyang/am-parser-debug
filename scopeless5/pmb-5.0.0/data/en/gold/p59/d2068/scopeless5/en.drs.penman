@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / forgotten.a.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute-of (s1 / person.n.01
+			:Role (s2 / patriot.n.01))))

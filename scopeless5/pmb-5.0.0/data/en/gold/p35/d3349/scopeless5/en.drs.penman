@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / butter.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s3 / slice.n.02
+			:Part-of (s4 / bread.n.01))))

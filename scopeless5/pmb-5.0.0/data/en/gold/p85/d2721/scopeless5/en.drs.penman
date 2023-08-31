@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / glance.v.01
+		:Agent (s0 / man.n.01
+			:Attribute (s5 / shocked.a.01
+				:Time (s4 / time.n.08
+					:TPR (c1 / "now"))))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / news_program.n.01)))

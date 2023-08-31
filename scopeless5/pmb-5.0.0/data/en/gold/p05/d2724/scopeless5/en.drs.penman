@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / city.n.01
+			:Name (c2 / "New York"))
+		:Duration (s4 / day.n.01
+			:Quantity (c3 / "-"))))

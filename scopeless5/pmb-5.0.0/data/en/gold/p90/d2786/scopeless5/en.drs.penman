@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / urdu.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / mother_tongue.n.01
+			:Creator (s3 / person.n.01
+				:Sub (c1 / "speaker")))))

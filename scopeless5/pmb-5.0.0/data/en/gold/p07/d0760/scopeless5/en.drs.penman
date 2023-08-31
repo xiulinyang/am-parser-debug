@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / die.v.01
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Carl Smith"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s4 / time.n.08
+			:DayOfMonth (c3 / "8")
+			:EQU-of (s3 / time.n.08
+				:MonthOfYear (c2 / "8")))))

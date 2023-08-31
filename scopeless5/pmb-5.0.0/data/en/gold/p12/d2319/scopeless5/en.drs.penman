@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / hurt.v.01
+		:Patient (s0 / entity.n.01
+			:Quantity (c0 / "1")
+			:Part-of (s2 / tooth.n.01
+				:Part-of (s1 / person.n.01
+					:EQU (c1 / "speaker"))))
+		:Time (s4 / time.n.08
+			:EQU (c2 / "now"))))

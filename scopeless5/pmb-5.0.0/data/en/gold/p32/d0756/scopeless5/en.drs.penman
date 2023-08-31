@@ -1,0 +1,33 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s12 / be.v.02
+			:Theme (s11 / male.n.02)
+			:Time (s13 / time.n.08
+				:TPR (c6 / "now"))
+			:Co-Theme (s14 / person.n.01
+				:Role (s15 / general_secretary.n.01
+					:Of (s16 / party.n.01
+						:Name (c7 / "Spanish Socialist Workers' Party")
+						:EQU-of (s17 / party.n.01
+							:Name (c8 / "PSOE")))))
+			:Start (s18 / time.n.08
+				:YearOfCentury (c9 / "1974"))
+			:Finish (s19 / time.n.08
+				:YearOfCentury (c10 / "1997"))))
+	:member (s1 / bear.v.02
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Felipe González Márquez")
+			:Theme-of (s5 / be.v.01
+				:Time (s6 / time.n.08
+					:EQU (c4 / "now"))
+				:Co-Theme (s9 / person.n.01
+					:Source (s7 / country.n.02
+						:Name (c5 / "spain"))
+					:Role (s10 / politician.n.01
+						:Attribute (s8 / socialist.a.01)))))
+		:Time (s2 / time.n.08
+			:MonthOfYear (c1 / "3")
+			:EQU (s3 / time.n.08
+				:DayOfMonth (c2 / "5")
+				:EQU-of (s4 / time.n.08
+					:YearOfCentury (c3 / "1942"))))))

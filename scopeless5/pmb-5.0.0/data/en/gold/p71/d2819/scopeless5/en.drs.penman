@@ -1,0 +1,3 @@
+(b0 / "box"
+	:member (s1 / buzz.v.01
+		:Agent (s0 / fly.n.01)))

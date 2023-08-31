@@ -1,0 +1,14 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / stay.v.03
+			:Theme (s4 / male.n.02)
+			:Time (s6 / time.n.08
+				:EQU (c2 / "now"))
+			:Location (s7 / person.n.01
+				:Sub (c3 / "speaker"))))
+	:member (s1 / come_up.v.03
+		:Theme (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Destination (s3 / city.n.01
+			:Name (c1 / "Tokyo"))))

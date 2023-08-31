@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / take_place.v.01
+		:Theme (s1 / test.n.05
+			:Location (s2 / island.n.01
+				:Name (c0 / "Bikini Atoll"))
+			:Attribute (s0 / atomic.a.02))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:EQU (s5 / entity.n.01)
+		:Time (s6 / time.n.08
+			:YearOfCentury (c2 / "1946"))))

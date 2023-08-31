@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / split.v.01
+		:Time (s0 / time.n.08
+			:TSU (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Patient (s3 / bill.n.02)))

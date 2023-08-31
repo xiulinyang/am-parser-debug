@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / allied.a.02
+		:Theme (s0 / state.n.04
+			:Name (c0 / "Germany"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s3 / state.n.04
+			:Name (c2 / "Italy")
+			:Time (s4 / war.n.01
+				:Name (c3 / "World War II")))))

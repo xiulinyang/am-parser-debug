@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / take_off.v.04
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / day.n.05)))

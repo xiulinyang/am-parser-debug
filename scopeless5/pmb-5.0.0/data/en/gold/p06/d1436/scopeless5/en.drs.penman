@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / happen.v.01
+		:Theme (s0 / entity.n.01
+			:NEQ (s1 / entity.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))))

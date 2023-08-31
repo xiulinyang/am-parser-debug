@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:POSSIBILITY (b3 / "box"
+				:member (s5 / give.v.03
+					:Recipient (s1 / entity.n.01
+						:EQU-of (s0 / person.n.01))
+					:Theme (s6 / entity.n.01))))
+		:member (s2 / want.v.01
+			:Pivot s1
+			:Time (s3 / time.n.08
+				:EQU (c0 / "now"))
+			:Theme (s4 / book.n.02))))

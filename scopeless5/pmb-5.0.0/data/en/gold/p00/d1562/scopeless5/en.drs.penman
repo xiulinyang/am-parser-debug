@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / ring.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s1 / phone.n.01)))

@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / suffer.v.02
+			:Experiencer (s4 / male.n.02)
+			:Time (s6 / time.n.08
+				:TPR (c2 / "now"))
+			:Stimulus (s7 / whiplash.n.01
+				:EQU-of (s8 / injury.n.01))))
+	:member (s3 / rear-end.v.01
+		:Patient (s1 / car.n.01
+			:User (s0 / male.n.02
+				:Name (c0 / "Tom")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

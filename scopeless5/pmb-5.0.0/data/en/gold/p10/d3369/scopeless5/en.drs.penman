@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / squeeze.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom")
+			:EQU-of (s4 / male.n.02))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Product (s3 / orange_juice.n.01)))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:NECESSITY (b3 / "box"
+				:member (s2 / pay.v.01
+					:Agent (s0 / man.n.01
+						:Attribute (s1 / wealth.n.01))
+					:Theme (s3 / entity.n.01
+						:Quantity (c0 / "+")
+						:EQU (s4 / income_tax.n.01)))))))

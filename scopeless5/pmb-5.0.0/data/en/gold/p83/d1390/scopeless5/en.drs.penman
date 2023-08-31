@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s3 / be.v.03
+		:Theme (s1 / person.n.01
+			:Quantity (c1 / "?")
+			:Source (s0 / country.n.02
+				:Name (c0 / "japan"))
+			:Role (s2 / student.n.01))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:EQU (s5 / entity.n.01)
+		:Location (s6 / country.n.02
+			:Name (c3 / "United States"))
+		:Time (s7 / time.n.08
+			:YearOfCentury (c4 / "1990"))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / ban.v.02
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1989"))
+		:Agent (s1 / organization.n.01
+			:Name (c1 / "CITES")
+			:EQU (s2 / organization.n.01
+				:Name (c2 / "Convention on International Trade in Endangered Species")))
+		:Time (s4 / time.n.08
+			:TPR (c3 / "now"))
+		:Theme (s5 / trade.n.01
+			:Theme (s6 / ivory.n.01))))

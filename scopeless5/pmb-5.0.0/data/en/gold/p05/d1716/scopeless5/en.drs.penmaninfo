@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':NEGATION', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':NEGATION', 'b2')
+('b2', ':instance', '"box"')
+('b2', ':member', 's1')
+('s1', ':instance', 'have.v.02')
+('s1', ':Pivot', 's0')
+('s0', ':instance', 'birch.n.02')
+('s1', ':Theme', 's3')
+('s3', ':instance', 'bark.n.01')
+('s3', ':Colour', 's2')
+('s2', ':instance', 'white.a.01')
+tokenized sentence:START The birch has white bark .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["b1", "b2"], "lexical_node": "b1"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 4, "node_id": "s2"}, {"token_id": 5, "node_id": "s3"}]

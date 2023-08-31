@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s4 / person.n.01
+			:Role (s5 / role_model.n.01
+				:Beneficiary (s6 / person.n.01
+					:Sub (c1 / "speaker"))
+				:Attribute (s3 / wonderful.a.01)))))

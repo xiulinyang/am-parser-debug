@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / go.v.01
+		:Theme (s1 / male.n.02
+			:Name (c0 / "Guido De Tella")
+			:Role (s0 / foreign_minister.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s4 / country.n.02
+			:Name (c2 / "UK"))))

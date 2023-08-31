@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s1 / dream.v.01
+		:Experiencer (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Proposition (b1 / "box"
+			:NEGATION (b2 / "box"
+				:NEGATION (b3 / "box"
+					:member (s5 / speak.v.03
+						:Agent (s3 / person.n.01
+							:Location (s4 / country.n.02
+								:Name (c1 / "China")))
+						:Time (s6 / time.n.08
+							:EQU (c2 / "now"))
+						:Theme (s7 / esperanto.n.01)))))))

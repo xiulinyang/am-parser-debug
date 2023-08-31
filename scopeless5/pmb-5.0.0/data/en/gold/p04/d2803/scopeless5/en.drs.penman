@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / attract.v.01
+		:Theme (s0 / conference.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s4 / person.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "150"))
+			:Role (s5 / diplomat.n.01))))

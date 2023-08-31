@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / remove.v.04
+		:Agent (s0 / person.n.01
+			:Role (s1 / doctor.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / bullet.n.01)))

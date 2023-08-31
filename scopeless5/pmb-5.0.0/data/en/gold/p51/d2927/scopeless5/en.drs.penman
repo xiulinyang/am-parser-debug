@@ -1,0 +1,17 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s5 / hump.n.01
+				:EQU (s3 / entity.n.01)
+				:Quantity (s4 / quantity.n.01
+					:EQU (c1 / "1"))))
+		:NEGATION (b3 / "box"
+			:member (s7 / hump.n.01
+				:EQU s3
+				:Quantity (s6 / quantity.n.01
+					:EQU (c2 / "2")))))
+	:member (s1 / have.v.02
+		:Pivot (s0 / camel.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme s3))

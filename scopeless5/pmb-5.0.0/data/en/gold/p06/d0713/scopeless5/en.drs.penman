@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s2 / rise.v.02
+		:Theme (s1 / profit.n.01
+			:Creator (s0 / company.n.01
+				:Name (c0 / "Apple")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (s5 / percent.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "78")))
+		:Duration (s7 / quarter.n.06
+			:Part-of (s8 / time.n.08
+				:YearOfCentury (c3 / "2006"))
+			:Attribute (s6 / last.a.02))))

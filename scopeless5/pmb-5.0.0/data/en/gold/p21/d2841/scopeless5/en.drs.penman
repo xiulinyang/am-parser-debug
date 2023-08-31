@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:member (s7 / interesting.a.01
+			:Attribute-of (s5 / entity.n.01)
+			:Time (s6 / time.n.08
+				:EQU (c2 / "now"))))
+	:member (s1 / have.v.02
+		:Pivot (s0 / book.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / entity.n.01
+			:Quantity (c1 / "+")
+			:EQU (s4 / mistake.n.03))))

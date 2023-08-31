@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / know.v.04
+			:Experiencer (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Time (s1 / time.n.08
+				:EQU (c1 / "now"))
+			:Stimulus (s3 / person.n.01
+				:Location (s4 / city.n.01
+					:Name (c2 / "Boston"))))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / arrest.v.01
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Baena Soares"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s3 / armed_forces.n.01)))

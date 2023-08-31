@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / stir.v.08
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / milk.n.01)
+		:Co-Patient (s5 / coffee.n.01
+			:User (s4 / female.n.02))))

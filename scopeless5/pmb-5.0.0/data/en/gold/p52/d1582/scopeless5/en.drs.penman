@@ -1,0 +1,15 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / know.v.01
+			:Time (s1 / time.n.08
+				:TPR (c1 / "now"))
+			:Experiencer (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Proposition (b2 / "box"
+				:member (s4 / have.v.01
+					:Pivot (s3 / person.n.01
+						:EQU (c2 / "hearer"))
+					:Time (s5 / time.n.08
+						:TPR (c3 / "now"))
+					:Theme (s6 / person.n.01
+						:Role (s7 / sister.n.01)))))))

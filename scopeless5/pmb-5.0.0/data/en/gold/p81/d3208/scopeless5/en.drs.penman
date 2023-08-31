@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s2 / swing.v.02
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Julio"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / hammock.n.02
+			:Theme-of (s5 / hang.v.02
+				:Agent (s4 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Time (s6 / time.n.08
+					:TPR (c3 / "now"))
+				:Destination (s7 / location.n.01
+					:SZN (s9 / oak_tree.n.01
+						:Attribute (s8 / old.a.02
+							:Value (c4 / "+"))))))))

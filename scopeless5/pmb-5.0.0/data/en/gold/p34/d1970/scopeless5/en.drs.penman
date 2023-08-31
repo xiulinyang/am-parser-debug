@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / reject.v.02
+		:Theme (s1 / credit_card.n.01
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s4 / atm.n.03)))

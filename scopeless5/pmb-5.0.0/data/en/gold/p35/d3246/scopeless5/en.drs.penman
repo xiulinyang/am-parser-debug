@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s0 / according.a.02
+		:Source (s1 / police.n.01)
+		:Proposition (b1 / "box"
+			:NEGATION (b2 / "box"
+				:member (s4 / injure.v.01
+					:Patient (s2 / person.n.01)
+					:Time (s3 / time.n.08
+						:TPR (c0 / "now")))))))

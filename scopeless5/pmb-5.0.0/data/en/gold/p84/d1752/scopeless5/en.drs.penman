@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / add.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Patient (s4 / entity.n.01
+			:Sub (s3 / spoonful.n.01
+				:Quantity (s2 / quantity.n.01
+					:EQU (c1 / "3")))
+			:Sub (s5 / white_wine.n.01))))

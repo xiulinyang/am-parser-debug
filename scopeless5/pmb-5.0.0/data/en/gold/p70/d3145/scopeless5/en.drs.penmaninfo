@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's3')
+('s3', ':instance', 'lie.v.01')
+('s3', ':Theme', 's0')
+('s0', ':instance', 'book.n.02')
+('s0', ':Topic', 's1')
+('s1', ':instance', 'dance.n.01')
+('s3', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s3', ':Location', 's4')
+('s4', ':instance', 'desk.n.01')
+tokenized sentence:START A book about dancing is lying on the desk .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 4, "node_id": "s1"}, {"token_id": 5, "node_id": ["c0", "s2"], "lexical_node": "s2"}, {"token_id": 6, "node_id": "s3"}, {"token_id": 9, "node_id": "s4"}]

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:NEGATION (b2 / "box"
+			:POSSIBILITY (b3 / "box"
+				:member (s6 / swim.v.01
+					:Theme (s5 / female.n.02)))))
+	:member (s1 / live.v.01
+		:Theme (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s3 / location.n.01
+			:APX (s4 / beach.n.01))))

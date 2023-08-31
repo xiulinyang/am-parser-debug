@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / jog.v.03
+				:Time (s0 / day.n.01)
+				:Theme (s2 / person.n.01
+					:Role (s3 / sister.n.01
+						:Of (s1 / person.n.01
+							:EQU (c0 / "speaker"))))))))

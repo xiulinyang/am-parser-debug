@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / set_off.v.01
+		:Causer (s2 / belt.n.02
+			:User (s0 / female.n.02)
+			:Goal (s1 / chastity.n.01))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / metal_detector.n.01)
+		:Location (s6 / airport.n.01)))

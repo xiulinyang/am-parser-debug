@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / sit.v.01
+		:Theme (s1 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "2")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Manner (s4 / comfortably.r.02)
+		:Location (s5 / bench.n.01)))

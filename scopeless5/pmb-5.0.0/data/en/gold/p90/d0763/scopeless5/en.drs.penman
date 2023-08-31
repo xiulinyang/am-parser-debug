@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / take_place.v.01
+		:Theme (s1 / landing.n.04
+			:Location (s0 / region.n.03
+				:Name (c0 / "Normandy")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:EQU (s4 / entity.n.01)
+		:Time (s5 / time.n.08
+			:MonthOfYear (c2 / "6")
+			:EQU (s6 / time.n.08
+				:YearOfCentury (c3 / "1944")))))

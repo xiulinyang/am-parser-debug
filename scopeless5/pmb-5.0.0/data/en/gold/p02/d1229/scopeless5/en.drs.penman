@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / expect.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / organizer.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s6 / person.n.01
+			:Quantity (s4 / quantity.n.01
+				:MOR (s5 / quantity.n.01
+					:EQU (c1 / "300000")))
+			:Role (s7 / visitor.n.01))))

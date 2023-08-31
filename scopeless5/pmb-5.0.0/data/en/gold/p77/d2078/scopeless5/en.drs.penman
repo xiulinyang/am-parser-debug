@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / equip.v.01
+		:Recipient (s0 / boat.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / radar.n.01)))

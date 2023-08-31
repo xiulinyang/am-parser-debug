@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / rebel.v.01
+		:Agent (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Beneficiary (s3 / person.n.01
+			:Role (s4 / king.n.01))))

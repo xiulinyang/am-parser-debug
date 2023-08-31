@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s7 / invite.v.05
+		:Theme (s1 / entity.n.01
+			:Sub (s0 / male.n.02)
+			:Sub (s3 / person.n.01
+				:NEQ (s2 / person.n.01)
+				:Role (s5 / sister.n.01
+					:Of (s4 / male.n.02))))
+		:Time (s6 / time.n.08
+			:EQU (c0 / "now"))
+		:Goal (s8 / party.n.04)))

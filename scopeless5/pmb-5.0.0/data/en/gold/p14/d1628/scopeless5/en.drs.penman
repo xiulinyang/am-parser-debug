@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / rich.a.02
+		:Attribute-of (s0 / pineapple.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / citric_acid.n.01)))

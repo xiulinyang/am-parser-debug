@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / arrive.v.01
+		:Theme (s0 / group.n.01
+			:Part (s1 / person.n.01
+				:Role (s2 / foreigner.n.01)))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s5 / city.n.01
+			:Name (c1 / "Edo")
+			:EQU-of (s6 / city.n.01
+				:Name (c2 / "Tokyo")))))

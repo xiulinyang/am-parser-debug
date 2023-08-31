@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / expensive.a.01
+		:Attribute-of (s1 / nail.n.02
+			:Source (s0 / country.n.02
+				:Name (c0 / "poland")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s3 / more.r.01
+			:Theme s1
+			:Co-Theme (s6 / nail.n.02
+				:Source (s5 / country.n.02
+					:Name (c2 / "china"))))))

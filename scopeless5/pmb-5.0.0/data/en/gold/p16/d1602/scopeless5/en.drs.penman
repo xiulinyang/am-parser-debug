@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / adjust.v.04
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s2 / eye.n.01
+			:Part-of (s1 / person.n.01
+				:EQU (c1 / "speaker")))
+		:Duration (s3 / moment.n.02)
+		:Goal (s5 / darkness.n.01)))

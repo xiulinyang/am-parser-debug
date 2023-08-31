@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s0 / event.v.01
+		:Participant (s3 / error.n.01
+			:Quantity (s1 / quantity.n.01
+				:EQU (c0 / "4"))
+			:Attribute (s2 / great.a.03))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / depart.v.01
+		:Theme (s1 / female.n.02
+			:Name (c0 / "Hobday")
+			:Title (s0 / mrs.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Source (s4 / city.n.01
+			:Name (c2 / "London"))))

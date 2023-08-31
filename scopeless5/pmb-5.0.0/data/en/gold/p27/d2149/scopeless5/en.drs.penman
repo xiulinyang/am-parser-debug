@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s5 / ignore.v.04
+		:TIN (s1 / break_out.v.01
+			:Theme (s0 / war.n.01)
+			:Time (s2 / time.n.08
+				:TPR (c0 / "now")))
+		:Theme (s3 / treaty.n.01)
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))))

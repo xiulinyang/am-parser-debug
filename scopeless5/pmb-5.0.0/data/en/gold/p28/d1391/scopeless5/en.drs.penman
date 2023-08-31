@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / establish.v.01
+		:Location (s0 / location.n.01
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s2 / organization.n.01
+			:Name (c2 / "Greenpeace"))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / disgust.v.01
+		:Stimulus (s1 / plate.n.04
+			:Location (s2 / restaurant.n.01)
+			:Attribute (s0 / dirty.a.01))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s5 / person.n.01
+			:Sub (c1 / "speaker"))))

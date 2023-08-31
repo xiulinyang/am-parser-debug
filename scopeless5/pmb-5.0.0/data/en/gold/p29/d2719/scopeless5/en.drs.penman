@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / mahjong.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s3 / game.n.01
+			:Theme-of (s6 / play.v.01
+				:Agent (s5 / person.n.01
+					:Quantity (s4 / quantity.n.01
+						:EQU (c1 / "4")))))))

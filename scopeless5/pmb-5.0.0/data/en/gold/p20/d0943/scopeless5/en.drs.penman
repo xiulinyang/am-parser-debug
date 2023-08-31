@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / short.a.02
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s2 / very.r.01)
+		:Value (c2 / "+")
+		:Attribute-of (s0 / person.n.01
+			:EQU (c0 / "speaker"))))

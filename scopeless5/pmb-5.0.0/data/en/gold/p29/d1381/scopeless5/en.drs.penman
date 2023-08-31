@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Location (s0 / location.n.01
+			:Name (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s5 / synagogue.n.01
+			:Attribute (s3 / old.a.02
+				:Degree (s4 / most.r.01))
+			:Location (s6 / country.n.02
+				:Name (c2 / "United States")))))

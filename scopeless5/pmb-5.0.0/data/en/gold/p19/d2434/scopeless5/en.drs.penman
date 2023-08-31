@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / yellow.n.01
+				:Colour-of (s0 / banana.n.02)
+				:Time (s1 / time.n.08
+					:EQU (c0 / "now"))))))

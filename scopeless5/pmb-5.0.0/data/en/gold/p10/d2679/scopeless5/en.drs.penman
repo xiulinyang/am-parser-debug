@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / beautiful.a.01
+		:Attribute-of (s1 / wall.n.01
+			:Part-of (s0 / city.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s3 / so.r.01)))

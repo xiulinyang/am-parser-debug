@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / arrive.v.01
+		:Theme (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Instrument (s3 / flight.n.09
+			:Name (c1 / "201"))))

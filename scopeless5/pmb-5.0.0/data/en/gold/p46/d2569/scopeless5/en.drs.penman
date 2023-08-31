@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / feel.v.03
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Degree (s2 / really.r.01)
+		:Stimulus (s5 / strange.a.01
+			:Attribute-of s0
+			:Degree (s4 / kind_of.r.01))))

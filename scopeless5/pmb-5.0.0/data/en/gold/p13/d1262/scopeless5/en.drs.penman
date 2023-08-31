@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / arrest.v.01
+		:Agent (s1 / police.n.01
+			:Location (s0 / country.n.02
+				:Name (c0 / "brazil")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s5 / person.n.01
+			:Source (s4 / country.n.02
+				:Name (c2 / "germany"))
+			:Role (s6 / con_artist.n.01))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / overtake.v.02
+		:Theme (s0 / hare.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s3 / tortoise.n.01)))

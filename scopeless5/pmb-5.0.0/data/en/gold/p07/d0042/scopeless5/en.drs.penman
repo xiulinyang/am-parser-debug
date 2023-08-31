@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / catch.v.04
+		:Agent (s0 / dog.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / ball.n.01
+			:Colour (s3 / blue.a.01))))

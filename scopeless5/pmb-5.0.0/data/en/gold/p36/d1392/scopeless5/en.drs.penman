@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s0 / big.a.01
+		:Value (c0 / "?")
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Attribute-of (s2 / planet.n.03
+			:Name (c2 / "Mars"))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / want.v.01
+			:Pivot (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Time (s1 / time.n.08
+				:EQU (c1 / "now"))
+			:Theme (s3 / clean_up.v.03
+				:Agent s0
+				:Theme (s5 / poop.n.01
+					:Creator (s4 / dog.n.01))))))

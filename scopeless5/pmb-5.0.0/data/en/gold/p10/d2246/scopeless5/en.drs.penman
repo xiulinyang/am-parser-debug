@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / dazzle.v.02
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s4 / beauty.n.01
+			:Creator (s3 / female.n.02))))

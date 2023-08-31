@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / ban.v.02
+		:Agent (s1 / male.n.02
+			:Name (c0 / "Henry II")
+			:Title (s0 / king.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / tournament.n.02)))

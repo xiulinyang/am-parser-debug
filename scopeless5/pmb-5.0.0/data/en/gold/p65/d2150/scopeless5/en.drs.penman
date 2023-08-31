@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / watch.v.03
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / news.n.03
+			:Time (s3 / time.n.08
+				:ClockTime (c2 / "18:00")))))

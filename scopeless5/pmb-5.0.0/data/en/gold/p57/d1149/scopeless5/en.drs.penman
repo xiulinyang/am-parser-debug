@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / violent.a.04
+		:Attribute-of (s0 / newspaper.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Degree (s2 / as.r.01
+			:Theme s0)))

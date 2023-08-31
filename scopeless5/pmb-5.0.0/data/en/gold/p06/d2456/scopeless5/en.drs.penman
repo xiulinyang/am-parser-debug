@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / pass.v.04
+		:Duration (s0 / hour.n.01
+			:Quantity (c0 / "0.5"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

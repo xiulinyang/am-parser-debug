@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / hold.v.12
+		:Location (s0 / hall.n.03)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s4 / person.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "2000")))))

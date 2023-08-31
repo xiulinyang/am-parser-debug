@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / eat.v.01
+		:Patient (s0 / insect.n.01
+			:EQU (c0 / "?"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))))

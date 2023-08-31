@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'record.v.02')
+('s2', ':Theme', 's0')
+('s0', ':instance', 'album.n.01')
+('s0', ':Name', 'c0')
+('c0', ':instance', '"Live At Leeds"')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TPR', 'c1')
+('c1', ':instance', '"now"')
+('s2', ':Agent', 's3')
+('s3', ':instance', 'musical_organization.n.01')
+('s3', ':Name', 'c2')
+('c2', ':instance', '"The Who"')
+tokenized sentence:START Live At Leeds was recorded by The Who .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 3, "node_id": ["c0", "s0"], "lexical_node": "c0"}, {"token_id": 4, "node_id": ["c1", "s1"], "lexical_node": "c1"}, {"token_id": 5, "node_id": "s2"}, {"token_id": 7, "node_id": ["c2", "s3"], "lexical_node": "c2"}]

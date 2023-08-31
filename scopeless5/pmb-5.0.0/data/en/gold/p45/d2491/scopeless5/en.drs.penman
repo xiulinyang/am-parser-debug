@@ -1,0 +1,9 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s2 / empathize.v.01
+			:Experiencer (s1 / girl.n.01)
+			:Stimulus (s5 / feeling.n.01
+				:Creator (s3 / person.n.01
+					:Role (s4 / friend.n.01)))))
+	:member (s0 / empathetic.a.01
+		:Attribute-of s1))

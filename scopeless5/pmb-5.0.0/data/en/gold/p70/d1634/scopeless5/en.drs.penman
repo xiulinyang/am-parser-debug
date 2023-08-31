@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / sense.v.03
+		:Experiencer (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s5 / watch.v.02
+				:Agent (s3 / alien.n.03)
+				:Time (s4 / time.n.08
+					:EQU (c2 / "now"))
+				:Theme (s6 / female.n.02)))))

@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / be.v.01
+			:Theme (s5 / entity.n.01)
+			:Time (s7 / time.n.08
+				:TPR (c2 / "now"))
+			:Co-Theme (s9 / ship.n.01
+				:Attribute (s8 / large.a.01
+					:Value (c3 / "+")))))
+	:member (s1 / sink.v.04
+		:Patient (s0 / vehicle.n.01
+			:Name (c0 / "Titanic"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Context (s4 / maiden_voyage.n.01
+			:Theme (s3 / entity.n.01))))

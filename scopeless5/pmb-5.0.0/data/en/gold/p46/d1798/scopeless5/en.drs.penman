@@ -1,0 +1,11 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s5 / go.v.01
+			:Theme (s3 / person.n.01
+				:EQU (c1 / "speaker"))
+			:Time (s4 / time.n.08
+				:TSU (c2 / "now"))))
+	:member (s2 / good.a.01
+		:Attribute-of (s0 / weather.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))))

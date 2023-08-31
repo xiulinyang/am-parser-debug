@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / suffer.v.02
+		:Experiencer (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Stimulus (s4 / cold.n.01
+			:Attribute (s3 / bad.a.02))))

@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's3')
+('s3', ':instance', 'cost.v.01')
+('s3', ':Value', 's0')
+('s0', ':instance', 'measure.n.02')
+('s0', ':Unit', 'c0')
+('c0', ':instance', '"?"')
+('s0', ':Quantity', 'c1')
+('c1', ':instance', '"?"')
+('s3', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':EQU', 'c2')
+('c2', ':instance', '"now"')
+('s3', ':Theme', 's2')
+('s2', ':instance', 'tie.n.01')
+tokenized sentence:START How much does this tie cost ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": ["c0", "c1", "s0"], "lexical_node": "s0"}, {"token_id": 3, "node_id": ["c2", "s1"], "lexical_node": "s1"}, {"token_id": 5, "node_id": "s2"}, {"token_id": 6, "node_id": "s3"}]

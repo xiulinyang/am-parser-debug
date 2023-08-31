@@ -1,0 +1,45 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:CONTINUATION (b2 / "box"
+			:CONTINUATION (b3 / "box"
+				:member (s22 / form.v.01
+					:Agent (s21 / male.n.02
+						:Name (c11 / "Simitis"))
+					:Time (s23 / time.n.08
+						:TPR (c12 / "now"))
+					:Result (s25 / cabinet.n.02
+						:Creator (s24 / male.n.02)
+						:Order (c13 / "3"))))
+			:member (s17 / defeat.v.01
+				:Agent (s9 / party.n.01
+					:EQU (s8 / ruling.a.01
+						:Name (c5 / "Panhellenic Socialist Movement"))
+					:EQU-of (s10 / party.n.01
+						:Name (c6 / "PASOK")
+						:Part (s12 / male.n.02
+							:Name (c7 / "Costas Simitis")
+							:Role (s11 / prime_minister.n.01))))
+				:Time (s16 / time.n.08
+					:TPR (c9 / "now"))
+				:Co-Agent (s20 / party.n.01
+					:EQU (s19 / party.n.01
+						:Name (c10 / "New Democracy"))
+					:Attribute (s18 / conservative.a.02))))
+		:member (s15 / reelect.v.01
+			:Theme s9
+			:Time (s13 / time.n.08
+				:TPR (c8 / "now"))
+			:Manner (s14 / narrowly.r.01)))
+	:member (s3 / hold.v.03
+		:Theme (s1 / election.n.01
+			:Attribute (s0 / parliamentary.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / country.n.02
+			:Name (c1 / "Greece"))
+		:Time (s6 / time.n.08
+			:MonthOfYear (c3 / "4")
+			:EQU (s7 / time.n.08
+				:YearOfCentury (c4 / "2000"))
+			:EQU-of (s5 / time.n.08
+				:DayOfMonth (c2 / "9")))))

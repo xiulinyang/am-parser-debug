@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / take_place.v.01
+		:Theme (s0 / story.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:EQU (s3 / entity.n.01)
+		:Location (s4 / city.n.01
+			:Name (c1 / "Lisbon"))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / sail.v.01
+		:Theme (s0 / person.n.01
+			:Role (s1 / pirate.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Path (s5 / sea.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c1 / "7")))))

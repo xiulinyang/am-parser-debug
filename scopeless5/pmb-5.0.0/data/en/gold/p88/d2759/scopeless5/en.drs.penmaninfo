@@ -1,0 +1,9 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's0')
+('s0', ':instance', 'state.a.01')
+('s1', ':Attribute', 's0')
+('s1', ':instance', 'rematch.n.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"?"')
+tokenized sentence:START How about a rematch ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 4, "node_id": "s1"}]

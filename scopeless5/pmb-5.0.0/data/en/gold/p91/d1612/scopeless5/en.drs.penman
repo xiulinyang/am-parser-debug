@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / include.v.04
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Goal (s3 / team.n.01)))

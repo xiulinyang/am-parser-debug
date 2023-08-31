@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / create.v.06
+		:Agent (s0 / company.n.01
+			:Name (c0 / "FermiLab"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s3 / software.n.01
+			:Name (c2 / "Linux LTS"))))

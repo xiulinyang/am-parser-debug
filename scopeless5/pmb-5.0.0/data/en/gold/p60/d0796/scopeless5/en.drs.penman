@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / look_like.v.01
+		:Theme (s0 / cloud.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / entity.n.01
+			:Sub (s3 / flock.n.03)
+			:Sub (s6 / sheep.n.01
+				:Colour (s5 / white.a.01)))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / fill.v.01
+		:Theme (s0 / smell.n.01
+			:Source (s1 / lily.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s4 / room.n.01)))

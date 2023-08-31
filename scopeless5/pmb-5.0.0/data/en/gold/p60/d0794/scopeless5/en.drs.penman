@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s4 / take_place.v.01
+		:Theme (s2 / entity.n.01
+			:Sub (s0 / union.n.07
+				:Theme (s1 / state.n.04
+					:Name (c0 / "Scotland")))
+			:Sub (s3 / state.n.04
+				:Name (c1 / "England")))
+		:Time (s5 / time.n.08
+			:TPR (c2 / "now"))
+		:EQU (s6 / entity.n.01)
+		:Time (s7 / time.n.08
+			:YearOfCentury (c3 / "1706"))))

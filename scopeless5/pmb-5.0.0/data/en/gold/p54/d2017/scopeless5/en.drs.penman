@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / easy.a.01
+			:Attribute-of (s2 / iq.n.01
+				:Creator (s0 / test.v.03
+					:Theme (s1 / animal.n.01
+						:Name (c0 / "Koko"))))
+			:Time (s3 / time.n.08
+				:EQU (c1 / "now")))))

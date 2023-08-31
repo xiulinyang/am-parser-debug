@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / tie.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / dog.n.01
+			:Owner (s3 / person.n.01
+				:EQU (c2 / "speaker")))
+		:Co-Patient (s5 / tree.n.01)
+		:Location (s6 / yard.n.02)))

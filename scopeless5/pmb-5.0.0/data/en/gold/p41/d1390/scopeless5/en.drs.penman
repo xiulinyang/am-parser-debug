@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / lead.v.07
+		:Theme (s0 / association.n.01
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Agent (s2 / female.n.02
+			:Name (c2 / "Hope Holcomb"))))

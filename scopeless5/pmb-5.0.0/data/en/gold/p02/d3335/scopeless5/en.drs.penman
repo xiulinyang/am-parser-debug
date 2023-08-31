@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / be.v.01
+		:Theme (s0 / painting.n.01
+			:Creator (s1 / male.n.02
+				:Name (c0 / "Rembrandt")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / masterpiece.n.01)))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / steal.v.03
+		:Agent (s0 / person.n.01
+			:Role (s1 / runner.n.04))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / third_base.n.01)))

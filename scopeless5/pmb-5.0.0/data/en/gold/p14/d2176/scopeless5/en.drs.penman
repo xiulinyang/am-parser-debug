@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / read.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Duration (s3 / hour.n.01
+			:Quantity (s2 / quantity.n.01
+				:APX (c2 / "1")))
+		:Stimulus (s5 / book.n.01)))

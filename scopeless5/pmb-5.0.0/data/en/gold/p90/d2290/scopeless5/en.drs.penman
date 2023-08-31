@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / afraid.a.01
+				:Experiencer (s1 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Time (s2 / time.n.08
+					:TPR (c1 / "now"))
+				:Stimulus (s4 / person.n.01
+					:Role (s5 / doctor.n.01))))
+		:member (s0 / time.n.08)))

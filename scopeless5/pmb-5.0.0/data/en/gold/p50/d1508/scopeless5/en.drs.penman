@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / board_up.v.01
+		:Patient (s1 / window.n.01
+			:Attribute (s0 / broken.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))))

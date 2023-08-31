@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Theme (s1 / house.n.01
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s5 / bank.n.01
+			:Part-of (s6 / river.n.01
+				:Name (c2 / "Thames"))
+			:Theme-of (s4 / south.a.01))))

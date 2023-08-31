@@ -1,0 +1,4 @@
+(b0 / "box"
+	:member (s0 / event.v.01
+		:Participant (s1 / url.n.01
+			:Name (c0 / "http://www.anl.siemens.de/solution/index.html"))))

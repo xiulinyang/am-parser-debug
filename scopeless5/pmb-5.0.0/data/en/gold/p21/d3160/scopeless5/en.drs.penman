@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / absent.a.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Attribute-of (s1 / person.n.01
+			:NEQ (s2 / person.n.01))))

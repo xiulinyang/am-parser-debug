@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / found.v.01
+		:Theme (s0 / city.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s3 / time.n.08
+			:YearOfCentury (c1 / "573"))))

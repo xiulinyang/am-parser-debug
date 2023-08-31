@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / dance.v.02
+		:Agent (s0 / man.n.01
+			:Theme-of (s3 / be.v.02
+				:Time (s4 / time.n.08
+					:EQU (c0 / "now"))
+				:Co-Theme (s6 / person.n.01
+					:Role (s7 / uncle.n.01
+						:Of (s5 / person.n.01
+							:EQU (c1 / "speaker"))))))
+		:Location (s2 / stage.n.03)))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / speak.v.03
+		:Theme (s0 / language.n.01
+			:EQU (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / country.n.02
+			:Name (c2 / "usa"))))

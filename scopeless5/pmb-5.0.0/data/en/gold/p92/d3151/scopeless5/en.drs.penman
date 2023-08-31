@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / bet.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Asset (s4 / yen.n.02
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "10000")))
+		:Theme (s6 / win.n.01
+			:Agent (s5 / male.n.02))))

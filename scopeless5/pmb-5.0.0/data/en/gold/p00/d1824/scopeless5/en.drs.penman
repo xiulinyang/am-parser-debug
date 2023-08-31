@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / belong.v.01
+			:Time (s4 / time.n.08
+				:EQU (c1 / "now"))
+			:Theme (s5 / entity.n.01)
+			:Pivot (s8 / library.n.02
+				:Part-of (s7 / university.n.03))))
+	:member (s0 / be.v.01
+		:Theme (s1 / entity.n.01)
+		:Co-Theme (s2 / entity.n.01
+			:Quantity (c0 / "+")
+			:EQU (s3 / book.n.02))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / get.v.05
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s1 / person.n.01
+			:Sub (c1 / "speaker"))
+		:Duration (s3 / hour.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "2")))
+		:Destination (s5 / city.n.01
+			:Name (c3 / "Athens"))))

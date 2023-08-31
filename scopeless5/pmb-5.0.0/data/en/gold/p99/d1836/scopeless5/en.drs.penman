@@ -1,0 +1,15 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:CONTINUATION (b2 / "box"
+			:NEGATION (b3 / "box"
+				:member (s5 / let_down.v.02
+					:Experiencer (s3 / male.n.02)
+					:Time (s4 / time.n.08
+						:TSU (c2 / "now"))
+					:Stimulus (s6 / person.n.01
+						:EQU (c3 / "hearer")))))
+		:member (s1 / trust.v.01
+			:Experiencer (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Stimulus (s2 / male.n.02
+				:Name (c1 / "John")))))

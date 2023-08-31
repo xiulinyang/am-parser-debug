@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / unhappy.a.01
+		:Experiencer (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

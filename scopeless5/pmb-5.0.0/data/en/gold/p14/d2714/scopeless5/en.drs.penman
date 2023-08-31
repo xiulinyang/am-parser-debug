@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / cry.v.02
+		:Agent (s1 / person.n.01
+			:Role (s2 / mother.n.01
+				:Of (s0 / male.n.02
+					:Name (c0 / "Tom"))))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

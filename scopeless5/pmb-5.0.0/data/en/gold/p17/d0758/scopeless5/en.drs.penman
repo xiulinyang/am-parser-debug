@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s1 / say.v.02
+		:Agent (s0 / company.n.01
+			:Name (c0 / "Philip Morris"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s4 / sell.v.01
+				:Agent (s3 / entity.n.01)
+				:Time (s5 / time.n.08
+					:TPR (c2 / "now"))
+				:Theme (s7 / cigarette.n.01
+					:Quantity (s6 / quantity.n.01
+						:EQU (c3 / "201000000000")))
+				:Manner (s8 / world-wide.a.01)
+				:Duration (s9 / quarter.n.06)))))

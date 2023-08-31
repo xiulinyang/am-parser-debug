@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / cost.v.01
+		:Theme (s1 / chair.n.01
+			:Attribute (s0 / wooden.a.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s5 / pound.n.02
+			:Quantity (s4 / quantity.n.01
+				:EQU (c1 / "60")))))

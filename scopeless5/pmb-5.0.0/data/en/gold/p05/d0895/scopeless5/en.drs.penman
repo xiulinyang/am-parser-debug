@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / be.v.02
+		:Theme (s2 / band.n.02
+			:Stimulus-of (s1 / favourite.a.02
+				:Experiencer (s0 / female.n.02)))
+		:Time (s4 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s5 / musical_organization.n.01
+			:Name (c1 / "Warpaint"))))

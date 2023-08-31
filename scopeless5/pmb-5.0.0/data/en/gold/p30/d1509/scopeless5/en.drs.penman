@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / retire.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s4 / time.n.08
+			:TAB (s3 / year.n.01
+				:Quantity (c2 / "+")
+				:TAB (c3 / "now")))))

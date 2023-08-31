@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / play.v.07
+		:Theme (s0 / flute.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Agent (s3 / girl.n.01)))

@@ -1,0 +1,106 @@
+[ {
+  "instances" : [ "1\tnull\t_\t_\t_\t_\t(n / null)\t_\t_\t0\tROOT\tfalse\n" ],
+  "name" : "AM tree",
+  "format" : "amtree_string",
+  "type" : "data"
+}, {
+  "instances" : [ "b0!||0-1||1.0 c0!|s0||1-2||1.0 b1!||3-4||1.0 c1!|s1||2-3||1.0 s2!||4-5||1.0 s3!||6-7||1.0 s4!||7-8||1.0" ],
+  "name" : "Alignments",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "instances" : [ "(b0 / box  :NEGATION (b1 / box  :member (s2 / \"able.a.01\"  :Attribute (s0 / \"female.n.02\"  :Name (c0 / Begum)  :Agent-of (s3 / \"feed.v.02\"  :Recipient (s4 / \"female.n.02\")  :Theme-of s2))  :Time (s1 / \"time.n.08\"  :TPR (c1 / now)))))" ],
+  "name" : "Gold graph",
+  "format" : "graph_string",
+  "type" : "data"
+}, {
+  "instances" : [ "START Begum was not able to feed herself ." ],
+  "name" : "Sentence",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "b1" : 1.0
+    },
+    "3" : {
+      "c1" : 1.0,
+      "s1" : 1.0
+    },
+    "4" : {
+      "s2" : 1.0
+    },
+    "5" : {
+      "s3" : 1.0
+    },
+    "6" : {
+      "s4" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "0" : 1.0
+    },
+    "1" : {
+      "1" : 1.0
+    },
+    "2" : {
+      "3" : 1.0
+    },
+    "3" : {
+      "2" : 1.0
+    },
+    "4" : {
+      "4" : 1.0
+    },
+    "5" : {
+      "6" : 1.0
+    },
+    "6" : {
+      "7" : 1.0
+    }
+  } ],
+  "name2" : "Sentence",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "c1" : 1.0,
+      "s1" : 1.0
+    },
+    "3" : {
+      "b1" : 1.0
+    },
+    "4" : {
+      "s2" : 1.0
+    },
+    "6" : {
+      "s3" : 1.0
+    },
+    "7" : {
+      "s4" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Sentence"
+} ]

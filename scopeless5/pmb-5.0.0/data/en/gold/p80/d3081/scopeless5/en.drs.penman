@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / steal.v.01
+		:Theme (s1 / passport.n.02
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

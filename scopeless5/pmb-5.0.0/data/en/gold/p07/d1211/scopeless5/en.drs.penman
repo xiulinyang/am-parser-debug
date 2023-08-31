@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / honor.v.02
+			:Patient (s5 / promise.n.01)
+			:Time (s6 / time.n.08
+				:TPR (c2 / "now"))
+			:Duration (s8 / century.n.01)))
+	:member (s2 / make.v.07
+		:Agent (s1 / government.n.01
+			:Location (s0 / country.n.02
+				:Name (c0 / "hungary")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / promise.n.01)))

@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / jump.v.01
+			:Theme (s5 / poodle.n.01)
+			:Time (s6 / time.n.08
+				:EQU (c2 / "now"))))
+	:member (s2 / be.v.03
+		:Theme (s1 / poodle.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "2")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s4 / snow.n.02)))

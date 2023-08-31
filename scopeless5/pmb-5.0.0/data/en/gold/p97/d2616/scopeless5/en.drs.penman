@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / make.v.06
+		:Product (s0 / cheese.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Material (s4 / milk.n.01
+			:Creator (s3 / goat.n.01))))

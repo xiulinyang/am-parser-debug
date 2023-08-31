@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / accuse.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / teacher.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / male.n.02
+			:Name (c1 / "Tom"))
+		:Attribute (s5 / cheating.n.01)))

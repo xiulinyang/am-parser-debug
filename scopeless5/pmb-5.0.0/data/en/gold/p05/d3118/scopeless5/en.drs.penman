@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / make.v.06
+		:Product (s0 / clock.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s3 / country.n.02
+			:Name (c1 / "Switzerland"))))

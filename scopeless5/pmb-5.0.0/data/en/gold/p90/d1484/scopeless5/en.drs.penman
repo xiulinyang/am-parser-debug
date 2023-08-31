@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / fire.v.04
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01)
+		:Theme (s3 / person.n.01
+			:EQU (c1 / "hearer"))))

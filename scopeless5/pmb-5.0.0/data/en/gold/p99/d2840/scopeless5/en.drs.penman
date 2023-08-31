@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / get.v.09
+				:Agent (s1 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Extent (s3 / score.n.01
+					:Value (c1 / "A")
+					:Theme (s4 / math.n.01))))
+		:member (s0 / time.n.08)))

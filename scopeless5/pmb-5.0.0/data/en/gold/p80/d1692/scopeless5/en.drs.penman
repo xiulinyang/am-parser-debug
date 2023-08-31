@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / faint.v.01
+		:Patient (s0 / person.n.01
+			:Role (s1 / actress.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Context (s4 / middle.n.04
+			:Part-of (s5 / play.n.02))))

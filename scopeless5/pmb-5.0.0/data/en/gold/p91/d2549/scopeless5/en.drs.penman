@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s0 / fucking.a.01
+		:Attribute-of (s1 / earthquake.n.01
+			:Attribute (s3 / terrible.a.01
+				:Time (s2 / time.n.08
+					:TPR (c0 / "now"))))))

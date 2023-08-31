@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / twinkle.v.02
+		:Theme (s1 / star.n.01
+			:Attribute (s0 / countless.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / sky.n.01)))

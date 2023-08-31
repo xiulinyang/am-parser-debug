@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / walk.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Duration (s3 / minute.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "10")))
+		:Destination (s6 / station.n.01
+			:Theme (s5 / metro.n.01))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / eat.v.01
+		:Patient (s0 / banana.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Agent (s3 / man.n.01)))

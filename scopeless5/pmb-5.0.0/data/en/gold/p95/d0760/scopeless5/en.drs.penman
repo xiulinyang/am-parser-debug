@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s4 / take_place.v.01
+		:Theme (s1 / election.n.01
+			:Location (s2 / country.n.02
+				:Name (c0 / "Côte d'Ivoire"))
+			:Attribute (s0 / new.a.05))
+		:Time (s3 / time.n.08
+			:TSU (c1 / "now"))
+		:EQU (s5 / entity.n.01)
+		:Time (s7 / time.n.08
+			:DayOfMonth (c3 / "14")
+			:EQU-of (s6 / time.n.08
+				:MonthOfYear (c2 / "7")))))

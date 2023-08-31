@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / teach.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Recipient (s3 / person.n.01
+			:Sub (c2 / "speaker"))
+		:Theme (s4 / french.n.01)))

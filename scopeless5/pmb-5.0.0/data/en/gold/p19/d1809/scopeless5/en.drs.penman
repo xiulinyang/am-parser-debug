@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / sentence.v.01
+		:Agent (s0 / court.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Recipient (s3 / male.n.02)
+		:Theme (s4 / death.n.01)))

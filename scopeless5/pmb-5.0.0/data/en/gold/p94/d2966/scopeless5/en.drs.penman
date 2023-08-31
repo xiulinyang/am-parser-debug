@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / quote.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Topic (s3 / poem.n.01
+			:Creator (s4 / male.n.02
+				:Name (c1 / "Keats")))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / be.v.01
+		:Theme (s1 / entity.n.01
+			:Sub (s0 / addition.n.06)
+			:Sub (s2 / subtraction.n.01))
+		:Time (s4 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s5 / function.n.01
+			:Part-of (s6 / mathematics.n.01))))

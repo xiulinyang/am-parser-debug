@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / write.v.01
+		:Agent (s0 / person.n.01
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s2 / book.n.01)))

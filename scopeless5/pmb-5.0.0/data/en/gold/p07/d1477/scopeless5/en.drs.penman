@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / drink.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Patient (s3 / milk.n.01)
+		:Time (s4 / time.n.08
+			:TIN (s5 / day.n.03
+				:TCT (c2 / "now")))))

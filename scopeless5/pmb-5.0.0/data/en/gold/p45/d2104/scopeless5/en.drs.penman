@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / turn.v.03
+		:Patient (s0 / leaf.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Result (s3 / red.a.01
+			:Colour-of s0)))

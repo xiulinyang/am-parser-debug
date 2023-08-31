@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / adjacent.a.01
+		:Theme (s0 / post_office.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s3 / library.n.05)))

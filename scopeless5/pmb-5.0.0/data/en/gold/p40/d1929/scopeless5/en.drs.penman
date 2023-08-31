@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / fall.v.03
+		:Manner (s1 / instantly.r.01)
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Romeo"))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s4 / in_love.a.01
+			:Experiencer s0)
+		:Stimulus (s5 / female.n.02
+			:Name (c2 / "Juliet"))))

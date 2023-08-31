@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / dream.v.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s3 / trip.n.01)
+		:Duration (s5 / time.n.03
+			:Attribute (s4 / long.a.01
+				:Value (c2 / "+")))))

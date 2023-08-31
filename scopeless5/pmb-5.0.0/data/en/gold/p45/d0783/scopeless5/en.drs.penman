@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / enter.v.01
+		:Theme (s0 / female.n.02
+			:Name (c0 / "Mayuko"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s3 / room.n.01)))

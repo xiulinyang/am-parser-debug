@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / ache.v.03
+		:Patient (s1 / head.n.01
+			:Part-of (s0 / male.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))))

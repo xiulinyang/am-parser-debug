@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / anal.a.01
+		:Attribute-of (s2 / fissure.n.01
+			:Attribute (s3 / curable.a.01
+				:Time (s0 / time.n.08
+					:EQU (c0 / "now"))))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / bug.v.02
+		:Agent (s0 / agency.n.01
+			:Name (c0 / "FBI"))
+		:Manner (s1 / secretly.r.01)
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s6 / hangout.n.01
+			:User (s4 / person.n.01
+				:Role (s5 / mobster.n.01)))))

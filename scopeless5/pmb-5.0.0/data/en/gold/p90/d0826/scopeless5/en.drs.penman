@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / final.a.03
+		:Attribute-of (s2 / decision.n.02
+			:Creator (s0 / person.n.01
+				:Role (s1 / judge.n.01)))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))))

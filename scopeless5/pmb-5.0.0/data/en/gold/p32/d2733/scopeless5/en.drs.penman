@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / crawl.v.03
+		:Location (s0 / hut.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / entity.n.01
+			:Sub (s3 / lizard.n.01)
+			:Sub (s5 / insect.n.01))))

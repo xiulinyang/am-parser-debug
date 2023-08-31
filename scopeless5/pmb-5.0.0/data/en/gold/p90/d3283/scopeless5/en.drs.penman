@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / anticipate.v.02
+			:Theme (s0 / entity.n.01)
+			:Agent (s1 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Time (s5 / time.n.08
+				:TPR (c2 / "now"))))
+	:member (s2 / happen.v.01
+		:Theme s0
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

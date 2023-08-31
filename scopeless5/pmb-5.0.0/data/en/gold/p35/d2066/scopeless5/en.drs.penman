@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / tickle.v.03
+		:Stimulus (s0 / blade.n.01
+			:Part-of (s1 / grass.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s5 / foot.n.01
+			:Part-of (s4 / female.n.02))))

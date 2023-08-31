@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / run.v.29
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Path (s3 / marathon.n.01)
+		:Duration (s6 / hour.n.01
+			:Quantity (s4 / quantity.n.01
+				:LES (s5 / quantity.n.01
+					:EQU (c2 / "5"))))))

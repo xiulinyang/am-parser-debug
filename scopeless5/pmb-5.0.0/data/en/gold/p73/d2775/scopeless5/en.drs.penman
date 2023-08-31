@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / chat.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Agent (s4 / person.n.01
+			:Role (s5 / friend.n.01
+				:Of (s3 / female.n.02)))
+		:Topic (s6 / baseball_game.n.01)))

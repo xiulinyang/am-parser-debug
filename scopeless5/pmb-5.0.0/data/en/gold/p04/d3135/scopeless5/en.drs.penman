@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s8 / buy.v.01
+		:Causer (s0 / reason.n.01
+			:EQU (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s6 / person.n.01
+			:Role (s7 / landlord.n.01
+				:Of (s2 / person.n.01
+					:EQU (c2 / "speaker")))
+			:Attribute (s5 / old.a.01
+				:Value (s4 / year.n.01
+					:Quantity (s3 / quantity.n.01
+						:EQU (c3 / "60")))))
+		:Theme (s9 / trampoline.n.01)))

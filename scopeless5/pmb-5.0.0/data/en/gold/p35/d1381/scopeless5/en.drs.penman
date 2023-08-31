@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s5 / turn.v.03
+			:Result (s3 / entity.n.01
+				:EQU (c1 / "?"))
+			:Patient (s4 / entity.n.01)
+			:Time (s6 / time.n.08
+				:TPR (c2 / "now"))))
+	:member (s1 / petrify.v.02
+		:Patient (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

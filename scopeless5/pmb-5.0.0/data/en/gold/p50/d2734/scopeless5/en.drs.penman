@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s1 / visit.v.07
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s3 / male.n.02
+			:Name (c2 / "Tom"))
+		:Location (s4 / city.n.01
+			:Name (c3 / "Boston"))
+		:Time (s7 / time.n.08
+			:TAB (s6 / year.n.01
+				:Quantity (s5 / quantity.n.01
+					:EQU (c4 / "3"))
+				:TAB (c5 / "now")))))

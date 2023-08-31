@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'bang.v.01')
+('s1', ':Agent', 's0')
+('s0', ':instance', 'female.n.02')
+('s1', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s1', ':Patient', 's3')
+('s3', ':instance', 'table.n.02')
+('s1', ':Instrument', 's5')
+('s5', ':instance', 'fist.n.01')
+('s4', ':Part', 's5')
+('s4', ':instance', 'female.n.02')
+tokenized sentence:START She banged the table with her fist .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": "s0"}, {"token_id": 2, "node_id": ["c0", "s2", "s1"], "lexical_node": "s1"}, {"token_id": 4, "node_id": "s3"}, {"token_id": 5, "node_id": "s4"}, {"token_id": 7, "node_id": "s5"}]

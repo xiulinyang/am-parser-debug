@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / arrange.v.03
+		:Agent (s1 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "2"))
+			:Role (s2 / stamp_collector.n.01))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / trade.n.07)))

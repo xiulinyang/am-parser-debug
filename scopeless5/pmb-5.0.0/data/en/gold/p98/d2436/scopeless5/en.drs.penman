@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / capture.v.06
+		:Agent (s0 / person.n.01
+			:Role (s1 / hunter.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / animal.n.01
+			:Attribute (s4 / wild.a.02))
+		:Instrument (s8 / net.n.02
+			:MadeOf (s7 / rope.n.01)
+			:Attribute (s6 / strong.a.01))))

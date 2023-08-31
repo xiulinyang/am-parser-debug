@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / compose.v.01
+		:Theme (s0 / party.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Attribute (s5 / entity.n.01
+			:Sub (s4 / girl.n.02
+				:Quantity (s3 / quantity.n.01
+					:EQU (c1 / "6")))
+			:Sub (s7 / boy.n.01
+				:Quantity (s6 / quantity.n.01
+					:EQU (c2 / "4"))))))

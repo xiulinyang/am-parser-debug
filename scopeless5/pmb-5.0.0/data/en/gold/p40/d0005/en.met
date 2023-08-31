@@ -1,0 +1,6 @@
+subcorpus: SICK
+source: http://clic.cimec.unitn.it/composes/sick.html
+problems: h8762, h8764
+inferences: neutral (2)
+splits: test (2)
+initial_corpora: FLICKR (2)

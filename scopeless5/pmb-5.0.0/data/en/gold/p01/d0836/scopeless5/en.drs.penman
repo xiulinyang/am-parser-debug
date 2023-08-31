@@ -1,0 +1,14 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s5 / give.v.03
+				:Agent (s0 / male.n.02)
+				:Theme (s1 / entity.n.01)
+				:Time (s6 / time.n.08
+					:EQU (c1 / "now"))
+				:Recipient (s7 / female.n.02)))
+		:member (s3 / ask.v.02
+			:Theme s1
+			:Agent (s2 / female.n.02)
+			:Time (s4 / time.n.08
+				:EQU (c0 / "now")))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / hang_up.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Theme (s4 / coat.n.01
+			:User (s3 / person.n.01
+				:EQU (c2 / "speaker")))
+		:Destination (s5 / location.n.01
+			:SXP (s6 / door.n.01))))

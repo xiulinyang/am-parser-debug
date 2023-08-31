@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / study.v.02
+			:Agent (s5 / female.n.02)
+			:Time (s6 / time.n.08
+				:EQU (c4 / "now"))
+			:Theme (s8 / english.n.03)))
+	:member (s1 / be.v.03
+		:Theme (s0 / female.n.02
+			:Name (c0 / "Yoko"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / city.n.01
+			:Name (c2 / "London"))
+		:Time (s4 / time.n.08
+			:EQU (c3 / "now"))))

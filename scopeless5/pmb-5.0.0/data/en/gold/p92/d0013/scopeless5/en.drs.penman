@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / stand.v.03
+		:Theme (s1 / entity.n.01
+			:Sub (s0 / man.n.01)
+			:Sub (s2 / woman.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s5 / curb.n.01)))

@@ -1,0 +1,11 @@
+('b0', ':instance', '"box"')
+('b0', ':POSSIBILITY', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':member', 's1')
+('s1', ':instance', 'ice_skate.v.01')
+('s1', ':Theme', 's0')
+('s0', ':instance', 'person.n.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"hearer"')
+tokenized sentence:START Can you ice skate ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": "b1"}, {"token_id": 2, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 4, "node_id": "s1"}]

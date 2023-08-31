@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / swim.v.01
+		:Theme (s1 / boy.n.01
+			:Attribute (s0 / naked.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / river.n.01)))

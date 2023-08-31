@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / claim.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / co-worker.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Proposition (b1 / "box"
+			:member (s5 / miss.v.05
+				:Agent (s4 / male.n.02)
+				:Time (s6 / time.n.08
+					:TPR (c1 / "now"))
+				:Theme (s7 / bus.n.01)))))

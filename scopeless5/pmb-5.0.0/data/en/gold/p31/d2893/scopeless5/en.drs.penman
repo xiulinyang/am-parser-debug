@@ -1,0 +1,16 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:CONTRAST (b3 / "box"
+				:NEGATION (b4 / "box"
+					:NEGATION (b5 / "box"
+						:member (s5 / be.v.01
+							:Theme (s4 / dolphin.n.02)
+							:Time (s6 / time.n.08
+								:EQU (c1 / "now"))
+							:Co-Theme (s7 / mammal.n.01)))))
+			:member (s1 / be.v.01
+				:Theme (s0 / shark.n.01)
+				:Time (s2 / time.n.08
+					:EQU (c0 / "now"))
+				:Co-Theme (s3 / fish.n.01)))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / consist.v.04
+		:Theme (s0 / apartment.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute (s6 / entity.n.01
+			:Sub (s5 / room.n.01
+				:Quantity (s3 / quantity.n.01
+					:EQU (c1 / "3"))
+				:Attribute (s4 / small.a.01))
+			:Sub (s7 / bath.n.06))))

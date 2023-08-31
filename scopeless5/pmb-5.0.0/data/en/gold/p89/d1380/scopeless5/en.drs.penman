@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s4 / connect.v.03
+		:Co-Patient (s2 / country.n.02
+			:Name (c2 / "?")
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "2"))
+			:Part-of (s1 / continent.n.01
+				:Name (c1 / "europe")))
+		:Time (s3 / time.n.08
+			:EQU (c3 / "now"))
+		:Patient (s5 / structure.n.01
+			:Name (c4 / "St. Gotthard Tunnel"))
+		:Location (s6 / location.n.01
+			:SZN (s7 / range.n.04
+				:Name (c5 / "Alps")))))

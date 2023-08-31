@@ -1,0 +1,12 @@
+(b0 / "box"
+	:RESULT (b1 / "box"
+		:NEGATION (b2 / "box"
+			:POSSIBILITY (b3 / "box"
+				:member (s4 / read.v.01
+					:Experiencer (s3 / person.n.01
+						:EQU (c1 / "speaker"))
+					:Stimulus (s5 / entity.n.01)))))
+	:member (s2 / difficult.a.01
+		:Attribute-of (s0 / book.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))))

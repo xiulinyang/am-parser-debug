@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / gather.v.06
+				:Theme (s0 / person.n.01)
+				:Time (s1 / time.n.08
+					:TPR (c0 / "now"))
+				:Location (s3 / living_room.n.01)))))

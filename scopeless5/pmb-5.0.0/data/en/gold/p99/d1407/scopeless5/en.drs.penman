@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / smoke.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))))

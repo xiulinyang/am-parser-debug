@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / straight.a.08
+		:Attribute-of (s0 / road.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s5 / mile.n.01
+			:Quantity (s3 / quantity.n.01
+				:MOR (s4 / quantity.n.01
+					:EQU (c1 / "10"))))))

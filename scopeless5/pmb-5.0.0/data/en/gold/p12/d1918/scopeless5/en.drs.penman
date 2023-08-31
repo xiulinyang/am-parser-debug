@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / be.v.06
+		:Theme (s0 / score.n.03)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s3 / score.n.03
+			:Value (c1 / "1-1"))))

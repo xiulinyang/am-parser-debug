@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / like.v.02
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / book.n.01
+			:Topic (s3 / male.n.02
+				:Name (c2 / "Harry Potter")))))

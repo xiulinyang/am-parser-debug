@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / buzz.v.02
+		:Theme (s0 / plane.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Path (s3 / control_tower.n.01)))

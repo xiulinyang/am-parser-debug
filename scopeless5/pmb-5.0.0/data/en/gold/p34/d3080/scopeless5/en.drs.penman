@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s1 / chase_away.v.01
+				:Agent (s0 / cow.n.01)
+				:Theme (s2 / fly.n.01)
+				:Instrument (s4 / tail.n.01
+					:Part-of (s3 / entity.n.01))))))

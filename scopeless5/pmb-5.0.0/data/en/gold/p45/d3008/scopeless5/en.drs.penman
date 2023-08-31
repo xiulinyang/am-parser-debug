@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / be.v.03
+		:Theme (s2 / riot.n.01
+			:Attribute (s0 / bad.a.01
+				:Degree (s1 / most.r.01)))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s5 / city.n.01
+			:Name (c1 / "Chicago"))))

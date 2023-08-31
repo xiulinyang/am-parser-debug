@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / emerge.v.01
+		:Theme (s0 / person.n.01
+			:Role (s1 / robber.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s4 / darkness.n.02)))

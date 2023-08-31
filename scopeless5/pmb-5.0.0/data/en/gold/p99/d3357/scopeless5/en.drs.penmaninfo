@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'wash_up.v.02')
+('s2', ':Theme', 's1')
+('s1', ':instance', 'whale.n.02')
+('s0', ':Experiencer', 's1')
+('s0', ':instance', 'wounded.a.01')
+('s2', ':Time', 's3')
+('s3', ':instance', 'time.n.08')
+('s3', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Destination', 's4')
+('s4', ':instance', 'beach.n.01')
+tokenized sentence:START A wounded whale washed up on the beach .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 4, "node_id": ["s3", "c0", "s2"], "lexical_node": "s2"}, {"token_id": 8, "node_id": "s4"}]

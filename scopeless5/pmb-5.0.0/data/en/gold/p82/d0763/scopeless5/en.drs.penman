@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / cyrillic.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s3 / alphabet.n.01
+			:Theme-of (s4 / use.v.01))
+		:Goal (s6 / slavic_language.n.01
+			:Instance (s7 / russian.n.02)
+			:Attribute (s5 / certain.a.01))))

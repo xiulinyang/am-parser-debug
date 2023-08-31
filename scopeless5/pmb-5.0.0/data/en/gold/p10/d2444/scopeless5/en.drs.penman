@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / work.v.02
+		:Agent (s1 / person.n.01
+			:Role (s2 / father.n.01
+				:Of (s0 / male.n.02
+					:Name (c0 / "Bob"))))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s5 / car_factory.n.01)))

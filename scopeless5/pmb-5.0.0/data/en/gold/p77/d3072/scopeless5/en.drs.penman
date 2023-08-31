@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s3 / patient.a.01
+			:Attribute-of (s0 / female.n.02)
+			:Time (s1 / time.n.08
+				:EQU (c0 / "now"))
+			:Degree (s2 / as.r.01
+				:Theme s0
+				:Co-Theme (s4 / person.n.01
+					:EQU (c1 / "hearer"))))))

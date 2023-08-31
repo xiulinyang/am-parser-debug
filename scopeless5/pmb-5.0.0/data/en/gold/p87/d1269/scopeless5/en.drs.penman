@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s5 / cross.v.01
+		:Theme (s3 / entity.n.01
+			:Sub (s2 / kilogram.n.01
+				:Quantity (s0 / quantity.n.01
+					:MOR (s1 / quantity.n.01
+						:EQU (c0 / "60"))))
+			:Sub (s4 / heroin.n.01))
+		:Time (s6 / time.n.08
+			:TPR (c1 / "now"))
+		:Path (s7 / frontier.n.02)
+		:Instrument (s8 / truck.n.01)))

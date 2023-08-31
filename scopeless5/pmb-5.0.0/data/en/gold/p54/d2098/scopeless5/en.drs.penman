@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / play.v.03
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / tune.n.01
+			:Quantity (c2 / "-"))
+		:Instrument (s4 / piano.n.01)))

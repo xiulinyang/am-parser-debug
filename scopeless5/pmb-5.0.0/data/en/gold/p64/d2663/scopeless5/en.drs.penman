@@ -1,0 +1,11 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / broken.a.11
+			:Attribute-of (s3 / computer.n.01
+				:User (s2 / person.n.01
+					:EQU (c1 / "speaker")))
+			:Time (s4 / time.n.08
+				:EQU (c2 / "now"))))
+	:member (s0 / say.v.01
+		:Agent (c0 / "speaker")
+		:Theme (s1 / aaah.n.01)))

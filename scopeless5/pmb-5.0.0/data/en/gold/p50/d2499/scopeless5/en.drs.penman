@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / surprise.v.01
+		:Stimulus (s0 / female.n.02
+			:Name (c0 / "Emily"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Experiencer (s3 / person.n.01
+			:EQU (c2 / "speaker"))))

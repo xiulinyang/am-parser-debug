@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / make.v.06
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s3 / movie.n.01
+			:EQU (s2 / movie.n.01
+				:Name (c2 / "Ole Yeller")))))

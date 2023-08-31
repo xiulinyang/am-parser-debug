@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / feel.v.03
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / tired.a.01
+			:Experiencer s0
+			:Degree (s3 / sort_of.r.01))))

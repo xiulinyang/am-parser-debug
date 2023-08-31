@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / listen.v.01
+		:Time (s0 / time.n.08
+			:TSU (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Theme (s3 / song.n.01)))

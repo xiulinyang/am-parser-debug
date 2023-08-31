@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / intrude.v.02
+		:Theme (s1 / man.n.01
+			:Attribute (s0 / tall.a.01
+				:Value (c0 / "+")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s5 / apartment.n.01
+			:User (s4 / person.n.01
+				:EQU (c2 / "speaker")))
+		:Instrument (s6 / gun.n.01)))

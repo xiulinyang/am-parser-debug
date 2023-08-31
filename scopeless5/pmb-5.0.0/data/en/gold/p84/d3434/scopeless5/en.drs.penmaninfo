@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'be.v.01')
+('s1', ':Participant', 's0')
+('s0', ':instance', 'vending_machine.n.01')
+('s1', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s1', ':Location', 's3')
+('s3', ':instance', 'location.n.01')
+tokenized sentence:START The vending machines are over there .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 3, "node_id": "s0"}, {"token_id": 4, "node_id": ["c0", "s2", "s1"], "lexical_node": "s1"}, {"token_id": 6, "node_id": "s3"}]

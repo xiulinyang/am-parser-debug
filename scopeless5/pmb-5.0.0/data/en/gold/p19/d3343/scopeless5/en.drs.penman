@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s4 / age.n.01
+			:Theme (s0 / male.n.02)
+			:Value (s3 / year.n.01
+				:Quantity (s1 / quantity.n.01
+					:BOT (s2 / quantity.n.01
+						:EQU (c0 / "35")))))))

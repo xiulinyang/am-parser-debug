@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s6 / tear_down.v.01
+		:Patient (s0 / house.n.01
+			:LocationOf (s1 / entity.n.01
+				:EQU (s3 / live.v.01
+					:Theme (s2 / person.n.01
+						:Sub (c0 / "speaker"))
+					:Time (s4 / time.n.08
+						:TPR (c1 / "now")))))
+		:Time (s5 / time.n.08
+			:TPR (c2 / "now"))))

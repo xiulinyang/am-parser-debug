@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / honeymoon.v.01
+		:Agent (s1 / entity.n.01
+			:Sub (s0 / male.n.02
+				:Name (c0 / "Tom"))
+			:Sub (s2 / female.n.02
+				:Name (c1 / "Mary")))
+		:Time (s3 / time.n.08
+			:EQU (c2 / "now"))))

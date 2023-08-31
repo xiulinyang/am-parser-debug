@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / stay.v.03
+		:Location (s0 / hotel_room.n.01
+			:Attribute (s5 / shabby.a.01
+				:Time (s4 / time.n.08
+					:TPR (c2 / "now"))))
+		:Theme (s1 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

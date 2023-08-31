@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / ban.v.02
+		:Agent (s0 / treaty.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / entity.n.01
+			:Sub (s3 / atomic_bomb.n.01)
+			:Sub (s5 / hydrogen_bomb.n.01))))

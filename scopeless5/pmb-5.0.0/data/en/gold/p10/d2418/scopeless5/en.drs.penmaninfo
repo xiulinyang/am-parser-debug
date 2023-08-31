@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's0')
+('s0', ':instance', 'time.n.08')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s0', ':EQU', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':MonthOfYear', 'c1')
+('c1', ':instance', '"10"')
+('s1', ':DayOfMonth', 'c2')
+('c2', ':instance', '"3"')
+('s2', ':EQU', 's1')
+('s2', ':instance', 'time.n.08')
+tokenized sentence:START It 's October the third .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 3, "node_id": ["c2", "c1", "s1"], "lexical_node": "s1"}, {"token_id": 5, "node_id": "s2"}]

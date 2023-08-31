@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s0 / ultraviolet.a.01
+		:Attribute-of (s1 / ray.n.01
+			:Stimulus-of (s3 / harmful.a.01
+				:Time (s2 / time.n.08
+					:EQU (c0 / "now"))
+				:Experiencer (s4 / person.n.01
+					:Sub (c1 / "speaker"))))))

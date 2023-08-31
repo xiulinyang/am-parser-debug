@@ -1,0 +1,6 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s2 / ill.a.01
+			:Attribute-of (s0 / male.n.02)
+			:Time (s1 / time.n.08
+				:TPR (c0 / "now")))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / clean_out.v.03
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom")
+			:Patient-of (s5 / disappear.v.01
+				:Time (s6 / time.n.08
+					:TPR (c2 / "now"))))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Source (s4 / bank_account.n.01
+			:User (s3 / male.n.02))))

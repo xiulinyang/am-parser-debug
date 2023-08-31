@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / begin.v.01
+		:Manner (s0 / all_of_a_sudden.r.01)
+		:Time (s5 / time.n.08
+			:TPR (c1 / "now"))
+		:Part-of (s6 / sing.v.02
+			:Agent (s2 / person.n.01
+				:Role (s3 / mother.n.01
+					:Of (s1 / person.n.01
+						:EQU (c0 / "speaker")))))))

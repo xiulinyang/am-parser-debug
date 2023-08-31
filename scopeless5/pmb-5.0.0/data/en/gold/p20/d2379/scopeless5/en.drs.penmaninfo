@@ -1,0 +1,9 @@
+('b0', ':instance', '"box"')
+('b0', ':NEGATION', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':member', 's0')
+('s0', ':instance', 'event.v.01')
+('s0', ':Participant', 's1')
+('s1', ':instance', 'comment.n.01')
+tokenized sentence:START No comment .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["b1", "s0"], "lexical_node": "b1"}, {"token_id": 2, "node_id": "s1"}]

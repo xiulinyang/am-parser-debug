@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / look.v.01
+		:Agent (s2 / dog.n.01
+			:Attribute (s0 / big.a.01
+				:Value (c0 / "+"))
+			:Colour (s1 / white.a.01))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s5 / cat.n.01)))

@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / be.v.03
+			:Theme (s5 / entity.n.01)
+			:Time (s7 / time.n.08
+				:EQU (c3 / "now"))
+			:Location (s8 / floor.n.02
+				:Order (c4 / "3"))))
+	:member (s1 / be.v.03
+		:Location (s0 / location.n.01
+			:Location (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / classroom.n.01
+			:User (s3 / person.n.01
+				:EQU (c2 / "speaker")))))

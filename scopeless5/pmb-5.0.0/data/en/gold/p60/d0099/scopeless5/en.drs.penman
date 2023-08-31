@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s7 / old.a.01
+		:Attribute-of (s1 / person.n.01
+			:Role (s2 / grandmother.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s6 / year.n.01
+			:Quantity (s4 / quantity.n.01
+				:MOR (s5 / quantity.n.01
+					:EQU (c2 / "90"))))))

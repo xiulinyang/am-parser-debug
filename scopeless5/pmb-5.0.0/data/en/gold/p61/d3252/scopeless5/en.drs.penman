@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / ring.v.02
+		:Theme (s0 / tale.n.01
+			:Content (s3 / deed.n.02
+				:Creator (s1 / female.n.02)
+				:Attribute (s2 / courageous.a.01)))
+		:Time (s5 / time.n.08
+			:TPR (c0 / "now"))
+		:Path (s6 / country.n.02)))

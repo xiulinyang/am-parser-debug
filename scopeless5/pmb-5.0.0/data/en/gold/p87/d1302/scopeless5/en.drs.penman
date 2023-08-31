@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / wedding.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s4 / wedding.n.01
+			:Attribute (s3 / merry.a.01))))

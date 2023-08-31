@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01
+			:EQU (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s3 / name.n.01
+			:Bearer (s4 / person.n.01
+				:Role (s5 / heroine.n.01
+					:Context (s6 / book.n.01
+						:Name (c2 / "Gone with the Wind")))))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / black.a.01
+				:Colour-of (s0 / crow.n.01)
+				:Time (s1 / time.n.08
+					:EQU (c0 / "now"))
+				:Degree (s2 / as.r.01
+					:Theme s0
+					:Co-Theme (s4 / coal.n.02))))))

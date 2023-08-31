@@ -1,0 +1,4 @@
+(b0 / "box"
+	:member (s0 / event.v.01
+		:Participant (s2 / dress.n.01
+			:Attribute (s1 / nice.a.01))))

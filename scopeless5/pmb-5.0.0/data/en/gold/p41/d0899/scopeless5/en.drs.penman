@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / beautiful.a.01
+		:Attribute-of (s1 / rose.n.01
+			:Colour (s0 / blue.a.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s3 / very.r.01)))

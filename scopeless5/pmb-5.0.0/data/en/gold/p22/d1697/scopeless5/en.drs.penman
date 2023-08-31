@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / capsize.v.01
+		:Theme (s0 / ship.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / middle.n.01
+			:Part-of (s4 / ocean.n.01))))

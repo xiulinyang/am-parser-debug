@@ -1,0 +1,13 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / help.v.01
+			:Agent (s4 / person.n.01
+				:EQU (c2 / "hearer"))
+			:Beneficiary (s6 / person.n.01
+				:EQU (c3 / "speaker"))))
+	:member (s2 / accept.v.03
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Theme (s3 / work.n.01)))

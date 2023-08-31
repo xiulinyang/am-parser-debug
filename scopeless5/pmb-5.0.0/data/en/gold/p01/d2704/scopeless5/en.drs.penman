@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s1 / charge.v.03
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Bob"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Asset (s5 / measure.n.02
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "3"))
+			:Unit (s6 / division.n.11
+				:Theme (s4 / dollar.n.01)
+				:Co-Theme (s7 / hour.n.01)))
+		:Theme (s8 / mow.v.01
+			:Patient (s9 / lawn.n.01))))

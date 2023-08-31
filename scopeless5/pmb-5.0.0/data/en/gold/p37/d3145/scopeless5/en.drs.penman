@@ -1,0 +1,8 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s1 / accommodate.v.04
+			:Theme (s0 / hotel.n.01)
+			:Value (s3 / person.n.01
+				:Quantity (s2 / quantity.n.01
+					:EQU (c0 / "500"))
+				:Role (s4 / guest.n.01)))))

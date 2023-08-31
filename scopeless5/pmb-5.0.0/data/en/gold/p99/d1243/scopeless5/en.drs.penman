@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s5 / release.v.02
+				:Theme (s1 / entity.n.01
+					:EQU-of (s0 / person.n.01))
+				:Time (s4 / time.n.08
+					:TPR (c1 / "now"))))
+		:member (s3 / arrest.v.01
+			:Patient s1
+			:Time (s2 / time.n.08
+				:TPR (c0 / "now")))))

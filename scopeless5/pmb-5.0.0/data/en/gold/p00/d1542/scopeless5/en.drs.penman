@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / dress.v.01
+		:Patient (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / blouse.n.01
+			:Colour (s3 / red.a.01))))

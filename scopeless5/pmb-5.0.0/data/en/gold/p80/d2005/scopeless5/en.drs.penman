@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / rip_off.v.01
+		:Patient (s0 / person.n.01
+			:Role (s1 / tourist.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / nightclub.n.01)))

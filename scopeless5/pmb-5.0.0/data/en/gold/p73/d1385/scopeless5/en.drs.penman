@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01
+			:EQU (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s3 / name.n.01
+			:Bearer (s6 / airline.n.02
+				:Source (s4 / country.n.02
+					:Name (c2 / "switzerland"))
+				:Attribute (s5 / national.a.01)))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / major.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / engineering.n.02)
+		:Source (s4 / college.n.02)))

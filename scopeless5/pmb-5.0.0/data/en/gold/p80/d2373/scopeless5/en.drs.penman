@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s8 / degree.n.03
+				:Result (s5 / leave.v.08
+					:Theme (s4 / female.n.02)
+					:Time (s6 / time.n.08
+						:TPR (c1 / "now"))
+					:Location (s7 / university.n.03)))))
+	:member (s1 / stop.v.02
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Part-of (s3 / study.v.02
+			:Agent (s0 / female.n.02))))

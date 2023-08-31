@@ -1,0 +1,21 @@
+(b0 / "box"
+	:member (s1 / be.v.04
+		:EQU (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / book.n.01
+			:Context (s5 / english.n.01)))
+	:member (s3 / famous.a.01
+		:Attribute-of s4)
+	:member (s9 / be.v.01
+		:Theme (s8 / chapter.n.01
+			:Part-of s4)
+		:Time (s10 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s12 / sentence.n.01))
+	:member (s11 / single.a.03
+		:Attribute-of s12)
+	:member (s6 / entire.a.01
+		:Attribute-of s8)
+	:member (s7 / last.a.02
+		:Attribute-of s8))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / have.v.01
+		:Pivot (s0 / female.n.02
+			:Name (c0 / "Cinderella"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / person.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "2"))
+			:Role (s6 / stepsister.n.01)
+			:Attribute (s4 / evil.a.01))))

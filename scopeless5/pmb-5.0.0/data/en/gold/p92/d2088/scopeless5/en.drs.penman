@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s5 / hire.v.01
+			:Agent (s3 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s4 / time.n.08
+				:TSU (c3 / "now"))
+			:Theme (s6 / person.n.01
+				:EQU (c4 / "hearer"))))
+	:member (s2 / honest.a.03
+		:Attribute-of (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

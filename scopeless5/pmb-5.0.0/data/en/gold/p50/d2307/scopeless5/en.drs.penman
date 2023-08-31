@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s3 / understand.v.01
+			:Experiencer (s0 / person.n.01
+				:Role (s1 / official.n.01))
+			:Time (s2 / time.n.08
+				:EQU (c0 / "now"))
+			:Stimulus (s4 / finance.n.02))))

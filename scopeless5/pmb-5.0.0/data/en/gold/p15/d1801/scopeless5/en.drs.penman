@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / associate.v.01
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / male.n.02
+			:Name (c2 / "Darwin"))
+		:Co-Theme (s4 / theory_of_evolution.n.01)))

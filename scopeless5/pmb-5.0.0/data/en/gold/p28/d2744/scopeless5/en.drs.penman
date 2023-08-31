@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s2 / wear.v.02
+			:Agent (s0 / person.n.01
+				:Role (s1 / driver.n.01))
+			:Theme (s3 / seat_belt.n.01))))

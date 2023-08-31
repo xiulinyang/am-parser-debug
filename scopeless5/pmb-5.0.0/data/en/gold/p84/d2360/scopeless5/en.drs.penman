@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / go.v.01
+		:Time (s0 / time.n.08
+			:DayOfWeek (c0 / "thursday"))
+		:Theme (s1 / person.n.01
+			:Sub (c1 / "speaker"))
+		:Time (s2 / time.n.08
+			:TSU (c2 / "now"))
+		:Destination (s4 / swimming_pool.n.01)))

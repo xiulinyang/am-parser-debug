@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s2 / arrest.v.01
+		:Agent (s1 / police.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "norway")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s5 / person.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "3")))
+		:Theme (s6 / theft.n.01
+			:Theme (s8 / painting.n.01
+				:Creator (s7 / male.n.02
+					:Name (c3 / "Munch"))
+				:EQU (s9 / painting.n.01
+					:Name (c4 / "The Scream"))))))

@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:NEGATION (b2 / "box"
+			:NEGATION (b3 / "box"
+				:member (s8 / event.v.01
+					:Participant (s5 / entity.n.01
+						:Part-of (s7 / setback.n.01
+							:Experiencer (s6 / male.n.02)))))))
+	:member (s1 / remain.v.01
+		:Theme (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute (s3 / person.n.01
+			:Role (s4 / optimist.n.01))))

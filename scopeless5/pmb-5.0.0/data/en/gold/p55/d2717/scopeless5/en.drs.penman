@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / heavy.a.01
+		:Attribute-of (s1 / leg.n.01
+			:Part-of (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s3 / as.r.01
+			:Theme s1
+			:Co-Theme (s5 / lead.n.02))))

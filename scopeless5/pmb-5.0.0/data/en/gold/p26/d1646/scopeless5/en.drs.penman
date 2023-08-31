@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / hide.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / location.n.01
+			:SXP (s4 / rock.n.01))))

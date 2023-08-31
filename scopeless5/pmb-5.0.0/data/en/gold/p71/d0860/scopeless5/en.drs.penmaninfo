@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'tired.a.01')
+('s0', ':Attribute', 's2')
+('s0', ':instance', 'person.n.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"speaker"')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':EQU', 'c1')
+('c1', ':instance', '"now"')
+tokenized sentence:START I am tired .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 2, "node_id": ["c1", "s1"], "lexical_node": "s1"}, {"token_id": 3, "node_id": "s2"}]

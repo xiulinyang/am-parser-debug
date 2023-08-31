@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / handsome.a.01
+		:Attribute-of (s1 / man.n.01
+			:Attribute (s0 / tall.a.01
+				:Value (c0 / "+")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

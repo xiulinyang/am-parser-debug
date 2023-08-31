@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / award.v.01
+		:Beneficiary (s1 / person.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "italy"))
+			:Role (s2 / director.n.04))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s6 / oscar.n.01
+			:Attribute (s5 / honorary.a.01))))

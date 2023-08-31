@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / big.a.01
+		:Attribute-of (s0 / country.n.02
+			:Name (c0 / "China"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s4 / more.r.01
+			:Theme s0
+			:Value (s2 / measure.n.02
+				:Quantity (c2 / "+"))
+			:Co-Theme (s5 / country.n.02
+				:Name (c3 / "Japan")))))

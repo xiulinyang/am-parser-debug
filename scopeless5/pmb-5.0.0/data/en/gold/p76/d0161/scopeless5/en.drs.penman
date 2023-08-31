@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / slow.a.01
+		:Attribute-of (s1 / pace.n.01
+			:Creator (s0 / male.n.02))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Degree (s4 / more.r.01
+			:Theme s1)))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / attend.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / school.n.03)
+		:Time (s4 / night.n.07)))

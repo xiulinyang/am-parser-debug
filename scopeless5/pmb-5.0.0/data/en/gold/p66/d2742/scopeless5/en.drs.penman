@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / popular.a.01
+		:Stimulus (s0 / book.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Experiencer (s3 / person.n.01
+			:Role (s4 / student.n.01))))

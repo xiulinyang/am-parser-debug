@@ -1,0 +1,18 @@
+(b0 / "box"
+	:member (s2 / be.v.01
+		:Co-Theme (s1 / product.n.02)
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / polyphosphoric_acid.n.01))
+	:member (s0 / main.a.01
+		:Attribute-of s1)
+	:member (s7 / use.v.01
+		:Theme (s5 / entity.n.01
+			:EQU s4)
+		:Time (s6 / time.n.08
+			:EQU (c1 / "now"))
+		:Goal (s8 / manufacture.v.01
+			:Theme s5
+			:Result (s9 / gasoline.n.01)
+			:Location (s10 / country.n.02
+				:Name (c2 / "South Africa")))))

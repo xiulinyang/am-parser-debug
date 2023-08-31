@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Theme (s0 / milk.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s3 / fridge.n.01)))

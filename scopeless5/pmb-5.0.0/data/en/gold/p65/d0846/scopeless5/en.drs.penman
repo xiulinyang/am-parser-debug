@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / disqualify.v.02
+		:Theme (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s3 / race.n.02)
+		:Causer (s6 / start.n.08
+			:Quantity (s4 / quantity.n.01
+				:EQU (c1 / "2"))
+			:Attribute (s5 / false.a.03))))

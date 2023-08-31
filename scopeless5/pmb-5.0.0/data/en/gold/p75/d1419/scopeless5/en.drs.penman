@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s0 / love.v.01
+		:Stimulus (s1 / sport.n.01)
+		:Experiencer (s2 / person.n.01
+			:Role (s4 / son.n.01
+				:Of (s3 / person.n.01
+					:EQU (c0 / "speaker")))
+			:Experiencer-of (s5 / love.v.01
+				:Time (s6 / time.n.08
+					:EQU (c1 / "now"))
+				:Stimulus (s7 / art.n.01)))))

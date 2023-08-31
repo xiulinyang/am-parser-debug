@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / care.v.02
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / person.n.01
+			:Role (s6 / mother.n.01
+				:Of (s3 / female.n.02))
+			:Attribute (s4 / sick.a.01))))

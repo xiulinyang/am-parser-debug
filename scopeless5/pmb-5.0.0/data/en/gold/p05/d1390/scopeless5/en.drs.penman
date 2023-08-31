@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s4 / stab.v.01
+		:Patient (s1 / person.n.01
+			:Name (c0 / "?")
+			:Role (s2 / tennis_player.n.01)
+			:Attribute (s0 / female.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s5 / back.n.01)
+		:Instrument (s6 / knife.n.02)
+		:Time (s8 / time.n.08
+			:DayOfMonth (c3 / "30")
+			:EQU (s9 / time.n.08
+				:YearOfCentury (c4 / "1993"))
+			:EQU-of (s7 / time.n.08
+				:MonthOfYear (c2 / "4")))))

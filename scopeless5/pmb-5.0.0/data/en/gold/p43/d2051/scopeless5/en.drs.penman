@@ -1,0 +1,10 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s4 / have.v.01
+				:Pivot (s1 / entity.n.01
+					:EQU-of (s0 / person.n.01))
+				:Theme (s5 / power.n.01)))
+		:member (s2 / have.v.01
+			:Pivot s1
+			:Theme (s3 / money.n.01))))

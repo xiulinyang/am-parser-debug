@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / be.v.06
+		:Theme (s1 / name.n.01
+			:Bearer (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / name.n.01
+			:EQU (c2 / "Edgar Degas"))))

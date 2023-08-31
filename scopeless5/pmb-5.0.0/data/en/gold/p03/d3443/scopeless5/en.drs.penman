@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / burn_down.v.01
+		:Patient (s0 / hotel.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

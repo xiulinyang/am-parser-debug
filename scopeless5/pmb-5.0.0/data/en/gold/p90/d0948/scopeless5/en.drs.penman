@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / emit.v.02
+		:Source (s0 / lightbulb.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / heat.n.01)))

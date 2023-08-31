@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / awkward.a.06
+		:Attribute-of (s0 / female.n.02
+			:Theme-of (s4 / reserved.a.02
+				:Time (s2 / time.n.08
+					:TPR (c1 / "now"))
+				:Location (s5 / party.n.04)))
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

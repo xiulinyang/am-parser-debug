@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / favor.v.01
+		:Experiencer (s1 / person.n.01
+			:EQU (s0 / female.n.02
+				:Source (s2 / city.n.01
+					:Name (c0 / "hamburg"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s5 / rubber.n.04)))

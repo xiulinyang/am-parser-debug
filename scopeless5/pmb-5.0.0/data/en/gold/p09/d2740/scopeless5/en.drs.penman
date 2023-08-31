@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / stress.v.02
+		:Patient (s0 / word.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Destination (s4 / syllable.n.01
+			:Attribute (s3 / last.a.02))))

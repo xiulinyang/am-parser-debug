@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / invite.v.02
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s4 / person.n.01
+			:Role (s5 / friend.n.01
+				:Attribute (s3 / old.a.02)))))

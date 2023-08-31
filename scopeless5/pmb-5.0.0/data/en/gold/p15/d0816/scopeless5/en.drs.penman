@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / famous.a.01
+		:Attribute-of (s1 / person.n.01
+			:Role (s2 / sister.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))))

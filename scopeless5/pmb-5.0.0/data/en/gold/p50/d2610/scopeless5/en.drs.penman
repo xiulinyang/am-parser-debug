@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Theme (s4 / woman.n.01
+			:Part (s6 / hair.n.01
+				:Colour (s5 / black.a.01))
+			:Attribute (s3 / beautiful.a.01))
+		:Location (s7 / park.n.02)))

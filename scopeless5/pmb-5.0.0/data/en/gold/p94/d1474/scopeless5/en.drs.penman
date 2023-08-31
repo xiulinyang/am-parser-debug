@@ -1,0 +1,15 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s4 / wash.v.02
+				:Agent (c2 / "hearer")
+				:Source (s5 / wound.n.01)
+				:Instrument (s7 / entity.n.01
+					:Sub (s6 / soap.n.01)
+					:Sub (s8 / water.n.06))))
+		:member (s1 / bite.v.01
+			:Agent (s0 / dog.n.01)
+			:Time (s2 / time.n.08
+				:EQU (c0 / "now"))
+			:Patient (s3 / person.n.01
+				:EQU (c1 / "hearer")))))

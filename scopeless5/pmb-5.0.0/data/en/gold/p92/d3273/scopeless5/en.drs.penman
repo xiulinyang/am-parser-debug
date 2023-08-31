@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / rob.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / gangster.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s4 / bank.n.02)
+		:Theme (s5 / entity.n.01
+			:Quantity (s6 / quantity.n.01
+				:MOR (c1 / "2000"))
+			:EQU (s7 / dollar.n.01))))

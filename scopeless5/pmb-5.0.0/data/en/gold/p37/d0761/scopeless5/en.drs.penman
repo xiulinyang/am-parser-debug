@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / approve.v.01
+		:Agent (s1 / person.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "netherlands")))
+		:Theme (s3 / document.n.01
+			:Name (c1 / "European Constitution"))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / crowded.a.01
+		:Attribute-of (s0 / car.n.01
+			:EQU (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s2 / less.r.01
+			:Theme s0)))

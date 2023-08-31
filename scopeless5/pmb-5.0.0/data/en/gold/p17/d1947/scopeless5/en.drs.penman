@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / separate.v.04
+		:Agent (s0 / person.n.01
+			:Role (s1 / farmer.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s5 / apple.n.01
+			:Attribute (s4 / good.a.01))
+		:Co-Theme (s7 / apple.n.01
+			:Attribute (s6 / bad.a.01))))

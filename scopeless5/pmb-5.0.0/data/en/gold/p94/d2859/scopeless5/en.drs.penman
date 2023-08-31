@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / draw.v.26
+		:Agent (s1 / concert.n.01
+			:Creator (s0 / female.n.02
+				:Name (c0 / "Madonna")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s5 / audience.n.01
+			:Attribute (s4 / large.a.01
+				:Value (c2 / "+")))))

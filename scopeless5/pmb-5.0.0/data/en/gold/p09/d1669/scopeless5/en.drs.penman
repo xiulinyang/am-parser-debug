@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s1 / fuel.v.01
+			:Agent (s0 / person.n.01
+				:Sub (c0 / "speaker"))
+			:Destination (s2 / machine.n.01))))

@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s5 / use.v.01
+				:Agent (s4 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Theme (s6 / pencil.n.01
+					:User (s7 / entity.n.01
+						:User (s8 / person.n.01
+							:EQU (c3 / "hearer")))))))
+	:member (s1 / need.v.01
+		:Pivot (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / pencil.n.01)))

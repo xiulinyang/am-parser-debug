@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / wreck.v.01
+		:Patient (s1 / car.n.01
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Context (s4 / crash.n.02)))

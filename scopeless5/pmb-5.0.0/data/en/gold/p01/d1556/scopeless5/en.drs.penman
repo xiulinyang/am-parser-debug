@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / break_out.v.01
+		:Theme (s0 / war.n.01
+			:Location (s1 / country.n.02
+				:Name (c0 / "Iraq")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s6 / time.n.08
+			:TAB (s5 / year.n.01
+				:Quantity (s4 / quantity.n.01
+					:EQU (c2 / "10"))
+				:TAB (c3 / "now")))))

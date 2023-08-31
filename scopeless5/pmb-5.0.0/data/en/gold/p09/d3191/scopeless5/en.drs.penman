@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / lack.v.01
+		:Pivot (s0 / girl.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / ability.n.01
+			:Attribute (s3 / musical.a.01))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / able.a.01
+			:Attribute (s0 / female.n.02
+				:Name (c0 / "Begum"))
+			:Time (s1 / time.n.08
+				:TPR (c1 / "now"))
+			:Theme (s3 / feed.v.02
+				:Agent s0
+				:Recipient (s4 / female.n.02)))))

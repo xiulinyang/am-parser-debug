@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / fistfight.v.01
+			:Agent (s0 / person.n.01)
+			:Time (s1 / time.n.08
+				:EQU (c0 / "now"))
+			:Location (s3 / ring.n.07))))

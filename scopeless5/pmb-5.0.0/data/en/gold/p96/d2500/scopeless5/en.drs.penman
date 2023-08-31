@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s5 / set_off.v.03
+		:Causer (s4 / eyelash.n.01
+			:Part-of (s0 / female.n.02)
+			:Colour (s3 / black.a.01)
+			:Attribute (s2 / long.a.02
+				:Degree (s1 / very.r.01)))
+		:Time (s6 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s8 / pallor.n.01
+			:Attribute-of (s10 / cheek.n.01
+				:Part-of (s9 / female.n.02))
+			:Attribute (s7 / aristocratic.a.01))))

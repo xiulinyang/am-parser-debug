@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':NEGATION', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':NEGATION', 'b2')
+('b2', ':instance', '"box"')
+('b2', ':member', 's1')
+('s1', ':instance', 'be.v.01')
+('s1', ':Theme', 's0')
+('s0', ':instance', 'tanker.n.01')
+('s1', ':Co-Theme', 's2')
+('s2', ':instance', 'ship.n.01')
+('s3', ':Instrument', 's2')
+('s3', ':instance', 'carry.v.01')
+('s3', ':Theme', 's4')
+('s4', ':instance', 'oil.n.03')
+tokenized sentence:START A tanker is a ship carrying oil .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["b1", "b2"], "lexical_node": "b1"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 5, "node_id": "s2"}, {"token_id": 6, "node_id": "s3"}, {"token_id": 7, "node_id": "s4"}]

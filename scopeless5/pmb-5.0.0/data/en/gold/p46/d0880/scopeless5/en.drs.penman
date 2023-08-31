@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / arrive.v.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Time (s3 / time.n.08
+			:DayOfMonth (c2 / "23")
+			:MonthOfYear (c3 / "5")
+			:EQU-of (s4 / time.n.08))))

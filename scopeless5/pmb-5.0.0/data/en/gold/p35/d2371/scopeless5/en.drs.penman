@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s0 / time.n.08
+		:EQU (c0 / "now")
+		:EQU (s1 / time.n.08
+			:ClockTime (c1 / "20:00"))))

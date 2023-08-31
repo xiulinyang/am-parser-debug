@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / found.v.01
+		:Theme (s0 / university.n.03
+			:Name (c0 / "Harvard"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s3 / time.n.08
+			:YearOfCentury (c2 / "1636"))))

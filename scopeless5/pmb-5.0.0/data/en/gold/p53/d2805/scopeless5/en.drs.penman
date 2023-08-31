@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.08
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Chomsky"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / person.n.01
+			:Role (s5 / linguist.n.01
+				:Attribute (s3 / structural.a.04)))))

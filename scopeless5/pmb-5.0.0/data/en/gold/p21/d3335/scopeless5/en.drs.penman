@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / buy.v.01
+		:Theme (s0 / furniture.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s3 / auction.n.02)))

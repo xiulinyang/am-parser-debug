@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / destroy.v.02
+		:Patient (s0 / entity.n.01
+			:Quantity (c0 / "2")
+			:Part-of (s2 / ship.n.01
+				:User (s1 / enemy.n.01)))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

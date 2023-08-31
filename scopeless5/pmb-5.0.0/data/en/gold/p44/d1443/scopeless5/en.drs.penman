@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / test.v.03
+		:Agent (s1 / female.n.02
+			:Name (c0 / "Patterson")
+			:Title (s0 / doctor.n.04)
+			:EQU (s2 / person.n.01
+				:Role (s3 / psychologist.n.01)))
+		:Time (s5 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s7 / intelligence.n.01
+			:Creator (s6 / animal.n.01
+				:Name (c2 / "Koko")))))

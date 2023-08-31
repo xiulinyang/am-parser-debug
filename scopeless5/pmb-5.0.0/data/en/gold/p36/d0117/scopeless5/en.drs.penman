@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / terrifying.a.01
+		:Attribute-of (s0 / entity.n.01
+			:Instance-of (s1 / odour.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s3 / really.r.03)))

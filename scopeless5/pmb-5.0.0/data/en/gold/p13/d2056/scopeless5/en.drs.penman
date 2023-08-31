@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / be.v.02
+		:Co-Theme (s1 / bag.n.01
+			:User (s0 / person.n.01
+				:Name (c0 / "?")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / entity.n.01)))

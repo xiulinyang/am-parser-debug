@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / play.v.05
+		:Agent (s0 / boy.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / toy.n.01
+			:User (s3 / male.n.02)
+			:APX (s5 / person.n.01
+				:Role (s6 / soldier.n.01)))))

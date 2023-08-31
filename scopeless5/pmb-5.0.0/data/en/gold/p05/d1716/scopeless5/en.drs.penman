@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s1 / have.v.02
+				:Pivot (s0 / birch.n.02)
+				:Theme (s3 / bark.n.01
+					:Colour (s2 / white.a.01))))))

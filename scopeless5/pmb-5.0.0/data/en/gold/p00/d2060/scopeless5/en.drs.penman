@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / use.v.01
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s3 / really.r.01)
+		:Theme (s5 / equipment.n.01
+			:Attribute (s4 / state-of-the-art.a.01))))

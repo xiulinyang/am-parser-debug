@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01
+			:Name (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s6 / song.n.01
+			:Creator (s5 / musical_organization.n.01
+				:Name (c3 / "ZZ Top"))
+			:Stimulus-of (s4 / favorite.a.02
+				:Experiencer (s3 / person.n.01
+					:EQU (c2 / "hearer"))))))

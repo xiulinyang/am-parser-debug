@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / suffer.v.02
+				:Experiencer (s0 / person.n.01
+					:Role (s1 / author.n.01))
+				:Time (s3 / time.n.08
+					:EQU (c0 / "now"))
+				:Stimulus (s4 / writer's_block.n.01)
+				:Manner (s5 / from_time_to_time.r.01)))))

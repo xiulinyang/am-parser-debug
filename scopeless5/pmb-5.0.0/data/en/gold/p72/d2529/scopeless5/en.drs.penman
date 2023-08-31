@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s3 / pretty.a.01
+			:Attribute-of (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Time (s1 / time.n.08
+				:EQU (c1 / "now"))
+			:Degree (s2 / less.r.01
+				:Theme s0
+				:Co-Theme (s4 / female.n.02)))))

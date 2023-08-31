@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / spend.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Duration (s4 / vacation.n.01
+			:Agent (s3 / person.n.01
+				:EQU (c2 / "speaker")))
+		:Location (s5 / country.n.02
+			:Name (c3 / "Australia"))))

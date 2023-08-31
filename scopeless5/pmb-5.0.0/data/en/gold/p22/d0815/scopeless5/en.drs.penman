@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / work.v.02
+		:Agent (s1 / person.n.01
+			:Role (s2 / brother.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Agent (s5 / bank.n.02)))

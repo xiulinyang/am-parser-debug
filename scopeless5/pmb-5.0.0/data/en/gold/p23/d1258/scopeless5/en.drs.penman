@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s7 / report.v.01
+		:Agent (s6 / fire_brigade.n.01)
+		:Time (s8 / time.n.08
+			:EQU (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s3 / cool.v.01
+				:Agent (s0 / person.n.01
+					:Role (s1 / expert.n.01))
+				:Time (s2 / time.n.08
+					:EQU (c0 / "now"))
+				:Patient (s4 / wagon.n.01)
+				:Instrument (s5 / water.n.06)))))

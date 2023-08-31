@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / allow.v.01
+		:Causer (s0 / reform.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Beneficiary (s4 / schooling.n.01
+			:Location (s3 / home.n.02))))

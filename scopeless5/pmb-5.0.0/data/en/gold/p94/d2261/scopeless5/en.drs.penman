@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Theme (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Source (s3 / country.n.02
+			:Name (c1 / "russia"))))

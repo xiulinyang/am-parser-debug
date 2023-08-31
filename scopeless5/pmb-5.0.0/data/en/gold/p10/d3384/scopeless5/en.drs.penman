@@ -1,0 +1,4 @@
+(b0 / "box"
+	:member (s1 / grow_up.v.01
+		:Patient (s0 / person.n.01
+			:EQU (c0 / "hearer"))))

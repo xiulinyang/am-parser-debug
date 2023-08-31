@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'tell.v.02')
+('s2', ':Agent', 's0')
+('s0', ':instance', 'male.n.02')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Topic', 's3')
+('s3', ':instance', 'lie.n.01')
+('s3', ':Topic', 's4')
+('s4', ':instance', 'male.n.02')
+tokenized sentence:START He has been telling lies about himself .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": "s0"}, {"token_id": 3, "node_id": ["c0", "s1"], "lexical_node": "s1"}, {"token_id": 4, "node_id": "s2"}, {"token_id": 5, "node_id": "s3"}, {"token_id": 7, "node_id": "s4"}]

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / arrive.v.01
+		:Theme (s0 / express.n.02)
+		:Time (s2 / time.n.08
+			:TSU (c0 / "now"))
+		:Time (s3 / time.n.08
+			:ClockTime (c1 / "18:30"))))

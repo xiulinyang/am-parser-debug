@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / steal.v.03
+		:Agent (s1 / person.n.01
+			:Name (c0 / "?")
+			:Role (s2 / star.n.02
+				:Theme (s0 / baseball.n.01)))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s6 / base.n.03
+			:Quantity (s5 / quantity.n.01
+				:EQU (c2 / "130")))
+		:Time (s7 / time.n.08
+			:YearOfCentury (c3 / "1982"))))

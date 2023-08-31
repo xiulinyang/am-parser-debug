@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / push.v.01
+				:Agent (s0 / male.n.02
+					:Name (c0 / "Tom"))
+				:Theme (s1 / entity.n.01
+					:Part-of (s2 / pillow.n.01))
+				:Time (s4 / time.n.08
+					:TPR (c1 / "now"))
+				:Source (s5 / bed.n.01)))))

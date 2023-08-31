@@ -1,0 +1,6 @@
+subcorpus: SICK
+source: http://clic.cimec.unitn.it/composes/sick.html
+problems: h1296, p1297, h1298, p1302, p1303, h1304, p1308
+inferences: neutral (5), entailment (1), contradiction (1)
+splits: test (3), train (3), trial (1)
+initial_corpora: SEMEVAL (7)

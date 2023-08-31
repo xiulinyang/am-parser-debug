@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / dye.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / hair.n.01
+			:Part-of (s3 / female.n.02))
+		:Result (s5 / blonde.a.01
+			:Colour-of s4)))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / addictive.a.01
+		:Attribute-of (s1 / chip.n.04
+			:MadeOf (s0 / kale.n.02))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

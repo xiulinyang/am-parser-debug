@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / keep.v.18
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / boat.n.01
+			:User (s3 / male.n.02))
+		:Location (s5 / pier.n.01)))

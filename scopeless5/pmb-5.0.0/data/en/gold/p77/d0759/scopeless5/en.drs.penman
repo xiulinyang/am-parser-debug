@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / cost.v.01
+		:Theme (s0 / company.n.01
+			:Name (c0 / "Yuganskneftegaz"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s3 / united_states_dollar.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "27500000000")))))

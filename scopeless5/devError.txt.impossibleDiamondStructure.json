@@ -1,0 +1,201 @@
+[ {
+  "instances" : [ "1\tnull\t_\t_\t_\t_\t(n / null)\t_\t_\t0\tROOT\tfalse\n", "1\tnull\t_\t_\t_\t_\t(n / null)\t_\t_\t0\tROOT\tfalse\n" ],
+  "name" : "AM tree",
+  "format" : "amtree_string",
+  "type" : "data"
+}, {
+  "instances" : [ "b0!||0-1||1.0 c0|s0!||1-2||1.0 c1|s1|s2!||2-3||1.0 s3|c2!||4-5||1.0 b1!||6-7||1.0 c3!|s4||7-8||1.0 c4|s5!||8-9||1.0 s6!||9-10||1.0 c5!|s7||11-12||1.0", "b0!||0-1||1.0 c0|s0!||1-2||1.0 b2|b1!||3-4||1.0 s2!||5-6||1.0 s3!||6-7||1.0 s4!|s5|c1|s1||2-3||1.0" ],
+  "name" : "Alignments",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "instances" : [ "(b0 / box  :CONTRAST (b1 / box  :member (s6 / \"live.v.01\"  :Time (s4 / \"time.n.08\"  :EQU (c3 / now)  :EQU (s2 / \"time.n.08\"  :EQU (c1 / now)  :Time-of (s1 / \"be.v.03\"  :Theme (s0 / \"person.n.01\"  :EQU (c0 / speaker))  :Source (s3 / \"city.n.01\"  :Name (c2 / Hiroshima))  :member-of b0)))  :Theme (s5 / \"person.n.01\"  :EQU (c4 / speaker))  :Location (s7 / \"city.n.01\"  :Name (c5 / Tokyo)))))", "(b0 / box  :NEGATION (b1 / box  :NEGATION (b2 / box  :member (s4 / \"tour.v.01\"  :Agent (s0 / \"person.n.01\"  :Sub (c0 / speaker))  :Location (s1 / \"entity.n.01\"  :Part-of (s3 / \"city.n.01\"  :Attribute (s2 / \"major.a.01\"  :member-of b1)))  :Time (s5 / \"time.n.08\"  :TPR (c1 / now))))))" ],
+  "name" : "Gold graph",
+  "format" : "graph_string",
+  "type" : "data"
+}, {
+  "instances" : [ "START I am from Hiroshima , but now I live in Tokyo .", "START We toured all the major cities ." ],
+  "name" : "Sentence",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "c1" : 1.0,
+      "s1" : 1.0,
+      "s2" : 1.0
+    },
+    "3" : {
+      "s3" : 1.0,
+      "c2" : 1.0
+    },
+    "4" : {
+      "b1" : 1.0
+    },
+    "5" : {
+      "c3" : 1.0,
+      "s4" : 1.0
+    },
+    "6" : {
+      "c4" : 1.0,
+      "s5" : 1.0
+    },
+    "7" : {
+      "s6" : 1.0
+    },
+    "8" : {
+      "c5" : 1.0,
+      "s7" : 1.0
+    }
+  }, {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "b2" : 1.0,
+      "b1" : 1.0
+    },
+    "3" : {
+      "s2" : 1.0
+    },
+    "4" : {
+      "s3" : 1.0
+    },
+    "5" : {
+      "s4" : 1.0,
+      "s5" : 1.0,
+      "c1" : 1.0,
+      "s1" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "0" : 1.0
+    },
+    "1" : {
+      "1" : 1.0
+    },
+    "2" : {
+      "2" : 1.0
+    },
+    "3" : {
+      "4" : 1.0
+    },
+    "4" : {
+      "6" : 1.0
+    },
+    "5" : {
+      "7" : 1.0
+    },
+    "6" : {
+      "8" : 1.0
+    },
+    "7" : {
+      "9" : 1.0
+    },
+    "8" : {
+      "11" : 1.0
+    }
+  }, {
+    "0" : {
+      "0" : 1.0
+    },
+    "1" : {
+      "1" : 1.0
+    },
+    "2" : {
+      "3" : 1.0
+    },
+    "3" : {
+      "5" : 1.0
+    },
+    "4" : {
+      "6" : 1.0
+    },
+    "5" : {
+      "2" : 1.0
+    }
+  } ],
+  "name2" : "Sentence",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "11" : {
+      "c5" : 1.0,
+      "s7" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "c1" : 1.0,
+      "s1" : 1.0,
+      "s2" : 1.0
+    },
+    "4" : {
+      "s3" : 1.0,
+      "c2" : 1.0
+    },
+    "6" : {
+      "b1" : 1.0
+    },
+    "7" : {
+      "c3" : 1.0,
+      "s4" : 1.0
+    },
+    "8" : {
+      "c4" : 1.0,
+      "s5" : 1.0
+    },
+    "9" : {
+      "s6" : 1.0
+    }
+  }, {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "s4" : 1.0,
+      "s5" : 1.0,
+      "c1" : 1.0,
+      "s1" : 1.0
+    },
+    "3" : {
+      "b2" : 1.0,
+      "b1" : 1.0
+    },
+    "5" : {
+      "s2" : 1.0
+    },
+    "6" : {
+      "s3" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Sentence"
+} ]

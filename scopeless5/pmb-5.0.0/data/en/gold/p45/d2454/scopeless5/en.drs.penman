@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s5 / old-fashioned.a.01
+		:Theme (s1 / person.n.01
+			:Role (s2 / father.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s4 / measure.n.02
+			:Quantity (c2 / "-"))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / wear.v.01
+			:Agent (s3 / male.n.02)
+			:Time (s4 / time.n.08
+				:TPR (c1 / "now"))
+			:Theme (s6 / suit.n.01)))
+	:member (s1 / stand_out.v.01
+		:Theme (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

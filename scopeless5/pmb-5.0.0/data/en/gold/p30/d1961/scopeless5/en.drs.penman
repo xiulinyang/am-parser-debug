@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / call.v.01
+		:Theme (s0 / country.n.02
+			:Name (c0 / "Chad"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Result (s3 / name.n.01
+			:EQU (c2 / "Tchad"))
+		:Context (s4 / french.n.01)))

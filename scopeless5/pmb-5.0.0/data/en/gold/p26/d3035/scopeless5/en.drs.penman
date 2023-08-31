@@ -1,0 +1,32 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:CONTINUATION (b2 / "box"
+			:member (s13 / become.v.01
+				:Patient (s12 / entity.n.01)
+				:Time (s14 / time.n.08
+					:TPR (c7 / "now"))
+				:Result (s18 / record.n.02
+					:Creator (s15 / male.n.02)
+					:Order (c8 / "1")
+					:Theme (s16 / number_one.n.02)
+					:Theme-of (s17 / sell.v.01))))
+		:member (s9 / be.v.02
+			:Theme (s7 / entity.n.01
+				:Quantity (c4 / "1")
+				:Part-of (s8 / song.n.01))
+			:Time (s10 / time.n.08
+				:TPR (c5 / "now"))
+			:Co-Theme (s11 / music.n.01
+				:Name (c6 / "Dang Me"))))
+	:member (s2 / agree.v.02
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1964"))
+		:Agent (s1 / male.n.02
+			:Name (c1 / "Roger Miller"))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))
+		:Topic (s4 / record.v.02
+			:Agent s1
+			:Theme (s6 / song.n.01
+				:Quantity (s5 / quantity.n.01
+					:EQU (c3 / "16"))))))

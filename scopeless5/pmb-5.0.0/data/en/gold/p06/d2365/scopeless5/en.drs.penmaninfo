@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'elect.v.01')
+('s1', ':Agent', 's0')
+('s0', ':instance', 'person.n.01')
+('s0', ':Sub', 'c0')
+('c0', ':instance', '"speaker"')
+('s1', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':TPR', 'c1')
+('c1', ':instance', '"now"')
+('s1', ':Theme', 's3')
+('s3', ':instance', 'female.n.02')
+('s1', ':Result', 's4')
+('s4', ':instance', 'mayor.n.01')
+tokenized sentence:START We elected her mayor .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 2, "node_id": ["c1", "s2", "s1"], "lexical_node": "s1"}, {"token_id": 3, "node_id": "s3"}, {"token_id": 4, "node_id": "s4"}]

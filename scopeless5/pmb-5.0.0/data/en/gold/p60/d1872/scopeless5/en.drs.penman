@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s6 / good.a.01
+				:Attribute-of (s3 / quality.n.01)
+				:Time (s4 / time.n.08
+					:EQU (c2 / "now"))
+				:Degree (s5 / very.r.01))))
+	:member (s2 / low.a.01
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (c1 / "+")
+		:Attribute-of (s0 / price.n.02)))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / charge.v.02
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Recipient (s3 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Theme (s4 / dishonesty.n.01)))

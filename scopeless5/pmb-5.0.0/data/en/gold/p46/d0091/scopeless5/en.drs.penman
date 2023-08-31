@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / sit.v.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Destination (s3 / location.n.01
+			:SY2 (s5 / entity.n.01
+				:Sub (s4 / female.n.02
+					:Name (c2 / "Meg"))
+				:Sub (s6 / person.n.01
+					:EQU (c3 / "speaker"))))))

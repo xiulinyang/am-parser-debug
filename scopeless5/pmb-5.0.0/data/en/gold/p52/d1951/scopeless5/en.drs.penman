@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s1 / scream.v.01
+				:Agent (s0 / person.n.01)
+				:Time (s2 / time.n.08
+					:TPR (c0 / "now"))))))

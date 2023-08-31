@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / arrest.v.01
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Marlowe"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s4 / person.n.01
+			:Location (s3 / country.n.02
+				:Name (c2 / "italy"))
+			:Role (s5 / authority.n.02))))

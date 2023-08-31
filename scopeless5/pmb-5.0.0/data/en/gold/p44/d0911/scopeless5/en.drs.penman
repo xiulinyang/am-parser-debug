@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / have.v.04
+		:Theme (s1 / book.n.02)
+		:Pivot (s2 / male.n.02)
+		:Time (s4 / time.n.08
+			:EQU (c0 / "now")))
+	:member (s5 / be.v.01
+		:Theme (s0 / entity.n.01
+			:Sub-of s1)
+		:Time (s6 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s8 / novel.n.02
+			:Context (s7 / english.n.01))))

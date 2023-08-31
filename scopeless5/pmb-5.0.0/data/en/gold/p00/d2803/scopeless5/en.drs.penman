@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / take_over.v.03
+		:Agent (s1 / person.n.01
+			:Role (s2 / son.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:TSU (c1 / "now"))
+		:Theme (s5 / job.n.02)))

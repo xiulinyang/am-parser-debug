@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s5 / jealous.a.02
+		:Experiencer (s1 / person.n.01
+			:Role (s2 / girlfriend.n.02
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s4 / very.r.01)))

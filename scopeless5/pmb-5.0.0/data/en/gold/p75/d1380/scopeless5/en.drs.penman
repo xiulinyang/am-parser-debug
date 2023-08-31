@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / male.n.02
+			:Name (c2 / "Lionel Jospin"))
+		:Co-Theme (s4 / person.n.01
+			:Role (s5 / member.n.01
+				:Of (s0 / political_party.n.01
+					:Name (c0 / "?"))))))

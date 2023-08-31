@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / take.v.04
+		:Agent (s0 / child.n.01
+			:Agent-of (s5 / make.v.28
+				:Time (s6 / time.n.08
+					:TPR (c1 / "now"))
+				:Destination (s8 / pond.n.01
+					:Attribute (s7 / frozen.a.01))))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / ice_skate.n.01
+			:User (s3 / person.n.01))))

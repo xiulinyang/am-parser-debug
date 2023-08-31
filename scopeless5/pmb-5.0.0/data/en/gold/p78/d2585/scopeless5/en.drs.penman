@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / give.v.32
+		:Agent (s0 / musical_organization.n.01
+			:Name (c0 / "Beatles"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / concert.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "5")))
+		:Location (s5 / city.n.01
+			:Name (c3 / "Tokyo"))
+		:Time (s6 / time.n.08
+			:YearOfCentury (c4 / "1996"))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / end.v.01
+		:Theme (s0 / baseball_game.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Result (s3 / draw.n.03)))

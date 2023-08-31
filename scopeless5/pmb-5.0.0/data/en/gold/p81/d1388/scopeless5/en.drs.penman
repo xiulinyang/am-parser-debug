@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Co-Theme (s0 / location.n.01
+			:EQU (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / town.n.01
+			:Part-of (s3 / country.n.02
+				:Name (c2 / "belgium"))
+			:EQU (s5 / town.n.01
+				:Name (c3 / "Eynaten")))))

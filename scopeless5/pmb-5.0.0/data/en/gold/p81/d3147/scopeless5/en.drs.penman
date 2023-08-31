@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:member (s5 / ignore.v.02
+			:Agent (s4 / male.n.02)
+			:Time (s6 / time.n.08
+				:TPR (c2 / "now"))
+			:Theme (s7 / warning.n.01)))
+	:member (s1 / warn.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Recipient (s3 / male.n.02)))

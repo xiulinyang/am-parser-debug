@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / play.v.01
+				:Agent (s1 / female.n.02)
+				:Time (s0 / time.n.08
+					:DayOfWeek (c0 / "sunday"))
+				:Time (s2 / time.n.08
+					:TPR (c1 / "now"))
+				:Theme (s4 / tennis.n.01)))))

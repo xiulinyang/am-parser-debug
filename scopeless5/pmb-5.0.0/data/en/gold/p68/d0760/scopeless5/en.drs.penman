@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / elect.v.01
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Kofi Annan"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Context (s5 / ballot.n.02
+			:Time (s3 / time.n.08
+				:MonthOfYear (c2 / "1")
+				:EQU-of (s4 / time.n.08
+					:DayOfMonth (c3 / "30"))))))

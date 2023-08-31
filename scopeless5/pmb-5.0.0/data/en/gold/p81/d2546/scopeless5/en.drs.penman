@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / sob.v.01
+		:Agent (s0 / girl.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / corner.n.03
+			:Part-of (s4 / schoolroom.n.01))))

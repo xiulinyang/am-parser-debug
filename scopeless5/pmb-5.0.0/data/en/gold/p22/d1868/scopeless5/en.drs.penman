@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / have.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Pivot (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Theme (s3 / shoehorn.n.01)))

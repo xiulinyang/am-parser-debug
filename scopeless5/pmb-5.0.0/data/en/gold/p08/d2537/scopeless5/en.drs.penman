@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Location (s0 / location.n.01
+			:EQU (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / umbrella.n.01
+			:User (s3 / male.n.02
+				:Name (c2 / "Tom")))))

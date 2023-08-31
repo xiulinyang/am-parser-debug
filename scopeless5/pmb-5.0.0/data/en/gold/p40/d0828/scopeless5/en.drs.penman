@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / mark.v.05
+		:Theme (s1 / step.n.09
+			:Creator (s0 / male.n.02))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Manner (s3 / clearly.r.04)
+		:Location (s5 / snow.n.02)))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / stain.v.02
+		:Patient (s0 / fabric.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Manner (s3 / easily.r.01)))

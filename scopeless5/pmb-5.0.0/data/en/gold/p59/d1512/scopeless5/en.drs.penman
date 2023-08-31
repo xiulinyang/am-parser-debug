@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / build.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Product (s4 / house.n.01
+			:Attribute (s3 / new.a.01))
+		:Beneficiary (s5 / male.n.02)))

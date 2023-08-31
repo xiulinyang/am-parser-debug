@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / have.v.01
+		:Pivot (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / book.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "2000")))))

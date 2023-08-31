@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s6 / lend.v.02
+			:Agent (s4 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s5 / time.n.08
+				:TSU (c3 / "now"))
+			:Recipient (s7 / person.n.01
+				:EQU (c4 / "hearer"))
+			:Theme (s8 / pen.n.01)))
+	:member (s1 / want.v.01
+		:Pivot (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s3 / pen.n.01)))

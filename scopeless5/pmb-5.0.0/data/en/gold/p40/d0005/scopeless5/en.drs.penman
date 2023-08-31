@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / wear.v.01
+		:Agent (s0 / child.n.01
+			:Theme-of (s6 / jump.v.01
+				:Time (s5 / time.n.08
+					:EQU (c1 / "now"))
+				:Destination (s7 / rock.n.01)))
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / jacket.n.01
+			:Colour (s3 / yellow.a.01))))

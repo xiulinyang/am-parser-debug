@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / skin.v.04
+		:Agent (s0 / person.n.01
+			:Role (s1 / hunter.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / deer.n.01)))

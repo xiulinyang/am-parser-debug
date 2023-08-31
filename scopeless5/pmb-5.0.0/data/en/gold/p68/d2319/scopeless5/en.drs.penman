@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / take.v.09
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / taxi.n.01)
+		:Destination (s4 / hospital.n.01)))

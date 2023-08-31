@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / flee.v.01
+		:Theme (s1 / animal.n.01
+			:Attribute (s0 / large.a.01
+				:Value (c0 / "+")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Source (s4 / zoo.n.01)))

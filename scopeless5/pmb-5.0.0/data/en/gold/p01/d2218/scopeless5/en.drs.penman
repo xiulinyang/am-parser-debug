@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / approach.v.01
+		:Theme (s1 / army.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "mongolia")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s4 / city.n.01)))

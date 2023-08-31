@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / acquire.v.01
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1922"))
+		:Theme (s1 / site.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s4 / company.n.01
+			:Name (c2 / "Produits Chimiques Bozel Lamotte"))))

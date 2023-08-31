@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / fashionable.a.03
+		:Stimulus (s0 / jean.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Experiencer (s4 / girl.n.01)))

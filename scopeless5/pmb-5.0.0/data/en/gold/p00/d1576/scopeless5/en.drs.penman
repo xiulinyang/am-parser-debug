@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / cold.n.01
+		:Attribute (s0 / state.a.01
+			:Time (s1 / time.n.08
+				:EQU (c1 / "now"))
+			:EQU (c0 / "?"))
+		:Experiencer (s2 / male.n.02
+			:Name (c2 / "Tom"))))

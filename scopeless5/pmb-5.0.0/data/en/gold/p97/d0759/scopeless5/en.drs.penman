@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Theme (s1 / headquarters.n.01
+			:Part-of (s0 / organization.n.01
+				:Name (c0 / "Boeing")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s4 / country.n.02
+			:Name (c2 / "Canada"))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / easy.a.01
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s5 / find.v.03
+			:Agent (s0 / entity.n.01)
+			:Theme (s2 / house.n.01
+				:User (s1 / male.n.02
+					:Name (c0 / "Tom"))))))

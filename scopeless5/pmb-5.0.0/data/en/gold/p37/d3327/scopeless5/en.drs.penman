@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Location (s0 / continent.n.01
+			:Name (c0 / "Africa"))
+		:EQU (s1 / entity.n.01)
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / lion.n.01
+			:Quantity (c2 / "+"))))

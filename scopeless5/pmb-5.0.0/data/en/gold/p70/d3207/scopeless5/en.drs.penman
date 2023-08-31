@@ -1,0 +1,13 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:NECESSITY (b3 / "box"
+				:member (s2 / drink.v.01
+					:Time (s0 / day.n.01)
+					:Agent (s1 / person.n.01
+						:Sub (c0 / "speaker"))
+					:Patient (s5 / entity.n.01
+						:Sub (s4 / ounce.n.01
+							:Quantity (s3 / quantity.n.01
+								:EQU (c1 / "64")))
+						:Sub (s6 / fluid.n.01)))))))

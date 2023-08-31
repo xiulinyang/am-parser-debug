@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / have.v.16
+		:Experiencer (s1 / baby.n.01
+			:Creator (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s5 / disease.n.01
+			:Attribute (s4 / hereditary.a.01))))

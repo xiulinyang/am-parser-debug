@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s5 / beautiful.a.01
+		:Attribute-of (s1 / person.n.01
+			:Role (s2 / sister.n.01
+				:Of (s0 / female.n.02
+					:Name (c0 / "Teresa"))))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s4 / more.r.01
+			:Theme s1
+			:Co-Theme (s6 / person.n.01
+				:EQU (c2 / "speaker")))))

@@ -1,0 +1,17 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / be.v.01
+			:Theme (s5 / person.n.01
+				:EQU (c3 / "speaker"))
+			:Time (s7 / time.n.08
+				:EQU (c4 / "now"))
+			:Co-Theme (s8 / person.n.01
+				:Role (s9 / addict.n.02))))
+	:member (s2 / be.v.02
+		:Theme (s1 / name.n.01
+			:Bearer (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / tom.n.01
+			:EQU (c2 / "Tom"))))

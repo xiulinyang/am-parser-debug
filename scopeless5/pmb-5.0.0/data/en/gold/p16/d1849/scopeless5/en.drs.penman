@@ -1,0 +1,17 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:CONTINUATION (b3 / "box"
+				:member (s4 / be.v.02
+					:Theme (s3 / female.n.02)
+					:Time (s5 / time.n.08
+						:EQU (c2 / "now"))
+					:Co-Theme (s7 / person.n.01
+						:Role (s8 / wife.n.01
+							:Of (s6 / person.n.01
+								:EQU (c3 / "speaker"))))))
+			:member (s1 / lie.v.05
+				:Agent (s0 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Recipient (s2 / female.n.02
+					:Name (c1 / "Taninna"))))))

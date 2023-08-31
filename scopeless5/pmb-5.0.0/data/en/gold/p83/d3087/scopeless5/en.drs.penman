@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / realize.v.01
+		:Experiencer (s0 / male.n.02
+			:Name (c0 / "Dan"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s5 / in_love.a.01
+				:Experiencer (s3 / male.n.02)
+				:Time (s4 / time.n.08
+					:TPR (c2 / "now"))
+				:Stimulus (s6 / female.n.02
+					:Name (c3 / "Linda"))))))

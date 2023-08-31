@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / carry_out.v.01
+		:Theme (s2 / execution.n.01
+			:Quantity (s0 / quantity.n.01
+				:BOT (s1 / quantity.n.01
+					:EQU (c0 / "113"))))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s5 / country.n.02
+			:Name (c2 / "Iran"))))

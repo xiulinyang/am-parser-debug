@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / white.a.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Colour-of (s1 / paper.n.01)))

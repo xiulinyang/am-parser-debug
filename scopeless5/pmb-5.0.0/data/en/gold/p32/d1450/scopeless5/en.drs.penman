@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / fashionable.a.03
+		:Attribute-of (s1 / skirt.n.01
+			:Attribute (s0 / long.a.02
+				:Value (c0 / "+")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / head.v.01
+		:Theme (s0 / bus.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Path (s3 / north.n.04)))

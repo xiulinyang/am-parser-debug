@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / anchor.v.02
+		:Patient (s0 / boat.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / location.n.01
+			:APX (s4 / shore.n.01))))

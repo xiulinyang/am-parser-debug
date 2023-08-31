@@ -1,0 +1,188 @@
+[ {
+  "instances" : [ "1\tnull\t_\t_\t_\t_\t(b0<root> / box  :NEGATION (b1<Sb1>))\t_\t_\t0\tROOT\tfalse\n2\tnull\t_\t_\t_\t_\t(b1<root> / box  :NEGATION (b2 / box  :member (s5<Ss5>))  :member (s3<Ss3>))\t_\t_\t1\tAPP_Sb1\tfalse\n3\tnull\t_\t_\t_\t_\t(s3<root> / \"ask.v.02\"  :Agent (s2<Ss2>)  :Time (s4 / \"time.n.08\"  :TPR (c1 / now)))\t_\t_\t2\tAPP_Ss3\tfalse\n4\tnull\t_\t_\t_\t_\t(s2<root> / \"female.n.02\")\t_\t_\t3\tAPP_Ss2\tfalse\n5\tnull\t_\t_\t_\t_\t(s5<root> / \"give.v.03\"  :Agent (s0<Ss0>)  :Theme (s1<Ss1>)  :Recipient (s7<Ss7>)  :Time (s6 / \"time.n.08\"  :TPR (c2 / now)))\t_\t_\t2\tAPP_Ss5\tfalse\n6\tnull\t_\t_\t_\t_\t(s1<root> / \"entity.n.01\"  :Result-of (s3<Ss3>))\t_\t_\t5\tAPP_Ss1\tfalse\n7\tnull\t_\t_\t_\t_\t(s7<root> / \"female.n.02\"  :Name (c3 / Mary))\t_\t_\t5\tAPP_Ss7\tfalse\n8\tnull\t_\t_\t_\t_\t(s0<root> / \"male.n.02\"  :Name (c0 / Tom))\t_\t_\t5\tAPP_Ss0\tfalse\n", "1\tnull\t_\t_\t_\t_\t(b0<root> / box  :member (s1<Ss1>))\t_\t_\t0\tROOT\tfalse\n2\tnull\t_\t_\t_\t_\t(s1<root> / \"strike.v.01\"  :Agent (s0<Ss0>)  :Recipient (s3<Ss3>)  :Theme (s4<Ss4>)  :Patient (s5<Ss5>)  :Time (s2 / \"time.n.08\"  :TPR (c0 / now)))\t_\t_\t1\tAPP_Ss1\tfalse\n3\tnull\t_\t_\t_\t_\t(s4<root> / \"blow.n.01\")\t_\t_\t2\tAPP_Ss4\tfalse\n4\tnull\t_\t_\t_\t_\t(s3<root> / \"person.n.01\"  :EQU (c1 / speaker))\t_\t_\t2\tAPP_Ss3\tfalse\n5\tnull\t_\t_\t_\t_\t(s5<root> / \"face.n.01\")\t_\t_\t2\tAPP_Ss5\tfalse\n6\tnull\t_\t_\t_\t_\t(s0<root> / \"male.n.02\")\t_\t_\t2\tAPP_Ss0\tfalse\n" ],
+  "name" : "AM tree",
+  "format" : "amtree_string",
+  "type" : "data"
+}, {
+  "instances" : [ "b0!||0-1||1.0 c0!|s0||1-2||1.0 b2|b1!||4-5||1.0 s1!||5-6||1.0 s2!||6-7||1.0 s3!|s4|c1||7-8||1.0 s5!|s6|c2||2-3||1.0 c3!|s7||3-4||1.0", "b0!||0-1||1.0 s0!||1-2||1.0 c0|s1!|s2||2-3||1.0 s3!|c1||3-4||1.0 s4!||5-6||1.0 s5!||8-9||1.0" ],
+  "name" : "Alignments",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "instances" : [ "(b0 / box  :NEGATION (b1 / box  :NEGATION (b2 / box  :member (s5 / \"give.v.03\"  :Agent (s0 / \"male.n.02\"  :Name (c0 / Tom))  :Theme (s1 / \"entity.n.01\"  :Result-of (s3 / \"ask.v.02\"  :Agent (s2 / \"female.n.02\")  :Time (s4 / \"time.n.08\"  :TPR (c1 / now))  :member-of b1))  :Time (s6 / \"time.n.08\"  :TPR (c2 / now))  :Recipient (s7 / \"female.n.02\"  :Name (c3 / Mary))))))", "(b0 / box  :member (s1 / \"strike.v.01\"  :Agent (s0 / \"male.n.02\")  :Time (s2 / \"time.n.08\"  :TPR (c0 / now))  :Recipient (s3 / \"person.n.01\"  :EQU (c1 / speaker))  :Theme (s4 / \"blow.n.01\")  :Patient (s5 / \"face.n.01\")))" ],
+  "name" : "Gold graph",
+  "format" : "graph_string",
+  "type" : "data"
+}, {
+  "instances" : [ "START Tom gave Mary every thing she asked for .", "START He struck me a blow on the face ." ],
+  "name" : "Sentence",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "b2" : 1.0,
+      "b1" : 1.0
+    },
+    "3" : {
+      "s1" : 1.0
+    },
+    "4" : {
+      "s2" : 1.0
+    },
+    "5" : {
+      "s3" : 1.0,
+      "s4" : 1.0,
+      "c1" : 1.0
+    },
+    "6" : {
+      "s5" : 1.0,
+      "s6" : 1.0,
+      "c2" : 1.0
+    },
+    "7" : {
+      "c3" : 1.0,
+      "s7" : 1.0
+    }
+  }, {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "s0" : 1.0
+    },
+    "2" : {
+      "c0" : 1.0,
+      "s1" : 1.0,
+      "s2" : 1.0
+    },
+    "3" : {
+      "s3" : 1.0,
+      "c1" : 1.0
+    },
+    "4" : {
+      "s4" : 1.0
+    },
+    "5" : {
+      "s5" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "0" : 1.0
+    },
+    "1" : {
+      "1" : 1.0
+    },
+    "2" : {
+      "4" : 1.0
+    },
+    "3" : {
+      "5" : 1.0
+    },
+    "4" : {
+      "6" : 1.0
+    },
+    "5" : {
+      "7" : 1.0
+    },
+    "6" : {
+      "2" : 1.0
+    },
+    "7" : {
+      "3" : 1.0
+    }
+  }, {
+    "0" : {
+      "0" : 1.0
+    },
+    "1" : {
+      "1" : 1.0
+    },
+    "2" : {
+      "2" : 1.0
+    },
+    "3" : {
+      "3" : 1.0
+    },
+    "4" : {
+      "5" : 1.0
+    },
+    "5" : {
+      "8" : 1.0
+    }
+  } ],
+  "name2" : "Sentence",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "s5" : 1.0,
+      "s6" : 1.0,
+      "c2" : 1.0
+    },
+    "3" : {
+      "c3" : 1.0,
+      "s7" : 1.0
+    },
+    "4" : {
+      "b2" : 1.0,
+      "b1" : 1.0
+    },
+    "5" : {
+      "s1" : 1.0
+    },
+    "6" : {
+      "s2" : 1.0
+    },
+    "7" : {
+      "s3" : 1.0,
+      "s4" : 1.0,
+      "c1" : 1.0
+    }
+  }, {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "s0" : 1.0
+    },
+    "2" : {
+      "c0" : 1.0,
+      "s1" : 1.0,
+      "s2" : 1.0
+    },
+    "3" : {
+      "s3" : 1.0,
+      "c1" : 1.0
+    },
+    "5" : {
+      "s4" : 1.0
+    },
+    "8" : {
+      "s5" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Sentence"
+} ]

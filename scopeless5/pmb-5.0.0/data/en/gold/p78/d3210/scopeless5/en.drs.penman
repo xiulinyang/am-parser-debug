@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s2 / attack.v.01
+		:Agent (s0 / person.n.01
+			:Source (s1 / country.n.02
+				:Name (c0 / "japan")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / seaport.n.01
+			:Name (c2 / "Pearl Harbor"))
+		:Time (s6 / time.n.08
+			:DayOfMonth (c4 / "7")
+			:EQU (s7 / time.n.08
+				:YearOfCentury (c5 / "1941"))
+			:EQU-of (s5 / time.n.08
+				:MonthOfYear (c3 / "12")))))

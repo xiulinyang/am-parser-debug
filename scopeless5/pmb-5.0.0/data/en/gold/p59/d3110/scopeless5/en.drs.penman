@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / end.v.01
+		:Theme (s1 / shift.n.03
+			:Theme (s0 / person.n.01
+				:EQU (c0 / "hearer")))
+		:Time (s3 / time.n.08
+			:TSU (c1 / "now"))
+		:Time (s4 / time.n.08
+			:ClockTime (c2 / "14:30"))))

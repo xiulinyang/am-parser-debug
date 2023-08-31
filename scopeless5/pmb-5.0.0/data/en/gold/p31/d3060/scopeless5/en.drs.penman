@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / old.a.01
+		:Attribute-of (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s3 / measure.n.02
+			:Quantity (c1 / "33")
+			:Unit (s4 / year.n.01))))

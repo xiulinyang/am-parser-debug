@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / write.v.01
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s2 / book.n.01
+			:Name (c2 / "Cold Mountain"))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / live.v.02
+		:Agent (s0 / male.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute (s3 / apart.r.03
+			:Attribute-of s0
+			:Theme (s5 / person.n.01
+				:Role (s6 / wife.n.01
+					:Of (s4 / male.n.02))))))

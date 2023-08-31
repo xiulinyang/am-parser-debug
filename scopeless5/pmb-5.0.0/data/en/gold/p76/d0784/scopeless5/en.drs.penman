@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / adjacent.a.02
+		:Attribute-of (s0 / country.n.02
+			:Name (c0 / "France"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s3 / country.n.02
+			:Name (c2 / "Spain"))))

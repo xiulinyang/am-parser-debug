@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / red.a.01
+		:Colour-of (s0 / roof.n.01
+			:Part-of (s2 / house.n.01
+				:User (s1 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))))

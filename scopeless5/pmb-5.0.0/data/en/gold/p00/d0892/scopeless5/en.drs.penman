@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s3 / woman.n.01))
+	:member (s6 / steal.v.01
+		:Theme (s4 / car.n.01
+			:User s3)
+		:Time (s5 / time.n.08
+			:TPR (c1 / "now"))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / have.v.12
+		:Experiencer (s0 / squirrel.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Stimulus (s4 / allergy.n.01
+			:Stimulus (s3 / nut.n.01))))

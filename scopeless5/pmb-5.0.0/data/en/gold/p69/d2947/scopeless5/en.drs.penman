@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / decline.v.06
+		:Patient (s0 / exchange_rate.n.01
+			:Theme (s1 / dollar.n.01)
+			:Co-Theme (s2 / euro.n.01))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))))

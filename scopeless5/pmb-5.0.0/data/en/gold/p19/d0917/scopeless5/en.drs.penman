@@ -1,0 +1,10 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / sick.a.01
+			:Experiencer (s3 / female.n.02)
+			:Time (s4 / time.n.08
+				:EQU (c1 / "now"))))
+	:member (s2 / absent.a.01
+		:Attribute-of (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))))

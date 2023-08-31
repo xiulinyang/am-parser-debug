@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / hold.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s4 / hand.n.01
+			:Part-of (s3 / person.n.01
+				:EQU (c2 / "speaker")))
+		:Theme (s5 / book.n.02
+			:Creator (s6 / female.n.02
+				:Name (c3 / "Susanna Tamaro")))))

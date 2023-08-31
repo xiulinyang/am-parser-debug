@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / be.v.03
+			:Theme (s1 / name.n.01
+				:Bearer (s0 / female.n.02))
+			:Time (s3 / time.n.08
+				:TPR (c0 / "now"))
+			:Location (s4 / list.n.01))))

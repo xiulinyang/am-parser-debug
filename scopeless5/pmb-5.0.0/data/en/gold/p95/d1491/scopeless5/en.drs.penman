@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s1 / have.v.02
+		:Pivot (s0 / country.n.02
+			:Name (c0 / "Italy"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / mountain_range.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "2"))
+			:EQU (s6 / entity.n.01
+				:Sub (s5 / range.n.04
+					:Name (c3 / "Alps"))
+				:Sub (s7 / range.n.04
+					:Name (c4 / "Apennines"))))))

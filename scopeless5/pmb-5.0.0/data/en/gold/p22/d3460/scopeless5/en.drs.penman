@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / capture.v.05
+		:Agent (s0 / person.n.01
+			:Role (s1 / rebel.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / broadcasting_station.n.01)))

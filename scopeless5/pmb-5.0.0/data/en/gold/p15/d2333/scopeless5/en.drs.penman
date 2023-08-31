@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s4 / go.v.01
+			:Theme (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Destination (s5 / person.n.01
+				:Role (s6 / dentist.n.01))))
+	:member (s3 / pull_out.v.03
+		:Source s0
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Theme (s2 / tooth.n.01)))

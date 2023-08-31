@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / take_place.v.01
+		:Theme (s1 / service.n.03
+			:Theme (s0 / funeral.n.01))
+		:Time (s2 / time.n.08
+			:TSU (c0 / "now"))
+		:EQU (s4 / entity.n.01)
+		:Location (s5 / cathedral.n.01)))

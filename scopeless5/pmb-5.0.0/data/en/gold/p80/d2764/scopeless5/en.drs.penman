@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / young.a.01
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (c3 / "+")
+		:Attribute-of (s0 / person.n.01
+			:EQU (c0 / "speaker")
+			:Attribute (s4 / innocent.a.01
+				:Time (s2 / time.n.08
+					:TPR (c2 / "now"))))))

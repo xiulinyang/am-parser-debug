@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s3 / wrong.a.01
+			:Time (s4 / time.n.08
+				:EQU (c2 / "now"))
+			:Attribute-of (s5 / person.n.01
+				:EQU (c3 / "speaker"))))
+	:member (s2 / wrong.a.01
+		:Attribute-of (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

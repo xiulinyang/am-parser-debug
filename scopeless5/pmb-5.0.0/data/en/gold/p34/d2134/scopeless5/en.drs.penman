@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s1 / have.v.01
+			:Pivot (s0 / male.n.02
+				:Name (c0 / "Pedro"))
+			:Time (s2 / time.n.08
+				:EQU (c1 / "now"))
+			:Theme (s3 / person.n.01
+				:Role (s4 / sister.n.01)))))

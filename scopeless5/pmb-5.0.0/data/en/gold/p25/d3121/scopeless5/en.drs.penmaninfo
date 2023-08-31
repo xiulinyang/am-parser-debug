@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's3')
+('s3', ':instance', 'unfashionable.a.01')
+('s0', ':Attribute', 's3')
+('s0', ':instance', 'entity.n.01')
+('s0', ':Colour', 's1')
+('s1', ':instance', 'red.n.01')
+('s3', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+tokenized sentence:START Red is out of fashion .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["s0", "s1"], "lexical_node": "s1"}, {"token_id": 2, "node_id": ["c0", "s2"], "lexical_node": "s2"}, {"token_id": 5, "node_id": "s3"}]

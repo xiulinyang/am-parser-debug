@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / make.v.24
+		:Agent (s1 / calculator.n.02
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / mistake.n.01)))

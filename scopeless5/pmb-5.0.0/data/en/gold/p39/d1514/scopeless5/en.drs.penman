@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / take.v.24
+		:Agent (s0 / person.n.01
+			:Role (s1 / nurse.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / temperature.n.01
+			:Creator (s4 / female.n.02))
+		:Instrument (s6 / thermometer.n.01)))

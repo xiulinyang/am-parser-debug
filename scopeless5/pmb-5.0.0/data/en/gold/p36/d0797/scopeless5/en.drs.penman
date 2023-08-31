@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s2 / know.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Experiencer (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Proposition (b1 / "box"
+			:member (s6 / be.v.02
+				:Theme (s4 / car.n.01
+					:User (s3 / person.n.01
+						:Name (c2 / "?")))
+				:Co-Theme (s5 / entity.n.01)
+				:Time (s7 / time.n.08
+					:EQU (c3 / "now"))))))

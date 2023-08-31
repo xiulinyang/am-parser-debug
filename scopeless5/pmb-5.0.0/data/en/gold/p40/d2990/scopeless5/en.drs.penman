@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / arrive.v.01
+		:Theme (s1 / train.n.01
+			:EQU (s0 / express.n.02
+				:Source (s2 / city.n.01
+					:Name (c0 / "Paris"))))
+		:Time (s4 / time.n.08
+			:TSU (c1 / "now"))
+		:Time (s5 / time.n.08
+			:ClockTime (c2 / "10:00"))))

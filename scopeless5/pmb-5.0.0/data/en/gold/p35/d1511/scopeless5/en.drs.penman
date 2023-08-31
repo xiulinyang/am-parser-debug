@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / graduate.v.01
+		:Agent (s1 / person.n.01
+			:Role (s2 / father.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Source (s5 / university.n.03
+			:Name (c2 / "Harvard University"))))

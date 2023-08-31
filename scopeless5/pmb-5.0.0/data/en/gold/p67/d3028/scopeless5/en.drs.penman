@@ -1,0 +1,18 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s8 / be.v.06
+			:Theme (s7 / name.n.01
+				:User (s6 / female.n.02))
+			:Time (s9 / time.n.08
+				:EQU (c3 / "now"))
+			:Co-Theme (s10 / name.n.01
+				:EQU (c4 / "Tiên"))))
+	:member (s1 / have.v.07
+		:Pivot (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / person.n.01
+			:Source (s3 / country.n.02
+				:Name (c2 / "vietnam"))
+			:Role (s5 / friend.n.01))))

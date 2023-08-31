@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Theme (s0 / state.n.01
+			:Name (c0 / "Nebraska"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / plain.n.01)))

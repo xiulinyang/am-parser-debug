@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.08
+		:Theme (s0 / female.n.02
+			:Name (c0 / "Sappho"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s5 / person.n.01
+			:Source (s4 / island.n.01
+				:Name (c2 / "lesbos"))
+			:Role (s6 / poet.n.01)
+			:Attribute (s3 / famous.a.01))))

@@ -1,0 +1,21 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:CONTINUATION (b2 / "box"
+			:NECESSITY (b3 / "box"
+				:member (s9 / call.v.03
+					:Agent (s8 / person.n.01
+						:Sub (c4 / "speaker"))
+					:Theme (s10 / fire_brigade.n.01))))
+		:member (s7 / unsuccessful.a.01
+			:Attribute-of (s5 / person.n.01
+				:Sub (c2 / "speaker"))
+			:Time (s6 / time.n.08
+				:TPR (c3 / "now"))))
+	:member (s1 / try.v.01
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / put_out.v.03
+			:Agent s0
+			:Patient (s4 / fire.n.01))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s0 / event.v.01
+		:Participant (s1 / male.n.02
+			:Name (c0 / "NIKOLAI LENIN")
+			:EQU-of (s2 / male.n.02
+				:Name (c1 / "Vladimir Illitch Ulianov")))))

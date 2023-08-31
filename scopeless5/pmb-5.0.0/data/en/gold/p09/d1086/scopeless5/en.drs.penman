@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / shiver.v.01
+		:Experiencer (s0 / male.n.02
+			:Name (c0 / "Scrooge")
+			:Agent-of (s3 / wipe.v.01
+				:Time (s4 / time.n.08
+					:TPR (c2 / "now"))
+				:Theme (s5 / perspiration.n.01)
+				:Source (s7 / brow.n.01
+					:Part-of (s6 / male.n.02))))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

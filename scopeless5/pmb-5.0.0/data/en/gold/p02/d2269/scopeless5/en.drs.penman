@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / fast.a.01
+			:Time (s2 / time.n.08
+				:EQU (c0 / "now"))
+			:Degree (s3 / very.r.01)
+			:Value (c1 / "+")
+			:Attribute-of (s1 / dog.n.01
+				:Owner (s0 / female.n.02)))))

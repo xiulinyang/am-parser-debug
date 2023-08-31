@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / buy.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / sweater.n.01
+			:Colour (s3 / red.a.01))
+		:Source (s5 / shop.n.01)))

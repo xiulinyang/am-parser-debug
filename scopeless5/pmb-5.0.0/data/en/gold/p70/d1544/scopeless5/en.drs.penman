@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / enter.v.03
+		:Theme (s1 / person.n.01
+			:Role (s2 / son.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s5 / high_school.n.01)))

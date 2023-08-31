@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / fly.v.05
+		:Agent (s0 / child.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / kite.n.03)))

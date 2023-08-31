@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':POSSIBILITY', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':member', 's1')
+('s1', ':instance', 'speak.v.03')
+('s1', ':Agent', 's0')
+('s0', ':instance', 'female.n.02')
+('s0', ':Name', 'c0')
+('c0', ':instance', '"Mary"')
+('s1', ':Theme', 's2')
+('s2', ':instance', 'japanese.n.02')
+tokenized sentence:START Mary can speak Japanese .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "c0"}, {"token_id": 2, "node_id": "b1"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 4, "node_id": "s2"}]

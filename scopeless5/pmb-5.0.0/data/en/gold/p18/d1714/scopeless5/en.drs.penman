@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / accompany.v.01
+		:Theme (s1 / wind.n.01
+			:Attribute (s0 / strong.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s4 / rain.n.01)))

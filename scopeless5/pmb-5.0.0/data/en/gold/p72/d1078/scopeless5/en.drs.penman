@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / step_up.v.01
+		:Agent (s0 / company.n.01
+			:Name (c0 / "Deutsche Telekom"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Patient (s4 / presence.n.01
+			:Theme (s3 / entity.n.01)
+			:Location (s5 / country.n.02
+				:Name (c2 / "China")))))

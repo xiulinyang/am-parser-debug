@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / steal.v.01
+		:Theme (s1 / dress.n.01
+			:User (s0 / female.n.02
+				:Name (c0 / "Lupita Nyong'o")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Source (s5 / hotel_room.n.01
+			:User (s4 / female.n.02))))

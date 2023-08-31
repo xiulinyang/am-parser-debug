@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / approach.v.04
+		:Theme (s0 / winter.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))))

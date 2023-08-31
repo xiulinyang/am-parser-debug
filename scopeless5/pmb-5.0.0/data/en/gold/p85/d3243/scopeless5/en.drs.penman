@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / live.v.01
+		:Location (s0 / location.n.01
+			:Name (c0 / "?")
+			:Part-of (s1 / country.n.02
+				:Name (c1 / "Turkey")))
+		:Time (s2 / time.n.08
+			:EQU (c2 / "now"))
+		:Theme (s3 / person.n.01
+			:EQU (c3 / "hearer"))))

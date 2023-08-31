@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / have.v.02
+		:Theme (s0 / person.n.01
+			:Quantity (c0 / "?")
+			:Role (s1 / inhabitant.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Pivot (s3 / city.n.01
+			:Name (c2 / "Kanazawa"))))

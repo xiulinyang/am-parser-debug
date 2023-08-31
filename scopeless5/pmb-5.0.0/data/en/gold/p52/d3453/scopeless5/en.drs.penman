@@ -1,0 +1,18 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:CONTRAST (b3 / "box"
+				:NEGATION (b4 / "box"
+					:NEGATION (b5 / "box"
+						:member (s7 / small.a.01
+							:Attribute-of (s5 / rock.n.01
+								:Attribute (s4 / small.a.01
+									:Value (c2 / "+")))
+							:Time (s6 / time.n.08
+								:EQU (c3 / "now"))))))
+			:member (s3 / large.a.01
+				:Attribute-of (s1 / rock.n.01
+					:Attribute (s0 / large.a.01
+						:Value (c0 / "+")))
+				:Time (s2 / time.n.08
+					:EQU (c1 / "now"))))))

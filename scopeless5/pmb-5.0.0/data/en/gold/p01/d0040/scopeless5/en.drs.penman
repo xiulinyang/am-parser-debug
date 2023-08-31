@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s5 / eat.v.01
+		:Agent (s0 / animal.n.01
+			:Part (s2 / eye.n.01
+				:Attribute (s1 / big.a.01
+					:Value (c0 / "+"))))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Manner (s4 / voraciously.r.01)))

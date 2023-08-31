@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / sing.v.02
+		:Agent (s0 / group.n.01
+			:Name (c0 / "?"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / song.n.01
+			:EQU (s4 / music.n.01
+				:Name (c2 / "Happy Together")))))

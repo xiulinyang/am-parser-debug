@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / start.v.01
+		:Manner (s1 / suddenly.r.01)
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Part-of (s4 / gain.v.09
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Theme (s5 / weight.n.01))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / breathe.v.01
+		:Theme (s0 / air.n.01
+			:Theme-of (s4 / consist.v.04
+				:Time (s5 / time.n.08
+					:EQU (c1 / "now"))
+				:Attribute (s7 / entity.n.01
+					:Sub (s6 / oxygen.n.01)
+					:Sub (s8 / nitrogen.n.01))))
+		:Agent (s1 / person.n.01)
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))))

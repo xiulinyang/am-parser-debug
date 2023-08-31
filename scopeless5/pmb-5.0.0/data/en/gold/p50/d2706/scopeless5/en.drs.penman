@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / rob.v.01
+		:Source (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / money.n.01
+			:User (s3 / female.n.02))
+		:Location (s6 / way.n.03
+			:User (s5 / female.n.02)
+			:Destination (s7 / home.n.01))))

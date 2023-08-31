@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / use.v.01
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Order (c1 / "1")
+		:Theme (s0 / technology.n.01)
+		:Patient (s3 / person.n.01
+			:Role (s4 / patient.n.01))
+		:Location (s5 / city.n.01
+			:Name (c2 / "Munich"))
+		:Time (s6 / time.n.08
+			:YearOfCentury (c3 / "1980"))))

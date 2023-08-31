@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / wash_up.v.02
+		:Theme (s1 / whale.n.02
+			:Experiencer-of (s0 / wounded.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s4 / beach.n.01)))

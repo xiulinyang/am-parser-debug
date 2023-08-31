@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s0 / escaped.a.01
+		:Attribute-of (s1 / person.n.01
+			:Role (s2 / convict.n.01)
+			:Attribute (s5 / armed.a.01
+				:Time (s3 / time.n.08
+					:EQU (c0 / "now")))
+			:Attribute (s6 / dangerous.a.01
+				:Time (s4 / time.n.08
+					:EQU (c1 / "now"))))))

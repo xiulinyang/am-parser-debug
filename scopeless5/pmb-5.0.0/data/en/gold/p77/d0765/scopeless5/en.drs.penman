@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / company.n.01
+			:Name (c0 / "Christie's"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s3 / entity.n.01
+			:Quantity (c2 / "1")
+			:Sub-of (s7 / auction_house.n.01
+				:Location (s4 / world.n.04)
+				:Attribute (s5 / large.a.01
+					:Degree (s6 / most.r.01))))))

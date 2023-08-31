@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / terra_incognita.n.03
+				:EQU (s0 / android.n.01)
+				:EQU (s1 / robot.n.01)))))

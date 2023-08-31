@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s5 / bear.v.02
+				:Patient (s0 / person.n.01
+					:Sub-of (s2 / person.n.01
+						:Role (s3 / child.n.02
+							:Of (s1 / person.n.01))))
+				:Time (s4 / time.n.08
+					:TPR (c0 / "now"))
+				:Location (s6 / country.n.02
+					:Name (c1 / "Malaysia"))))))

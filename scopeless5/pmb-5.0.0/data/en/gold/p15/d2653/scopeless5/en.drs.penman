@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / come.v.01
+			:Theme (s4 / paramedic.n.01)
+			:Time (s6 / time.n.08
+				:TPR (c3 / "now"))))
+	:member (s1 / call.v.03
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / phone_number.n.01
+			:Name (c2 / "911"))))

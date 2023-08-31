@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / watch.v.03
+		:Agent (s1 / dog.n.01
+			:Owner (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / tv.n.01)))

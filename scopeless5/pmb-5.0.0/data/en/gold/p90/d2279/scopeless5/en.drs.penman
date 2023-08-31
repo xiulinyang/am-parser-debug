@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s2 / strange.a.01
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Proposition (b1 / "box"
+			:NEGATION (b2 / "box"
+				:member (s5 / mention.v.01
+					:Agent (s3 / male.n.02
+						:Name (c1 / "Tom"))
+					:Time (s4 / time.n.08
+						:TPR (c2 / "now"))
+					:Topic (s6 / entity.n.01))))))

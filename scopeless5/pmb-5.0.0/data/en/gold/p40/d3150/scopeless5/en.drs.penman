@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / apologise.v.02
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary")
+			:Experiencer-of (s2 / ashamed.a.01
+				:Time (s1 / time.n.08
+					:TPR (c1 / "now"))))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s6 / mistake.n.01
+			:Creator (s5 / female.n.02))))

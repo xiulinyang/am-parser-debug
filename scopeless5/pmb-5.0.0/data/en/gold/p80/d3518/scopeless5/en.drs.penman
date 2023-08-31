@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / drop_in.v.01
+		:Agent (s1 / person.n.01
+			:Role (s2 / dad.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Agent (s5 / person.n.01
+			:EQU (c2 / "speaker"))
+		:Manner (s6 / from_time_to_time.r.01)))

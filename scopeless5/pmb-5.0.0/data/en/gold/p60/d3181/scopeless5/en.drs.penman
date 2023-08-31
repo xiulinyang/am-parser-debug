@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s7 / tell.v.03
+				:Agent (s5 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Time (s6 / time.n.08
+					:EQU (c3 / "now"))
+				:Topic (s8 / entity.n.01))))
+	:member (s1 / know.v.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / joke.n.01
+			:Attribute (s3 / dirty.a.02))))

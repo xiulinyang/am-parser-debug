@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / act.v.01
+		:Agent (s1 / male.n.02
+			:Name (c0 / "Aurelius")
+			:Title (s0 / emperor.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Manner (s4 / accordingly.r.02)
+		:Time (s5 / time.n.08
+			:YearOfCentury (c2 / "271"))))

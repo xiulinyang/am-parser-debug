@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s2 / lose.v.02
+		:Time (s0 / afternoon.n.01)
+		:Agent (s1 / male.n.02
+			:Name (c0 / "Becker"))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s5 / male.n.02
+			:Name (c3 / "Gilbert Schaller")
+			:Source (s4 / country.n.02
+				:Name (c2 / "austria")))
+		:Extent (s7 / entity.n.01
+			:Sub (s6 / score.n.03
+				:Value (c4 / "2-6"))
+			:Sub (s8 / score.n.03
+				:Value (c5 / "2-6")))))

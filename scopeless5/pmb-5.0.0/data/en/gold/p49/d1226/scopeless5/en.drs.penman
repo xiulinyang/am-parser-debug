@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / repair.v.01
+		:Agent (s1 / person.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "germany"))
+			:Role (s2 / soldier.n.01))
+		:Patient (s4 / bridge.n.01
+			:Path (s5 / river.n.01
+				:Name (c1 / "Bosna")))
+		:Location (s6 / country.n.02
+			:Name (c2 / "Bosnia"))))

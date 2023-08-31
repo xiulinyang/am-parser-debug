@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / be.v.06
+		:Theme (s1 / times.n.02
+			:Theme (s0 / number.n.02
+				:EQU (c0 / "3"))
+			:Co-Theme (s2 / number.n.02
+				:EQU (c1 / "5")))
+		:Co-Theme (s4 / number.n.02
+			:EQU (c2 / "15"))))

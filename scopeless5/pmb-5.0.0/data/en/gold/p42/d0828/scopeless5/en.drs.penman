@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / snow.v.01
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Start (s3 / time.n.08
+			:DayOfWeek (c1 / "monday"))
+		:Finish (s4 / time.n.08
+			:DayOfWeek (c2 / "friday"))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s5 / break_out.v.01
+		:TIN (s2 / live.v.01
+			:Theme (s0 / male.n.02)
+			:Time (s1 / time.n.08
+				:TPR (c0 / "now"))
+			:Location (s3 / country.n.02
+				:Name (c1 / "England")))
+		:Theme (s4 / war.n.01)
+		:Time (s6 / time.n.08
+			:TPR (c2 / "now"))))

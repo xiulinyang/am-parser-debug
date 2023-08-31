@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / awesome.a.01
+		:Attribute-of (s0 / country.n.02
+			:Name (c0 / "Canada"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

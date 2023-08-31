@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s3 / practical.a.01
+				:Attribute-of (s0 / method.n.01))))
+	:member (s2 / expensive.a.01
+		:Attribute-of s0
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

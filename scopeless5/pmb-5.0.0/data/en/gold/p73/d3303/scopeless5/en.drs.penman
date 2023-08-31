@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / pull.v.15
+		:Source (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s2 / tooth.n.01)
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))))

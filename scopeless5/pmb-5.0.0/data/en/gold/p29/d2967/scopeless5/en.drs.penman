@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / like.v.02
+		:Experiencer (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Stimulus (s4 / dress.n.01
+			:Colour (s3 / blue.a.01))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / get_up.v.02
+				:Agent (s1 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Time (s3 / time.n.08
+					:EQU (c1 / "now"))
+				:Time (s4 / time.n.08
+					:ClockTime (c2 / "06:00")
+					:Part-of (s5 / morning.n.01))))
+		:member (s0 / time.n.08)))

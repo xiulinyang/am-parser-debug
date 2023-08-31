@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / be.v.01
+		:Co-Theme (s1 / boy.n.01
+			:Attribute (s0 / stupid.a.01))
+		:Theme (s2 / male.n.02)
+		:Time (s4 / time.n.08
+			:EQU (c0 / "now"))))

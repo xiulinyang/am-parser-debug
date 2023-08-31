@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / win.v.01
+		:Agent (s1 / team.n.01
+			:Part (s0 / person.n.01
+				:Sub (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Extent (s4 / score.n.03
+			:Value (c2 / "3-1"))))

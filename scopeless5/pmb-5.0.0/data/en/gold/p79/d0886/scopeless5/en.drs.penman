@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / live.v.01
+		:Theme (s0 / entity.n.01
+			:Quantity (s1 / quantity.n.01
+				:MOR (c0 / "2000000"))
+			:EQU (s3 / animal.n.01
+				:Attribute (s2 / wild.a.02)))
+		:Time (s5 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s6 / state.n.01
+			:Name (c2 / "Alaska"))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / lurk.v.01
+		:Theme (s0 / person.n.01
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / shadow.n.02)))

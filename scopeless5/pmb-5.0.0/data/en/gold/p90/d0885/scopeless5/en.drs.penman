@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / fly.v.01
+		:Theme (s0 / airplane.n.01
+			:Order (c0 / "1"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s3 / time.n.08
+			:YearOfCentury (c2 / "1903"))
+		:Duration (s5 / second.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c3 / "12")))))

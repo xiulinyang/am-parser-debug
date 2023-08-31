@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / learn.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / male.n.02)
+		:Duration (s3 / month.n.02
+			:Quantity (s2 / quantity.n.01
+				:EQU (c1 / "3")))
+		:Topic (s5 / ride.v.02
+			:Agent s1
+			:Theme (s6 / bicycle.n.01))))

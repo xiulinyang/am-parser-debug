@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / direct.v.09
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / person.n.01
+			:EQU (c2 / "speaker"))
+		:Destination (s4 / theater.n.01)))

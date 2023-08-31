@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / have.v.07
+		:Pivot (s0 / male.n.02
+			:Name (c0 / "Edu"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s5 / person.n.01
+			:Quantity (s3 / quantity.n.01
+				:APX (c2 / "1000"))
+			:Role (s6 / friend.n.01)
+			:Attribute (s4 / gay.a.06))))

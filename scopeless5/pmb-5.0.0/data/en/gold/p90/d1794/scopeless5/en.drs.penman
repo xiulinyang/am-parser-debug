@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / break_off.v.02
+		:Agent (s0 / country.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / relation.n.06
+			:Theme (s5 / state.n.04
+				:Name (c1 / "United States"))
+			:Attribute (s3 / diplomatic.a.01))))

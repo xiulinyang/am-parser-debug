@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / experience.v.01
+		:Stimulus (s0 / entity.n.01
+			:Sub (s1 / rain.n.01))
+		:Experiencer (s2 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now")))
+	:member (s5 / heavy.a.02
+		:Attribute-of (s6 / wind.n.01
+			:Sub-of s0)))

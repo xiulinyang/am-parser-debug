@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / fish.v.02
+		:Agent (s0 / male.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / river.n.01)))

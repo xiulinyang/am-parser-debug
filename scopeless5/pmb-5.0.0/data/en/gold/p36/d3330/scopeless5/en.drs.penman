@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / rich.a.01
+		:Attribute-of (s0 / family.n.04
+			:Name (c0 / "Van Horn"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s4 / fuck_up.v.01
+			:Agent (s3 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s5 / time.n.08
+				:TPR (c3 / "now"))))
+	:member (s2 / sorry.a.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

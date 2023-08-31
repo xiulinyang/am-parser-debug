@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / pay.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Asset (s3 / dollar.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "200")))
+		:Theme (s5 / bag.n.01)))

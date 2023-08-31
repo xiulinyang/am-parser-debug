@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / curious.a.02
+		:Experiencer (s0 / cat.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Stimulus (s4 / dot.n.01
+			:Colour (s3 / red.a.01)
+			:Location (s5 / wall.n.01))))

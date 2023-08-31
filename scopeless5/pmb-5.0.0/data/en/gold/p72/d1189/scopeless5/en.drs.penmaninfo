@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's3')
+('s3', ':instance', 'discontinue.v.01')
+('s3', ':Theme', 's1')
+('s1', ':instance', 'production.n.01')
+('s1', ':Result', 's0')
+('s0', ':instance', 'aniline.n.01')
+('s3', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s3', ':Time', 's4')
+('s4', ':instance', 'time.n.08')
+('s4', ':YearOfCentury', 'c1')
+('c1', ':instance', '"1990"')
+tokenized sentence:START Aniline production was discontinued in 1990 .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": "s0"}, {"token_id": 2, "node_id": "s1"}, {"token_id": 3, "node_id": ["c0", "s2"], "lexical_node": "c0"}, {"token_id": 4, "node_id": "s3"}, {"token_id": 6, "node_id": ["c1", "s4"], "lexical_node": "c1"}]

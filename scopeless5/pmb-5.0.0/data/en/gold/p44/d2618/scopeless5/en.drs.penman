@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / roll.v.01
+		:Theme (s0 / ball.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Path (s3 / ground.n.01)
+		:Destination (s4 / person.n.01
+			:EQU (c1 / "speaker"))))

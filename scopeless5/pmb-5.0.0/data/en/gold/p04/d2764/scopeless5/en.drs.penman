@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / entity.n.01
+			:EQU (s2 / go.v.01
+				:Time (s0 / time.n.08
+					:TSU (c0 / "now"))
+				:Theme (s1 / person.n.01
+					:EQU (c1 / "hearer"))
+				:Destination (s3 / party.n.04))
+			:Theme (s5 / person.n.01
+				:EQU (c2 / "speaker")))))

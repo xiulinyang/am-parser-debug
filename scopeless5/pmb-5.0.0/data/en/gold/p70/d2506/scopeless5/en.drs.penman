@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / fear.v.02
+		:Experiencer (s0 / male.n.02
+			:Name (c0 / "Napoleon Bonaparte"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s4 / cat.n.01
+			:Colour (s3 / black.a.01))))

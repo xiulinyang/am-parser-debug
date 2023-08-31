@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / wear.v.02
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / entity.n.01
+			:Attribute (s3 / false.a.06)
+			:APX (s5 / eyelash.n.01))))

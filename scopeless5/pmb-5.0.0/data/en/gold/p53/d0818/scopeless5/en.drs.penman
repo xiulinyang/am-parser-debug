@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / entity.n.01
+			:EQU (s1 / learn.v.01
+				:Agent (s0 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Time (s2 / time.n.08
+					:TPR (c1 / "now"))
+				:Topic (s3 / french.n.01))
+			:Topic (s5 / german.n.02))))

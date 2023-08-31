@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s1 / tell.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Recipient (s3 / female.n.02
+			:Name (c2 / "Mary"))
+		:Proposition (b1 / "box"
+			:member (s5 / look.v.02
+				:Theme (s4 / female.n.02)
+				:Time (s6 / time.n.08
+					:TPR (c3 / "now"))
+				:Attribute (s7 / female.n.02
+					:Name (c4 / "Marilyn Monroe"))))))

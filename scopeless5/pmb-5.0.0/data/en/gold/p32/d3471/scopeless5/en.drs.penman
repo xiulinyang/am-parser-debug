@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / resemble.v.01
+		:Theme (s2 / neck.n.01
+			:Part-of (s0 / entity.n.01)
+			:Attribute (s1 / long.a.02
+				:Value (c0 / "+")))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / neck.n.01
+			:Part-of (s6 / horse.n.01))))

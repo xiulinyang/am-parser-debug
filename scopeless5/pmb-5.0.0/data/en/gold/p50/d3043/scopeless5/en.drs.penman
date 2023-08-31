@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / love.v.03
+			:Experiencer (s6 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s8 / time.n.08
+				:EQU (c3 / "now"))
+			:Stimulus (s9 / female.n.02)))
+	:member (s3 / have.v.02
+		:Pivot (s1 / person.n.01
+			:Role (s2 / wife.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s5 / fault.n.03)))

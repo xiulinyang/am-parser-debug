@@ -1,0 +1,18 @@
+(b0 / "box"
+	:member (s8 / stop.v.05
+		:Agent (s7 / police.n.01)
+		:TIN (s2 / drive.v.02
+			:Theme (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Time (s1 / time.n.08
+				:TPR (c1 / "now"))
+			:Value (s5 / division.n.11
+				:Theme (s4 / kilometer.n.01
+					:Quantity (s3 / quantity.n.01
+						:EQU (c2 / "120")))
+				:Co-Theme (s6 / hour.n.01
+					:Quantity (c3 / "1"))))
+		:Time (s9 / time.n.08
+			:TPR (c4 / "now"))
+		:Patient (s10 / person.n.01
+			:EQU (c5 / "speaker"))))

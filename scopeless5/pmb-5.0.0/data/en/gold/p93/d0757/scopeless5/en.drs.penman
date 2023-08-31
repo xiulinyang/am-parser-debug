@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / escort.v.01
+		:Theme (s0 / person.n.01
+			:Role (s1 / passenger.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s4 / ship.n.01)
+		:Instrument (s5 / wheelchair.n.01)
+		:Agent (s6 / person.n.01
+			:Role (s7 / crew.n.01)
+			:Agent-of (s8 / wear.v.02
+				:Theme (s10 / glove.n.02
+					:Colour (s9 / blue.a.01))))))

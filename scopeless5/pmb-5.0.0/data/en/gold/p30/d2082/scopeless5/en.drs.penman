@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / exhausted.a.01
+		:Theme (s1 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "2"))
+			:Role (s2 / policeman.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

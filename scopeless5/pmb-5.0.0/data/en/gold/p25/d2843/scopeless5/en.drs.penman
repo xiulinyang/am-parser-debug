@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / boil.v.05
+		:Recipient (s0 / female.n.02
+			:Name (c0 / "Jane"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))))

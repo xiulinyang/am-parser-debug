@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / seize.v.03
+		:Theme (s0 / masterpiece.n.01
+			:Theme-of (s5 / find.v.01
+				:Time (s4 / time.n.08
+					:TPR (c0 / "now"))
+				:Time (s6 / time.n.08
+					:TPR (c1 / "now"))
+				:Location (s7 / city.n.01
+					:Name (c2 / "Berlin"))))
+		:Agent (s2 / person.n.01
+			:Role (s3 / nazi.n.01))))

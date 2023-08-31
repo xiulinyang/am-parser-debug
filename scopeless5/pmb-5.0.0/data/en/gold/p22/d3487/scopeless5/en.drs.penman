@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s4 / terra_incognita.n.03
+			:EQU (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:EQU (s1 / entity.n.01
+				:Instance-of (s2 / person.n.01))
+			:EQU (s3 / terra_incognita.n.03
+				:EQU s0
+				:EQU (c1 / "now")))))

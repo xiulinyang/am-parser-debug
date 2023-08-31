@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / howl.v.03
+		:Agent (s0 / female.n.01
+			:EQU-of (s1 / wolf.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

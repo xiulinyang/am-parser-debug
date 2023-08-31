@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / continue.v.04
+		:Theme (s0 / delegation.n.01)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:Destination (s3 / country.n.02
+			:Name (c1 / "Libya"))))

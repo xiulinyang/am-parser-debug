@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / broken.a.01
+		:Attribute-of (s1 / wing.n.01
+			:Part-of (s0 / bird.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

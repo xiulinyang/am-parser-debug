@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s4 / old.a.01
+		:Attribute-of (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s5 / more.r.01
+			:Theme s0
+			:Value (s3 / year.n.01
+				:Quantity (s2 / quantity.n.01
+					:EQU (c2 / "3")))
+			:Co-Theme (s6 / person.n.01
+				:EQU (c3 / "speaker")))))

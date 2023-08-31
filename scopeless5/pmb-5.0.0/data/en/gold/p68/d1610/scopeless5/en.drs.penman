@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / have.v.12
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s1 / male.n.02)
+		:Stimulus (s3 / parkinson's_disease.n.01)))

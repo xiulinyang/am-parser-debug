@@ -1,0 +1,14 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s6 / terra_incognita.n.01
+				:EQU (s1 / slap.v.01
+					:Patient (s0 / person.n.01
+						:EQU (c0 / "speaker")))
+				:Location (s3 / entity.n.01
+					:Sub-of (s2 / cheek.n.01
+						:Quantity (c1 / "2")))
+				:EQU (s5 / terra_incognita.n.01
+					:EQU s1
+					:Time (s4 / time.n.08
+						:TPR (c2 / "now")))))))

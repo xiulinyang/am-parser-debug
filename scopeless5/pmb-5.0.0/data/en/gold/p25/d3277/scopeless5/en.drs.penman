@@ -1,0 +1,18 @@
+(b0 / "box"
+	:member (s4 / be.v.02
+		:Theme (s2 / entity.n.01
+			:Sub (s0 / god.n.01
+				:Name (c0 / "Osiris"))
+			:Sub (s1 / god.n.01
+				:Name (c1 / "Anubis"))
+			:Sub (s3 / god.n.01
+				:Name (c2 / "Horus")))
+		:Time (s5 / time.n.08
+			:EQU (c3 / "now"))
+		:Co-Theme (s6 / entity.n.01
+			:Sub-of (s11 / deity.n.01
+				:Source (s10 / country.n.02
+					:Name (c4 / "egypt"))
+				:Attribute (s8 / famous.a.01
+					:Degree (s7 / most.r.01))
+				:Attribute (s9 / ancient.a.01)))))

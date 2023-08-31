@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / hit.v.02
+		:Agent (s0 / car.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / telephone_pole.n.01)))

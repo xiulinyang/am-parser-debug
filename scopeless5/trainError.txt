@@ -1,0 +1,310 @@
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p19/d1730/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p19/d1943/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p19/d2216/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p19/d2243/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p19/d2783/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p26/d3373/scopeless5
+fail (error during automaton construction)gold/p26/d3035/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p26/d1460/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p21/d0917/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p21/d2001/scopeless5
+fail (reconstruct graph does not match original. Bug in decomposition code?)gold/p28/d3395/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p28/d0966/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p17/d1527/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p17/d1672/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p17/d2808/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p17/d1495/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p10/d3099/scopeless5
+fail (error during automaton construction)gold/p10/d1598/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p44/d1712/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p44/d2063/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p44/d2174/scopeless5
+disconnected graph constantgold/p43/d2051/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p43/d2602/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p43/d3454/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p88/d1805/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p88/d3459/scopeless5
+disconnected graph constantgold/p88/d2319/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p88/d3035/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p88/d2415/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p88/d1392/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p88/d2922/scopeless5
+fail (error during automaton construction)gold/p75/d2971/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p81/d3429/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p81/d1788/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p81/d2887/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p81/d0920/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p72/d2936/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p72/d1515/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p72/d2478/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p72/d3306/scopeless5
+fail (error during automaton construction)gold/p72/d3063/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p11/d1749/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p11/d2664/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p11/d1930/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p29/d1851/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p29/d1798/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p29/d1504/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p29/d2730/scopeless5
+fail (error during automaton construction)gold/p29/d2782/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p16/d1524/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p16/d1879/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p16/d2861/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p16/d2258/scopeless5
+successCounter.add("fail (nondecomposeable: missing modifier edge / impossible diamond structure)");gold/p20/d1272/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p20/d2820/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p20/d2859/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p20/d1191/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p27/d2756/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p27/d2870/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p27/d2310/scopeless5
+fail (error during automaton construction)gold/p73/d0845/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p87/d1475/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p80/d1477/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p80/d2093/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p80/d2522/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p80/d3066/scopeless5
+fail (error during automaton construction)gold/p80/d1147/scopeless5
+disconnected graph constantgold/p74/d2359/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p74/d1824/scopeless5
+fail (error during automaton construction)gold/p42/d3532/scopeless5
+fail (error during automaton construction)gold/p42/d3251/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p89/d1859/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p45/d1861/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p45/d1532/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p45/d1381/scopeless5
+disconnected graph constantgold/p58/d3198/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p58/d3083/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p67/d1984/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p67/d1763/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p67/d1952/scopeless5
+fail (error during automaton construction)gold/p93/d1468/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p94/d3555/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p94/d0962/scopeless5
+fail (error during automaton construction)gold/p94/d3272/scopeless5
+fail (unable to build graph -- probably too few sources; increase -s parameter):gold/p94/d2482/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p60/d1892/scopeless5
+fail (error during automaton construction)gold/p69/d2933/scopeless5
+fail (error during automaton construction)gold/p69/d2475/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p56/d2386/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p56/d3529/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p51/d2176/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p51/d3289/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p51/d1679/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p05/d1747/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p05/d1268/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p05/d2900/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p05/d0781/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p05/d2674/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p05/d1472/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p02/d3333/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p02/d2056/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p02/d0820/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p02/d2344/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p02/d2505/scopeless5
+disconnected graph constantgold/p02/d2952/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p02/d2984/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p34/d2486/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p34/d2929/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p50/d1454/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p50/d0710/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p50/d2602/scopeless5
+disconnected graph constantgold/p50/d2174/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p57/d3000/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p61/d3533/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p95/d2101/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p95/d1815/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p95/d0849/scopeless5
+fail (error during automaton construction)gold/p59/d2293/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p59/d0793/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p92/d2380/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p92/d0902/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p66/d3418/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p32/d3421/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p32/d1930/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p32/d1540/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p32/d2134/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p32/d0756/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p35/d2887/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p04/d1859/scopeless5
+disconnected graph constantgold/p04/d0778/scopeless5
+fail (error during automaton construction)gold/p04/d2865/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p04/d3003/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p04/d2330/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p04/d2620/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p04/d1411/scopeless5
+fail (error during automaton construction)gold/p40/d1979/scopeless5
+fail (error during automaton construction)gold/p40/d3472/scopeless5
+successCounter.add("fail (nondecomposeable: missing modifier edge / impossible diamond structure)");gold/p40/d1464/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p40/d1918/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p40/d0865/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p40/d2259/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p40/d2497/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p40/d1481/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p40/d0903/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p40/d2979/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p47/d2968/scopeless5
+fail (error during automaton construction)gold/p47/d1463/scopeless5
+disconnected graph constantgold/p78/d2247/scopeless5
+disconnected graph constantgold/p78/d1937/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p78/d2880/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p71/d0802/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p76/d2410/scopeless5
+disconnected graph constantgold/p76/d2223/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p76/d3056/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p76/d1505/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p76/d3161/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p82/d0233/scopeless5
+cyclic graphgold/p82/d0963/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p82/d1524/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p82/d3038/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p82/d1795/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p49/d0820/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p49/d3545/scopeless5
+fail (error during automaton construction)gold/p22/d3487/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p22/d2375/scopeless5
+disconnected graph constantgold/p22/d1607/scopeless5
+disconnected graph constantgold/p25/d2759/scopeless5
+fail (error during automaton construction)gold/p25/d2523/scopeless5
+fail (error during automaton construction)gold/p25/d3227/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p25/d2979/scopeless5
+fail (error during automaton construction)gold/p25/d1536/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p13/d2501/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p13/d3197/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p13/d2209/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p13/d2551/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p13/d0897/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p13/d3301/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p13/d2294/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p13/d3491/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p14/d3137/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p14/d1619/scopeless5
+disconnected graph constantgold/p14/d2005/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p14/d2085/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p14/d2895/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p83/d2955/scopeless5
+disconnected graph constantgold/p83/d2292/scopeless5
+successCounter.add("fail (nondecomposeable: missing modifier edge / impossible diamond structure)");gold/p83/d1705/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p83/d0848/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p77/d1408/scopeless5
+fail (error during automaton construction)gold/p77/d0765/scopeless5
+fail (error during automaton construction)gold/p48/d3428/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p48/d1545/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p48/d3500/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p48/d0764/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p48/d1721/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p48/d2738/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p48/d1553/scopeless5
+disconnected graph constantgold/p70/d0833/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p70/d3027/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p70/d1513/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p70/d0891/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p70/d0813/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p84/d1740/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p46/d2154/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p46/d1676/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p46/d0848/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p79/d2109/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p79/d2277/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p79/d2415/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p41/d2988/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p15/d2793/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p15/d3184/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p12/d1397/scopeless5
+fail (error during automaton construction)gold/p12/d2559/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p12/d2370/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p12/d0877/scopeless5
+disconnected graph constantgold/p24/d1990/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p24/d1745/scopeless5
+fail (error during automaton construction)gold/p24/d2741/scopeless5
+fail (error during automaton construction)gold/p23/d0064/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p23/d2021/scopeless5
+fail (error during automaton construction)gold/p23/d1469/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p23/d0840/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p01/d3222/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p01/d0835/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p01/d1895/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p01/d1817/scopeless5
+disconnected graph constantgold/p01/d0836/scopeless5
+fail (error during automaton construction)gold/p01/d1058/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p01/d3260/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p39/d1422/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p39/d1619/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p39/d2439/scopeless5
+disconnected graph constantgold/p39/d3453/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p30/d3143/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p08/d2883/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p08/d3364/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p08/d2857/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p08/d1878/scopeless5
+fail (unable to build graph -- probably too few sources; increase -s parameter):gold/p08/d3497/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p97/d1694/scopeless5
+fail (error during automaton construction)gold/p97/d3194/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p97/d3258/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p97/d1506/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p63/d3531/scopeless5
+disconnected graph constantgold/p63/d2848/scopeless5
+disconnected graph constantgold/p63/d2230/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p63/d2114/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p63/d1709/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p64/d1787/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p90/d0064/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p90/d0839/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p90/d2287/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p90/d2377/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p90/d3266/scopeless5
+fail (error during automaton construction)gold/p99/d3298/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p52/d0808/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p52/d3453/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p52/d3490/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p36/d2916/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p36/d1500/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p36/d3497/scopeless5
+fail (error during automaton construction)gold/p09/d1610/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p09/d2725/scopeless5
+fail (error during automaton construction)gold/p31/d3277/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p31/d3184/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p31/d3200/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p31/d2893/scopeless5
+fail (error during automaton construction)gold/p07/d1900/scopeless5
+disconnected graph constantgold/p07/d0252/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p07/d1538/scopeless5
+successCounter.add("fail (nondecomposeable: missing modifier edge / impossible diamond structure)");gold/p07/d0824/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p38/d3474/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p38/d2377/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d1383/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p00/d1439/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p00/d2640/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d1436/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p00/d1496/scopeless5
+successCounter.add("fail (nondecomposeable: missing modifier edge / impossible diamond structure)");gold/p00/d2265/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d1936/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d2721/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p00/d3403/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p00/d1398/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p00/d1974/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p00/d1522/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d0838/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d1458/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d0716/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p00/d1081/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d2650/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p00/d0841/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p54/d2655/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p54/d2543/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p98/d0901/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p98/d2556/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p53/d3394/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p53/d0818/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p53/d0883/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p91/d1941/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p91/d3378/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p65/d3136/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p65/d2642/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p65/d2518/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p62/d2919/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p62/d3484/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p96/d2691/scopeless5
+fail (error during automaton construction)gold/p96/d2772/scopeless5
+fail (error when reconstructing graph -- non-decomposeable, or bug?)gold/p96/d3071/scopeless5
+illegal MOD move ('multiple roots' problem)gold/p96/d2873/scopeless5

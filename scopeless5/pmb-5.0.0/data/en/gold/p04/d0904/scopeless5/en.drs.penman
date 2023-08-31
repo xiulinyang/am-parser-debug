@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / drink.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / measure.n.02
+			:Quantity (c2 / "1")
+			:Unit (s4 / liter.n.01)
+			:EQU (s5 / coffee.n.01))))

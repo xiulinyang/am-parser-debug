@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / assassinate.v.01
+		:Patient (s1 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "9")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s4 / male.n.02
+			:Name (c2 / "Raman Raghav"))))

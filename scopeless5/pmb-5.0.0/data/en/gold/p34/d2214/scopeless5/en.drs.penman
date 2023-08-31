@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / suck.v.04
+		:Theme (s1 / speech.n.01
+			:Creator (s0 / person.n.01
+				:EQU (c0 / "hearer")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

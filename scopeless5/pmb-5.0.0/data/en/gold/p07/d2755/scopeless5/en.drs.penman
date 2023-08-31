@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / cover.v.02
+		:Destination (s1 / car.n.01
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s5 / poop.n.01
+			:Creator (s4 / pigeon.n.01))))

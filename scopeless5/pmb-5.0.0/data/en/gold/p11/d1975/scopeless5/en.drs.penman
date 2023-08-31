@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / destroy.v.01
+		:Patient (s1 / vehicle.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "7")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

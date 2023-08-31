@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / late.a.02
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s3 / minute.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "30")))))

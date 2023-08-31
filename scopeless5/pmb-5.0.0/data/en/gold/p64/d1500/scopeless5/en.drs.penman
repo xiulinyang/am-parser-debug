@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / break_out.v.01
+		:Theme (s0 / war.n.01
+			:Name (c0 / "world war ii"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s3 / time.n.08
+			:YearOfCentury (c2 / "1939"))))

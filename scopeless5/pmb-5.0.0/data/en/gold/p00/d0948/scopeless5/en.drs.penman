@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / exist.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s2 / watermelon.n.02
+			:Attribute (s1 / seedless.a.01))))

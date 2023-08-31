@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s0 / heavy.a.01
+		:Value (c0 / "+")
+		:Attribute-of (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Time (s2 / time.n.08
+			:EQU (c2 / "now"))))

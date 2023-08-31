@@ -1,0 +1,4 @@
+(b0 / "box"
+	:member (s1 / feed.v.06
+		:Agent (s0 / possum.n.01)
+		:Patient (s2 / eucalyptus_tree.n.01)))

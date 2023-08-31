@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / have.v.02
+		:Theme (s0 / room.n.01
+			:Quantity (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Pivot (s3 / facility.n.01
+			:Name (c3 / "MGM Grand Hotel")
+			:Location (s2 / city.n.01
+				:Name (c2 / "Las Vegas")))))

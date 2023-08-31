@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NECESSITY (b1 / "box"
+		:member (s2 / tired.a.01
+			:Experiencer (s1 / kid.n.01
+				:Sub-of (s0 / person.n.01
+					:EQU (c0 / "hearer"))))))

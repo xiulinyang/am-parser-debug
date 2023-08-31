@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Source (s0 / location.n.01
+			:Name (c0 / "?")
+			:Part-of (s1 / country.n.02
+				:Name (c1 / "Australia")))
+		:Time (s3 / time.n.08
+			:EQU (c2 / "now"))
+		:Theme (s4 / person.n.01
+			:EQU (c3 / "hearer"))))

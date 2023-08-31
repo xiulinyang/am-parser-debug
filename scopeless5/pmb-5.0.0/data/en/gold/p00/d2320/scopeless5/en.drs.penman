@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / invite.v.05
+		:Agent (s1 / person.n.01
+			:Role (s2 / friend.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Beneficiary (s5 / person.n.01
+			:EQU (c2 / "speaker"))
+		:Theme (s6 / dinner.n.02
+			:Location (s7 / restaurant.n.01))))

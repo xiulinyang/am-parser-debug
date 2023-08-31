@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / occupied.a.01
+		:Theme (s1 / room.n.01
+			:Goal (s0 / fitting.n.04))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

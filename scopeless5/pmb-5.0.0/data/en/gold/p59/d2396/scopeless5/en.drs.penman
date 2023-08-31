@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / hire.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))))

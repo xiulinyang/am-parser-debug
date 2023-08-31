@@ -1,0 +1,17 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s7 / become.v.01
+			:Time (s5 / time.n.08
+				:TSU (c2 / "now"))
+			:Patient (s6 / person.n.01
+				:EQU (c3 / "speaker"))
+			:Result (s8 / fluent.a.02
+				:Experiencer s6
+				:Stimulus (s9 / entity.n.01))))
+	:member (s1 / watch.v.03
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Theme (s3 / movie.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c1 / "1000"))
+			:Context (s4 / english.n.01))))

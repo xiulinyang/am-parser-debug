@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / white.a.01
+		:Colour-of (s1 / dog.n.01
+			:Owner (s0 / male.n.02
+				:Name (c0 / "Ken")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

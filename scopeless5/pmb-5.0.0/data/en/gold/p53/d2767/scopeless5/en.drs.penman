@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / water.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Jim"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Destination (s3 / garden.n.01)))

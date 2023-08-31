@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / grow_up.v.01
+		:Patient (s0 / female.n.02
+			:Name (c0 / "Laura Ingalls"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / prairie.n.01)))

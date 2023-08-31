@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / sing.v.03
+		:Agent (s0 / bird.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s3 / tree.n.01)))

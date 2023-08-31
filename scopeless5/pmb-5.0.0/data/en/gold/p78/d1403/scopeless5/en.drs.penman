@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / go.v.01
+		:Theme (s0 / female.n.02
+			:Name (c0 / "Heather"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Destination (s3 / school.n.01)
+		:Time (s4 / time.n.08
+			:ClockTime (c2 / "08:00"))))

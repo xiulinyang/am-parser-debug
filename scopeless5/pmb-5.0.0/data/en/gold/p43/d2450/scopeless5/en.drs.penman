@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / intelligent.a.01
+		:Attribute-of (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s2 / more.r.01
+			:Theme s0
+			:Co-Theme (s5 / person.n.01
+				:Role (s6 / sister.n.01
+					:Of (s4 / female.n.02))))))

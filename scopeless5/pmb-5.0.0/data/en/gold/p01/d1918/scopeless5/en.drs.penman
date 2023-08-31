@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / pick_up.v.02
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Sue"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / pencil.n.01)
+		:Source (s4 / floor.n.01)))

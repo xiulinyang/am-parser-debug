@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s6 / long.a.02
+		:Theme (s0 / structure.n.01
+			:Name (c0 / "Great Wall")
+			:Location (s1 / country.n.02
+				:Name (c1 / "China")))
+		:Time (s2 / time.n.08
+			:EQU (c2 / "now"))
+		:Value (s5 / mile.n.01
+			:Quantity (s3 / quantity.n.01
+				:MOR (s4 / quantity.n.01
+					:EQU (c3 / "5500"))))))

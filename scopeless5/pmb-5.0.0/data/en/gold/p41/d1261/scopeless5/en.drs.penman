@@ -1,0 +1,17 @@
+(b0 / "box"
+	:member (s4 / accuse.v.01
+		:Agent (s3 / office.n.02
+			:User (s1 / person.n.01
+				:Location (s0 / city.n.01
+					:Name (c0 / "Berlin"))
+				:Role (s2 / public_prosecutor.n.01)))
+		:Time (s5 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s8 / male.n.02
+			:Name (c2 / "Weinrich")
+			:Role (s7 / terrorist.n.01)
+			:Theme-of (s6 / suspect.v.03))
+		:Attribute (s11 / murder.n.01
+			:Quantity (s9 / quantity.n.01
+				:EQU (c3 / "5"))
+			:NEQ-of (s10 / murder.n.01))))

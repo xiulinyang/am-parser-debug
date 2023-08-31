@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / white.a.01
+		:Colour-of (s0 / sand.n.01
+			:Location (s1 / beach.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

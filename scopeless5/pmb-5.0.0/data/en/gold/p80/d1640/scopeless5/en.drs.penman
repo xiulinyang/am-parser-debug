@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / like.a.01
+		:Theme (s1 / eye.n.01
+			:Part-of (s0 / male.n.02))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / eye.n.01
+			:Part-of (s5 / leopard.n.02))))

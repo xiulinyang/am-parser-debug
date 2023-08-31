@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / trade_in.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / car.n.01
+			:User (s3 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Attribute (s4 / old.a.02))
+		:Co-Theme (s7 / car.n.01
+			:Attribute (s6 / new.a.05))))

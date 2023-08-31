@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s6 / die.v.01
+			:Patient (s4 / person.n.01
+				:EQU (c2 / "hearer"))
+			:Time (s5 / time.n.08
+				:TSU (c3 / "now"))))
+	:member (s1 / eat.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Patient (s3 / entity.n.01)))

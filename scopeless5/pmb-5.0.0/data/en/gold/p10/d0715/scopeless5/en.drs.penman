@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / book.n.01
+			:Name (c0 / "Sophie's World"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s3 / best_seller.n.01)))

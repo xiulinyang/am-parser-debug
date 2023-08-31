@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'appear.v.02')
+('s2', ':Theme', 's0')
+('s0', ':instance', 'female.n.02')
+('s0', ':Name', 'c0')
+('c0', ':instance', '"Kelly"')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TSU', 'c1')
+('c1', ':instance', '"now"')
+('s2', ':Location', 's3')
+('s3', ':instance', 'tv.n.01')
+tokenized sentence:START Kelly will appear on TV .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "c0"}, {"token_id": 2, "node_id": ["c1", "s1"], "lexical_node": "s1"}, {"token_id": 3, "node_id": "s2"}, {"token_id": 4, "node_id": "s3"}]

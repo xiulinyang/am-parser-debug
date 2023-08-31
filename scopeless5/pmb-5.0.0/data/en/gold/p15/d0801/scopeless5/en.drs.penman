@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / give.v.06
+				:Agent (s2 / female.n.02
+					:Name (c1 / "Klein")
+					:Title (s1 / miss.n.03))
+				:Time (s0 / time.n.08
+					:DayOfWeek (c0 / "friday"))
+				:Time (s4 / time.n.08
+					:EQU (c2 / "now"))
+				:Theme (s5 / test.n.03)))))

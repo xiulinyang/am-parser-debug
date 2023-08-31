@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s0 / large.a.02
+		:Attribute-of (s1 / area.n.01
+			:Part-of (s2 / ocean.n.01)
+			:Attribute (s4 / polluted.a.01
+				:Time (s3 / time.n.08
+					:EQU (c0 / "now"))))))

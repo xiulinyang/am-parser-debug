@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / circle.v.02
+		:Theme (s0 / helicopter.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Path (s3 / person.n.01
+			:Sub (c1 / "speaker"))))

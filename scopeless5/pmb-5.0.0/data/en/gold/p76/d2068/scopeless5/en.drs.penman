@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / old-hat.a.02
+		:Attribute-of (s1 / movie.n.01
+			:EQU (s0 / 3-d.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

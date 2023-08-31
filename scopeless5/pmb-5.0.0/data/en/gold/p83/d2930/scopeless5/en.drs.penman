@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / speak.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s3 / person.n.01
+			:Role (s4 / doctor.n.01))
+		:Context (s5 / french.n.01)))

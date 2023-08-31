@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / jot.v.01
+		:Theme (s0 / note.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Manner (s3 / directly.r.02)
+		:Destination (s4 / envelope.n.01)))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s4 / buy.v.01
+				:Agent (s3 / person.n.01
+					:EQU (c1 / "speaker"))
+				:Theme (s5 / entity.n.01))))
+	:member (s1 / have.v.01
+		:Pivot (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Theme (s2 / money.n.01)))

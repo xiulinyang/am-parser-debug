@@ -1,0 +1,15 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s9 / overweight.a.01
+			:Attribute-of (s5 / person.n.01
+				:Role (s6 / mother.n.01
+					:Of (s4 / female.n.02)))
+			:Time (s7 / time.n.08
+				:TPR (c2 / "now"))
+			:Degree (s8 / grossly.r.01)))
+	:member (s2 / bully.v.02
+		:Patient (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / school.n.01)))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / soothe.v.02
+		:Causer (s0 / medicine.n.02)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:Patient (s4 / headache.n.02
+			:Affectee (s3 / person.n.01
+				:EQU (c1 / "hearer")))))

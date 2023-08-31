@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / make.v.02
+		:Causer (s0 / answer.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / male.n.02)
+		:Result (s4 / angry.a.01
+			:Experiencer s3)))

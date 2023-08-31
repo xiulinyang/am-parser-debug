@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / hide.v.02
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Agent (s2 / person.n.01)
+		:Location (s4 / closet.n.01)))

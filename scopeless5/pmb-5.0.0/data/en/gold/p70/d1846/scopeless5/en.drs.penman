@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / borrow.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / screwdriver.n.01)
+		:Source (s4 / person.n.01
+			:Role (s5 / friend.n.01
+				:Of (s6 / person.n.01
+					:EQU (c2 / "speaker"))))))

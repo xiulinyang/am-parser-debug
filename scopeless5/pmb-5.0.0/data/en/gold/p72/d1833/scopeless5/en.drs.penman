@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / marry.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Agent (s3 / person.n.01
+			:Role (s4 / bank_clerk.n.01))))

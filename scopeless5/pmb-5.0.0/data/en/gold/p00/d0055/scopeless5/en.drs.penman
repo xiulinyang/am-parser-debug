@@ -1,0 +1,8 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s3 / cut.v.01
+			:Time (s1 / time.n.08
+				:EQU (c0 / "now"))
+			:EQU (s0 / entity.n.01)
+			:Agent (s2 / person.n.01)
+			:Patient (s4 / ginger.n.02))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / have.v.02
+		:Theme (s1 / eye.n.01
+			:Attribute (s0 / lovely.a.01))
+		:Pivot (s2 / female.n.02)
+		:Time (s4 / time.n.08
+			:EQU (c0 / "now"))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / popular.a.01
+		:Stimulus (s0 / person.n.01
+			:Role (s1 / singer.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s3 / very.r.01)
+		:Experiencer (s6 / person.n.01
+			:Attribute (s5 / young.a.01
+				:Value (c1 / "+")))))

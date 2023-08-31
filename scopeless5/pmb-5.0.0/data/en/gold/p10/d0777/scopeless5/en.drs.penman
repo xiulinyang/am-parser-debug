@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / be.v.01
+		:Theme (s0 / finish.v.01
+			:Theme (s1 / job.n.02)
+			:Time (s2 / time.n.08
+				:DayOfWeek (c0 / "tuesday")))
+		:Time (s3 / time.n.08
+			:TSU (c1 / "now"))
+		:Co-Theme (s5 / piece_of_cake.n.01)))

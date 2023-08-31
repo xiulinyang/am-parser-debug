@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / big.a.01
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s3 / very.r.01)
+		:Value (c1 / "+")
+		:Attribute-of (s1 / biceps.n.01
+			:Part-of (s0 / male.n.02))))

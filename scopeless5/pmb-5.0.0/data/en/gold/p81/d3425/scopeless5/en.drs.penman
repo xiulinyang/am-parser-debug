@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / floss.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Dan"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / tooth.n.01
+			:Part-of (s3 / male.n.02))))

@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / religion.n.02
+			:Name (c0 / "Order of the Solar Temple"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s8 / entity.n.01
+			:Sub (s4 / cult.n.01
+				:Theme (s3 / doomsday.n.01)
+				:Agent-of (s6 / involve.v.02
+					:Manner (s5 / heavily.a.01)
+					:Goal (s7 / money_laundering.n.01)))
+			:Sub (s10 / traffic.v.01
+				:Theme (s9 / arm.n.03)))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / rename.v.01
+		:Theme (s0 / company.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Result (s3 / hoechst_pharmaceuticals.n.01
+			:EQU (c1 / "Hoechst Pharmaceuticals"))))

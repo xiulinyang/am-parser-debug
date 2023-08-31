@@ -1,0 +1,20 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / interfere.v.01
+			:Agent (s1 / leadership.n.02
+				:Source (s0 / country.n.02
+					:Name (c0 / "china")))
+			:Co-Agent (s10 / policy.n.01
+				:Location (s8 / government.n.01
+					:Location (s7 / country.n.02
+						:Name (c3 / "germany")
+						:EQU (s4 / country.n.02
+							:Name (c2 / "germany"))))
+				:Theme (s9 / country.n.02
+					:Name (c4 / "China")))))
+	:member (s2 / call_on.v.01
+		:Agent s1
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / business.n.02
+			:Location s4)))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Location (s0 / room.n.01)
+		:EQU (s1 / entity.n.01)
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s6 / table.n.02
+			:Quantity (s4 / quantity.n.01
+				:MOR (s5 / quantity.n.01
+					:EQU (c1 / "50"))))))

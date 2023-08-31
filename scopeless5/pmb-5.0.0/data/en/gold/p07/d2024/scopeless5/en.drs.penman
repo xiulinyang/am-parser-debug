@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / reply.v.01
+		:Agent (s0 / person.n.01
+			:Source (s1 / country.n.02
+				:Name (c0 / "ireland")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))))

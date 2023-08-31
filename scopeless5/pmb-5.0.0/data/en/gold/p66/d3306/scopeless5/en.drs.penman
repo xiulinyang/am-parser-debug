@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / go.v.01
+		:Theme (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Destination (s4 / entity.n.01
+			:Sub (s3 / city.n.01
+				:Name (c2 / "Beijing"))
+			:Sub (s5 / city.n.01
+				:Name (c3 / "Shanghai")))))

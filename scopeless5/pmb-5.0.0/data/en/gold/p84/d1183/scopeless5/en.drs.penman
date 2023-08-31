@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / replace.v.01
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1961"))
+		:Theme (s1 / machine.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s5 / machine.n.01
+			:Attribute (s4 / new.a.05)
+			:Product-of (s6 / develop.v.01
+				:Material (s8 / know-how.n.01
+					:Creator (s7 / company.n.01))))))

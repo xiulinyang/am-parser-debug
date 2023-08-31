@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / do.v.02
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Duration (s3 / hour.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "3")))
+		:Theme (s6 / homework.n.01
+			:User (s5 / person.n.01
+				:EQU (c3 / "speaker")))))

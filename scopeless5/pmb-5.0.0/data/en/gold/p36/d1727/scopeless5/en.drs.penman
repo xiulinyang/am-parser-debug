@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / gaze.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / sea.n.01)
+		:Duration (s4 / hour.n.01)))

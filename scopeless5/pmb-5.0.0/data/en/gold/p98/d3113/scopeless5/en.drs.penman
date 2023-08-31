@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / row.v.01
+		:Agent (s0 / girl.n.01
+			:Theme-of (s3 / be.v.02
+				:Time (s4 / time.n.08
+					:EQU (c0 / "now"))
+				:Co-Theme (s6 / person.n.01
+					:Role (s7 / cousin.n.01
+						:Of (s5 / person.n.01
+							:EQU (c1 / "speaker"))))))
+		:Theme (s2 / boat.n.01)))

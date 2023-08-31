@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / open.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Patient (s3 / book.n.02
+			:User (s2 / person.n.01
+				:EQU (c1 / "hearer")))
+		:Destination (s4 / page.n.01
+			:Order (c2 / "9"))))

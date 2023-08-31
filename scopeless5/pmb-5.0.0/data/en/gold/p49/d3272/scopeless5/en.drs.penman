@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / visible.a.01
+		:Theme (s0 / star.n.01
+			:Quantity (c0 / "+"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / sky.n.01)))

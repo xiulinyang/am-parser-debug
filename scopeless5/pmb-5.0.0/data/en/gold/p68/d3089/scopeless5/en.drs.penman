@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / invent.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Edison"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s3 / lightbulb.n.01)))

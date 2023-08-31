@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / drive.v.02
+		:Theme (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Destination (s3 / gas_station.n.01)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / live.v.01
+		:Theme (s0 / person.n.01
+			:Quantity (c0 / "?")
+			:Role (s1 / eskimo.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s4 / island.n.01
+			:Name (c2 / "Greenland"))))

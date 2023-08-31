@@ -1,0 +1,11 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / answer.v.02
+				:Agent (s3 / person.n.01)
+				:Time (s5 / time.n.08
+					:TPR (c1 / "now")))))
+	:member (s1 / ring.v.01
+		:Theme (s0 / telephone.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

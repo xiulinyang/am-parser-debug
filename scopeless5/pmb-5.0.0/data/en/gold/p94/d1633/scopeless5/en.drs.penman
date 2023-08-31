@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / impose.v.01
+		:Theme (s0 / curfew.n.03)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Recipient (s3 / city.n.03)))

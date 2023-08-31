@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / be.v.01
+		:Theme (s1 / entity.n.01
+			:Sub (s0 / male.n.02
+				:Name (c0 / "John"))
+			:Sub (s2 / person.n.01
+				:EQU (c1 / "speaker")))
+		:Time (s4 / time.n.08
+			:EQU (c2 / "now"))
+		:Co-Theme (s6 / person.n.01
+			:Role (s7 / friend.n.01)
+			:Attribute (s5 / old.a.02))))

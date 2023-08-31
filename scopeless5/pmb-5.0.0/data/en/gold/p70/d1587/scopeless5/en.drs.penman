@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / plant.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / apple_tree.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "3")))
+		:Destination (s6 / yard.n.02
+			:User (s5 / male.n.02))))

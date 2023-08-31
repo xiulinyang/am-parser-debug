@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / spend.v.01
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Duration (s3 / day.n.04)
+		:Location (s4 / open_air.n.01)))

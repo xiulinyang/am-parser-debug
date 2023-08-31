@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / come.v.08
+		:Theme (s1 / musical_organization.n.01
+			:EQU (s0 / rock_group.n.01
+				:Name (c0 / "Spock's Beard")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s4 / country.n.02
+			:Name (c2 / "Japan"))))

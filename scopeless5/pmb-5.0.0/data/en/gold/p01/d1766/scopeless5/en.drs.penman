@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / fill.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s3 / vase.n.01)
+		:Theme (s4 / water.n.01)))

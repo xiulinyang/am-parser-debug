@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / marry.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Agent (s5 / girl.n.01
+			:Source (s4 / country.n.02
+				:Name (c1 / "italy"))
+			:Attribute (s3 / dark-haired.a.01))))

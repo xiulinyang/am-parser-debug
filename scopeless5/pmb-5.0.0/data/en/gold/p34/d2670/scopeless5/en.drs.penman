@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / delay.v.01
+		:Causer (s1 / traffic_jam.n.01
+			:Time (s0 / rush_hour.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / arrival.n.02
+			:Theme (s4 / person.n.01
+				:EQU (c1 / "speaker")))
+		:Duration (s7 / hour.n.01
+			:Quantity (s6 / quantity.n.01
+				:EQU (c2 / "2")))))

@@ -1,0 +1,14 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / be.v.08
+				:Theme (s3 / entity.n.01
+					:Sub-of (s1 / person.n.01
+						:Role (s2 / parent.n.01
+							:Of (s0 / person.n.01
+								:EQU (c0 / "speaker")))
+						:Quantity (c1 / "2")))
+				:Time (s5 / time.n.08
+					:EQU (c2 / "now"))
+				:Co-Theme (s6 / person.n.01
+					:Role (s7 / doctor.n.01))))))

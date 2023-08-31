@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / knit.v.03
+		:Agent (s1 / woman.n.01
+			:Attribute (s0 / old.a.01
+				:Value (c0 / "+")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s5 / brow.n.01
+			:Part-of (s4 / female.n.02))))

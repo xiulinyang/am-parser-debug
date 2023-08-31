@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Martin Scorsese"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / person.n.01
+			:Role (s6 / film_director.n.01
+				:Stimulus-of (s4 / favorite.a.02
+					:Experiencer (s3 / person.n.01
+						:EQU (c2 / "speaker")))))))

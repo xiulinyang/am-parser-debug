@@ -1,0 +1,18 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s5 / beer.n.01
+				:EQU (s3 / entity.n.01)
+				:Source (s4 / country.n.02
+					:Name (c2 / "belgium"))))
+		:NEGATION (b3 / "box"
+			:member (s7 / beer.n.01
+				:EQU s3
+				:Source (s6 / country.n.02
+					:Name (c3 / "germany")))))
+	:member (s2 / prefer.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Experiencer (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Stimulus s3))

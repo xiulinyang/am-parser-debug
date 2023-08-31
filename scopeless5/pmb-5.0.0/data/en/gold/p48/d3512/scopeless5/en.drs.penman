@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / decide.v.01
+		:Agent (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Topic (s3 / pull_down.v.01
+			:Agent s0
+			:Patient (s5 / building.n.01
+				:Attribute (s4 / old.a.02
+					:Value (c1 / "+"))))))

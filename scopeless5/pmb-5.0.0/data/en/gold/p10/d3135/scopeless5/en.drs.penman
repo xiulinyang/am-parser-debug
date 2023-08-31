@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / expensive.a.01
+		:Attribute-of (s0 / restaurant.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s2 / less.r.01
+			:Theme s0)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / climb.v.01
+		:Theme (s0 / female.n.02
+			:Name (c0 / "Betty"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Path (s3 / mountain.n.01)
+		:Frequency (s4 / time.n.01
+			:Quantity (c2 / "3"))))

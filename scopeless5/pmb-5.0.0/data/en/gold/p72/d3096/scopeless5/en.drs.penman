@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s1 / fold.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom")
+			:Agent-of (s5 / put.v.01
+				:Time (s6 / time.n.08
+					:TPR (c2 / "now"))
+				:Theme (s7 / entity.n.01)
+				:Destination (s9 / suitcase.n.01
+					:User (s8 / male.n.02))))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / clothes.n.01
+			:User (s3 / male.n.02))))

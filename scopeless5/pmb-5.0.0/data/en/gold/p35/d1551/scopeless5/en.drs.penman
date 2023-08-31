@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / grow.v.07
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Product (s3 / tomato.n.02)
+		:Location (s5 / garden.n.01
+			:User (s4 / female.n.02))))

@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / attend.v.01
+		:Agent (s1 / person.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "canada"))
+			:Role (s2 / pm.n.03))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / inauguration.n.02
+			:Patient (s6 / person.n.01
+				:Role (s7 / president.n.03
+					:Of (s8 / state.n.04
+						:Name (c2 / "Mexico")))))))

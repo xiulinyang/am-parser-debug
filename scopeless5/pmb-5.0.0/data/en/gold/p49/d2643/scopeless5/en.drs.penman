@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / father.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Patient (s5 / entity.n.01
+			:Sub (s3 / person.n.01
+				:Role (s4 / son.n.01))
+			:Sub (s6 / person.n.01
+				:Role (s7 / daughter.n.01)))))

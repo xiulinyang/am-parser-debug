@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / guy.n.01
+			:Attribute (s3 / laid-back.a.01))))

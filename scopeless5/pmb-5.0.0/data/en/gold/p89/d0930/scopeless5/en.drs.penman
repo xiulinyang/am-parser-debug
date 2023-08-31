@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / state.n.04
+			:Name (c0 / "Israel"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / country.n.01
+			:Attribute (s3 / developed.a.02))))

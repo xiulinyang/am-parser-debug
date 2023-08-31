@@ -1,0 +1,8 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s1 / pick_up.v.04
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Theme (s2 / male.n.02
+				:Name (c1 / "Shigemi"))
+			:Source (s3 / day_care_center.n.01))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / guard.v.03
+		:Agent (s2 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "2500"))
+			:Source (s1 / country.n.02
+				:Name (c1 / "britain"))
+			:Role (s3 / soldier.n.01))
+		:Time (s5 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s6 / frontier.n.02)))

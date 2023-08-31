@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / trouble.v.02
+		:Stimulus (s1 / behavior.n.01
+			:Creator (s0 / male.n.02))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Experiencer (s4 / person.n.01
+			:Sub (c1 / "speaker"))))

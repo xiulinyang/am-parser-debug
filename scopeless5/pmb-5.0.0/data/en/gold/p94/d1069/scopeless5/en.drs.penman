@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / similar.a.01
+		:Theme (s0 / example.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / example.n.01
+			:Attribute (s3 / preceding.a.01))))

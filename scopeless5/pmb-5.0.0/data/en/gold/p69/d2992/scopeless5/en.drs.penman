@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / absorb.v.08
+		:Theme (s0 / person.n.01
+			:Role (s1 / newcomer.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Manner (s3 / quickly.r.02)
+		:Goal (s5 / community.n.01)))

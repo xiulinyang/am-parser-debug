@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s4 / dial.v.02
+			:Agent (s3 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s5 / time.n.08
+				:TPR (c3 / "now"))
+			:Theme (s7 / number.n.04
+				:Attribute (s6 / wrong.a.01))))
+	:member (s2 / sorry.a.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

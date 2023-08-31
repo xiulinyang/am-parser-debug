@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / zip_up.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / jacket.n.01
+			:User (s3 / male.n.02))))

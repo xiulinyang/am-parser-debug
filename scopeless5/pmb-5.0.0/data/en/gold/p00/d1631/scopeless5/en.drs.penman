@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / serve.v.05
+		:Theme (s0 / coffee.n.01)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:Time (s3 / time.n.08
+			:ESU (s4 / meal.n.01))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / become.v.02
+		:Patient (s0 / male.n.02
+			:Name (c0 / "Andris Bērziņš"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Result (s4 / person.n.01
+			:Role (s5 / president.n.03
+				:Of (s6 / state.n.04
+					:Name (c2 / "Latvia")))
+			:Attribute (s3 / new.a.05))))

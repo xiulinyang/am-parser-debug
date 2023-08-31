@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / connect.v.03
+		:Causer (s0 / canal.n.03)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Patient (s3 / ocean.n.01
+			:Name (c1 / "Atlantic"))
+		:Co-Patient (s4 / ocean.n.01
+			:Name (c2 / "Pacific"))))

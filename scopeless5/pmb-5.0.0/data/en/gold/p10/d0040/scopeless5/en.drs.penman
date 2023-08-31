@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / burrow.v.01
+			:Agent (s0 / badger.n.02)
+			:Time (s1 / time.n.08
+				:EQU (c0 / "now"))
+			:Result (s3 / hole.n.02))))

@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s3 / pull_over.v.01
+		:Agent (s1 / person.n.01
+			:Source (s0 / state.n.01
+				:Name (c0 / "california"))
+			:Role (s2 / policeman.n.01)
+			:Agent-of (s6 / speak.v.02
+				:Time (s7 / time.n.08
+					:TPR (c2 / "now"))
+				:Co-Agent (s8 / person.n.01
+					:Role (s9 / driver.n.01))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / car.n.01)))

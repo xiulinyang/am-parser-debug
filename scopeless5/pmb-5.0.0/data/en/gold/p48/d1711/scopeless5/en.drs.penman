@@ -1,0 +1,17 @@
+(b0 / "box"
+	:CONTRAST (b1 / "box"
+		:member (s6 / live.v.01
+			:Time (s4 / time.n.08
+				:EQU (c3 / "now")
+				:EQU (s2 / time.n.08
+					:EQU (c1 / "now")))
+			:Theme (s5 / person.n.01
+				:EQU (c4 / "speaker"))
+			:Location (s7 / city.n.01
+				:Name (c5 / "Tokyo"))))
+	:member (s1 / be.v.03
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time s2
+		:Source (s3 / city.n.01
+			:Name (c2 / "Hiroshima"))))

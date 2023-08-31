@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / play.v.01
+				:Agent (s1 / person.n.01
+					:Sub (c1 / "speaker"))
+				:Time (s0 / time.n.08
+					:DayOfWeek (c0 / "saturday"))
+				:Time (s3 / time.n.08
+					:EQU (c2 / "now"))
+				:Theme (s4 / soccer.n.01)))))

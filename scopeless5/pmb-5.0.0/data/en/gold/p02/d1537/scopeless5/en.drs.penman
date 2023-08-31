@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / write.v.06
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Beethoven"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s4 / symphony.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "9")))))

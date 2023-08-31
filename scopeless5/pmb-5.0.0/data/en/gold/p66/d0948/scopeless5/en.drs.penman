@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / take.v.09
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / taxi.n.01)
+		:Source (s4 / train_station.n.01)
+		:Destination (s5 / hotel.n.01)))

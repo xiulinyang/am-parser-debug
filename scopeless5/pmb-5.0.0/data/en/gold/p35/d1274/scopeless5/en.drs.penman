@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s5 / endow.v.01
+		:Destination (s1 / award.n.02)
+		:Participant (s2 / give_out.v.02
+			:Theme (s0 / entity.n.01)
+			:Location (s3 / city.n.01
+				:Name (c0 / "Klagenfurt")))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s7 / mark.n.07
+			:Quantity (s6 / quantity.n.01
+				:EQU (c2 / "30000")))))

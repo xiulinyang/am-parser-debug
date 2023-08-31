@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / expect.v.01
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s5 / pass.v.14
+				:Agent (s3 / male.n.02)
+				:Time (s4 / time.n.08
+					:TSU (c2 / "now"))
+				:Theme (s6 / examination.n.02)))))

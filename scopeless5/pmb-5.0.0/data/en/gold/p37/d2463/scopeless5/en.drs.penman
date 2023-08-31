@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / give.v.03
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Recipient (s3 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Theme (s6 / handkerchief.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "6"))
+			:MadeOf (s5 / linen.n.01))))

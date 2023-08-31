@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / see.v.08
+		:Time (s0 / time.n.08
+			:DayOfWeek (c0 / "wednesday"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Time (s2 / time.n.08
+			:TSU (c2 / "now"))
+		:Co-Agent (s4 / female.n.02
+			:Name (c3 / "Carla"))))

@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / popular.a.01
+			:Time (s5 / time.n.08
+				:EQU (c2 / "now"))
+			:Attribute-of (s6 / entity.n.01)))
+	:member (s2 / be.v.01
+		:Theme (s0 / entity.n.01
+			:Instance-of (s1 / movie.n.01)
+			:EQU (c0 / "?"))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / entity.n.01)))

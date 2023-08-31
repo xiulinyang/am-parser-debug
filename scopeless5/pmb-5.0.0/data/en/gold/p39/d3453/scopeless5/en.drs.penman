@@ -1,0 +1,8 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s3 / change.v.02
+				:Patient (s1 / entity.n.01
+					:EQU-of (s0 / person.n.01))))
+		:member (s2 / marry.v.01
+			:Agent s1)))

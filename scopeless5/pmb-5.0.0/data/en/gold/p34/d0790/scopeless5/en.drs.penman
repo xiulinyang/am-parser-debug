@@ -1,0 +1,11 @@
+(b0 / "box"
+	:ALTERNATION (b1 / "box"
+		:member (s2 / sweet.a.01
+			:Attribute-of (s0 / entity.n.01)
+			:Time (s1 / time.n.08
+				:EQU (c0 / "now"))))
+	:ALTERNATION (b2 / "box"
+		:member (s4 / sour.a.02
+			:Attribute-of s0
+			:Time (s3 / time.n.08
+				:EQU (c1 / "now")))))

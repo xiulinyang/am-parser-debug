@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / rain.v.01
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Frequency (s3 / time.n.01
+			:Quantity (c1 / "3"))
+		:Duration (s4 / trip.n.01)))

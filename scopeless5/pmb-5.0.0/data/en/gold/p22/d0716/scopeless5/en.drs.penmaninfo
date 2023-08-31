@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'write.v.01')
+('s2', ':Result', 's0')
+('s0', ':instance', 'writing.n.02')
+('s0', ':Name', 'c0')
+('c0', ':instance', '"The Persians"')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TPR', 'c1')
+('c1', ':instance', '"now"')
+('s2', ':Agent', 's3')
+('s3', ':instance', 'male.n.02')
+('s3', ':Name', 'c2')
+('c2', ':instance', '"Aeschylus"')
+tokenized sentence:START `` The Persians '' were written by Aeschylus .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 3, "node_id": ["c0", "s0"], "lexical_node": "c0"}, {"token_id": 5, "node_id": ["c1", "s1"], "lexical_node": "s1"}, {"token_id": 6, "node_id": "s2"}, {"token_id": 8, "node_id": ["c2", "s3"], "lexical_node": "c2"}]

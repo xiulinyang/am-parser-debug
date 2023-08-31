@@ -1,0 +1,16 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / consist.v.04
+				:Theme (s2 / breakfast.n.01
+					:Source (s1 / state.n.01
+						:Name (c0 / "bavaria")))
+				:Time (s4 / time.n.08
+					:EQU (c1 / "now"))
+				:Attribute (s8 / entity.n.01
+					:Sub (s6 / sausage.n.01
+						:Colour (s5 / white.a.01))
+					:Sub (s7 / wheat_beer.n.01)
+					:Sub (s9 / pretzel.n.01))))
+		:member (s0 / typical.a.01
+			:Attribute-of s2)))

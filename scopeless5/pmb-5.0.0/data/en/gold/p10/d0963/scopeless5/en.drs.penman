@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / threaten.v.01
+		:Agent (s2 / company.n.01
+			:Name (c1 / "Conservation Corporation")
+			:Theme-of (s1 / based.a.02
+				:Location (s0 / country.n.02
+					:Name (c0 / "south africa"))))
+		:Time (s4 / time.n.08
+			:EQU (c2 / "now"))
+		:Theme (s6 / population.n.02
+			:Attribute (s5 / local.a.02))))

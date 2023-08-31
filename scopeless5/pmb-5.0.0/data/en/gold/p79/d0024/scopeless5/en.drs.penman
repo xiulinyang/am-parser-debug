@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / slice.v.03
+		:Patient (s0 / potato.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Agent (s3 / woman.n.01)))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s0 / be.v.06
+		:Theme (s1 / gram.n.01
+			:Quantity (c0 / "?"))
+		:Co-Theme (s3 / ounce.n.02
+			:Quantity (s2 / quantity.n.01
+				:EQU (c1 / "1")))))

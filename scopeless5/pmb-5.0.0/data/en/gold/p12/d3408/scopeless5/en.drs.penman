@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / dance.v.01
+				:Theme (s0 / person.n.01)
+				:Time (s1 / time.n.08
+					:TPR (c0 / "now"))))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / glove.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / glove.n.02
+			:User (s3 / male.n.02
+				:Name (c1 / "Tom")))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / oil.v.01
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s4 / bicycle.n.01
+			:User (s3 / female.n.02))))

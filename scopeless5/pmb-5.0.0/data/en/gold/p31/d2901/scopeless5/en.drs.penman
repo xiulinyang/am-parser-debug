@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / fall.v.11
+		:Patient (s0 / crude_oil.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Attribute (s3 / price.n.01)))

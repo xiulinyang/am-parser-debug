@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s1 / lift.v.01
+				:Agent (s0 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Theme (s4 / arm.n.01
+					:Part-of (s2 / person.n.01
+						:EQU (c1 / "speaker"))
+					:Attribute (s3 / right.a.01))))))

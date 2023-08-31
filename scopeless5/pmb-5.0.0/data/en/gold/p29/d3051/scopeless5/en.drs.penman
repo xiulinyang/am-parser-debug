@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / swing.v.07
+		:Agent (s0 / person.n.01
+			:Role (s1 / player.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / bat.n.05)
+		:Destination (s5 / ball.n.01)))

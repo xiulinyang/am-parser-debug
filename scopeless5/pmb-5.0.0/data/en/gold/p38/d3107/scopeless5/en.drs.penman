@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / be.v.02
+		:Theme (s1 / vase.n.01
+			:Attribute (s0 / broken.a.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s7 / vase.n.01
+			:User (s5 / person.n.01
+				:Role (s6 / grandfather.n.01
+					:Of (s4 / person.n.01
+						:EQU (c1 / "speaker")))))))

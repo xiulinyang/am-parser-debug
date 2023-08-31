@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / forget.v.03
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "hearer"))
+			:Time (s1 / time.n.08
+				:EQU (c1 / "now"))
+			:Topic (s3 / write.v.07
+				:Agent s0
+				:Theme (s4 / zip_code.n.01)))))

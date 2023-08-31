@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / sting.v.05
+		:Stimulus (s1 / conscience.n.03
+			:Creator (s0 / male.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s4 / male.n.02)))

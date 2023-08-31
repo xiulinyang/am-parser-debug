@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / write.v.06
+		:Agent (s0 / person.n.01
+			:Name (c0 / "?")
+			:Role (s1 / composer.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s4 / music.n.01
+			:Name (c2 / "Die Götterdämmerung"))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / break.v.02
+		:Patient (s1 / toy.n.01
+			:User (s0 / female.n.02))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s5 / person.n.01
+			:Role (s6 / little_sister.n.01
+				:Of (s4 / female.n.02)))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / stretch_out.v.03
+		:Theme (s1 / snout.n.01
+			:Part-of (s0 / hedgehog.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Manner (s4 / upwards.r.01)
+		:Causer (s5 / curiosity.n.01)))

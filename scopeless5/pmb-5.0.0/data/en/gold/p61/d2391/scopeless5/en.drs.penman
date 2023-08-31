@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / watch.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s6 / watch.n.01
+			:User (s4 / person.n.01
+				:Role (s5 / grandfather.n.01
+					:User (s3 / person.n.01
+						:EQU (c1 / "hearer")))))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / talk.v.01
+			:Agent (s3 / female.n.02)
+			:Time (s4 / time.n.08
+				:TPR (c1 / "now"))
+			:Instrument (s6 / phone.n.01)))
+	:member (s1 / overflow.v.01
+		:Theme (s0 / bathtub.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

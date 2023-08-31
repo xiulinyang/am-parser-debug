@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s3 / boy.n.01))
+	:member (s5 / be.v.02
+		:Theme (s4 / name.n.01
+			:Bearer s3)
+		:Time (s6 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s7 / name.n.01
+			:EQU (c2 / "Tom Fisher"))))

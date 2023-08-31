@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / present.a.02
+				:Attribute-of (s0 / person.n.01
+					:Role (s1 / member.n.01
+						:Of (s2 / club.n.02)))
+				:Time (s3 / time.n.08
+					:TPR (c0 / "now"))))))

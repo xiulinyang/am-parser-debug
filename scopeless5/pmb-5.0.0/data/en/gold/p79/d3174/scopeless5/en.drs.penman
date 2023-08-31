@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / agog.a.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s2 / completely.r.01)
+		:Stimulus (s6 / dress.n.01
+			:User (s4 / person.n.01
+				:EQU (c2 / "hearer"))
+			:Attribute (s5 / diaphanous.a.01))))

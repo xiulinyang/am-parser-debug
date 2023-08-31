@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / begin.v.01
+		:Manner (s0 / suddenly.r.01)
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Part-of (s4 / fall.v.05
+			:Theme (s1 / rain.n.02))))

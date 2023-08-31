@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s0 / according.a.02
+		:Source (s1 / police.n.01)
+		:Proposition (b1 / "box"
+			:member (s6 / detain.v.01
+				:Patient (s3 / person.n.01
+					:Quantity (s2 / quantity.n.01
+						:EQU (c0 / "89")))
+				:Time (s4 / time.n.08
+					:TPR (c1 / "now"))
+				:Manner (s5 / temporarily.r.01)))))

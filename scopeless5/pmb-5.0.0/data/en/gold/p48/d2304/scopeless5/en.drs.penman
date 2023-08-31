@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / purple.a.01
+		:Colour-of (s1 / sweater.n.01
+			:User (s0 / female.n.02))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

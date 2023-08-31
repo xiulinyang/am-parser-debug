@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / start.v.02
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Part-of (s3 / work.v.02
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s4 / time.n.08
+			:MonthOfYear (c2 / "7")
+			:DayOfMonth (c3 / "1")
+			:EQU-of (s5 / time.n.08))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / amount.v.02
+		:Theme (s1 / debt.n.02
+			:Creator (s0 / male.n.02))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s4 / dollar.n.01
+			:Quantity (s5 / quantity.n.01
+				:EQU (c1 / "2000")))))

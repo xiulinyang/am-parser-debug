@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / import.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / clothes.n.01)
+		:Source (s4 / country.n.02
+			:Name (c1 / "Turkey"))))

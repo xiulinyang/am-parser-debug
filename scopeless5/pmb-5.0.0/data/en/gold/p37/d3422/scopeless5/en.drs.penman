@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / wide.a.01
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (c2 / "+")
+		:Attribute-of (s0 / street.n.01
+			:Location (s1 / island.n.01
+				:Name (c0 / "Hokkaido")))))

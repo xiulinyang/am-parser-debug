@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / call.v.01
+		:Theme (s0 / ping-pong.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Result (s3 / table_tennis.n.01
+			:EQU (c1 / "table tennis"))))

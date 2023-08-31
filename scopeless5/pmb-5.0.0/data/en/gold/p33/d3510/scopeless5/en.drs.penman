@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / accord.v.01
+		:Theme (s1 / idea.n.01
+			:Creator (s0 / male.n.02))
+		:Co-Theme (s3 / entity.n.01
+			:Creator (s4 / person.n.01))))

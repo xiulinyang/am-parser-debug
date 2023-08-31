@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / become.v.02
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1991"))
+		:Patient (s1 / female.n.02
+			:Name (c1 / "Eileen Collins"))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))
+		:Result (s4 / person.n.01
+			:Role (s5 / astronaut.n.01))))

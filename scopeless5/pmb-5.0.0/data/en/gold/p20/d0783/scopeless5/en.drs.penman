@@ -1,0 +1,6 @@
+(b0 / "box"
+	:POSSIBILITY (b1 / "box"
+		:member (s1 / speak.v.03
+			:Agent (s0 / female.n.02
+				:Name (c0 / "Mary"))
+			:Theme (s2 / japanese.n.02))))

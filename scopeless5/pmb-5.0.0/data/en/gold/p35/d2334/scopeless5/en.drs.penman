@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / consist.v.04
+		:Theme (s1 / skull.n.01
+			:Part-of (s0 / human.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute (s5 / bone.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c1 / "23")))))

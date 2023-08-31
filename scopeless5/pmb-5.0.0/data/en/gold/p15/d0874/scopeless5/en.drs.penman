@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / be.v.03
+		:Attribute (s1 / person.n.01
+			:Role (s2 / girlfriend.n.01
+				:Of (s0 / male.n.02)))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Source (s5 / country.n.02
+			:Name (c1 / "japan"))))

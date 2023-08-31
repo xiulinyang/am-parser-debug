@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / lead.v.07
+		:Theme (s0 / religion.n.02
+			:Name (c0 / "Mexican Association of Catholic Youth"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s3 / male.n.02
+			:Name (c2 / "René Capistran Garza"))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / take.v.16
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s1 / picture.n.01)
+		:Location (s3 / country.n.02
+			:Name (c1 / "Germany"))))

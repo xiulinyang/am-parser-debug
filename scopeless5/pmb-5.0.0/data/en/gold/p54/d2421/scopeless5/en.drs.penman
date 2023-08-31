@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / give.v.20
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Beneficiary (s3 / female.n.02)
+		:Theme (s4 / mouth-to-mouth_resuscitation.n.01)))

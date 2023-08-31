@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Theme (s5 / person.n.01
+			:Quantity (s3 / quantity.n.01
+				:LES (s4 / quantity.n.01
+					:EQU (c1 / "7000000000"))))
+		:Location (s6 / world.n.04)))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / take_place.v.01
+		:Theme (s0 / conference.n.01)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:EQU (s3 / entity.n.01)
+		:Location (s4 / city.n.01
+			:Name (c1 / "Tokyo"))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / pleased.a.02
+		:Experiencer (s1 / person.n.01
+			:Role (s2 / aunt.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s6 / success.n.02
+			:Creator (s5 / person.n.01
+				:EQU (c2 / "speaker")))))

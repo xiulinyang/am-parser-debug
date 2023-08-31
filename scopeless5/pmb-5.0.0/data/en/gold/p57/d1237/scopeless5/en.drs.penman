@@ -1,0 +1,18 @@
+(b0 / "box"
+	:member (s1 / defeat.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Agent (s5 / male.n.02
+			:Name (c2 / "Stefan Edberg")
+			:Source (s3 / country.n.02
+				:Name (c1 / "sweden"))
+			:Role (s4 / player.n.01))
+		:Theme (s7 / set.n.08
+			:Quantity (s6 / quantity.n.01
+				:EQU (c3 / "2")))
+		:Extent (s9 / entity.n.01
+			:Sub (s8 / score.n.03
+				:Value (c4 / "6-4"))
+			:Sub (s10 / score.n.03
+				:Value (c5 / "6-2")))))

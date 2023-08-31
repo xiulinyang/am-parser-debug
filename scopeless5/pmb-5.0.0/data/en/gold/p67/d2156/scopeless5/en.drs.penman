@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / compose.v.03
+		:Result (s0 / poem.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s4 / person.n.01
+			:Role (s5 / author.n.01)
+			:Attribute (s3 / anonymous.a.01))))

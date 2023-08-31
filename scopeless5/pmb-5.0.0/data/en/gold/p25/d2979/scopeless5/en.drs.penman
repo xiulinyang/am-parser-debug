@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / dark.a.02
+		:Attribute-of (s0 / color.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s4 / more.r.01
+			:Theme s0
+			:Value (s2 / measure.n.02
+				:Quantity (c1 / "-"))
+			:Co-Theme (s5 / color.n.01))))

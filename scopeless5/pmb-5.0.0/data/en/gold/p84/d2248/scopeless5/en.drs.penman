@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / moor.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Theme (s2 / ship.n.01)
+		:Location (s3 / pier.n.01)))

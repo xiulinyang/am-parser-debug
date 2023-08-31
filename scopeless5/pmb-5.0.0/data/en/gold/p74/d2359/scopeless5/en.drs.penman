@@ -1,0 +1,16 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:POSSIBILITY (b3 / "box"
+				:member (s3 / shear.v.02
+					:Agent (s1 / person.n.01
+						:Role (s2 / shearer.n.03))
+					:Source (s6 / sheep.n.01
+						:Quantity (s4 / quantity.n.01
+							:TOP (s5 / quantity.n.01
+								:EQU (c0 / "150"))))
+					:Duration (s8 / day.n.01
+						:Quantity (s7 / quantity.n.01
+							:EQU (c1 / "1"))))))
+		:member (s0 / first-class.a.01
+			:Attribute-of s2)))

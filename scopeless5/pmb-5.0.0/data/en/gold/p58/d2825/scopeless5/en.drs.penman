@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / ahead.a.01
+		:Agent (s0 / team.n.01
+			:Name (c0 / "Swallows"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Extent (s3 / score.n.03
+			:Value (c2 / "4-1"))))

@@ -1,0 +1,17 @@
+(b0 / "box"
+	:member (s1 / beat.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Zinedine Zidane"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s4 / entity.n.01
+			:Sub (s3 / male.n.02
+				:Name (c2 / "Thierry Henry"))
+			:Sub (s5 / male.n.02
+				:Name (c3 / "Ronaldo")))
+		:Theme (s8 / award.n.02
+			:Name (c6 / "World Player of the Year")
+			:Creator (s6 / organization.n.01
+				:Name (c4 / "Fifa"))
+			:Time (s7 / time.n.08
+				:YearOfCentury (c5 / "2003")))))

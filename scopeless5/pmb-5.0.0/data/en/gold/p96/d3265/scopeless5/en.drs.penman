@@ -1,0 +1,3 @@
+(b0 / "box"
+	:member (s0 / turtle.n.02
+		:EQU (s1 / reptile.n.01)))

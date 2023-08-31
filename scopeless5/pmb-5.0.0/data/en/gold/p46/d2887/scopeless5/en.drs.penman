@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / take.v.16
+		:Theme (s0 / picture.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s5 / time.n.08
+			:TAB (s4 / year.n.01
+				:Quantity (s3 / quantity.n.01
+					:EQU (c1 / "3"))
+				:TAB (c2 / "now")))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / play.v.05
+		:Agent (s0 / child.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / garden.n.03)))

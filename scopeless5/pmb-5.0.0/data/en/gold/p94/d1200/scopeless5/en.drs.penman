@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / have.v.02
+		:Pivot (s1 / joint_venture.n.01
+			:Attribute (s0 / planned.a.01))
+		:Time (s2 / time.n.08
+			:TSU (c0 / "now"))
+		:Theme (s5 / capacity.n.01
+			:Value (s7 / metric_ton.n.01
+				:Quantity (s6 / quantity.n.01
+					:EQU (c1 / "1400000")))
+			:Attribute (s4 / total.a.01))))

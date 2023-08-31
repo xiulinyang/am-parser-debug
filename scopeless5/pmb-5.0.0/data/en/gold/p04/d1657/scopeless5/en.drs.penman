@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / snatch.v.01
+		:Beneficiary (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / purse.n.01
+			:User (s2 / female.n.02))
+		:Source (s6 / arm.n.01
+			:Part-of (s5 / female.n.02))))

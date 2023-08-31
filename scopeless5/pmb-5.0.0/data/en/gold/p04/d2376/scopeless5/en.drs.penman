@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / smoke.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Patient (s4 / cigar.n.01
+			:Source (s3 / country.n.02
+				:Name (c2 / "cuba")))))

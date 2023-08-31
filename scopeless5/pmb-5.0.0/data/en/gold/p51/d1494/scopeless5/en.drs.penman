@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / live.v.01
+		:Theme (s1 / cat.n.01
+			:Attribute (s0 / wild.a.02))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s4 / location.n.01
+			:SZN (s8 / house.n.01
+				:User (s6 / person.n.01
+					:Role (s7 / neighbor.n.01
+						:User (s5 / person.n.01
+							:EQU (c1 / "speaker"))))))))

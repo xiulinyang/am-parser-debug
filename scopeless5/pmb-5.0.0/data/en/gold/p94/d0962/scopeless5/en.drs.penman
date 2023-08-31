@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / be.v.03
+		:Theme (s1 / person.n.01
+			:Role (s2 / patient.n.01
+				:Causer (s0 / alzheimers.n.01)))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s5 / state.n.01
+			:Name (c1 / "Michigan"))
+		:Goal (s6 / assisted_suicide.n.01)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / employ.v.01
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1960"))
+		:Theme (s2 / person.n.01
+			:Quantity (s1 / quantity.n.01
+				:EQU (c1 / "35")))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))))

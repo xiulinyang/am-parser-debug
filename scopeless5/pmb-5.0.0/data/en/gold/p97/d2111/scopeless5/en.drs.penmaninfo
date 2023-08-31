@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'stop.v.02')
+('s2', ':Manner', 's0')
+('s0', ':instance', 'all_of_a_sudden.r.02')
+('s2', ':Time', 's3')
+('s3', ':instance', 'time.n.08')
+('s3', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s4', ':Part', 's2')
+('s4', ':instance', 'talk.v.01')
+('s4', ':Agent', 's1')
+('s1', ':instance', 'person.n.01')
+tokenized sentence:START All of a sudden they stopped talking .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 4, "node_id": "s0"}, {"token_id": 5, "node_id": "s1"}, {"token_id": 6, "node_id": ["s3", "c0", "s2"], "lexical_node": "s2"}, {"token_id": 7, "node_id": "s4"}]

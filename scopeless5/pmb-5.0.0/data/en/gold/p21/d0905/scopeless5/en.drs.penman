@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s1 / come.v.01
+				:Theme (s0 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Destination (s2 / birthday_party.n.01)))))

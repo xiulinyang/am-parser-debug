@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s6 / be.v.01
+		:Theme (s4 / entity.n.01
+			:Sub (s0 / one.n.01)
+			:Sub (s1 / three.n.01)
+			:Sub (s2 / five.n.01)
+			:Sub (s3 / seven.n.01)
+			:Sub (s5 / nine.n.01))
+		:Time (s7 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s9 / number.n.02
+			:Attribute (s8 / odd.a.01))))

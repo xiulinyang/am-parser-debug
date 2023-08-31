@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / put.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / money.n.01)
+		:Destination (s4 / location.n.01
+			:STI (s5 / safe.n.01))))

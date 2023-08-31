@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / sit.v.01
+		:Agent (s2 / entity.n.01
+			:Sub (s0 / person.n.01
+				:Role (s1 / teacher.n.01))
+			:Sub (s3 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s5 / time.n.08
+			:TPR (c1 / "now"))
+		:Manner (s6 / face_to_face.r.01)))

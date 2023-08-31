@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s7 / look_for.v.01
+				:Agent (s5 / person.n.01
+					:EQU (c2 / "hearer"))
+				:Time (s6 / time.n.08
+					:EQU (c3 / "now"))
+				:Theme (s8 / zebra.n.01))))
+	:member (s1 / hear.v.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s4 / beat.n.06
+			:Causer (s3 / hoof.n.01))))

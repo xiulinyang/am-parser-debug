@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / improve.v.02
+		:Patient (s1 / airport.n.01
+			:Location (s0 / city.n.01
+				:Name (c0 / "Stuttgart")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

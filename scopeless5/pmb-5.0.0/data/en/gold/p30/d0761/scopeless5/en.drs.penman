@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / produce.v.02
+		:Agent (s0 / organization.n.01
+			:Name (c0 / "Texas Instruments"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Result (s3 / mobile_phone.n.01)))

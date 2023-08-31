@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / devote.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / life.n.03
+			:Experiencer (s3 / male.n.02))
+		:Goal (s6 / company.n.01
+			:Owner (s5 / male.n.02))))

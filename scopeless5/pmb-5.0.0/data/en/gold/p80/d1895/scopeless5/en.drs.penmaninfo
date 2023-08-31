@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'jot.v.01')
+('s2', ':Theme', 's0')
+('s0', ':instance', 'note.n.01')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Manner', 's3')
+('s3', ':instance', 'directly.r.02')
+('s2', ':Destination', 's4')
+('s4', ':instance', 'envelope.n.01')
+tokenized sentence:START The note is jotted directly on the envelope .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": ["c0", "s1"], "lexical_node": "s1"}, {"token_id": 4, "node_id": "s2"}, {"token_id": 5, "node_id": "s3"}, {"token_id": 8, "node_id": "s4"}]

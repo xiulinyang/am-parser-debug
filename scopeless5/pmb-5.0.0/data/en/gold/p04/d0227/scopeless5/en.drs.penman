@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / speak.v.03
+		:Theme (s0 / entity.n.01
+			:Sub (s5 / german.n.02)
+			:Sub (s1 / english.n.01))
+		:Agent (s2 / male.n.02)
+		:Time (s4 / time.n.08
+			:EQU (c0 / "now"))))

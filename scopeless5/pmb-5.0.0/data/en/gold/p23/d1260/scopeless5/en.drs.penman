@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / kill.v.01
+		:Patient (s1 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "13")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Causer (s4 / accident.n.01)))

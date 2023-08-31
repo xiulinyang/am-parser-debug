@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / beat.v.01
+		:Agent (s0 / team.n.01
+			:Name (c0 / "Giants"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Agent (s3 / team.n.01
+			:Name (c2 / "Lions"))
+		:Time (s4 / time.n.08
+			:TIN (s6 / day.n.03
+				:TAB (s5 / day.n.03
+					:TCT (c3 / "now"))))))

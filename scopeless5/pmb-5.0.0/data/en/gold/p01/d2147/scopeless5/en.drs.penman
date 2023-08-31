@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s5 / steal.v.01
+		:Beneficiary (s1 / female.n.02
+			:Name (c0 / "Baker")
+			:Title (s0 / mrs.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / purse.n.01
+			:User (s3 / female.n.02))))

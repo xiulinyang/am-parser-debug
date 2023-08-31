@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / be.v.06
+		:Theme (s1 / capacity.n.04
+			:Part-of (s0 / entity.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s6 / division.n.11
+			:Theme (s5 / metric_ton.n.01
+				:Quantity (s4 / quantity.n.01
+					:EQU (c1 / "5000")))
+			:Co-Theme (s7 / annum.n.01
+				:Quantity (c2 / "1")))))

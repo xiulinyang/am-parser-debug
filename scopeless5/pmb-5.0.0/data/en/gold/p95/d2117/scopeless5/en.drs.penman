@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / study.v.05
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Topic (s3 / english.n.01)
+		:Time (s4 / time.n.08
+			:EQU (c2 / "now"))))

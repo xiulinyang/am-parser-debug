@@ -1,0 +1,18 @@
+(b0 / "box"
+	:member (s1 / rule.v.04
+		:Agent (s0 / organization.n.01
+			:Name (c0 / "ICJ"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s3 / time.n.08
+			:YearOfCentury (c2 / "1948"))
+		:Proposition (b1 / "box"
+			:NECESSITY (b2 / "box"
+				:member (s5 / pay.v.01
+					:Agent (s4 / state.n.04
+						:Name (c3 / "Albania"))
+					:Recipient (s6 / state.n.04
+						:Name (c4 / "Britain"))
+					:Asset (s8 / pound.n.02
+						:Quantity (s7 / quantity.n.01
+							:EQU (c5 / "843947"))))))))

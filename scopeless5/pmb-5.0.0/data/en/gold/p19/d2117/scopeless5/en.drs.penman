@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / shaky.a.01
+		:Attribute-of (s0 / leg.n.03
+			:Part-of (s1 / table.n.02))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

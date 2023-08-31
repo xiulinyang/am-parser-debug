@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / establish.v.02
+		:Theme (s0 / school.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s3 / time.n.08
+			:YearOfCentury (c1 / "1650"))))

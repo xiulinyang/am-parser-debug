@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / be.v.01
+		:Theme (s2 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:MOR (s1 / quantity.n.01
+					:EQU (c0 / "4000000")))
+			:Source (s3 / country.n.02
+				:Name (c1 / "syria")))
+		:Time (s5 / time.n.08
+			:EQU (c2 / "now"))
+		:Co-Theme (s6 / person.n.01
+			:Role (s7 / refugee.n.01))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / sell.v.02
+		:Theme (s1 / car.n.01
+			:Source (s0 / continent.n.01
+				:Name (c0 / "europe")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s4 / country.n.02
+			:Name (c2 / "Russia"))))

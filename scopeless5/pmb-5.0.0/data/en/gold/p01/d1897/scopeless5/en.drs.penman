@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / die.v.01
+		:Patient (s0 / person.n.01
+			:Quantity (c0 / "+")
+			:Role (s1 / peasant.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Duration (s4 / drought.n.01)))

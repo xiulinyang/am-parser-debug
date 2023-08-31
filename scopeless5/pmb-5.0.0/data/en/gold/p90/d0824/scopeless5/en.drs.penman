@@ -1,0 +1,15 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s8 / fast.a.02
+			:Theme (s4 / entity.n.01)
+			:Time (s5 / time.n.08
+				:EQU (c1 / "now"))
+			:Value (s7 / minute.n.01
+				:Quantity (s6 / quantity.n.01
+					:EQU (c2 / "10")))))
+	:member (s1 / set.v.08
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Patient (s2 / clock.n.01)
+		:Attribute (s3 / right.a.08
+			:Attribute-of s2)))

@@ -1,0 +1,11 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's0')
+('s0', ':instance', 'state.a.01')
+('s2', ':Attribute', 's0')
+('s2', ':instance', 'hat.n.01')
+('s2', ':Colour', 's1')
+('s1', ':instance', 'red.a.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"?"')
+tokenized sentence:START How about this red hat ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 4, "node_id": "s1"}, {"token_id": 5, "node_id": "s2"}]

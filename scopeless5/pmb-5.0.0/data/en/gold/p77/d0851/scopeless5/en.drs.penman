@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / cut.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / mother.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / cheese.n.01)
+		:Instrument (s5 / knife.n.01)))

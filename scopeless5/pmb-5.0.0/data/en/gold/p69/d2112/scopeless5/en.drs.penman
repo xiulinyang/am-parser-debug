@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / zap.v.01
+		:Agent (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / male.n.02
+			:Name (c1 / "Tom"))
+		:Instrument (s4 / defibrillator.n.01)))

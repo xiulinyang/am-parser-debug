@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s2 / see.v.08
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Co-Theme (s3 / person.n.01
+			:EQU (c2 / "hearer"))
+		:Time (s4 / time.n.08
+			:TIN (s6 / day.n.03
+				:TAB-of (s5 / day.n.03
+					:TCT (c3 / "now"))))
+		:Location (s7 / school.n.02)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s3 / lift.v.01
+				:Theme (s0 / desk.n.01))))
+	:member (s2 / heavy.a.01
+		:Attribute-of s0
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

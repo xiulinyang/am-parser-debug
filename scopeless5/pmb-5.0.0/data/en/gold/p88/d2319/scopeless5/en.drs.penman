@@ -1,0 +1,11 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:CONSEQUENCE (b3 / "box"
+				:NEGATION (b4 / "box"
+					:member (s3 / gain.v.01
+						:Agent (s1 / entity.n.01))))
+			:member (s2 / risk.v.01
+				:Agent s1))
+		:member (s0 / person.n.01
+			:EQU s1)))

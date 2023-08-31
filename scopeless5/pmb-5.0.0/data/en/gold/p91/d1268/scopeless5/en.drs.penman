@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / criticize.v.01
+		:Theme (s0 / law.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s3 / trade_union.n.01)))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / demand.v.01
+		:Agent (s0 / public.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Result (s3 / answer.n.01)))

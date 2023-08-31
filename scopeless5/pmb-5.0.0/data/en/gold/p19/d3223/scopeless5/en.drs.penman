@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / get.v.09
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Extent (s3 / score.n.01
+			:Value (c2 / "D"))
+		:Theme (s6 / test.n.02
+			:Creator (s4 / person.n.01
+				:EQU (c3 / "speaker"))
+			:Theme (s5 / science.n.01))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s4 / get_up.v.02
+				:Theme (s1 / entity.n.01
+					:EQU-of (s0 / person.n.01))
+				:Co-Theme (s5 / flea.n.01)))
+		:member (s2 / sleep.v.01
+			:Agent s1
+			:Co-Agent (s3 / dog.n.01))))

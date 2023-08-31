@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / build.v.01
+		:Product (s0 / bridge.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s5 / time.n.08
+			:TAB (s4 / year.n.01
+				:Quantity (s3 / quantity.n.01
+					:EQU (c1 / "2"))
+				:TAB (c2 / "now")))))

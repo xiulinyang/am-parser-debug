@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / confirm.v.02
+		:Agent (s0 / person.n.01
+			:Role (s1 / doctor.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Proposition (b1 / "box"
+			:member (s6 / pregnant.a.01
+				:Attribute-of (s4 / female.n.02
+					:Name (c1 / "Linda"))
+				:Time (s5 / time.n.08
+					:TPR (c2 / "now"))))))

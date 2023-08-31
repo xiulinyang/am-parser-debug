@@ -1,0 +1,20 @@
+(b0 / "box"
+	:member (s3 / dismiss.v.01
+		:Agent (s1 / government.n.01
+			:Location (s0 / country.n.02
+				:Name (c0 / "egypt")))
+		:Time (s2 / time.n.08
+			:DayOfWeek (c1 / "tuesday"))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s5 / speculation.n.01
+			:Proposition (b1 / "box"
+				:member (s10 / help.v.01
+					:Agent (s6 / group.n.01
+						:Part (s8 / person.n.01
+							:Source (s9 / country.n.02
+								:Name (c3 / "pakistan"))
+							:Attribute (s7 / missing.a.01)))
+					:Time (s11 / time.n.08
+						:TPR (c4 / "now"))
+					:Theme (s12 / bombing.n.01))))))

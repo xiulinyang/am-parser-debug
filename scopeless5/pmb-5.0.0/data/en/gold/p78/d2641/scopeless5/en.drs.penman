@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / make.v.06
+		:Result (s1 / squirrel.n.01
+			:MadeOf (s0 / plastic.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / country.n.02
+			:Name (c1 / "China"))))

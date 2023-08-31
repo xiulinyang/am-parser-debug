@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / person.n.01
+			:Name (c0 / "?"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s3 / person.n.01
+			:Role (s4 / singer.n.01
+				:Part-of (s5 / musical_organization.n.01
+					:Name (c2 / "Commodores"))))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / surface.v.01
+		:Theme (s0 / fish.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Goal (s3 / air.n.01)))

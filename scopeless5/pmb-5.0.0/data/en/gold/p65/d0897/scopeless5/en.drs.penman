@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / form.v.02
+			:Result (s5 / plural.n.01)
+			:Time (s6 / time.n.08
+				:EQU (c1 / "now"))
+			:Theme (s8 / addition.n.01
+				:Theme (s9 / j.n.02))))
+	:member (s2 / end.v.01
+		:Context (s0 / esperanto.n.01)
+		:Theme (s1 / noun.n.01)
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / o.n.02)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / belong.v.01
+		:Theme (s0 / hotel.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Pivot (s4 / person.n.01
+			:Role (s5 / brother-in-law.n.01
+				:Of (s3 / person.n.01
+					:EQU (c1 / "speaker"))))))

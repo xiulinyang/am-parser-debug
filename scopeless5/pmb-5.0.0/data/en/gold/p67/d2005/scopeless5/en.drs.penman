@@ -1,0 +1,16 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s9 / poor.a.02
+			:Attribute-of (s7 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s8 / time.n.08
+				:EQU (c3 / "now"))))
+	:member (s3 / be.v.01
+		:Theme (s1 / entity.n.01
+			:Sub (s0 / money.n.01)
+			:Sub (s2 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / person.n.01
+			:Role (s6 / stranger.n.01))))

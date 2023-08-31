@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s5 / ill.a.01
+		:Time (s0 / time.n.08
+			:TIN (s2 / day.n.03
+				:TAB (s1 / day.n.03
+					:TCT (c0 / "now"))))
+		:Attribute-of (s3 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))))

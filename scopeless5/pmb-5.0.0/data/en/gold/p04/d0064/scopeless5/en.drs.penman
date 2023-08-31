@@ -1,0 +1,30 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s9 / remain.v.01
+			:Agent (s8 / party.n.01
+				:Name (c5 / "Independence Party"))
+			:Time (s10 / time.n.08
+				:TPR (c6 / "now"))
+			:Theme (s13 / party.n.01
+				:Attribute (s11 / large.a.01
+					:Degree (s12 / most.r.01))
+				:Part-of (s14 / organization.n.01
+					:Name (c7 / "Althing"))
+				:Agent-of (s15 / win.v.01
+					:Theme (s16 / 25.n.01
+						:Sub-of (s18 / seat.n.07
+							:Quantity (s17 / quantity.n.01
+								:EQU (c8 / "63"))))))))
+	:member (s3 / hold.v.03
+		:Theme (s1 / election.n.01
+			:Attribute (s0 / parliamentary.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / island.n.01
+			:Name (c1 / "Iceland"))
+		:Time (s5 / time.n.08
+			:DayOfMonth (c2 / "12")
+			:EQU (s7 / time.n.08
+				:YearOfCentury (c4 / "2007"))
+			:EQU-of (s6 / time.n.08
+				:MonthOfYear (c3 / "5")))))

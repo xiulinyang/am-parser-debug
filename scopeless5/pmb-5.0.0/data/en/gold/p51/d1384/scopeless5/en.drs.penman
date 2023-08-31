@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01
+			:EQU (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s4 / name.n.01
+			:Bearer (s5 / leech.n.01)
+			:Attribute (s3 / scientific.a.01))))

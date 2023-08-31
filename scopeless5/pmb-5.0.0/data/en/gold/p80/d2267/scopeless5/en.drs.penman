@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / knit.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Product (s3 / scarf.n.01)))

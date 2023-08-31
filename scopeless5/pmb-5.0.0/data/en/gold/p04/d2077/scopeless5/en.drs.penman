@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / crush.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / box.n.01)
+		:Instrument (s5 / foot.n.01
+			:Part-of (s4 / male.n.02))))

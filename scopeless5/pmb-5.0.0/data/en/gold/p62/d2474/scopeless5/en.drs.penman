@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / kick.v.03
+		:Agent (s0 / donkey.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / dog.n.01
+			:Agent-of (s4 / bite.v.01
+				:Patient (s5 / entity.n.01)))))

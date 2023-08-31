@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / toss.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / dog.n.01
+			:Owner (s3 / person.n.01
+				:EQU (c2 / "speaker")))
+		:Destination (s6 / bed.n.01
+			:User (s5 / person.n.01
+				:EQU (c3 / "speaker")))))

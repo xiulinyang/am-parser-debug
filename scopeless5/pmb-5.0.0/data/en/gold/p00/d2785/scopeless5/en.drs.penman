@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / lead.v.11
+				:Theme (s1 / entity.n.01
+					:Sub-of (s0 / road.n.01
+						:Quantity (c0 / "2")))
+				:Time (s3 / time.n.08
+					:EQU (c1 / "now"))
+				:Destination (s4 / station.n.01)))))

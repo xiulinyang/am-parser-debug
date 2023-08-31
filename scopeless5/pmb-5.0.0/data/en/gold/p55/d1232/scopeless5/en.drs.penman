@@ -1,0 +1,17 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / expect.v.01
+			:Theme (s5 / trial.n.04)
+			:Time (s6 / time.n.08
+				:EQU (c2 / "now"))
+			:Attribute (s8 / last.v.01
+				:Theme s5
+				:Duration (s9 / year.n.01
+					:Quantity (c3 / "+")))))
+	:member (s1 / contain.v.01
+		:Pivot (s0 / indictment.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / page.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "875")))))

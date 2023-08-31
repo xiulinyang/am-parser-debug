@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / effect.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Proposition (b1 / "box"
+			:member (s4 / drop.v.03
+				:Patient (s3 / death_rate.n.01)
+				:Time (s5 / time.n.08
+					:TPR (c1 / "now"))
+				:Extent (s7 / percent.n.01
+					:Quantity (s6 / quantity.n.01
+						:EQU (c2 / "50")))))))

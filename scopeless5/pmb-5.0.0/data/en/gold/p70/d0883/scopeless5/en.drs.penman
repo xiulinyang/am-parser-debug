@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / big.a.01
+		:Attribute-of (s0 / city.n.01
+			:Name (c0 / "Beijing"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s3 / more.r.01
+			:Theme s0
+			:Co-Theme (s4 / city.n.01
+				:Name (c2 / "Rome")))))

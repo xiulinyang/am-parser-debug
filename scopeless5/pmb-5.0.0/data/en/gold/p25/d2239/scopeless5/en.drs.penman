@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / arrive.v.01
+		:Manner (s0 / at_last.r.01)
+		:Theme (s1 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s4 / state.n.01
+			:Name (c2 / "California"))))

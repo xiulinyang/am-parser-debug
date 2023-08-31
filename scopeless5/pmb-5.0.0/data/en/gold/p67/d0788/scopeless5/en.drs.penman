@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / show.v.04
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Damon"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Recipient (s3 / person.n.01
+			:EQU (c2 / "speaker"))
+		:Theme (s5 / stamp_album.n.01
+			:User (s4 / male.n.02))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / open.v.01
+		:Agent (s0 / person.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / window.n.01)))

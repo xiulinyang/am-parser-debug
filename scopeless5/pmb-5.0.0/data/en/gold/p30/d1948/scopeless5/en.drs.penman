@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / wait.v.01
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Proposition (b1 / "box"
+			:member (s4 / climb.v.02
+				:Theme (s3 / female.n.02)
+				:Destination (s6 / car.n.01
+					:User (s5 / female.n.02))))))

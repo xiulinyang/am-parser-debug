@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s5 / wave.v.02
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s0 / entity.n.01
+			:EQU (c0 / "?"))
+		:Agent (s3 / person.n.01
+			:User (s2 / vehicle.n.01
+				:Name (c2 / "Apollo"))
+			:Role (s4 / astronaut.n.01))
+		:Time (s6 / time.n.08
+			:TPR (c3 / "now"))
+		:Location (s7 / moon.n.01)
+		:Time (s8 / time.n.08
+			:YearOfCentury (c4 / "1969"))))

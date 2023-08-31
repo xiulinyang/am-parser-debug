@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / take.v.02
+		:Theme (s0 / voyage.n.01
+			:Source (s1 / country.n.02
+				:Name (c0 / "England"))
+			:Destination (s2 / country.n.02
+				:Name (c1 / "India")))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))
+		:Value (s6 / month.n.01
+			:Quantity (s5 / quantity.n.01
+				:EQU (c3 / "6")))))

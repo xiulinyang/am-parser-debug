@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / catch.v.19
+		:Recipient (s1 / person.n.01
+			:Role (s2 / daughter.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / cold.n.01)))

@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / roll_over.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom")
+			:Agent-of (s3 / snooze.v.01
+				:Duration (s7 / minute.n.01
+					:Quantity (s6 / quantity.n.01
+						:EQU (c3 / "15"))
+					:NEQ-of (s4 / minute.n.01
+						:Quantity (s5 / quantity.n.01
+							:EQU (c2 / "15"))))))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))))

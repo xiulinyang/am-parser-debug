@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / crazy.a.03
+		:Attribute-of (s0 / person.n.01
+			:Source (s1 / city.n.01
+				:Name (c0 / "Madrid")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

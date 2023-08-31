@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / bring.v.01
+		:Agent (s1 / person.n.01
+			:Role (s2 / uncle.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s6 / tv_set.n.01
+			:Attribute (s5 / new.a.05))
+		:Destination (s7 / person.n.01
+			:Sub (c2 / "speaker"))))

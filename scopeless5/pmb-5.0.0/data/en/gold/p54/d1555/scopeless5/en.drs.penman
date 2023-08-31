@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / tour.v.01
+				:Agent (s0 / person.n.01
+					:Sub (c0 / "speaker"))
+				:Location (s1 / entity.n.01
+					:Part-of (s3 / city.n.01))
+				:Time (s5 / time.n.08
+					:TPR (c1 / "now"))))
+		:member (s2 / major.a.01
+			:Attribute-of s3)))

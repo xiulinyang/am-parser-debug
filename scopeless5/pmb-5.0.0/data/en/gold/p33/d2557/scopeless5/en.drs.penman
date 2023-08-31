@@ -1,0 +1,16 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s5 / floss.v.01
+			:Agent (s4 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s6 / time.n.08
+				:EQU (c3 / "now"))
+			:Patient (s8 / tooth.n.01
+				:Part-of (s7 / person.n.01
+					:EQU (c4 / "speaker")))))
+	:member (s2 / bleed.v.01
+		:Source (s1 / gum.n.02
+			:Part-of (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))))

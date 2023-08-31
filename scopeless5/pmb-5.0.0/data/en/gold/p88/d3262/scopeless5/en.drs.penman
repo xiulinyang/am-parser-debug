@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s5 / die.v.01
+		:Manner (s0 / manner.n.01
+			:EQU (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / person.n.01
+			:Role (s4 / sister.n.01
+				:Of (s2 / person.n.01
+					:EQU (c2 / "hearer"))))))

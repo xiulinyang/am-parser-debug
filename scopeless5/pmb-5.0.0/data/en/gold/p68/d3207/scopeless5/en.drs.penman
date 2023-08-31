@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:EQU (s0 / entity.n.01)
+		:Theme (s4 / cattle.n.01
+			:Quantity (s3 / quantity.n.01
+				:APX (c1 / "500")))
+		:Location (s5 / ranch.n.01)))

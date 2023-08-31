@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s4 / get_over.v.03
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Duration (s3 / day.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "10")))
+		:Theme (s6 / cold.n.01
+			:User (s5 / person.n.01
+				:EQU (c3 / "speaker")))))

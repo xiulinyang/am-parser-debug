@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / resign.v.02
+		:Agent (s0 / person.n.01
+			:Role (s1 / prime_minister.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / be.v.03
+		:Location (s0 / location.n.01
+			:Name (c0 / "?")
+			:Part-of (s1 / country.n.02
+				:Name (c1 / "usa")))
+		:Time (s3 / time.n.08
+			:EQU (c2 / "now"))
+		:EQU (s4 / entity.n.01)
+		:Theme (s6 / embassy.n.01
+			:Source (s5 / country.n.02
+				:Name (c3 / "sweden")))))

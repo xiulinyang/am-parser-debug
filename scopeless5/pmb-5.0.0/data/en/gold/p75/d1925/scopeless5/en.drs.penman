@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s5 / injure.v.01
+		:Patient (s1 / person.n.01
+			:Role (s2 / grandfather.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Manner (s4 / seriously.r.01)
+		:Agent (s6 / person.n.01
+			:Role (s7 / bomber.n.02))
+		:Duration (s8 / war.n.01)))

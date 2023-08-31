@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / famous.a.01
+		:Attribute-of (s0 / city.n.01
+			:EQU (s1 / city.n.01
+				:Name (c0 / "Rome")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

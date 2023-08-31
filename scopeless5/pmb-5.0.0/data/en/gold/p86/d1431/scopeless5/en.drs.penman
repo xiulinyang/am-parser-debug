@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / be.v.13
+		:Theme (s1 / pilaf.n.01
+			:Creator (s0 / person.n.01
+				:Sub (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Value (s5 / yuan.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "4")))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / turn.v.03
+		:Causer (s0 / rain.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / road.n.01)
+		:Result (s4 / quagmire.n.01)))

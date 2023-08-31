@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s0 / male.n.02
+		:Name (c0 / "Tom")
+		:EQU (s2 / person.n.01
+			:Role (s3 / artist.n.01
+				:Time (s1 / time.n.08
+					:EQU (c1 / "now"))))))

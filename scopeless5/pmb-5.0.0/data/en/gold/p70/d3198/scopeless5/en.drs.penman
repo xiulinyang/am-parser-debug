@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / rare.a.01
+		:Attribute-of (s1 / name.n.01
+			:Bearer (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s3 / very.r.01)
+		:Location (s6 / country.n.02
+			:User (s5 / person.n.01
+				:Sub (c2 / "speaker")))))

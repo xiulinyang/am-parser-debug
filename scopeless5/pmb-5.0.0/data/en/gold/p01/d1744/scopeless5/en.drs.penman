@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / destroy.v.01
+		:Patient (s1 / house.n.01
+			:User (s0 / male.n.02
+				:Name (c0 / "Tom")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Causer (s4 / hurricane.n.01)))

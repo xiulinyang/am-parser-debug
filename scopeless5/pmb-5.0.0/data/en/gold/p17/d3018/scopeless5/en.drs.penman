@@ -1,0 +1,12 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s6 / flash.v.01
+			:Theme (s5 / lightning.n.01)
+			:Time (s7 / time.n.08
+				:TPR (c1 / "now"))))
+	:member (s1 / hide.v.02
+		:Agent (s0 / dog.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / location.n.01
+			:SZN (s4 / bed.n.01))))

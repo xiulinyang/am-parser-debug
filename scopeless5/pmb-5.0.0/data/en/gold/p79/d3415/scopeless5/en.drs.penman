@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / live.v.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s1 / penguin.n.01)
+		:Location (s3 / geographical_area.n.01
+			:Name (c1 / "Arctic"))))

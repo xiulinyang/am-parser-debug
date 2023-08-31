@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / raise.v.01
+		:Patient (s0 / subway_fare.n.01)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:Start (s4 / time.n.08
+			:DayOfMonth (c2 / "1")
+			:EQU (s5 / time.n.08
+				:YearOfCentury (c3 / "1999"))
+			:EQU-of (s3 / time.n.08
+				:MonthOfYear (c1 / "4")))))

@@ -1,0 +1,11 @@
+(b0 / "box"
+	:EXPLANATION (b1 / "box"
+		:member (s6 / careless.a.01
+			:Attribute-of (s3 / person.n.01
+				:Role (s4 / driver.n.01))
+			:Time (s5 / time.n.08
+				:TPR (c1 / "now"))))
+	:member (s1 / crash.v.03
+		:Patient (s0 / car.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

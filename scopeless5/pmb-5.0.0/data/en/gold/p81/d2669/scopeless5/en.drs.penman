@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / go.v.01
+		:Theme (s0 / car.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Value (s5 / division.n.11
+			:Theme (s4 / km.n.01
+				:Quantity (s3 / quantity.n.01
+					:EQU (c1 / "60")))
+			:Co-Theme (s6 / hour.n.01
+				:Quantity (c2 / "1")))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / run.v.01
+				:Theme (s1 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Time (s0 / day.n.01)
+				:Time (s3 / time.n.08
+					:EQU (c1 / "now"))
+				:Value (s5 / kilometer.n.01
+					:Quantity (s4 / quantity.n.01
+						:EQU (c2 / "10")))))))

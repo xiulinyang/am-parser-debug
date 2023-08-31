@@ -1,0 +1,15 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:CONTINUATION (b3 / "box"
+				:member (s4 / live.v.01
+					:Theme (s3 / female.n.02)
+					:Time (s5 / time.n.08
+						:EQU (c2 / "now"))
+					:Location (s6 / country.n.02
+						:Name (c3 / "Finland"))))
+			:member (s1 / phone.v.01
+				:Agent (s0 / person.n.01
+					:EQU (c0 / "speaker"))
+				:Theme (s2 / female.n.02
+					:Name (c1 / "Marika"))))))

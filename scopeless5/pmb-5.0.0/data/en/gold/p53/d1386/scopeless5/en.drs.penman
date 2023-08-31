@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s6 / win.v.01
+		:Theme (s0 / prize.n.01
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s4 / entity.n.01
+			:Sub (s2 / male.n.02
+				:Name (c2 / "Weinberg"))
+			:Sub (s3 / male.n.02
+				:Name (c3 / "Salam"))
+			:Sub (s5 / male.n.02
+				:Name (c4 / "Glashow")))))

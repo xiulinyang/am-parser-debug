@@ -1,0 +1,16 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s5 / miss.v.05
+				:Agent (s3 / person.n.01
+					:Sub (c2 / "speaker"))
+				:Time (s4 / time.n.08
+					:TSU (c3 / "now"))
+				:Theme (s7 / train.n.01
+					:User (s6 / person.n.01
+						:Sub (c4 / "speaker")))))
+		:member (s2 / hurry.v.01
+			:Theme (s0 / person.n.01
+				:Sub (c0 / "speaker"))
+			:Time (s1 / time.n.08
+				:EQU (c1 / "now")))))

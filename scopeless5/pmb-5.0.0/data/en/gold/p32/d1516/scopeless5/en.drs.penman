@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / eat.v.02
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Luke"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Patient (s4 / sandwich.n.01
+			:Consumer (s3 / male.n.02))))

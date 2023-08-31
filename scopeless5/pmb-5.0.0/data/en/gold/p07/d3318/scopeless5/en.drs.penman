@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:NECESSITY (b2 / "box"
+			:NEGATION (b3 / "box"
+				:member (s5 / late.a.01
+					:Attribute-of (s4 / person.n.01
+						:Sub (c2 / "speaker"))))))
+	:member (s1 / start.v.02
+		:Theme (s0 / concert.n.01)
+		:Time (s2 / time.n.08
+			:TSU (c0 / "now"))
+		:Time (s3 / time.n.08
+			:ClockTime (c1 / "19:00"))))

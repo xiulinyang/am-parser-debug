@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s3 / gold_medal.n.01
+			:Order (c1 / "1")
+			:Theme-of (s5 / win.v.01
+				:Agent (s4 / female.n.02)
+				:Time (s6 / time.n.08
+					:TPR (c2 / "now"))))))

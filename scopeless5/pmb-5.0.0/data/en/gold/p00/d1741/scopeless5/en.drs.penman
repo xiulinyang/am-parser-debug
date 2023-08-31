@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / work.v.03
+		:Theme (s1 / plan.n.01
+			:Creator (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

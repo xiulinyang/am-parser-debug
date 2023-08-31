@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s5 / expand.v.02
+		:Time (s0 / time.n.08
+			:MonthOfYear (c0 / "10")
+			:EQU (s1 / time.n.08
+				:YearOfCentury (c1 / "1995")))
+		:Patient (s3 / plant.n.01
+			:Location (s2 / city.n.01
+				:Name (c2 / "Fuji")))
+		:Time (s4 / time.n.08
+			:TPR (c3 / "now"))))

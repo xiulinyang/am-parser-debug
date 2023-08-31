@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / bang.v.01
+		:Agent (s0 / car.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / entity.n.01)
+		:Patient (s4 / tree.n.01)))

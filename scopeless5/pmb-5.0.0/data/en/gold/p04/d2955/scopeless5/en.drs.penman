@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / arrange.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / maid.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / entity.n.01
+			:Sub (s4 / knife.n.01)
+			:Sub (s6 / fork.n.01))
+		:Destination (s7 / table.n.02)))

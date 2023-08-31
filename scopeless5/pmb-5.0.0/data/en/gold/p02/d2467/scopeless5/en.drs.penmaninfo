@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'tie.v.01')
+('s2', ':Patient', 's0')
+('s0', ':instance', 'boat.n.01')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Co-Patient', 's3')
+('s3', ':instance', 'shore.n.01')
+('s2', ':Instrument', 's4')
+('s4', ':instance', 'cable.n.03')
+tokenized sentence:START The boat was tied to the shore by a cable .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": ["c0", "s1"], "lexical_node": "c0"}, {"token_id": 4, "node_id": "s2"}, {"token_id": 7, "node_id": "s3"}, {"token_id": 10, "node_id": "s4"}]

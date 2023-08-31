@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / play.v.05
+		:Agent (s0 / child.n.01
+			:Quantity (c0 / "+"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / sand.n.01)))

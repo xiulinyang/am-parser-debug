@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / be.v.03
+		:Location (s0 / location.n.01
+			:Name (c0 / "?")
+			:Part-of (s1 / world.n.04))
+		:Theme (s2 / person.n.01
+			:EQU (c1 / "hearer"))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))))

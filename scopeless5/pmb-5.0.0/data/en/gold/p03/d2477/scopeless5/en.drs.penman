@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s0 / beautiful.a.01
+		:Attribute-of (s1 / flower.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

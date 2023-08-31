@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / found.v.01
+		:Theme (s0 / university.n.03
+			:Name (c0 / "University of Milan"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s4 / entity.n.01
+			:Sub (s3 / male.n.02
+				:Name (c2 / "Gian Antonio Maggi"))
+			:Sub (s5 / male.n.02
+				:Name (c3 / "Giulio Vivanti")))))

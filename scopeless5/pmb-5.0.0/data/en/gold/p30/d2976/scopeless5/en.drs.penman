@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / belong.v.01
+		:Theme (s1 / ring.n.08
+			:MadeOf (s0 / gold.n.03))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Pivot (s5 / person.n.01
+			:Role (s6 / mother.n.01
+				:Of (s4 / person.n.01
+					:EQU (c1 / "speaker"))))))

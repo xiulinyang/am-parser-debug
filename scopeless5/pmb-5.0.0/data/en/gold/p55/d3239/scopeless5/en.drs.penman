@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / vie.v.01
+		:Agent (s1 / drug_cartel.n.01
+			:Source (s0 / country.n.02
+				:Name (c0 / "mexico")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s7 / route.n.01
+			:Goal (s6 / traffic.v.01
+				:Theme (s5 / drug.n.01))
+			:Destination (s8 / country.n.02
+				:Name (c2 / "us"))
+			:Attribute (s4 / lucrative.a.01))))

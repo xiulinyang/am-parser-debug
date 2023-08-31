@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / bake.v.02
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Product (s4 / cake.n.03
+			:Attribute (s3 / delicious.a.01))))

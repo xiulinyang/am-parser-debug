@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / translate.v.01
+		:Agent (s0 / person.n.01
+			:Role (s1 / author.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / fairy_tale.n.01)
+		:Destination (s6 / mother_tongue.n.01
+			:Creator (s5 / person.n.01
+				:Sub (c1 / "speaker")))))

@@ -1,0 +1,15 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s6 / have.v.01
+				:Pivot (s5 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Theme (s8 / blanket.n.01
+					:NEQ-of (s7 / blanket.n.01)))))
+	:member (s3 / sensitive.a.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s2 / very.r.01)
+		:Stimulus (s4 / cold.n.02)))

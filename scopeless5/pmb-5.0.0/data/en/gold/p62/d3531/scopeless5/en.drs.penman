@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / play.v.03
+		:Agent (s2 / outfit.n.01
+			:Theme-of (s1 / based.a.02
+				:Location (s0 / city.n.01
+					:Name (c0 / "Seattle"))))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s7 / entity.n.01
+			:Sub (s6 / rock.n.06
+				:Attribute (s5 / indie.a.01))
+			:Sub (s9 / music.n.01
+				:Attribute (s8 / electronic.a.01)))))

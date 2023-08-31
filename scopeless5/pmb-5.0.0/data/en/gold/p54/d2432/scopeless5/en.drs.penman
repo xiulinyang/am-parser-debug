@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / puzzle.v.01
+		:Stimulus (s0 / problem.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s3 / public.n.01)))

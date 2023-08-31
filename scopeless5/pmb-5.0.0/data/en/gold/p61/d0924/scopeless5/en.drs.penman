@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.01
+		:Theme (s0 / country.n.02
+			:Name (c0 / "Russia"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / country.n.02
+			:Attribute (s4 / big.a.01
+				:Degree (s3 / very.r.01)
+				:Value (c2 / "+")))))

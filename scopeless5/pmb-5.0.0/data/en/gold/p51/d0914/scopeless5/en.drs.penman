@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / wear.v.02
+		:Agent (s0 / person.n.01
+			:Role (s1 / policeman.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / gasmask.n.01)))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / change.v.06
+		:Patient (s1 / phone_number.n.01
+			:User (s0 / male.n.02
+				:Name (c0 / "Tom")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

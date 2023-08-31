@@ -1,0 +1,17 @@
+(b0 / "box"
+	:member (s4 / think.v.01
+		:Agent (s1 / person.n.01
+			:Role (s2 / mother.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker")))
+			:Source (s3 / country.n.02
+				:Name (c1 / "Malaysia")))
+		:Time (s5 / time.n.08
+			:EQU (c2 / "now"))
+		:Proposition (b1 / "box"
+			:member (s9 / so-so.a.01
+				:Attribute-of (s7 / horse.n.01
+					:Quantity (s6 / quantity.n.01
+						:EQU (c3 / "3")))
+				:Time (s8 / time.n.08
+					:EQU (c4 / "now"))))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / destroy.v.01
+		:Patient (s0 / entity.n.01
+			:Quantity (c0 / "3/4")
+			:Sub-of (s1 / town.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Causer (s4 / typhoon.n.01)))

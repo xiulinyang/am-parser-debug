@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / come.v.08
+		:Theme (s0 / person.n.01
+			:Quantity (c0 / "+")
+			:Role (s1 / philosopher.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Source (s4 / country.n.02
+			:Name (c2 / "Greece"))))

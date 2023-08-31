@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / read.v.01
+		:Time (s0 / time.n.08
+			:TSU (c0 / "now"))
+		:Experiencer (s1 / person.n.01
+			:Sub (c1 / "speaker"))
+		:Stimulus (s3 / gospel.n.01
+			:Creator (s4 / male.n.02
+				:Name (c2 / "St. John")))))

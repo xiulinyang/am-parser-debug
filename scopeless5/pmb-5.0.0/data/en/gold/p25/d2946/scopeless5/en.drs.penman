@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s5 / catch.v.09
+				:Agent (s4 / person.n.01
+					:EQU (c2 / "hearer"))
+				:Theme (s6 / train.n.01))))
+	:member (s1 / run.v.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Manner (s3 / fast.a.01)))

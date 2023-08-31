@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / meet.v.08
+		:Location (s0 / location.n.01
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s3 / guy.n.01
+			:Sub-of (s2 / person.n.01
+				:EQU (c2 / "hearer")))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / shed.v.02
+		:Source (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / tear.n.01
+			:Attribute (s3 / bitter.a.04))))

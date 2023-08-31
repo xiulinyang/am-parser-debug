@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / come.v.02
+		:Theme (s0 / entity.n.01
+			:Quantity (c0 / "2/3")
+			:Part-of (s1 / person.n.01
+				:Role (s2 / student.n.01)))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s5 / meeting.n.01)))

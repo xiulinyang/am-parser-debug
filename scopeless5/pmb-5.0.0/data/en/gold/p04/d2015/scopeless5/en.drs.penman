@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / gain.v.09
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (s4 / pound.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "13")))))

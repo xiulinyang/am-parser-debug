@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / brush.v.03
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom")
+			:Agent-of (s5 / wash.v.02
+				:Time (s6 / time.n.08
+					:TPR (c2 / "now"))
+				:Patient (s8 / face.n.01
+					:Part-of (s7 / male.n.02))))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / tooth.n.01
+			:Part-of (s3 / male.n.02))))

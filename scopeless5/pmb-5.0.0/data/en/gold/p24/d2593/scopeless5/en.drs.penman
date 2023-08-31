@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / import.v.01
+		:Agent (s1 / company.n.01
+			:Owner (s0 / male.n.02
+				:Name (c0 / "Tom")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / coffee.n.03)
+		:Source (s5 / country.n.02
+			:Name (c2 / "Brazil"))))

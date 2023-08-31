@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / have.v.02
+		:Pivot (s0 / cheese.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / taste.n.01
+			:Attribute (s3 / sharp.a.08))))

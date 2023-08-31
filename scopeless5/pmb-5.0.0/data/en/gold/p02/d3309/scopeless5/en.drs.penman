@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s1 / know.v.01
+		:Experiencer (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s5 / work.v.02
+				:Location (s3 / location.n.01
+					:EQU (c2 / "?"))
+				:Agent (s4 / person.n.01
+					:EQU (c3 / "speaker"))
+				:Time (s6 / time.n.08
+					:EQU (c4 / "now"))))))

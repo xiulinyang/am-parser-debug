@@ -1,0 +1,96 @@
+[ {
+  "instances" : [ "1\tnull\t_\t_\t_\t_\t(b0<root> / box  :member (s2<Ss2>))\t_\t_\t0\tROOT\tfalse\n2\tnull\t_\t_\t_\t_\t(s2<root> / \"old.a.01\"  :Value (s3 / \"measure.n.02\"  :Unit (s4 / \"year.n.01\")  :Quantity (c2 / 30))  :Attribute-of (s0<Ss0>))\t_\t_\t1\tAPP_Ss2\tfalse\n3\tnull\t_\t_\t_\t_\t(s5<root> / \"time.n.08\"  :EQU (c3 / now)  :Time-of (s2<Ss2>))\t_\t_\t2\tMOD_Ss2\tfalse\n4\tnull\t_\t_\t_\t_\t(s5<root> / \"time.n.08\"  :EQU (c3 / now)  :Time-of (s2<Ss2>))\t_\t_\t2\tMOD_Ss2\tfalse\n5\tnull\t_\t_\t_\t_\t(s0<root> / \"person.n.01\"  :EQU (c0 / speaker))\t_\t_\t2\tAPP_Ss0\tfalse\n" ],
+  "name" : "AM tree",
+  "format" : "amtree_string",
+  "type" : "data"
+}, {
+  "instances" : [ "b0!||0-1||1.0 c0|s0!||1-2||1.0 c1|s1!||2-3||1.0 s3|s4!|c2|s2||3-4||1.0 c3!|s5||4-5||1.0" ],
+  "name" : "Alignments",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "instances" : [ "(b0 / box  :member (s2 / \"old.a.01\"  :Time (s1 / \"time.n.08\"  :EQU (c1 / now))  :Value (s3 / \"measure.n.02\"  :Quantity (c2 / 30)  :Unit (s4 / \"year.n.01\"))  :Time (s5 / \"time.n.08\"  :EQU (c3 / now))  :Attribute-of (s0 / \"person.n.01\"  :EQU (c0 / speaker))))" ],
+  "name" : "Gold graph",
+  "format" : "graph_string",
+  "type" : "data"
+}, {
+  "instances" : [ "START I 'm thirty now ." ],
+  "name" : "Sentence",
+  "format" : "string",
+  "type" : "data"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "c1" : 1.0,
+      "s1" : 1.0
+    },
+    "3" : {
+      "s3" : 1.0,
+      "s4" : 1.0,
+      "c2" : 1.0,
+      "s2" : 1.0
+    },
+    "4" : {
+      "c3" : 1.0,
+      "s5" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "0" : 1.0
+    },
+    "1" : {
+      "1" : 1.0
+    },
+    "2" : {
+      "2" : 1.0
+    },
+    "3" : {
+      "3" : 1.0
+    },
+    "4" : {
+      "4" : 1.0
+    }
+  } ],
+  "name2" : "Sentence",
+  "type" : "linker",
+  "name1" : "Alignments"
+}, {
+  "scores" : [ {
+    "0" : {
+      "b0" : 1.0
+    },
+    "1" : {
+      "c0" : 1.0,
+      "s0" : 1.0
+    },
+    "2" : {
+      "c1" : 1.0,
+      "s1" : 1.0
+    },
+    "3" : {
+      "s3" : 1.0,
+      "s4" : 1.0,
+      "c2" : 1.0,
+      "s2" : 1.0
+    },
+    "4" : {
+      "c3" : 1.0,
+      "s5" : 1.0
+    }
+  } ],
+  "name2" : "Gold graph",
+  "type" : "linker",
+  "name1" : "Sentence"
+} ]

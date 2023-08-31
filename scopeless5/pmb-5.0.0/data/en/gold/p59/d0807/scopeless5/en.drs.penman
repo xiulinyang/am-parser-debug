@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / start.v.04
+		:Time (s0 / time.n.08
+			:YearOfCentury (c0 / "1972"))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Part-of (s5 / teach.v.01
+			:Agent (s2 / female.n.02
+				:Name (c1 / "Francine Patterson")
+				:Title (s1 / doctor.n.04))
+			:Theme (s6 / sign_language.n.01)
+			:Recipient (s7 / animal.n.01
+				:Name (c3 / "Koko")))))

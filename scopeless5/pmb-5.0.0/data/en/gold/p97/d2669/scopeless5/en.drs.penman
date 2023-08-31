@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / late.a.02
+		:Attribute-of (s0 / train.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Causer (s3 / entity.n.01
+			:EQU (s4 / accident.n.01))))

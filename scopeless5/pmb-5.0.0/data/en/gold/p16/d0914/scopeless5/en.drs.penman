@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / live.v.01
+		:Theme (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / location.n.01
+			:APX (s4 / frontier.n.02))))

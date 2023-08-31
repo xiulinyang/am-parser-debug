@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / do_away_with.v.01
+		:Agent (s0 / state.n.04
+			:Name (c0 / "America"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / slavery.n.02)
+		:Time (s4 / time.n.08
+			:YearOfCentury (c2 / "1863"))))

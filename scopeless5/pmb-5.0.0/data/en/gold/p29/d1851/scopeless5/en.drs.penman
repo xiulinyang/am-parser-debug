@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s2 / bear.v.02
+		:Patient (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / city.n.01
+			:Name (c2 / "Matsuyama")
+			:LocationOf (s5 / educate.v.01
+				:Recipient s0
+				:Time (s4 / time.n.08
+					:TPR (c3 / "now")))
+			:EQU-of (s6 / city.n.01))))

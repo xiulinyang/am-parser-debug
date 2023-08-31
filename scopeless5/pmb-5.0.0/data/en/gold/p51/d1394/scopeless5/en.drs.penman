@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01
+			:EQU (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s6 / name.n.01
+			:Bearer (s4 / male.n.02
+				:Name (c3 / "Nikki Sixx")
+				:Part-of (s3 / musical_organization.n.01
+					:Name (c2 / "Motley Crue")))
+			:Attribute (s5 / real.a.01))))

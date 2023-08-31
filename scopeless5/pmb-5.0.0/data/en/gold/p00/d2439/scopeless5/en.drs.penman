@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / pass_away.v.01
+		:Patient (s1 / person.n.01
+			:Role (s2 / grandmother.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))))

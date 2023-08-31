@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / inject.v.01
+		:Theme (s1 / substance.n.04
+			:EQU (c0 / "?")
+			:Attribute (s0 / radioactive.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s3 / female.n.02
+			:Name (c2 / "Eda Charlton"))
+		:Time (s5 / time.n.08
+			:YearOfCentury (c3 / "1945"))))

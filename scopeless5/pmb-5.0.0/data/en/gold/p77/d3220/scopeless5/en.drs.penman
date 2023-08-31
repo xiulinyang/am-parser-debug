@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / help.v.01
+		:Agent (s2 / child.n.01
+			:Attribute (s0 / old.a.01
+				:Degree (s1 / more.r.01)))
+		:Time (s4 / time.n.08
+			:TPR (c0 / "now"))
+		:Beneficiary (s7 / child.n.01
+			:Attribute (s5 / young.a.01
+				:Degree (s6 / more.r.01)))))

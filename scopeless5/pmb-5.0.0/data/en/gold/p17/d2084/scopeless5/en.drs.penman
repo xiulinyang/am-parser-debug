@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / destroy.v.01
+		:Causer (s0 / atomic_bomb.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / city.n.01
+			:EQU (s5 / city.n.01
+				:Name (c1 / "Hiroshima"))
+			:Attribute (s3 / entire.a.01))))

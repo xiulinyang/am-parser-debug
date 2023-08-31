@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / write.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Duration (s3 / year.n.01
+			:Quantity (s2 / quantity.n.01
+				:EQU (c2 / "3")))
+		:Result (s5 / book.n.01)))

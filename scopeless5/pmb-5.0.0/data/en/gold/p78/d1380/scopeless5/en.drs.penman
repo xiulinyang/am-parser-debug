@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / discover.v.01
+		:Agent (s1 / person.n.01
+			:Name (c1 / "?")
+			:Source (s0 / country.n.02
+				:Name (c0 / "spain"))
+			:Role (s2 / explorer.n.01))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s5 / river.n.01
+			:Name (c3 / "Mississippi River"))))

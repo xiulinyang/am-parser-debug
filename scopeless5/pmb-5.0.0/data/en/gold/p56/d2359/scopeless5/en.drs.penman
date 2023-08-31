@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / love.v.01
+			:Experiencer (s5 / female.n.02)
+			:Time (s7 / time.n.08
+				:EQU (c2 / "now"))
+			:Stimulus (s8 / cat.n.01)))
+	:member (s2 / be.v.06
+		:Theme (s1 / name.n.01
+			:User (s0 / female.n.02))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Co-Theme (s4 / name.n.01
+			:EQU (c1 / "Hope"))))

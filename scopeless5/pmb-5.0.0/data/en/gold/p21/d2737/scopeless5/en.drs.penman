@@ -1,0 +1,17 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s1 / come.v.01
+			:Theme (s0 / person.n.01)
+			:Time (s2 / time.n.08
+				:EQU (c0 / "now")))
+		:NEGATION (b2 / "box"
+			:member (s4 / say.v.01
+				:Agent (s3 / person.n.01
+					:EQU (c1 / "hearer"))
+				:Proposition (b3 / "box"
+					:member (s7 / away.a.01
+						:Theme (s5 / person.n.01
+							:EQU (c2 / "speaker"))
+						:Time (s6 / time.n.08
+							:EQU (c3 / "now"))
+						:Source (s8 / home.n.01)))))))

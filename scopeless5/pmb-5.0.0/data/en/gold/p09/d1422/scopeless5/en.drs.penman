@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / buy.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s5 / entity.n.01
+			:Sub (s4 / pound.n.01
+				:Quantity (s3 / quantity.n.01
+					:EQU (c1 / "2")))
+			:Sub (s6 / butter.n.01))))

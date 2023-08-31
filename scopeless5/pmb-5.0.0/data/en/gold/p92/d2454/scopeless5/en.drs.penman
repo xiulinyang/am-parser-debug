@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / be.v.13
+		:Value (s0 / measure.n.02
+			:Unit (c0 / "?")
+			:Quantity (c1 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c2 / "now"))
+		:Theme (s4 / beer.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c3 / "1")))))

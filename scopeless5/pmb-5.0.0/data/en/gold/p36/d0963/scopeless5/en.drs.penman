@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / be.v.08
+		:Theme (s1 / male.n.02
+			:Name (c0 / "Rosario Ibarra")
+			:Title (s0 / senator.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / person.n.01
+			:Role (s6 / militant.n.01
+				:Theme (s4 / human_right.n.01)))))

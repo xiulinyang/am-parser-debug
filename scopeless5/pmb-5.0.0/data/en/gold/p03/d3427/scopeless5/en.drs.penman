@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / follow.v.01
+		:Agent (s0 / hunting_dog.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / scent.n.02
+			:Creator (s4 / fox.n.01))))

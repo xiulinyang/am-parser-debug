@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / buy.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / entity.n.01)
+		:Location (s6 / place.n.02
+			:User (s4 / person.n.01
+				:Role (s5 / butcher.n.01)))))

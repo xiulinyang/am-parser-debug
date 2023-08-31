@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / turn.v.03
+		:Patient (s0 / person.n.01
+			:Role (s1 / princess.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Result (s4 / swan.n.01)
+		:Agent (s6 / person.n.01
+			:Role (s7 / sorcerer.n.01)
+			:Attribute (s5 / evil.a.01))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / paint.v.01
+			:Agent (s3 / female.n.02
+				:Name (c2 / "Meg"))
+			:Time (s4 / time.n.08
+				:TPR (c3 / "now"))))
+	:member (s2 / read.v.01
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mayuko"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))))

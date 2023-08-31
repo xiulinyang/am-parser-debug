@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / paint.v.01
+		:Result (s0 / painting.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Time (s3 / century.n.01
+			:Order (c1 / "21"))))

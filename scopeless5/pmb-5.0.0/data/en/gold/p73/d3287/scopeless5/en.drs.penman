@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s5 / well-known.a.01
+		:Time (s4 / time.n.08
+			:EQU (c2 / "now"))
+		:Proposition (b1 / "box"
+			:member (s1 / grow_up.v.01
+				:Patient (s0 / male.n.02)
+				:Time (s2 / time.n.08
+					:TPR (c0 / "now"))
+				:Location (s3 / country.n.02
+					:Name (c1 / "America"))))))

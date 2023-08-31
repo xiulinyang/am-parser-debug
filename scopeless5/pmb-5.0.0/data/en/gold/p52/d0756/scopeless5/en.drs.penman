@@ -1,0 +1,39 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s21 / occupy.v.05
+			:Agent (s19 / person.n.01
+				:Source (s20 / country.n.02
+					:Name (c10 / "germany")))
+			:TIN (s15 / join.v.01
+				:Agent (s14 / female.n.02)
+				:Time (s16 / time.n.08
+					:TPR (c8 / "now"))
+				:Theme (s18 / resistance.n.07
+					:Location (s17 / country.n.02
+						:Name (c9 / "French"))))
+			:Time (s22 / time.n.08
+				:TPR (c11 / "now"))
+			:Patient (s23 / city.n.01
+				:Name (c12 / "Paris"))))
+	:member (s8 / die.v.01
+		:Patient (s0 / female.n.02
+			:Name (c0 / "Genevieve de Gaulle-Anthonics")
+			:Attribute (s1 / old.a.01
+				:Value (s2 / measure.n.02
+					:Quantity (c1 / "81")
+					:Unit (s3 / year.n.01)))
+			:EQU (s4 / person.n.01
+				:Role (s5 / niece.n.01
+					:Of (s7 / male.n.02
+						:Name (c2 / "Charles de Gaulle")
+						:Attribute (s6 / late.a.04)))))
+		:Time (s9 / time.n.08
+			:TPR (c3 / "now"))
+		:Location (s10 / city.n.01
+			:Name (c4 / "Paris"))
+		:Time (s12 / time.n.08
+			:DayOfMonth (c6 / "14")
+			:EQU (s13 / time.n.08
+				:YearOfCentury (c7 / "2002"))
+			:EQU-of (s11 / time.n.08
+				:MonthOfYear (c5 / "2")))))

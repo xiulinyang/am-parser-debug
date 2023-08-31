@@ -1,0 +1,15 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / want.v.01
+			:Pivot (s4 / person.n.01
+				:EQU (c2 / "speaker"))
+			:Time (s6 / time.n.08
+				:EQU (c3 / "now"))
+			:Theme (s8 / pen.n.01
+				:Attribute (s7 / new.a.01))))
+	:member (s3 / old.a.02
+		:Attribute-of (s1 / pen.n.01
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

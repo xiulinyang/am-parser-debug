@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / disappear.v.02
+		:Patient (s0 / ice.n.02
+			:Part-of (s1 / sea.n.01
+				:Name (c0 / "Arctic Sea")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

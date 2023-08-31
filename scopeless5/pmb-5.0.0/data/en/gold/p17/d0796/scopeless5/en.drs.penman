@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / shut_down.v.01
+		:Patient (s0 / computer_system.n.01)
+		:Time (s2 / time.n.08
+			:TSU (c0 / "now"))
+		:Manner (s3 / automatically.r.02)
+		:Time (s4 / time.n.08
+			:ClockTime (c1 / "20:00"))))

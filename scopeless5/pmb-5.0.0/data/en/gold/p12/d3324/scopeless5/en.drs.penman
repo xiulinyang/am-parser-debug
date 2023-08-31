@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / become.v.01
+		:Manner (s0 / all_of_a_sudden.r.02)
+		:Patient (s1 / sky.n.01)
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Result (s4 / overcast.a.01
+			:Attribute-of s1)))

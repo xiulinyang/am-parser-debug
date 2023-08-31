@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'leave.v.04')
+('s2', ':Theme', 's0')
+('s0', ':instance', 'elephant.n.01')
+('s0', ':Quantity', 'c0')
+('c0', ':instance', '"?"')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':EQU', 'c1')
+('c1', ':instance', '"now"')
+('s2', ':Location', 's3')
+('s3', ':instance', 'continent.n.01')
+('s3', ':Name', 'c2')
+('c2', ':instance', '"Africa"')
+tokenized sentence:START How many elephants are left in Africa ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 3, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 4, "node_id": ["c1", "s1"], "lexical_node": "s1"}, {"token_id": 5, "node_id": "s2"}, {"token_id": 7, "node_id": ["c2", "s3"], "lexical_node": "c2"}]

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / be.v.03
+		:Theme (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / roof.n.01)
+		:Co-Theme (s5 / electric_guitar.n.01
+			:User (s4 / male.n.02))))

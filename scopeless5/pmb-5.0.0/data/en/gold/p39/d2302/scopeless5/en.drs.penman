@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / set.v.09
+		:Theme (s0 / part.n.02
+			:Order (c0 / "1")
+			:Part-of (s1 / book.n.01))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s4 / city.n.01
+			:Name (c2 / "Florence"))))

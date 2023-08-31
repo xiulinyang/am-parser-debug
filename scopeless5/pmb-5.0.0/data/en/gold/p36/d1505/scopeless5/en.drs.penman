@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / spread.v.10
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / butter.n.01)
+		:Destination (s4 / bread.n.01)))

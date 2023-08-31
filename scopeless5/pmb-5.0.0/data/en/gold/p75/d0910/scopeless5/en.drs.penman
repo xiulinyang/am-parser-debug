@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / pass_away.v.01
+		:Patient (s1 / female.n.02
+			:Name (c0 / "Elizabeth I")
+			:Title (s0 / queen.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s4 / time.n.08
+			:YearOfCentury (c2 / "1603"))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / high.a.02
+		:Attribute-of (s0 / mountain.n.01
+			:Location (s1 / range.n.04
+				:Name (c0 / "Himalayas")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s4 / more.r.01
+			:Theme s0
+			:Co-Theme (s5 / mountain.n.01
+				:Location (s6 / range.n.04
+					:Name (c2 / "Andes"))))))

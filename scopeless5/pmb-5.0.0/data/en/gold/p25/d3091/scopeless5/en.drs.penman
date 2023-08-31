@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / kill.v.01
+		:Patient (s1 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "13"))
+			:Source (s2 / country.n.02
+				:Name (c1 / "america")))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))))

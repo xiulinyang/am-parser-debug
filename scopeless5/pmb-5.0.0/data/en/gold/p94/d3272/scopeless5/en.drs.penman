@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s5 / entity.n.01
+			:EQU (s1 / be.v.08
+				:Theme (s0 / male.n.02)
+				:Time (s2 / time.n.08
+					:EQU (c0 / "now"))
+				:Co-Theme (s3 / person.n.01
+					:Role (s4 / teacher.n.01)))
+			:Co-Theme (s6 / person.n.01
+				:Role (s7 / writer.n.01)))))

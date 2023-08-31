@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / adore.v.01
+		:Experiencer (s1 / person.n.01
+			:Role (s2 / parent.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "hearer"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s5 / person.n.01
+			:EQU (c2 / "speaker"))))

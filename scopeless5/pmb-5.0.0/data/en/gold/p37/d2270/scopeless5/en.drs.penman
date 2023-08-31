@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / perspire.v.01
+		:Source (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / location.n.01
+			:SZN (s4 / arm.n.01))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / used_to.a.01
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / mood.n.01
+			:Creator (s3 / male.n.02
+				:Name (c2 / "Tom")))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / grow_up.v.01
+		:Location (s0 / location.n.01
+			:Name (c0 / "?")
+			:Part-of (s1 / country.n.02
+				:Name (c1 / "Austria")))
+		:Time (s2 / time.n.08
+			:TPR (c2 / "now"))
+		:Patient (s3 / person.n.01
+			:EQU (c3 / "hearer"))))

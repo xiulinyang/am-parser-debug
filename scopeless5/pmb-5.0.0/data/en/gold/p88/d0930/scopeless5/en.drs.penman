@@ -1,0 +1,4 @@
+(b0 / "box"
+	:member (s0 / state.n.04
+		:Name (c0 / "India")
+		:EQU (s1 / developing_country.n.01)))

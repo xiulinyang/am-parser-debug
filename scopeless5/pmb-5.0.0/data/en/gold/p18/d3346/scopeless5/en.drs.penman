@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / head.v.07
+		:Theme (s1 / name.n.01
+			:User (s0 / male.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / list.n.01)))

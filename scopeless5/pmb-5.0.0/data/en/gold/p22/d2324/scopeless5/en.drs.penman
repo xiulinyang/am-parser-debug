@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s2 / stoned.a.01
+		:Experiencer (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

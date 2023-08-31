@@ -1,0 +1,14 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s3 / stop.v.01
+			:Theme (s1 / train.n.01)
+			:Time (s2 / time.n.08
+				:EQU (c0 / "now"))
+			:Location (s4 / location.n.01
+				:SY2 (s6 / entity.n.01
+					:Sub (s5 / station.n.01
+						:Name (c1 / "Shibuya"))
+					:Sub (s7 / station.n.01
+						:Name (c2 / "Naka-Meguro"))))))
+	:member (s0 / express.a.02
+		:Attribute-of s1))

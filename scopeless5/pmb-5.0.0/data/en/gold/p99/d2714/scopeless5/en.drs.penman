@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / cook.v.02
+		:Agent (s1 / person.n.01
+			:Role (s2 / sister.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Beneficiary (s5 / person.n.01
+			:Sub (c2 / "speaker"))
+		:Product (s7 / dish.n.02
+			:Attribute (s6 / delicious.a.01))))

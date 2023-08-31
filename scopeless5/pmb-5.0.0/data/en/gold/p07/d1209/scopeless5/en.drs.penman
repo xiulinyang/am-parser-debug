@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / cover.v.02
+		:Theme (s1 / forest.n.01
+			:Attribute (s0 / dense.a.02))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Destination (s4 / range.n.04
+			:Name (c1 / "Carpathians"))))

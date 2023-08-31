@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / present.a.02
+		:Attribute-of (s2 / person.n.01
+			:Quantity (s0 / quantity.n.01
+				:MOR (s1 / quantity.n.01
+					:EQU (c0 / "100"))))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s5 / party.n.04)))

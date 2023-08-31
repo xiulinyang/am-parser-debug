@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / reserved.a.01
+		:Attribute-of (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Causer (s3 / nature.n.04)))

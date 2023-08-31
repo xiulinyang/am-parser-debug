@@ -1,0 +1,13 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s5 / tall.a.01
+			:Attribute-of (s1 / person.n.01
+				:Role (s2 / brother.n.01
+					:Of (s0 / person.n.01
+						:EQU (c0 / "speaker"))))
+			:Time (s3 / time.n.08
+				:EQU (c1 / "now"))
+			:Degree (s4 / as.r.01
+				:Theme s1
+				:Co-Theme (s6 / male.n.02
+					:Name (c2 / "Jiro"))))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / emerge.v.02
+		:Theme (s1 / political_party.n.01
+			:Quantity (c0 / "+")
+			:Attribute (s0 / new.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

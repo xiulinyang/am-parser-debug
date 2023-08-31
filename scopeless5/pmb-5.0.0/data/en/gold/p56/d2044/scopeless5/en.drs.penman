@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s1 / think.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s8 / cute.a.01
+				:Attribute-of (s4 / person.n.01
+					:Role (s5 / girlfriend.n.02
+						:Of (s3 / person.n.01
+							:EQU (c2 / "speaker"))))
+				:Time (s6 / time.n.08
+					:EQU (c3 / "now"))
+				:Degree (s7 / kind_of.r.01)))))

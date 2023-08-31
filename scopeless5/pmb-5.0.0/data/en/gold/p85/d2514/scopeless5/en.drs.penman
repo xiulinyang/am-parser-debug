@@ -1,0 +1,17 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:CONTINUATION (b2 / "box"
+			:member (s6 / be.v.06
+				:Theme (s5 / entity.n.01)
+				:Time (s7 / time.n.08
+					:EQU (c3 / "now"))
+				:Co-Theme (s8 / name.n.01
+					:EQU (c4 / "Ricardo"))))
+		:member (s2 / be.v.06
+			:Theme (s1 / name.n.01
+				:Bearer (s0 / person.n.01
+					:EQU (c0 / "speaker")))
+			:Time (s3 / time.n.08
+				:EQU (c1 / "now"))
+			:Co-Theme (s4 / name.n.01
+				:EQU (c2 / "you")))))

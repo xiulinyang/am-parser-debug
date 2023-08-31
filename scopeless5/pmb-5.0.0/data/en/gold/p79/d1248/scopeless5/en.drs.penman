@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / defeat.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Agent (s4 / female.n.02
+			:Name (c2 / "Iva Majoli")
+			:Source (s3 / country.n.02
+				:Name (c1 / "croatia")))
+		:Theme (s6 / set.n.08
+			:Quantity (s5 / quantity.n.01
+				:EQU (c3 / "2")))))

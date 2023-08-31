@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'swim.v.01')
+('s1', ':Theme', 's0')
+('s0', ':instance', 'male.n.02')
+('s0', ':Name', 'c0')
+('c0', ':instance', '"Tom"')
+('s1', ':Time', 's2')
+('s2', ':instance', 'time.n.08')
+('s2', ':TPR', 'c1')
+('c1', ':instance', '"now"')
+tokenized sentence:START Tom swam .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "c0"}, {"token_id": 2, "node_id": ["c1", "s2", "s1"], "lexical_node": "s1"}]

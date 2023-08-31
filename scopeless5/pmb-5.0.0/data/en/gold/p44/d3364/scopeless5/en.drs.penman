@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / paint.v.02
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / gate.n.01)
+		:Result (s4 / blue.a.01
+			:Colour-of s3)))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / collapse.v.01
+		:Patient (s1 / market.n.01
+			:Location (s0 / country.n.02
+				:Name (c0 / "czech republic")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))))

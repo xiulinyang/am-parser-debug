@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s0 / event.v.01
+		:Participant (s1 / news.n.02
+			:Topic (s3 / kidnapping.n.01
+				:Theme (s2 / male.n.02
+					:Name (c0 / "Reemtsma"))))))

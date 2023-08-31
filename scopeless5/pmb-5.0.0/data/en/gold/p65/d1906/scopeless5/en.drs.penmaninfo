@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'bear.v.02')
+('s2', ':Patient', 's0')
+('s0', ':instance', 'person.n.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"speaker"')
+('s2', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':TPR', 'c1')
+('c1', ':instance', '"now"')
+('s2', ':Time', 's3')
+('s3', ':instance', 'time.n.08')
+('s3', ':YearOfCentury', 'c2')
+('c2', ':instance', '"1988"')
+tokenized sentence:START I was born in 1988 .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 2, "node_id": ["c1", "s1"], "lexical_node": "c1"}, {"token_id": 3, "node_id": "s2"}, {"token_id": 5, "node_id": ["c2", "s3"], "lexical_node": "c2"}]

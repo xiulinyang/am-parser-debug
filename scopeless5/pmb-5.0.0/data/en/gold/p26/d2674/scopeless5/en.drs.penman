@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / know.v.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Proposition (b1 / "box"
+			:member (s5 / unhealthy.a.01
+				:Attribute-of (s3 / entity.n.01)
+				:Time (s4 / time.n.08
+					:TPR (c2 / "now"))))))

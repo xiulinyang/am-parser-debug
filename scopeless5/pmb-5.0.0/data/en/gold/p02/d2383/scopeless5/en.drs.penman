@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / construct.v.01
+		:Result (s0 / railroad.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / town.n.01)))

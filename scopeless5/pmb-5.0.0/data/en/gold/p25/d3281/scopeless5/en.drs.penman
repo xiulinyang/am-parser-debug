@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / look.v.02
+		:Theme (s1 / person.n.01
+			:Role (s2 / wife.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Attribute (s5 / surprised.a.01
+			:Attribute-of s1)))

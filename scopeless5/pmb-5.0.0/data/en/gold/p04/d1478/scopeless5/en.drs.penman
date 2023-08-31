@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s2 / die.v.01
+		:Patient (s1 / parrot.n.01
+			:Owner (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s4 / time.n.08
+			:TIN (s6 / day.n.03
+				:TAB (s5 / day.n.03
+					:TCT (c2 / "now"))))))

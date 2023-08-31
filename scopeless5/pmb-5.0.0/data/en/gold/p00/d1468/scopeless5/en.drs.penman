@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / die.v.01
+		:Time (s0 / time.n.08
+			:TSU (c0 / "now"))
+		:Patient (s1 / male.n.02
+			:Name (c1 / "Tom"))))

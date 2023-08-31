@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / belong.v.05
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Tony Blair"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Pivot (s3 / party.n.01
+			:Name (c2 / "Labor Party"))))

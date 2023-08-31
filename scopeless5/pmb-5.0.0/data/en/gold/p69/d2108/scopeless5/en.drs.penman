@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / abound.v.01
+		:Location (s0 / resort_area.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / person.n.01
+			:Role (s4 / tourist.n.01))))

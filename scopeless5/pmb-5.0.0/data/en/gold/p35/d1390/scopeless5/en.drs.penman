@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / take_place.v.01
+		:Theme (s0 / carjacking.n.01
+			:Quantity (c0 / "?"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:EQU (s3 / entity.n.01)
+		:Location (s4 / city.n.01
+			:Name (c2 / "Los Angeles"))
+		:Time (s5 / time.n.08
+			:YearOfCentury (c3 / "1991"))))

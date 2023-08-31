@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / break_out.v.01
+		:Manner (s0 / all_of_a_sudden.r.02)
+		:Theme (s1 / fire.n.01)
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s4 / movie_theater.n.01)))

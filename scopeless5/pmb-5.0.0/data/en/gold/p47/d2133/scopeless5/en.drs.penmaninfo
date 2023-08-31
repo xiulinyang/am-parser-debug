@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':NEGATION', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':NEGATION', 'b2')
+('b2', ':instance', '"box"')
+('b2', ':member', 's2')
+('s2', ':instance', 'terra_incognita.n.03')
+('s2', ':EQU', 's0')
+('s0', ':instance', 'android.n.01')
+('s2', ':EQU', 's1')
+('s1', ':instance', 'robot.n.01')
+tokenized sentence:START Every android is a robot .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["b1", "b2"], "lexical_node": "b1"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 5, "node_id": "s1"}, {"token_id": 3, "node_id": "s2"}]

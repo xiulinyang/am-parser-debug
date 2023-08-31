@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / spy.v.02
+		:Experiencer (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s4 / person.n.01
+			:Role (s5 / roommate.n.01
+				:Of (s3 / male.n.02)))))

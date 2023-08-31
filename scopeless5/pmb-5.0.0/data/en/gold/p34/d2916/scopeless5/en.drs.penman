@@ -1,0 +1,7 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s1 / have.v.02
+			:Pivot (s0 / car.n.01)
+			:Time (s2 / time.n.08
+				:EQU (c0 / "now"))
+			:Theme (s3 / air_conditioning.n.01))))

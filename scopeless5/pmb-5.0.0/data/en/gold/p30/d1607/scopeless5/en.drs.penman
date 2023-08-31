@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / sink.v.02
+		:Agent (s0 / submarine.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / entity.n.01
+			:Quantity (c1 / "+")
+			:EQU (s4 / ship.n.01))))

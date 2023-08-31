@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / busy.a.01
+		:Time (s0 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute-of (s1 / male.n.02
+			:Name (c1 / "Tom"))))

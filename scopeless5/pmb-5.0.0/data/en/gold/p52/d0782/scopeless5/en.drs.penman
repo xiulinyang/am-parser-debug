@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s5 / join.v.01
+				:Agent (s4 / person.n.01
+					:EQU (c2 / "speaker"))
+				:Theme (s6 / baseball_team.n.01))))
+	:member (s1 / be.v.01
+		:Theme (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Co-Theme (s3 / boy.n.01)))

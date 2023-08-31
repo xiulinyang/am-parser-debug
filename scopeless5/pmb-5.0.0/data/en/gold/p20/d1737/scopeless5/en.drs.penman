@@ -1,0 +1,18 @@
+(b0 / "box"
+	:member (s7 / old.a.01
+		:Attribute-of (s5 / person.n.01
+			:EQU (c4 / "speaker"))
+		:TIN (s1 / move.v.01
+			:Theme (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Time (s2 / time.n.08
+				:TPR (c1 / "now"))
+			:Destination (s3 / country.n.02
+				:Name (c2 / "England"))
+			:Source (s4 / country.n.02
+				:Name (c3 / "Germany")))
+		:Time (s6 / time.n.08
+			:TPR (c5 / "now"))
+		:Value (s8 / measure.n.02
+			:Quantity (c6 / "9")
+			:Unit (s9 / year.n.01))))

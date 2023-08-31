@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / use.v.01
+		:Instrument (s0 / robot.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / find.v.01
+			:Agent s0
+			:Theme (s5 / person.n.01
+				:Role (s6 / victim.n.01)
+				:Attribute (s4 / missing.a.01)))))

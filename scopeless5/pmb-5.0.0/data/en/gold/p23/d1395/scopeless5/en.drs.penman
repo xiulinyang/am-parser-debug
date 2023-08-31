@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / weigh.v.01
+		:Value (s0 / measure.n.02
+			:Unit (c0 / "?")
+			:Quantity (c1 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s2 / female.n.02
+			:Name (c3 / "Marilyn Monroe"))))

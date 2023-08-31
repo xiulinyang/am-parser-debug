@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / stand.v.03
+		:Theme (s0 / thermometer.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Value (s4 / degree_celsius.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c1 / "15")))))

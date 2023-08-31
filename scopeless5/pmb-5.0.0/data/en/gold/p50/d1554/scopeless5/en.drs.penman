@@ -1,0 +1,4 @@
+(b0 / "box"
+	:member (s0 / be.v.01
+		:Theme (s1 / entity.n.01)
+		:Co-Theme (s2 / hype.n.01)))

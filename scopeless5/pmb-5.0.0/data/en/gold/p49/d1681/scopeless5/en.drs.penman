@@ -1,0 +1,16 @@
+(b0 / "box"
+	:member (s4 / go.v.01
+		:Time (s1 / time.n.08
+			:DayOfMonth (c1 / "3")
+			:EQU-of (s0 / time.n.08
+				:MonthOfYear (c0 / "9")))
+		:Theme (s2 / person.n.01
+			:EQU (c2 / "speaker"))
+		:Time (s3 / time.n.08
+			:TSU (c3 / "now"))
+		:Source (s5 / city.n.01
+			:Name (c4 / "Los Angeles"))
+		:Destination (s6 / city.n.01
+			:Name (c5 / "Seoul"))
+		:Co-Theme (s7 / person.n.01
+			:Role (s8 / friend.n.01))))

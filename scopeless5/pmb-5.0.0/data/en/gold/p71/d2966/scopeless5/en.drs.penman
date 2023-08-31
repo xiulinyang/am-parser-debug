@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:member (s4 / eat.v.01
+				:Agent (s3 / person.n.01
+					:EQU (c2 / "hearer"))
+				:Patient (s5 / bread.n.01))))
+	:member (s2 / hungry.a.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

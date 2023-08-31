@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / like.v.02
+		:Experiencer (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s3 / vanilla_ice_cream.n.01)))

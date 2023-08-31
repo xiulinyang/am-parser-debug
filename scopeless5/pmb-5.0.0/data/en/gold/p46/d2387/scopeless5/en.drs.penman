@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / freak_out.v.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now")))
+	:member (s3 / start.v.02
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Part-of (s5 / scream.v.01
+			:Agent s0)))

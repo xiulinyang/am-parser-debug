@@ -1,0 +1,6 @@
+subcorpus: SICK
+source: http://clic.cimec.unitn.it/composes/sick.html
+problems: p4221, p4223
+inferences: entailment (1), neutral (1)
+splits: train (2)
+initial_corpora: SEMEVAL (2)

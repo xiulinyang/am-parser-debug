@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / choose.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / dress.n.01
+			:Colour (s3 / red.a.01))))

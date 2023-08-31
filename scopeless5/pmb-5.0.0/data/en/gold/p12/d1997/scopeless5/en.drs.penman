@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / bang.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s3 / table.n.02)
+		:Instrument (s5 / fist.n.01
+			:Part-of (s4 / female.n.02))))

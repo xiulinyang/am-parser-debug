@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / take_place.v.01
+		:Theme (s1 / dinner.n.01
+			:Attribute (s0 / official.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:EQU (s4 / entity.n.01)
+		:Location (s5 / house.n.01
+			:Name (c1 / "White House"))))

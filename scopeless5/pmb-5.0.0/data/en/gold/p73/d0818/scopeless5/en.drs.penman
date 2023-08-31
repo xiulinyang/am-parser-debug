@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / repair.v.01
+		:Beneficiary (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s3 / personal_computer.n.01
+			:User (s2 / person.n.01
+				:EQU (c2 / "speaker")))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / burn.v.01
+		:Patient (s0 / city.n.01
+			:Name (c0 / "Rome"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))))

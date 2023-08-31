@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / encourage.v.02
+		:Recipient (s0 / female.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Causer (s3 / news.n.04)))

@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'live.v.01')
+('s2', ':Time', 's0')
+('s0', ':instance', 'time.n.08')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Theme', 's1')
+('s1', ':instance', 'penguin.n.01')
+('s2', ':Location', 's3')
+('s3', ':instance', 'geographical_area.n.01')
+('s3', ':Name', 'c1')
+('c1', ':instance', '"Arctic"')
+tokenized sentence:START Do penguins live in the Arctic ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "c0"}, {"token_id": 2, "node_id": "s1"}, {"token_id": 3, "node_id": "s2"}, {"token_id": 6, "node_id": ["s3", "c1"], "lexical_node": "c1"}]

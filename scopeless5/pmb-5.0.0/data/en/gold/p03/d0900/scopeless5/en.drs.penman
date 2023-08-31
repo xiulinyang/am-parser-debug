@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / suffer.v.02
+		:Experiencer (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Stimulus (s4 / disease.n.01
+			:Attribute (s3 / contagious.a.01))))

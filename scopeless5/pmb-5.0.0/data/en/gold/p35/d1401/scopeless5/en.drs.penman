@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / mop.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Source (s4 / room.n.01
+			:User (s3 / person.n.01
+				:EQU (c2 / "speaker")))))

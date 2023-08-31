@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / afraid.a.01
+		:Experiencer (s0 / girl.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Stimulus (s4 / shadow.n.01
+			:Creator (s3 / female.n.02))))

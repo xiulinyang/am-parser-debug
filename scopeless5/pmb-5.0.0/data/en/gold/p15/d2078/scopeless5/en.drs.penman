@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / land.v.02
+		:Theme (s0 / vehicle.n.01
+			:Name (c0 / "Curiosity"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s3 / planet.n.03
+			:Name (c2 / "Mars"))))

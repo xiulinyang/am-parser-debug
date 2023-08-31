@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / play.v.01
+		:Agent (s0 / child.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / frisbee.n.01)
+		:Location (s4 / location.n.01
+			:APX (s5 / pond.n.01))))

@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / steal.v.01
+		:Beneficiary (s0 / male.n.02)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / car.n.01
+			:User (s2 / male.n.02))
+		:Location (s5 / parking_lot.n.01)))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / make.v.02
+		:Agent (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Patient (s3 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Result (s5 / happy.a.01
+			:Experiencer s3
+			:Degree (s4 / kind_of.r.01))))

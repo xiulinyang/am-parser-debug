@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / draw.v.13
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Asset (s3 / dollar.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c1 / "100")))
+		:Source (s6 / account.n.03
+			:User (s5 / male.n.02))))

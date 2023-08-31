@@ -1,0 +1,15 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'devour.v.04')
+('s2', ':Agent', 's1')
+('s1', ':instance', 'man.n.01')
+('s1', ':Attribute', 's0')
+('s0', ':instance', 'starving.a.01')
+('s2', ':Time', 's3')
+('s3', ':instance', 'time.n.08')
+('s3', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+('s2', ':Patient', 's4')
+('s4', ':instance', 'food.n.01')
+tokenized sentence:START The starving man devoured the food .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 4, "node_id": ["s3", "c0", "s2"], "lexical_node": "s2"}, {"token_id": 6, "node_id": "s4"}]

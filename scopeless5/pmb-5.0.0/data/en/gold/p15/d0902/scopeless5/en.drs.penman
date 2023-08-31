@@ -1,0 +1,14 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s4 / plan.v.01
+			:Agent (s3 / person.n.01
+				:EQU (c1 / "speaker"))
+			:Time (s5 / time.n.08
+				:EQU (c2 / "now"))
+			:Topic (s6 / ignore.v.02
+				:Agent s3
+				:Theme (s7 / entity.n.01))))
+	:member (s1 / ring.v.01
+		:Theme (s0 / phone.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))))

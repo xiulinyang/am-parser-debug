@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / sell.v.01
+				:Agent (s0 / shop.n.01)
+				:Theme (s1 / entity.n.01
+					:Instance-of (s2 / bric-a-brac.n.01))
+				:Time (s4 / time.n.08
+					:EQU (c0 / "now"))))))

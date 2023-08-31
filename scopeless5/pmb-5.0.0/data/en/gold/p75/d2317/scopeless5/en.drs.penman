@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / read.v.01
+		:Experiencer (s0 / male.n.02)
+		:Manner (s1 / occasionally.r.01)
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Stimulus (s4 / detective_novel.n.01)))

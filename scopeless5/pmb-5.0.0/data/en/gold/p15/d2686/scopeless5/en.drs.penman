@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / run_over.v.01
+		:Patient (s1 / cat.n.01
+			:Attribute (s0 / poor.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s4 / truck.n.01)))

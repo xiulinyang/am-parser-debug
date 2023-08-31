@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s4 / itchy.a.02
+		:Attribute-of (s1 / scalp.n.01
+			:Part-of (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Degree (s3 / very.r.01)))

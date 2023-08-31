@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / take.v.09
+		:Agent (s0 / person.n.01
+			:Role (s1 / student.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / cable_car.n.01)))

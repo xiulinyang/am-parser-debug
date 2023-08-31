@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s6 / drink.v.01
+			:Agent (s0 / person.n.01
+				:Role (s1 / guest.n.01))
+			:Time (s5 / time.n.08
+				:EQU (c1 / "now"))
+			:Patient (s7 / wine.n.01)))
+	:member (s3 / drink.v.01
+		:Agent s0
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Patient (s4 / beer.n.01)))

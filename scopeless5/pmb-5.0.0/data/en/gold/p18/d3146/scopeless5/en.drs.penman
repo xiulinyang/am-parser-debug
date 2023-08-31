@@ -1,0 +1,17 @@
+(b0 / "box"
+	:member (s3 / be.v.02
+		:Theme (s2 / name.n.01
+			:Bearer (s0 / male.n.02
+				:Name (c0 / "Roger Vercel")
+				:Theme-of (s6 / be.v.08
+					:Time (s7 / time.n.08
+						:EQU (c3 / "now"))
+					:Co-Theme (s9 / person.n.01
+						:Source (s8 / country.n.02
+							:Name (c4 / "france"))
+						:Role (s10 / writer.n.01))))
+			:Attribute (s1 / true.a.01))
+		:Time (s4 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / name.n.01
+			:EQU (c2 / "Roger Crétin"))))

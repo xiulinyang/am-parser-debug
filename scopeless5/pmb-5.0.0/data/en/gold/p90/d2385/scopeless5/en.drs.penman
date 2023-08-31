@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / look.v.02
+		:Theme (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute (s4 / sick.a.01
+			:Attribute-of s0
+			:Degree (s3 / very.r.01))))

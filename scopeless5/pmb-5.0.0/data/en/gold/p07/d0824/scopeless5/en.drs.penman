@@ -1,0 +1,16 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:NEGATION (b3 / "box"
+				:member (s7 / frozen.a.05
+					:Attribute-of (s8 / vegetable.n.01
+						:Theme-of (s6 / entity.n.01
+							:EQU (s2 / buy.v.01
+								:Agent (s1 / person.n.01
+									:EQU (c0 / "speaker"))
+								:Time (s3 / time.n.08
+									:EQU (c1 / "now"))
+								:Theme (s5 / vegetable.n.01))))))
+			:member (s4 / fresh.a.01
+				:Attribute-of s5))
+		:member (s0 / time.n.08)))

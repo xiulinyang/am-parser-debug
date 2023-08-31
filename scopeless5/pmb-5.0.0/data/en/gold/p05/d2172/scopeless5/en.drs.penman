@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s3 / go.v.01
+		:Time (s0 / time.n.08
+			:MonthOfYear (c0 / "8"))
+		:Theme (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Time (s2 / time.n.08
+			:TSU (c2 / "now"))
+		:Destination (s4 / country.n.02
+			:Name (c3 / "Japan"))
+		:Co-Theme (s6 / person.n.01
+			:Role (s7 / friend.n.01
+				:Of (s5 / person.n.01
+					:EQU (c4 / "speaker"))))))

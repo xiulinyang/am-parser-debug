@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / pick.v.02
+		:Agent (s0 / person.n.01
+			:Sub (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / strawberry.n.01)))

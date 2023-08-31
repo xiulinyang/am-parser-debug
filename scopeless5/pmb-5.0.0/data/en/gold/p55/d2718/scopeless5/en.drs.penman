@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / carve.v.01
+		:Product (s0 / statue.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Material (s3 / stone.n.01)))

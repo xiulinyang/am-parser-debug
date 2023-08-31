@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s4 / nice.a.01
+		:Attribute-of (s0 / view.n.02
+			:Source (s1 / summit.n.02))
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Degree (s3 / very.r.01)))

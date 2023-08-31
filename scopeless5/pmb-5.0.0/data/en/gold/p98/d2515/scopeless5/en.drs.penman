@@ -1,0 +1,14 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:POSSIBILITY (b2 / "box"
+			:EXPLANATION (b3 / "box"
+				:member (s3 / be.v.03
+					:Theme (s2 / person.n.01
+						:EQU (c1 / "speaker"))
+					:Time (s4 / time.n.08
+						:EQU (c2 / "now"))
+					:Location (s5 / city.n.01
+						:Name (c3 / "London"))))
+			:member (s1 / come.v.01
+				:Theme (s0 / person.n.01
+					:EQU (c0 / "speaker"))))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / block.v.10
+		:Patient (s0 / traffic.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Causer (s3 / landslide.n.02)))

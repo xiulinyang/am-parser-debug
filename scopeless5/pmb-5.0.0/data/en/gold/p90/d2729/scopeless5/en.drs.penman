@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s4 / move.v.09
+		:Experiencer (s2 / entity.n.01
+			:EQU (s1 / girl.n.01
+				:Source-of (s9 / burst.v.02
+					:Time (s10 / time.n.08
+						:TPR (c1 / "now"))
+					:Theme (s11 / tear.n.01))
+				:Attribute (s0 / little.a.03)))
+		:Degree (s3 / deeply.r.01)
+		:Stimulus (s8 / story.n.01
+			:Creator (s6 / man.n.01
+				:Attribute (s5 / old.a.01
+					:Value (c0 / "+")))
+			:Attribute (s7 / pitiful.a.03))))

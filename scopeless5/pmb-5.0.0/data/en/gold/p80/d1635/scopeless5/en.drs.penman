@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / have.v.02
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s0 / chromosome.n.01
+			:Quantity (c0 / "?"))
+		:Pivot (s2 / human_being.n.01)
+		:Time (s4 / time.n.08
+			:EQU (c2 / "now"))))

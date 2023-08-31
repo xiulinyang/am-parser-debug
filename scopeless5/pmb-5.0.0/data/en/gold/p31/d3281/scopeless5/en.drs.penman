@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / have.v.02
+		:Pivot (s0 / pasture.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / area.n.06
+			:Value (s5 / acre.n.01
+				:Quantity (s4 / quantity.n.01
+					:EQU (c1 / "10"))))))

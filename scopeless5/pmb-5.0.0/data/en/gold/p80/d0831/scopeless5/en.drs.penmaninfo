@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's2')
+('s2', ':instance', 'go_out.v.04')
+('s2', ':Manner', 's0')
+('s0', ':instance', 'all_of_a_sudden.r.02')
+('s2', ':Patient', 's1')
+('s1', ':instance', 'light.n.02')
+('s2', ':Time', 's3')
+('s3', ':instance', 'time.n.08')
+('s3', ':TPR', 'c0')
+('c0', ':instance', '"now"')
+tokenized sentence:START All of a sudden , the lights went out .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 4, "node_id": "s0"}, {"token_id": 7, "node_id": "s1"}, {"token_id": 8, "node_id": ["s3", "c0", "s2"], "lexical_node": "s2"}]

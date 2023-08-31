@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / shoot.v.01
+			:Agent (s0 / person.n.01
+				:Sub (c0 / "speaker"))
+			:Time (s1 / time.n.08
+				:TSU (c1 / "now"))
+			:Patient (s5 / person.n.01
+				:Source (s4 / country.n.02
+					:Name (c2 / "russia"))
+				:Attribute (s3 / unarmed.a.01)))))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / mow.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Patient (s4 / lawn.n.01
+			:User (s3 / male.n.02
+				:Name (c2 / "Tom")))))

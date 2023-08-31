@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / weigh.v.01
+		:Value (s0 / kilogram.n.01
+			:Quantity (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s2 / person.n.01
+			:EQU (c2 / "hearer"))))

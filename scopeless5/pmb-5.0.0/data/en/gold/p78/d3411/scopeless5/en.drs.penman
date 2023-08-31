@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / drag_on.v.02
+		:Theme (s0 / talk.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Finish (s3 / time.n.08
+			:ClockTime (c1 / "15:00"))))

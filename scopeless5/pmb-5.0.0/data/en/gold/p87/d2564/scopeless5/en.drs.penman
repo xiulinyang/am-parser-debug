@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / run.v.20
+		:Theme (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Path (s3 / ad.n.01)
+		:Goal (s4 / paper.n.03)))

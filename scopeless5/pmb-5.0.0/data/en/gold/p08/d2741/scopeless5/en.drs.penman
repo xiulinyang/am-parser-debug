@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / wear.v.02
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Manner (s1 / usually.r.01)
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s5 / lipstick.n.01
+			:Colour (s4 / bright-red.a.01))))

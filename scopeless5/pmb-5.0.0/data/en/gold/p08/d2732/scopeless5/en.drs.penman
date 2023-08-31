@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / stand.v.03
+		:Theme (s0 / truck.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Location (s3 / middle.n.01
+			:Part-of (s4 / road.n.01))))

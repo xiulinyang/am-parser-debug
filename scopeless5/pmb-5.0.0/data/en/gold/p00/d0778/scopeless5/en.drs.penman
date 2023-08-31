@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s0 / slow.a.03
+		:Attribute-of (s1 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))))

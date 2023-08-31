@@ -1,0 +1,10 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s3 / consume.v.05
+				:Agent (s0 / person.n.01
+					:Sub (c0 / "speaker"))
+				:Patient (s1 / entity.n.01
+					:Part-of (s2 / natural_resource.n.01))
+				:Time (s4 / time.n.08
+					:TPR (c1 / "now"))))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / located.a.01
+		:Theme (s0 / country.n.02
+			:Name (c0 / "Japan"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / northern_hemisphere.n.01)))

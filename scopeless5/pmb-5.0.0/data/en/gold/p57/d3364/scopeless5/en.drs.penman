@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / begin.v.01
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Part-of (s3 / display.v.01
+			:Goal (s0 / male.n.02
+				:Name (c0 / "Dan"))
+			:Theme (s4 / symptom.n.01
+				:Causer (s5 / alzheimer's.n.01)))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / dash.v.01
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Ken"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Path (s3 / slope.n.01)))

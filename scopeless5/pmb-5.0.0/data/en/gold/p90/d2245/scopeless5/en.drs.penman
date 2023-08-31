@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / begin.v.01
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Part-of (s4 / glow.v.03
+			:Theme (s1 / cheek.n.01
+				:Part-of (s0 / female.n.02))
+			:Attribute (s5 / shame.n.01))))

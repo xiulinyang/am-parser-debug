@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / acknowledge.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Topic (s4 / fault.n.01
+			:Creator (s3 / male.n.02))))

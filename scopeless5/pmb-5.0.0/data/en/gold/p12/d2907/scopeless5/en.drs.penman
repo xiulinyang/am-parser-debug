@@ -1,0 +1,9 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / write_down.v.01
+				:Agent (s0 / male.n.02
+					:Name (c0 / "Tom"))
+				:Theme (s1 / entity.n.01)
+				:Time (s3 / time.n.08
+					:TPR (c1 / "now"))))))

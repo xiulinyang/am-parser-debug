@@ -1,0 +1,24 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / be.v.02
+			:Theme (s6 / male.n.02)
+			:Time (s8 / time.n.08
+				:TPR (c4 / "now"))
+			:Co-Theme (s9 / person.n.01
+				:Order (c5 / "1")
+				:Role (s10 / scientist.n.01)
+				:Theme-of (s12 / knight.v.01
+					:Time (s11 / time.n.08
+						:EQU (c6 / "now"))
+					:Context (s14 / work.n.02
+						:Creator (s13 / male.n.02))))))
+	:member (s2 / knight.v.01
+		:Agent (s1 / female.n.02
+			:Name (c0 / "Anne")
+			:Title (s0 / queen.n.02))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s4 / male.n.02
+			:Name (c2 / "Newton"))
+		:Time (s5 / time.n.08
+			:YearOfCentury (c3 / "1705"))))

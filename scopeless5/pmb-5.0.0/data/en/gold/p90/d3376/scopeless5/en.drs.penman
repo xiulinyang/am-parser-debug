@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / come.v.02
+		:Theme (s0 / flying_saucer.n.01
+			:Agent-of (s3 / take_away.v.01
+				:Time (s4 / time.n.08
+					:TPR (c1 / "now"))
+				:Theme (s6 / cow.n.01
+					:Owner (s5 / person.n.01
+						:EQU (c2 / "speaker")))))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s2 / break_out.v.03
+		:Theme (s1 / man.n.01
+			:Quantity (s0 / quantity.n.01
+				:EQU (c0 / "3")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Source (s4 / prison.n.01)
+		:Time (s5 / time.n.08
+			:TIN (s7 / day.n.03
+				:TAB (s6 / day.n.03
+					:TCT (c2 / "now"))))))

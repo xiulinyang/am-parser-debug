@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / crawl.v.03
+		:Location (s0 / cake.n.03)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / ant.n.01)))

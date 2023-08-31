@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / land.v.02
+		:Theme (s1 / ladybug.n.01
+			:Colour (s0 / bright-red.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Destination (s5 / fingertip.n.01
+			:Part-of (s4 / person.n.01
+				:EQU (c1 / "speaker")))))

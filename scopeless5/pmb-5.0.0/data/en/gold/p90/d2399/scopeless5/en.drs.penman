@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s6 / old.a.01
+		:Attribute-of (s4 / person.n.01
+			:EQU (c2 / "speaker"))
+		:TIN (s1 / run_away.v.01
+			:Theme (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Time (s2 / time.n.08
+				:TPR (c1 / "now"))
+			:Source (s3 / home.n.01))
+		:Time (s5 / time.n.08
+			:TPR (c3 / "now"))
+		:Value (s7 / measure.n.02
+			:Quantity (c4 / "13")
+			:Unit (s8 / year.n.01))))

@@ -1,0 +1,17 @@
+('b0', ':instance', '"box"')
+('b0', ':NEGATION', 'b1')
+('b1', ':instance', '"box"')
+('b1', ':NEGATION', 'b2')
+('b2', ':instance', '"box"')
+('b2', ':member', 's3')
+('s3', ':instance', 'long.a.02')
+('s3', ':Theme', 's0')
+('s0', ':instance', 'appendix.n.02')
+('s3', ':Value', 's2')
+('s2', ':instance', 'cm.n.01')
+('s2', ':Quantity', 's1')
+('s1', ':instance', 'quantity.n.01')
+('s1', ':APX', 'c0')
+('c0', ':instance', '"10"')
+tokenized sentence:START The appendix is about 10 cm long .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["b1", "b2"], "lexical_node": "b1"}, {"token_id": 2, "node_id": "s0"}, {"token_id": 4, "node_id": ["c0", "s1"], "lexical_node": "s1"}, {"token_id": 6, "node_id": "s2"}, {"token_id": 7, "node_id": "s3"}]

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / arrive.v.01
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Destination (s3 / city.n.01
+			:Name (c2 / "Boston"))
+		:Time (s4 / time.n.08
+			:ClockTime (c3 / "14:30"))))

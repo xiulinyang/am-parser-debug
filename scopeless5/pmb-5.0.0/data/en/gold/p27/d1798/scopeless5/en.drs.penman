@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / hurt.v.02
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Stimulus (s1 / person.n.01
+			:EQU (c1 / "hearer"))))

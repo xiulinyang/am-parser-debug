@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / pretend.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Proposition (b1 / "box"
+			:member (s3 / male.n.02
+				:EQU (s5 / person.n.01
+					:Role (s6 / lawyer.n.01
+						:Time (s4 / time.n.08
+							:TPR (c1 / "now"))))))))

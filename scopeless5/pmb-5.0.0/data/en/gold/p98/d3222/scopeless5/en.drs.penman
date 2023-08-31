@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / see.v.01
+		:Manner (s0 / all_of_a_sudden.r.02)
+		:Experiencer (s1 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s4 / hare.n.01
+			:Theme-of (s5 / run.v.01
+				:Path (s6 / field.n.01)))))

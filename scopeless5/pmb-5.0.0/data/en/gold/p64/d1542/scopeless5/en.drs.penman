@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / major.v.01
+		:Agent (s0 / female.n.02
+			:Name (c0 / "Susan"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Theme (s4 / history.n.03
+			:Theme (s3 / country.n.02
+				:Name (c2 / "america")))))

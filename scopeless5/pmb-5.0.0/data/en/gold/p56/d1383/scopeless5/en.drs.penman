@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / connect.v.02
+		:Patient (s0 / war.n.01
+			:Name (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Patient (s3 / book.n.01
+			:EQU (s4 / book.n.01
+				:Name (c2 / "Charge of the Light Brigade")))))

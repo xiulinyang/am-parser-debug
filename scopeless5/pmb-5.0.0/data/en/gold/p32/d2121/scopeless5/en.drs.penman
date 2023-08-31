@@ -1,0 +1,10 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / heavy.a.01
+			:Attribute-of (s3 / entity.n.01)
+			:Time (s4 / time.n.08
+				:TPR (c1 / "now"))))
+	:member (s2 / big.a.01
+		:Attribute-of (s0 / bag.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))))

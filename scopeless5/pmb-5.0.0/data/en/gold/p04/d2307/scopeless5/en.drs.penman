@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / get.v.09
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Extent (s3 / score.n.01
+			:Value (c2 / "D"))
+		:Theme (s5 / test.n.02
+			:Creator (s4 / male.n.02))))

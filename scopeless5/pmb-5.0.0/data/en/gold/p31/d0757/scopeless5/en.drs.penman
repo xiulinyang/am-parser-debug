@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s6 / sink.v.04
+		:Patient (s5 / vehicle.n.01
+			:Name (c2 / "Titanic"))
+		:TIN (s3 / die.v.01
+			:Patient (s2 / person.n.01
+				:Quantity (s0 / quantity.n.01
+					:MOR (s1 / quantity.n.01
+						:EQU (c0 / "1500"))))
+			:Time (s4 / time.n.08
+				:TPR (c1 / "now")))
+		:Time (s7 / time.n.08
+			:TPR (c3 / "now"))
+		:Time (s8 / time.n.08
+			:YearOfCentury (c4 / "1912"))))

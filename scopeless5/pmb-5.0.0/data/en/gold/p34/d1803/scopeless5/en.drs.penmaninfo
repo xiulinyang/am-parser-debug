@@ -1,0 +1,11 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's0')
+('s0', ':instance', 'state.a.01')
+('s2', ':Attribute', 's0')
+('s2', ':instance', 'round.n.09')
+('s1', ':NEQ', 's2')
+('s1', ':instance', 'round.n.09')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"?"')
+tokenized sentence:START How about another round ?
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0"], "lexical_node": "s0"}, {"token_id": 3, "node_id": "s1"}, {"token_id": 4, "node_id": "s2"}]

@@ -1,0 +1,14 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s4 / take.v.07
+				:Agent (s2 / person.n.01
+					:Role (s3 / brother.n.01
+						:Of (s1 / person.n.01
+							:EQU (c0 / "speaker"))))
+				:Time (s5 / time.n.08
+					:EQU (c1 / "now"))
+				:Time (s0 / day.n.01)
+				:Theme (s7 / book.n.02
+					:Attribute (s6 / new.a.05))
+				:Source (s8 / library.n.02)))))

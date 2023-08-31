@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / approach.v.01
+		:Theme (s0 / typhoon.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Destination (s3 / country.n.02
+			:Name (c1 / "Japan"))))

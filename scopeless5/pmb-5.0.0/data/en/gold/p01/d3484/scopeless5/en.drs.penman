@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s1 / pocket.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / money.n.01
+			:Theme-of (s5 / give.v.03
+				:Agent (s4 / female.n.02
+					:Name (c2 / "Mary"))
+				:Time (s6 / time.n.08
+					:TPR (c3 / "now"))
+				:Beneficiary (s7 / male.n.02)))))

@@ -1,0 +1,12 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / hurt.v.01
+			:Patient (s4 / head.n.01
+				:Part-of (s3 / person.n.01
+					:EQU (c1 / "speaker")))
+			:Time (s6 / time.n.08
+				:EQU (c2 / "now"))))
+	:member (s1 / stop.v.02
+		:Part-of (s2 / yell.v.01
+			:Agent (s0 / person.n.01
+				:EQU (c0 / "hearer")))))

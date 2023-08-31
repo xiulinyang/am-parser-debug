@@ -1,0 +1,18 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s7 / catch.v.04
+			:Agent (s6 / male.n.02)
+			:Time (s8 / time.n.08
+				:TPR (c3 / "now"))
+			:Theme (s9 / entity.n.01)
+			:Instrument (s11 / mouth.n.01
+				:Part-of (s10 / male.n.02))))
+	:member (s1 / throw.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / ball.n.01)
+		:Destination (s5 / dog.n.01
+			:Owner (s4 / person.n.01
+				:EQU (c2 / "speaker")))))

@@ -1,0 +1,15 @@
+(b0 / "box"
+	:CONSEQUENCE (b1 / "box"
+		:member (s7 / go.v.01
+			:Location (s4 / location.n.01
+				:Name (c2 / "?"))
+			:Time (s5 / time.n.08
+				:TSU (c3 / "now"))
+			:Theme (s6 / person.n.01
+				:EQU (c4 / "hearer"))))
+	:member (s1 / have.v.01
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Stimulus (s3 / time_machine.n.01)))

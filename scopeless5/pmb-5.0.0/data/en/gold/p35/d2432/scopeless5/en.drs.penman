@@ -1,0 +1,11 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s4 / call.v.03
+				:Agent (s3 / person.n.01
+					:EQU (c0 / "hearer"))
+				:Theme (s5 / phone_number.n.01
+					:Name (c1 / "119"))))
+		:member (s0 / event.v.01
+			:Participant (s1 / entity.n.01
+				:EQU (s2 / emergency.n.01)))))

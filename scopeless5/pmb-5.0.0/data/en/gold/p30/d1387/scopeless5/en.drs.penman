@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s4 / burst.v.01
+		:Location (s0 / part.n.05
+			:Name (c0 / "?")
+			:Part-of (s1 / country.n.02
+				:Name (c1 / "Russia")))
+		:Time (s2 / time.n.08
+			:TPR (c2 / "now"))
+		:Patient (s3 / oil_pipeline.n.01)))

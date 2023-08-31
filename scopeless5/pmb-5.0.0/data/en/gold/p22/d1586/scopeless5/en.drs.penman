@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / buy.v.01
+		:Agent (s0 / male.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / entity.n.01
+			:Quantity (c1 / "+")
+			:EQU (s4 / book.n.02))
+		:Source (s5 / bookstore.n.01)))

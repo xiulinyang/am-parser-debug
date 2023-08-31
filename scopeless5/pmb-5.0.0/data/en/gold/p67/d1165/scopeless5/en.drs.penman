@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / know.v.01
+		:Theme (s2 / error.n.03
+			:Part-of (s3 / specification.n.01)))
+	:member (s5 / available.a.01
+		:Attribute-of (s0 / list.n.01
+			:Part s2)
+		:Time (s4 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s6 / url.n.01
+			:Name (c1 / "http://www.w3.org/XML/xml-19980210-errata"))))

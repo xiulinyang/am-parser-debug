@@ -1,0 +1,12 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / ashamed.a.01
+			:Time (s0 / time.n.08
+				:EQU (c0 / "now"))
+			:Experiencer (s1 / person.n.01
+				:EQU (c1 / "speaker"))
+			:Stimulus (s3 / confess.v.02
+				:Agent s1
+				:Topic (s5 / ignorance.n.01
+					:User (s4 / person.n.01
+						:EQU (c2 / "speaker")))))))

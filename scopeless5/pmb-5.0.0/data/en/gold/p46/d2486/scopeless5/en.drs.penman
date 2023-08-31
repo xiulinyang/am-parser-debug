@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / spin.v.05
+		:Agent (s1 / spider.n.01
+			:Attribute (s0 / big.a.01
+				:Value (c0 / "+")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Product (s4 / web.n.02)))

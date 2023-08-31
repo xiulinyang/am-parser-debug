@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / glide.v.01
+		:Theme (s0 / swan.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Destination (s3 / reed.n.01)))

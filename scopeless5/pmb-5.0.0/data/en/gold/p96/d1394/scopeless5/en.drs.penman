@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s4 / write.v.01
+		:Result (s1 / verse.n.02
+			:Name (c0 / "?")
+			:Attribute (s0 / famous.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s3 / female.n.02
+			:Name (c2 / "Sarah Hale"))
+		:Time (s5 / time.n.08
+			:YearOfCentury (c3 / "1830"))))

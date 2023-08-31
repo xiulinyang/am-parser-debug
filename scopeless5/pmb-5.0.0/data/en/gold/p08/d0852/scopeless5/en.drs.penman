@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / consist.v.04
+		:Theme (s1 / class.n.02
+			:Part (s0 / person.n.01
+				:Sub (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:EQU (c1 / "now"))
+		:Attribute (s5 / boy.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "40")))))

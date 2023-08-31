@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s2 / leave.v.01
+		:Theme (s1 / train.n.01
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker"))
+			:Theme-of (s5 / arrive.v.01
+				:Time (s6 / time.n.08
+					:TPR (c3 / "now"))
+				:Time (s7 / time.n.08
+					:ClockTime (c4 / "22:00"))))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s4 / time.n.08
+			:ClockTime (c2 / "18:00"))))

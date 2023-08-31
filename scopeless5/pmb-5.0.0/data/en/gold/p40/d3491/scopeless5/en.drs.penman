@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s1 / absorb.v.01
+		:Goal (s0 / material.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s3 / co2.n.01)))

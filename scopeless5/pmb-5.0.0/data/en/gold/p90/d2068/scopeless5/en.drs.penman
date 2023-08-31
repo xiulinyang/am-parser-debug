@@ -1,0 +1,17 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s9 / play.v.05
+			:Agent (s7 / dog.n.01
+				:NEQ-of (s6 / dog.n.01))
+			:Time (s8 / time.n.08
+				:EQU (c3 / "now"))
+			:Location (s10 / garden.n.03)))
+	:member (s3 / be.v.03
+		:Theme (s1 / entity.n.01
+			:Sub (s0 / animal.n.01
+				:Name (c0 / "Pochi"))
+			:Sub (s2 / animal.n.01
+				:Name (c1 / "Moko")))
+		:Time (s4 / time.n.08
+			:EQU (c2 / "now"))
+		:Location (s5 / kennel.n.01)))

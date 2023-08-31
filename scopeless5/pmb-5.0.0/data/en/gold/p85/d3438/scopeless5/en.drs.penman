@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s3 / break.v.05
+		:Patient (s1 / piggy_bank.n.01
+			:User (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s6 / person.n.01
+			:Role (s7 / sister.n.01
+				:Of (s4 / person.n.01
+					:EQU (c2 / "speaker")))
+			:Attribute (s5 / naughty.a.02))))

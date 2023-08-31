@@ -1,0 +1,19 @@
+(b0 / "box"
+	:member (s4 / pick_up.v.04
+		:Time (s0 / time.n.08
+			:TIN (s2 / day.n.03
+				:EQU (s1 / day.n.03
+					:TCT (c0 / "now"))))
+		:Agent (s3 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Time (s5 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s10 / person.n.01
+			:Role (s11 / nephew.n.01
+				:User (s6 / person.n.01
+					:EQU (c3 / "speaker")))
+			:Attribute (s9 / old.a.01
+				:Value (s8 / year.n.01
+					:Quantity (s7 / quantity.n.01
+						:EQU (c4 / "4")))))
+		:Source (s12 / kindergarten.n.01)))

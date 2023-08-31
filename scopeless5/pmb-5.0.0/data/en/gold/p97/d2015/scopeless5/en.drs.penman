@@ -1,0 +1,15 @@
+(b0 / "box"
+	:member (s6 / kiss.v.01
+		:Agent (s4 / person.n.01
+			:Role (s5 / niece.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker")))
+			:Attribute (s3 / old.a.01
+				:Value (s2 / year.n.01
+					:Quantity (s1 / quantity.n.01
+						:EQU (c1 / "3")))))
+		:Time (s7 / time.n.08
+			:TPR (c2 / "now"))
+		:Experiencer (s8 / person.n.01
+			:EQU (c3 / "speaker"))
+		:Destination (s9 / cheek.n.01)))

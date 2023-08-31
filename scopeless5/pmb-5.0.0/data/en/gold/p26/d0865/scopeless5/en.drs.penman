@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / pronounce.v.01
+		:Manner (s0 / manner.n.01
+			:EQU (c0 / "?"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Agent (s2 / person.n.01)
+		:Theme (s5 / first_name.n.01
+			:Bearer (s4 / person.n.01
+				:EQU (c2 / "hearer")))))

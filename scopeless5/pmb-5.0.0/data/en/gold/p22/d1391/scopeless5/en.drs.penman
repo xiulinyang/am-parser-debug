@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / live.v.01
+		:Theme (s0 / person.n.01
+			:Quantity (c0 / "?")
+			:Source (s1 / state.n.01
+				:Name (c1 / "puerto rico")))
+		:Time (s3 / time.n.08
+			:EQU (c2 / "now"))
+		:Location (s4 / county.n.02
+			:Name (c3 / "Los Angeles County"))))

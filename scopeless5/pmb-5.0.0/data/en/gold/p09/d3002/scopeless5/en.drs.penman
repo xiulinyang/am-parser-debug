@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / welcome.v.01
+		:Agent (s0 / person.n.01
+			:Quantity (c0 / "+")
+			:Source (s1 / country.n.02
+				:Name (c1 / "america")))
+		:Time (s3 / time.n.08
+			:TPR (c2 / "now"))
+		:Theme (s4 / plan.n.01)))

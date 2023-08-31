@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / ram.v.03
+		:Theme (s1 / ship.n.01
+			:Attribute (s0 / big.a.01
+				:Value (c0 / "+")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s4 / fishing_boat.n.01)))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / make.v.06
+		:Agent (s0 / organisation.n.02
+			:Name (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Product (s3 / viagra.n.01)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / expire.v.01
+		:Patient (s1 / yogurt.n.01
+			:Consumer (s0 / person.n.01
+				:EQU (c0 / "speaker")))
+		:Time (s3 / time.n.08
+			:TSU (c1 / "now"))
+		:Time (s4 / time.n.08
+			:YearOfCentury (c2 / "2014"))))

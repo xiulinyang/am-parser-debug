@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / call.v.01
+		:Agent (s1 / child.n.01
+			:NEQ-of (s0 / child.n.01))
+		:Time (s3 / time.n.08
+			:EQU (c0 / "now"))
+		:Theme (s4 / female.n.02)
+		:Result (s5 / name.n.01
+			:EQU (c1 / "Piggy"))))

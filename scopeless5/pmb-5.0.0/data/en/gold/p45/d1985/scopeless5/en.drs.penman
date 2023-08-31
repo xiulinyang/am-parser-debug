@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s3 / trap.v.04
+		:Patient (s0 / person.n.01
+			:Quantity (c0 / "+")
+			:Role (s1 / worker.n.01))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Location (s4 / coal_mine.n.01)))

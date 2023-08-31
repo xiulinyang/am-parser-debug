@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / emit.v.01
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Source (s2 / volcano.n.01)
+		:EQU (s0 / entity.n.01)
+		:Theme (s5 / entity.n.01
+			:Sub (s4 / mass.n.02)
+			:Sub (s6 / smoke.n.01))
+		:Location (s7 / country.n.02
+			:Name (c1 / "Iceland"))))

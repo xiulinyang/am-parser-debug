@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / adjourn.v.01
+		:Theme (s0 / negotiation.n.01)
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Finish (s4 / time.n.08
+			:MonthOfYear (c2 / "6")
+			:EQU-of (s3 / time.n.08
+				:DayOfMonth (c1 / "18")))))

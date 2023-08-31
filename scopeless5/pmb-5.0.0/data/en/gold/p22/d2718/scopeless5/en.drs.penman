@@ -1,0 +1,6 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:member (s2 / out.v.03
+			:Theme (s0 / result.n.03)
+			:Time (s1 / time.n.08
+				:EQU (c0 / "now")))))

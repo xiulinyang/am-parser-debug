@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / earn.v.01
+		:Theme (s0 / company.n.01
+			:Name (c0 / "Tom Online"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Asset (s3 / united_states_dollar.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "42780000")))
+		:Duration (s6 / month.n.01
+			:Quantity (s5 / quantity.n.01
+				:EQU (c3 / "3")))))

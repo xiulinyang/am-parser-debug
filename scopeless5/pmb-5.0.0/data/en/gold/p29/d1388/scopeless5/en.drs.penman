@@ -1,0 +1,14 @@
+(b0 / "box"
+	:member (s2 / pay.v.01
+		:Asset (s0 / measure.n.02
+			:Quantity (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / artifact.n.01
+			:Name (c2 / "La Femme qui Pleure I")
+			:EQU (s4 / engraving.n.01
+				:Creator (s7 / male.n.02
+					:Name (c4 / "Pablo Picasso")
+					:Source (s5 / country.n.02
+						:Name (c3 / "spain"))
+					:Role (s6 / painter.n.01))))))

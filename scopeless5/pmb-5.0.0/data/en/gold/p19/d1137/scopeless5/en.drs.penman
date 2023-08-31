@@ -1,0 +1,11 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:member (s2 / grab.v.03
+				:Agent (s0 / person.n.01)
+				:Source (s1 / basket.n.01)
+				:Time (s3 / time.n.08
+					:TPR (c0 / "now"))
+				:Theme (s6 / spoon.n.01
+					:Attribute (s4 / greasy.a.02)
+					:Attribute (s5 / wooden.a.01))))))

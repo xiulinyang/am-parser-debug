@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / fasten.v.01
+		:Agent (s0 / person.n.01
+			:EQU (c0 / "hearer"))
+		:Patient (s3 / seat_belt.n.01
+			:User (s2 / person.n.01
+				:EQU (c1 / "hearer")))
+		:Manner (s4 / please.r.01)))

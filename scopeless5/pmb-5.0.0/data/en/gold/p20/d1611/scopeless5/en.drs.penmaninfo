@@ -1,0 +1,11 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's1')
+('s1', ':instance', 'loosen.v.01')
+('s1', ':Agent', 's0')
+('s0', ':instance', 'person.n.01')
+('s0', ':EQU', 'c0')
+('c0', ':instance', '"hearer"')
+('s1', ':Patient', 's2')
+('s2', ':instance', 'entity.n.01')
+tokenized sentence:START Loosen it .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": ["c0", "s0", "s1"], "lexical_node": "s0"}, {"token_id": 2, "node_id": "s2"}]

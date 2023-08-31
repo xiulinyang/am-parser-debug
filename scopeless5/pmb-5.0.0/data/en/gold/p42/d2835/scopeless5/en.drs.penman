@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / like.v.02
+		:Experiencer (s0 / person.n.01
+			:EQU (c0 / "speaker")
+			:NEQ (s1 / person.n.01))
+		:Stimulus (s3 / candy.n.01)))

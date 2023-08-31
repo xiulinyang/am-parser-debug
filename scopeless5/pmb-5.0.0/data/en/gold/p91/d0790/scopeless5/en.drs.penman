@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / capture.v.06
+		:Agent (s1 / man.n.01
+			:Attribute (s0 / old.a.01
+				:Value (c0 / "+")))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s5 / fish.n.01
+			:Attribute (s4 / big.a.01
+				:Value (c2 / "+")))))

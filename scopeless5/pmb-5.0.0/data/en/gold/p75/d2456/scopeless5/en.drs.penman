@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s1 / rescue.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Tom"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s3 / cat.n.01)
+		:Source (s4 / flame.n.01)))

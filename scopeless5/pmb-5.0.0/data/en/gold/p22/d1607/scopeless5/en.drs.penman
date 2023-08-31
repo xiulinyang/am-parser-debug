@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONDITION (b1 / "box"
+		:CONSEQUENCE (b2 / "box"
+			:member (s5 / like.v.02
+				:Experiencer (s0 / male.n.02)
+				:Stimulus (s2 / entity.n.01
+					:EQU-of (s1 / entity.n.01))
+				:Time (s6 / time.n.08
+					:EQU (c1 / "now"))))
+		:member (s4 / sweet.a.01
+			:Attribute-of s2
+			:Time (s3 / time.n.08
+				:EQU (c0 / "now")))))

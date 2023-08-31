@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / wound.v.01
+		:Patient (s0 / person.n.01
+			:EQU (c0 / "speaker"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Instrument (s3 / knife.n.02)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s4 / book.n.01
+			:Creator (s3 / female.n.02
+				:Name (c1 / "Rodica"))
+			:Order (c2 / "5"))))

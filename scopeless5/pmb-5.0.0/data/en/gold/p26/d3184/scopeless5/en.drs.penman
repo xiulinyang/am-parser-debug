@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s3 / dig_out.v.02
+		:Theme (s1 / pot.n.01
+			:Attribute (s0 / antique.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))

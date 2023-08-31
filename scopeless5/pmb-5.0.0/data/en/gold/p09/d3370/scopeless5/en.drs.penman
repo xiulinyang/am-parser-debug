@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / attract.v.01
+		:Theme (s1 / game.n.01
+			:EQU (s0 / soccer.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Co-Theme (s5 / crowd.n.01
+			:Attribute (s4 / large.a.01
+				:Value (c1 / "+")))))

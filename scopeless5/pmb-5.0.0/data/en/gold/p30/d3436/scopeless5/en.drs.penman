@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / die.v.01
+		:Patient (s1 / person.n.01
+			:Role (s2 / father.n.01
+				:Of (s0 / person.n.01
+					:EQU (c0 / "speaker"))))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Time (s7 / time.n.08
+			:TAB (s6 / year.n.01
+				:Quantity (s5 / quantity.n.01
+					:EQU (c2 / "5"))
+				:TAB (c3 / "now")))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / last.v.01
+		:Theme (s0 / war.n.01
+			:Name (c0 / "WW1"))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Start (s3 / time.n.08
+			:YearOfCentury (c2 / "1914"))
+		:Finish (s4 / time.n.08
+			:YearOfCentury (c3 / "1918"))))

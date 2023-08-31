@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / call.v.01
+		:Theme (s1 / person.n.01
+			:Role (s2 / wife.n.01
+				:Of (s0 / male.n.02
+					:Name (c0 / "Aldrich Hazen Ames"))))
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s5 / name.n.01
+			:EQU (c2 / "Maria"))))

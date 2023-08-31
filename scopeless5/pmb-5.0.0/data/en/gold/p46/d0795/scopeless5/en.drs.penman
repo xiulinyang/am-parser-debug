@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / introduce.v.05
+		:Time (s0 / time.n.01
+			:YearOfCentury (c0 / "?"))
+		:Time (s1 / time.n.08
+			:TPR (c1 / "now"))
+		:Theme (s2 / potato.n.01)
+		:Destination (s4 / country.n.02
+			:Name (c2 / "Japan"))))

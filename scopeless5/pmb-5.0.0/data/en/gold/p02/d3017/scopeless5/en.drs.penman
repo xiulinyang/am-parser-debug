@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / live.v.01
+		:Theme (s1 / person.n.01
+			:Role (s2 / conductor.n.01)
+			:Attribute (s0 / famous.a.01))
+		:Time (s4 / time.n.08
+			:EQU (c0 / "now"))
+		:Location (s5 / city.n.01
+			:Name (c1 / "New York"))))

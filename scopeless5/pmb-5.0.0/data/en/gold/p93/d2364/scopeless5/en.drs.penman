@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s3 / last.v.01
+		:Theme (s1 / trip.n.01
+			:Theme (s0 / person.n.01)
+			:Time (s2 / time.n.08
+				:YearOfCentury (c0 / "1903")))
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (s6 / day.n.01
+			:Quantity (s5 / quantity.n.01
+				:EQU (c2 / "63")))))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / dog.n.01
+		:Attribute (s0 / state.a.01
+			:Time (s1 / time.n.08
+				:EQU (c1 / "now"))
+			:EQU (c0 / "?"))))

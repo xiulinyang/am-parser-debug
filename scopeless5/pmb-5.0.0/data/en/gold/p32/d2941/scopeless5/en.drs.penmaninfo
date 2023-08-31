@@ -1,0 +1,13 @@
+('b0', ':instance', '"box"')
+('b0', ':member', 's3')
+('s3', ':instance', 'in_love.a.01')
+('s3', ':Experiencer', 's0')
+('s0', ':instance', 'person.n.01')
+('s3', ':Time', 's1')
+('s1', ':instance', 'time.n.08')
+('s1', ':EQU', 'c0')
+('c0', ':instance', '"now"')
+('s3', ':Degree', 's2')
+('s2', ':instance', 'deeply.r.01')
+tokenized sentence:START They are deeply in love .
+alignment:[{"token_id": 0, "node_id": "b0"}, {"token_id": 1, "node_id": "s0"}, {"token_id": 2, "node_id": ["c0", "s1"], "lexical_node": "s1"}, {"token_id": 3, "node_id": "s2"}, {"token_id": 5, "node_id": "s3"}]

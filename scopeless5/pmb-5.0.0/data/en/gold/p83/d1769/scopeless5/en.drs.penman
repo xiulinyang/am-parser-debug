@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / forget.v.04
+		:Agent (s0 / person.n.01
+			:Role (s1 / surgeon.n.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s4 / entity.n.01)
+		:Source (s5 / person.n.01
+			:Role (s6 / patient.n.01))))

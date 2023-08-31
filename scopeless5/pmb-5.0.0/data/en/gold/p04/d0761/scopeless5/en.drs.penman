@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s1 / spend.v.02
+		:Agent (s0 / company.n.01
+			:Name (c0 / "Procter and Gamble"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Asset (s3 / dollar.n.01
+			:Quantity (s4 / quantity.n.01
+				:EQU (c2 / "1800000000")))
+		:Theme (s5 / research_and_development.n.01)))

@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / addicted.a.01
+		:Experiencer (s0 / person.n.01
+			:Quantity (c0 / "?")
+			:Location (s1 / country.n.02
+				:Name (c1 / "Netherlands")))
+		:Time (s2 / time.n.08
+			:EQU (c2 / "now"))
+		:Stimulus (s4 / hard_drug.n.01)))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s4 / bear.v.02
+		:Location (s0 / city.n.01
+			:Name (c0 / "?")
+			:Part-of (s1 / state.n.01
+				:Name (c1 / "Louisiana")))
+		:Time (s2 / time.n.08
+			:TPR (c2 / "now"))
+		:Patient (s3 / female.n.02
+			:Name (c3 / "Britney Spears"))))

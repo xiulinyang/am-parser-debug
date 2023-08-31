@@ -1,0 +1,11 @@
+(b0 / "box"
+	:member (s1 / be.v.02
+		:Theme (s0 / entity.n.01
+			:Name (c0 / "?"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Co-Theme (s5 / mountain.n.01
+			:Attribute (s3 / high.a.01
+				:Degree (s4 / most.r.01))
+			:Location (s6 / country.n.02
+				:Name (c2 / "Germany")))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s3 / remove.v.01
+		:Theme (s1 / person.n.01
+			:Attribute (s0 / injured.a.01))
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Source (s4 / scene.n.01)))

@@ -1,0 +1,6 @@
+(b0 / "box"
+	:member (s2 / hear.v.01
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Experiencer (s1 / person.n.01)
+		:Stimulus (s3 / entity.n.01)))

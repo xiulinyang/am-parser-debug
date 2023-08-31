@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s2 / order.v.02
+		:Time (s0 / time.n.08
+			:TSU (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Theme (s4 / shish_kebab.n.01
+			:Quantity (s3 / quantity.n.01
+				:EQU (c2 / "20")))))

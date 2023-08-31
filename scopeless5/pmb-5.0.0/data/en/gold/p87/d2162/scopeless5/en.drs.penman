@@ -1,0 +1,13 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s5 / wear.v.02
+			:Agent (s4 / female.n.02)
+			:Time (s6 / time.n.08
+				:EQU (c2 / "now"))
+			:Theme (s7 / sunglasses.n.01)))
+	:member (s2 / sensitive.a.01
+		:Experiencer (s0 / female.n.02
+			:Name (c0 / "Mary"))
+		:Time (s1 / time.n.08
+			:EQU (c1 / "now"))
+		:Stimulus (s3 / light.n.01)))

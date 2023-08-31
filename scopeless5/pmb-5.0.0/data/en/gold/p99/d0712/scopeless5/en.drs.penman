@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / hit.v.05
+		:Agent (s0 / tsunami.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / coast.n.01
+			:Part-of (s5 / island.n.01
+				:Name (c1 / "Hokkaido"))
+			:Attribute (s3 / northeastern.a.01))))

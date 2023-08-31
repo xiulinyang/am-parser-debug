@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / slope.v.01
+		:Theme (s0 / land.n.04)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Manner (s3 / gently.r.01)
+		:Destination (s4 / river.n.01)))

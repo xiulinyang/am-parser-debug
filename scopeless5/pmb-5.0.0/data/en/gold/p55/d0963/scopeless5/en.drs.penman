@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / meet.v.02
+		:Theme (s0 / male.n.02
+			:Name (c0 / "Bush"))
+		:Time (s1 / time.n.08
+			:TSU (c1 / "now"))
+		:Co-Theme (s3 / male.n.02
+			:Name (c2 / "al-Maliki"))
+		:Location (s4 / city.n.01
+			:Name (c3 / "Hadley"))))

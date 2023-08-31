@@ -1,0 +1,12 @@
+(b0 / "box"
+	:member (s1 / fly.v.01
+		:Theme (s0 / airplane.n.01)
+		:Time (s2 / time.n.08
+			:EQU (c0 / "now"))
+		:Attribute (s3 / speed.n.01
+			:Value (s6 / division.n.11
+				:Theme (s5 / kilometer.n.01
+					:Quantity (s4 / quantity.n.01
+						:EQU (c1 / "500")))
+				:Co-Theme (s7 / hour.n.01
+					:Quantity (c2 / "1"))))))

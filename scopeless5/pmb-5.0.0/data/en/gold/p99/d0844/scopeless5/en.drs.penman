@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s5 / young.a.01
+		:Time (s4 / time.n.08
+			:TPR (c1 / "now"))
+		:Value (c2 / "+")
+		:TIN (s1 / marry.v.01
+			:Agent (s0 / person.n.01)
+			:Time (s2 / time.n.08
+				:TPR (c0 / "now")))
+		:Attribute-of (s3 / person.n.01)))

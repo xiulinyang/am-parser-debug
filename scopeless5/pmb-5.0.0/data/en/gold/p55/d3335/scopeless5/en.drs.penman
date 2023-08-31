@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s1 / fart.v.01
+		:Agent (s0 / male.n.02
+			:Name (c0 / "Little Johnny"))
+		:Time (s2 / time.n.08
+			:EQU (c1 / "now"))
+		:Location (s3 / classroom.n.01)))

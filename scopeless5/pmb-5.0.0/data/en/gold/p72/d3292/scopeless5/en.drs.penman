@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / block.v.01
+		:Causer (s1 / tree.n.01
+			:Attribute (s0 / fallen.a.01))
+		:Time (s3 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s4 / way.n.07)))

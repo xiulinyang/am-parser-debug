@@ -1,0 +1,13 @@
+(b0 / "box"
+	:NEGATION (b1 / "box"
+		:NEGATION (b2 / "box"
+			:NEGATION (b3 / "box"
+				:member (s3 / interested.a.01
+					:Experiencer (s0 / female.n.02
+						:Name (c0 / "Wendy"))
+					:Time (s2 / time.n.08
+						:TPR (c1 / "now"))
+					:Stimulus (s5 / festival.n.02
+						:Source (s4 / country.n.02
+							:Name (c2 / "japan")))))
+			:member (s1 / time.n.08))))

@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s3 / chase.v.02
+		:Theme (s1 / girl.n.01
+			:Attribute (s0 / young.a.01
+				:Value (c0 / "+")))
+		:Time (s2 / time.n.08
+			:TPR (c1 / "now"))
+		:Agent (s5 / man.n.01
+			:Attribute (s4 / old.a.01
+				:Value (c2 / "+")))))

@@ -1,0 +1,40 @@
+(b0 / "box"
+	:CONTINUATION (b1 / "box"
+		:member (s13 / take_place.v.01
+			:Theme (s11 / tournament.n.01
+				:Name (c9 / "Paralympics"))
+			:Time (s12 / time.n.08
+				:TSU (c10 / "now"))
+			:Location (s15 / city.n.01
+				:Name (c11 / "Salt Lake City"))
+			:EQU (s14 / entity.n.01)
+			:Start (s17 / time.n.08
+				:DayOfMonth (c13 / "7")
+				:EQU-of (s16 / time.n.08
+					:MonthOfYear (c12 / "3")))
+			:Finish (s19 / time.n.08
+				:DayOfMonth (c15 / "16")
+				:EQU (s20 / time.n.08
+					:YearOfCentury (c16 / "2002"))
+				:EQU-of (s18 / time.n.08
+					:MonthOfYear (c14 / "3")))))
+	:member (s4 / take_place.v.01
+		:Theme (s2 / tournament.n.01
+			:Name (c2 / "Winter Olympics")
+			:Location (s0 / city.n.03
+				:Name (c0 / "Salt Lake City"))
+			:Time (s1 / time.n.08
+				:YearOfCentury (c1 / "2002")))
+		:Time (s3 / time.n.08
+			:TSU (c3 / "now"))
+		:EQU (s5 / entity.n.01)
+		:Start (s6 / time.n.08
+			:MonthOfYear (c4 / "2")
+			:EQU-of (s7 / time.n.08
+				:DayOfMonth (c5 / "8")))
+		:Finish (s9 / time.n.08
+			:DayOfMonth (c7 / "24")
+			:EQU (s10 / time.n.08
+				:YearOfCentury (c8 / "2002"))
+			:EQU-of (s8 / time.n.08
+				:MonthOfYear (c6 / "2")))))

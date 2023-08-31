@@ -1,0 +1,8 @@
+(b0 / "box"
+	:member (s2 / haunt.v.03
+		:Theme (s0 / coffee_shop.n.01)
+		:Time (s1 / time.n.08
+			:EQU (c0 / "now"))
+		:Agent (s4 / person.n.01
+			:Role (s5 / artist.n.01
+				:Attribute (s3 / aspiring.a.01)))))

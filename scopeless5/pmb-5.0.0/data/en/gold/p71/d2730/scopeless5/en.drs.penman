@@ -1,0 +1,10 @@
+(b0 / "box"
+	:member (s2 / declare.v.04
+		:Time (s1 / time.n.08
+			:TPR (c0 / "now"))
+		:Patient (s0 / will.n.03)
+		:Time (s3 / time.n.08
+			:TPR (c1 / "now"))
+		:Result (s4 / void.a.01
+			:Attribute-of s0)
+		:Agent (s5 / court.n.01)))

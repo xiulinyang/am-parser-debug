@@ -1,0 +1,13 @@
+(b0 / "box"
+	:member (s3 / play.v.01
+		:Theme (s1 / semi-final.n.01
+			:Part-of (s0 / tournament.n.01
+				:Name (c0 / "UEFA Cup")))
+		:Agent (s2 / team.n.01
+			:Name (c1 / "FC Bayern Munich"))
+		:Time (s4 / time.n.08
+			:TPR (c2 / "now"))
+		:Co-Agent (s5 / team.n.01
+			:Name (c3 / "FC Barcelona"))
+		:Extent (s6 / score.n.03
+			:Value (c4 / "2-2"))))

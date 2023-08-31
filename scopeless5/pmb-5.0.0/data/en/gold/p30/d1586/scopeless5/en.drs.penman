@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s3 / draw.v.06
+		:Time (s0 / time.n.08
+			:TPR (c0 / "now"))
+		:Agent (s1 / person.n.01
+			:EQU (c1 / "speaker"))
+		:Duration (s2 / hour.n.01
+			:Quantity (c2 / "+"))
+		:Result (s4 / entity.n.01)))

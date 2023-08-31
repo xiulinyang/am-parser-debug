@@ -1,0 +1,9 @@
+(b0 / "box"
+	:member (s1 / try.v.01
+		:Agent (s0 / female.n.02)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))
+		:Theme (s3 / squeeze.v.01
+			:Agent s0
+			:Product (s4 / juice.n.01)
+			:Material (s5 / orange.n.01))))

@@ -1,0 +1,7 @@
+(b0 / "box"
+	:member (s2 / meet.v.02
+		:Agent (s0 / diet.n.02)
+		:Time (s1 / time.n.08
+			:TSU (c0 / "now"))
+		:Time (s3 / time.n.08
+			:DayOfWeek (c1 / "tuesday"))))

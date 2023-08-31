@@ -1,0 +1,5 @@
+(b0 / "box"
+	:member (s1 / howl.v.03
+		:Theme (s0 / wind.n.01)
+		:Time (s2 / time.n.08
+			:TPR (c0 / "now"))))
